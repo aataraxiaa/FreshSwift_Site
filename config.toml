@@ -1,3 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Fresh Swift"
+
+# Colors
+# lightOrange = #ff9238
+# darkOrange = #ff5627
+
+[social]
+  twitter = "fresh_swift"
