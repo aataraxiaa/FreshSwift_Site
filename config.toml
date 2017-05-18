@@ -1,0 +1,4 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "Fresh Swift"
+languageCode = "en-us"
+paginate = 100
