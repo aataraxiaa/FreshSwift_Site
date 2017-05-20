@@ -1,3 +1,6 @@
+# Build configuration
+publishDir = "docs"
+
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
@@ -6,7 +9,8 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-#disqusShortname = "XXX"
+
+# Analytics
 #googleAnalytics = "XXX"
 
 [Params]
