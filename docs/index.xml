@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fresh Swift</title>
-    <link>https://username.github.io/</link>
+    <link>https://superpeteblaze.github.io/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://superpeteblaze.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>my new blah</title>
-      <link>https://username.github.io/post/testpete/</link>
+      <link>https://superpeteblaze.github.io/post/testpete/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/testpete/</guid>
+      <guid>https://superpeteblaze.github.io/post/testpete/</guid>
       <description></description>
     </item>
     
