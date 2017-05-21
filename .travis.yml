@@ -9,11 +9,10 @@ before_install:
 
 # Clean and don't fail
 install:
-  - rm -rf public || exit 0
+  - rm -rf docs || exit 0
 
 # Build the website
 script:
-  - pwd
   - binaries/hugo --theme=beautifulhugo
 
 # Deploy to GitHub pages
