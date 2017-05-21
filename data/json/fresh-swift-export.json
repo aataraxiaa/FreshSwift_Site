@@ -1,0 +1,340 @@
+{
+  "info" : {
+    "curatorName" : "Pete Smith",
+    "curatorTwitter" : "superpeteblaze"
+  },
+  "links" : {
+    "-Kj7s0MpQ-pgWOPJ1ONv" : {
+      "date" : "2017-17-04 08:07:13",
+      "description" : "What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift's Reflection API when working with enums cases which have associated values of varying types",
+      "tags" : "reflection, enums",
+      "title" : "Reflectable Enums",
+      "url" : "https://ijoshsmith.com/2017/04/08/reflectable-enums-in-swift-3/"
+    },
+    "-Kj8QgV-moLVtRUmPd3r" : {
+      "date" : "2017-17-04 08:19:18",
+      "description" : "Krzysztof Zablocki with a nice approach to dependency injection based on protocol composition. Avoid constantly refactoring code callsites while keeping your code testable",
+      "tags" : "protocol, dependency injection",
+      "title" : "Dependency injection via protocol composition",
+      "url" : "http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection"
+    },
+    "-Kj8o-XxoDGTfhJ9O78I" : {
+      "date" : "2017-18-04 11:02:11",
+      "description" : "Marco Santarossa presents some easy to understand Swift code examples based around using SOLID principles to to avoid code fragility, immobility and rigidity",
+      "tags" : "clean code",
+      "title" : "SOLID principles applied to Swift",
+      "url" : "https://marcosantadev.com/solid-principles-applied-swift"
+    },
+    "-Kj8oCn5j9LT_LjPfFM4" : {
+      "date" : "2017-19-04 11:02:27",
+      "description" : "Lasha Efremidze created a useful Swift library which wraps the iOS haptic feedback generator APIs. I really like how simple yet clean the API is",
+      "tags" : "iOS, library",
+      "title" : "Haptica - Haptic Feedback Generator",
+      "url" : "https://github.com/efremidze/Haptica"
+    },
+    "-Kj8oQbRrlXgl1nCw_HA" : {
+      "date" : "2017-19-04 13:57:59",
+      "description" : "Swift ABI stability. What is it? Why does the community seem to want it so much. Good succinct podcast in which Sam Soffes and Caleb Davenport discuss the reasons why Swift ABI stability is probably not what the community needs right now",
+      "tags" : "podcast",
+      "title" : "Runtime podcast - Swift ABI Stability",
+      "url" : "https://itunes.apple.com/ie/podcast/runtime/id1122203945?mt=2&i=1000384342864"
+    },
+    "-Kj8oaXsnJePzXCIT94X" : {
+      "date" : "2017-21-04 15:24:16",
+      "description" : "Yusei Nishiyama presented these slides at the recent Code Mobile UK conference. He provides useful tips on improving Swift's build times based on measurement, improvement, and avoiding building entirely. Included is an awesome tip on using Playgrounds to prototype as you develop",
+      "tags" : "Xcode, compiler, build",
+      "title" : "Reduce Swift build times and get home faster 😃",
+      "url" : "https://speakerdeck.com/yuseinishiyama/reduce-build-times-and-get-home-eariler"
+    },
+    "-Kj8opMi09kbkQJ6x6qg" : {
+      "date" : "2017-23-04 09:54:45",
+      "description" : "I'm very happy to see this Swift evolution proposal accepted. The private access modifier in Swift 4 will have a slightly wider scope, and become more usable. With this, extensions to a type declared within the same file will have access to private members. It's a change which further supports the idea that type extensions should be used as  a code-organization tool",
+      "tags" : "evolution",
+      "title" : "SE-1069: Improve interactions between private declarations and extensions",
+      "url" : "https://github.com/apple/swift-evolution/blob/master/proposals/0169-improve-interaction-between-private-declarations-and-extensions.md"
+    },
+    "-Kj8ozVNxo7xkoLB2DXt" : {
+      "date" : "2017-23-04 11:40:16",
+      "description" : "Short article from Krzysztof Zablocki detailing a nice way to avoid the common weak-strong boilerplate code that accompanies using object references in closures. Included is a 1-file µframework (microframework) which accomplishes this",
+      "tags" : "library",
+      "title" : "Stopping the Swift weak-strong closure dance",
+      "url" : "http://merowing.info/2017/04/stop-weak-strong-dance"
+    },
+    "-Kj8p7Y_sqVBU2JJLYO2" : {
+      "date" : "2017-23-04 18:07:51",
+      "description" : "Mislav Javor with an explanation of the Algebraic product and sum types in terms of Swift struct and enum types. He demonstrates that enums being sum types makes them particularly interesting. Simple examples mean no PhD in mathematics is required!",
+      "tags" : "enums",
+      "title" : "Swift enums are sum types, and that makes them very interesting",
+      "url" : "https://mislavjavor.github.io/2017-04-19/Swift-enums-are-sum-types.-That-makes-them-very-interesting"
+    },
+    "-Kj8pGrA-lzMq3p894mJ" : {
+      "date" : "2017-24-04 15:59:16",
+      "description" : "Thiago Holanda has released Evolution, a useful mobile app to follow Swift Evolution on your iOS device. It contains all the features you need to keep up to date like filtering of proposals, and information on the authors and reviewers",
+      "tags" : "evolution, app",
+      "title" : "Swift Evolution iOS app",
+      "url" : "https://itunes.apple.com/ie/app/evolution-app/id1210898168?mt=8"
+    },
+    "-Kj8pSH0nMgV7rGUSscK" : {
+      "date" : "2017-25-04 10:44:19",
+      "description" : "Jordan Morgan with an nice explanation of the compiler optimization that is tail call elimination. I was not too familiar with this particular optimization so it was great to see it explained in Swift",
+      "tags" : "iOS, compiler",
+      "title" : "Tail Call Elimination in iOS",
+      "url" : "https://medium.com/the-traveled-ios-developers-guide/tail-call-elimination-in-ios-7a5f491e4273"
+    },
+    "-Kj8pdeTI40lonWdJpqZ" : {
+      "date" : "2017-26-04 12:14:50",
+      "description" : "This is an awesome, community-driven project released as part of an effort to maintain source compatibility in future Swift releases. Open-source project owners can submit projects which will then be built by Swift's continuous integration system. The goal is to monitor Swift compiler-related pull request builds, and catch any source compatibility regressions",
+      "tags" : "compiler",
+      "title" : "Swift Source Compatibility Test Suite",
+      "url" : "https://swift.org/blog/swift-source-compatibility-test-suite"
+    },
+    "-Kj8pnVyZ5ujprPHkUU1" : {
+      "date" : "2017-26-04 12:21:39",
+      "description" : "Cool playground from Marcio Klepacz which aims to  demonstrate the basics steps required to create a web server in Swift. It's basically a micro web server which replies \"Hello world!\" to every request",
+      "tags" : "playground, server side",
+      "title" : "Katan - Swift playground with a micro web server",
+      "url" : "https://github.com/marciok/katan"
+    },
+    "-Kj8pxG0MF2YyllCH9qE" : {
+      "date" : "2017-27-04 07:56:41",
+      "description" : "Useful String cheat sheet from Use You Loaf. The ever-evolving Swift String API if fully documented here with examples",
+      "tags" : "cheat sheet",
+      "title" : "Swift String Cheat Sheet",
+      "url" : "https://useyourloaf.com/blog/swift-string-cheat-sheet"
+    },
+    "-Kj8qMGkO6CN3DKc2Lzt" : {
+      "date" : "2017-28-04 07:45:18",
+      "description" : "Writing tests against code that relies on dates can be tricky. In this short post, John Sundell looks at how we can test such code in a simple and fun way, based on what he calls \"time traveling\"",
+      "tags" : "testing",
+      "title" : "Time traveling in Swift unit tests",
+      "url" : "https://medium.com/@johnsundell/time-traveling-in-swift-unit-tests-583a2c3ce85b"
+    },
+    "-Kj8qWg3kOp4yR4Z1xsG" : {
+      "date" : "2017-28-04 19:03:12",
+      "description" : "Bruno Rocha has released SwiftShield, an interesting tool which generates irreversible, encrypted names for your iOS project's objects. The goal here is to protect your app from tools that reverse engineer iOS apps",
+      "tags" : "library",
+      "title" : "SwiftShield - Swift Code Obfuscator",
+      "url" : "https://github.com/rockbruno/swiftshield"
+    },
+    "-Kj8qp08kitKwxc7WFvj" : {
+      "date" : "2017-29-04 06:47:07",
+      "description" : "Erica Sadun attempts to refine Swift function terminology. She looks at the arguments and labels used at function call sites, and the parameters used in function declarations",
+      "tags" : "terminology",
+      "title" : "Swift Terms: arguments, parameters, and labels",
+      "url" : "http://ericasadun.com/2017/04/28/swift-terms-arguments-parameters-and-labels"
+    },
+    "-Kj8r0lDyET1txHhQlTU" : {
+      "date" : "2017-29-04 08:06:30",
+      "description" : "Xcode Swift playgrounds are a fantastic way to try out ideas. In this how-to, Use Your Loaf shows us how to add a playground to an Xcode project and give it access to project code and resources. Really useful for quickly iterating on UI without resorting to Interface Builder",
+      "tags" : "Xcode, playground",
+      "title" : "Adding Swift Playgrounds to Xcode Projects",
+      "url" : "https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects"
+    },
+    "-Kj8rGDnZ_lwATtLfU7n" : {
+      "date" : "2017-29-04 13:04:13",
+      "description" : "Károly Nyisztor with a short video comparing two Swift algorithms for calculating the sum of the first N natural numbers. One algorithm executes in linear time, while the other executes in constant time",
+      "tags" : "algorithms",
+      "title" : "Swift Algorithms - Sum of First N Natural Numbers",
+      "url" : "https://youtu.be/yVkfogw9hgA"
+    },
+    "-Kj8rUqbBTNCDIZhRb5-" : {
+      "date" : "2017-29-04 13:40:50",
+      "description" : "Unit testing components with dependencies can be complicated. Here, Marco Santarossa explains what test doubles are, and how they can help with such unit testing",
+      "tags" : "testing",
+      "title" : "Test Doubles in Swift",
+      "url" : "https://marcosantadev.com/test-doubles-swift"
+    },
+    "-Kj8rbrPpNP70Xyn3R0I" : {
+      "date" : "2017-29-04 13:47:15",
+      "description" : "Evan Dekhayser with a raywenderlich.com tutorial on operator overloading in Swift. Everything you need to know is included, from overloading existing operators to creating your own custom operators",
+      "tags" : "operators",
+      "title" : "Custom Operator Overloading in Swift",
+      "url" : "https://www.raywenderlich.com/157556/overloading-custom-operators-swift"
+    },
+    "-Kj8rlB8MOAqR9eClDT6" : {
+      "date" : "2017-30-04 13:56:38",
+      "description" : "Great to see this Swift proposal accepted, as it comprises  a variety of useful improvements to the standard Dictionary type, as well as corresponding changes to Set. I really like the key-based subscript with default value addition",
+      "tags" : "evolution",
+      "title" : "SE-0165: Dictionary & Set Enhancements",
+      "url" : "https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md"
+    },
+    "-Kj8s-iDi0_0JqJk-BAY" : {
+      "date" : "2017-01-05 08:53:46",
+      "description" : "John Sundell looks at the different ways errors can be handled in Swift. He lists the available techniques, split in to recoverable and non-recoverable techniques, and provides examples of usage. Also, remember, print(error) is not error handling 😉",
+      "tags" : "error handling",
+      "title" : "Picking the right way of failing in Swift",
+      "url" : "https://medium.com/@johnsundell/picking-the-right-way-of-failing-in-swift-e89125a6b5b5"
+    },
+    "-Kj8sBOUlJe-UASuBBlb" : {
+      "date" : "2017-01-05 11:09:26",
+      "description" : "Sensible best practices from Göksel Köksal to improve your Swift code. One of these, avoiding AppDelegate overuse, is something I have being paying particular attention to lately",
+      "tags" : "iOS, best practices",
+      "title" : "Swifty Tips ⚡️",
+      "url" : "https://medium.com/@gokselkoksal/swifty-tips-%EF%B8%8F-8564553ba3ec"
+    },
+    "-Kj8sLImTbokwiDD2Ygd" : {
+      "date" : "2017-02-05 15:57:23",
+      "description" : "Short post describing the Swift ~= operator. Szy details what it does, when to use it, and what it does not do. Included is a small extension which aims to improve it's usability",
+      "tags" : "operators",
+      "title" : "Swift range containment operator",
+      "url" : "https://medium.com/@nahive/swift-range-containment-operator-3ba838fb8487"
+    },
+    "-Kj93n5S7ZI9yi6YDZKf" : {
+      "date" : "2017-02-05 16:51:47",
+      "description" : "Christian Tietze comments on a GitHub gist which adds pull to refresh to a UITableView. The gist is a nice example of using a Swift protocol with a default implementation to add functionality to a UI element",
+      "tags" : "protocol, mixin, gist",
+      "title" : "Swift Protocols as UI Mixins",
+      "url" : "http://cleancocoa.com/posts/2017/04/protocol-ui-mixin/"
+    },
+    "-KjHQKWkFTVZIMgmBr2p" : {
+      "date" : "2017-04-05 07:47:17",
+      "description" : "Uber recently undertook a complete rewrite of their main app entirely in Swift. Tuomas Artman talks about their motivations for choosing Swift, and the learnings from using Swift for such a big rewrite. Both the good and the bad a discussed, and it's unsurprising to see tooling and compile times being included as drawbacks. Very interesting",
+      "tags" : "talk",
+      "title" : "Swift with a hundred engineers",
+      "url" : "https://www.skilled.io/u/swiftsummit/swift-with-a-hundred-engineers"
+    },
+    "-KjMe0Fit1Dm6vJMnmoJ" : {
+      "date" : "2017-05-05 08:09:29",
+      "description" : "Marco Santarossa looks at memory management in Swift, detailing how we can use NSPointerArray to store weak references to Swift classes",
+      "tags" : "memory",
+      "title" : "Swift Arrays Holding Elements With Weak References",
+      "url" : "https://marcosantadev.com/swift-arrays-holding-elements-weak-references/"
+    },
+    "-KjRsBU8iTHUiptXGw_6" : {
+      "date" : "2017-06-05 08:29:32",
+      "description" : "This Swift evoluion proposal changes the filter operation on Sequences to return an associated type, and adds a default implementation to return the same type as the filtered collection. Now, all range-replaceable collections will have a Filtered of Self,\nincluding String. Very useful",
+      "readTime" : 4,
+      "tags" : "evoluion",
+      "title" : "Change filter to return an associated type",
+      "url" : "https://github.com/apple/swift-evolution/blob/master/proposals/0174-filter-range-replaceable.md"
+    },
+    "-KjTpFvbbrEtOCbsgA9e" : {
+      "date" : "2017-06-05 17:35:58",
+      "description" : "This is a nice component from 1amageek which can be used as an alternative to UIToolbar. It behaves more dynamically than the standard UIToolbar, and is made with auto layout",
+      "readTime" : 0,
+      "tags" : "iOS, library",
+      "title" : "Toolbar - An alternative to UIToolbar",
+      "url" : "https://github.com/1amageek/Toolbar"
+    },
+    "-KjXI6Yg_JtzLdL2CKL7" : {
+      "date" : "2017-07-05 09:45:15",
+      "description" : "This is a really cool post from Piotr Gorzelany in which he describes how he was able to use Swift to control a Raspberry Pi via an iOS app. iOS + Vapor + Raspberry Pi = Madness",
+      "readTime" : 4,
+      "tags" : "experimental, server side",
+      "title" : "Experimental Swift",
+      "url" : "https://medium.com/@piotr.gorzelany/experimental-swift-8c9131b62a9d"
+    },
+    "-KjaweWO6t8Tu8cO1Yq7" : {
+      "date" : "2017-08-05 07:25:17",
+      "description" : "As we know, there is no such thing as one true way of formatting code. This is especially evident when working on a team and submitting PRs. Luckily, SwiftLint can help us. William Boles describes his experience using it, and how it helped keep his team happy",
+      "readTime" : 5,
+      "tags" : "code style, formatting",
+      "title" : "Using Swiftlint to avoid conflict ",
+      "url" : "http://williamboles.me/swiftlint-eases-conflict/"
+    },
+    "-Kjd_mBC2L-l9H9jc8pJ" : {
+      "date" : "2017-08-05 19:44:08",
+      "description" : "Joshua Emmons considers the Swift not (!) operator, offering his thoughts on it's readability. Included are some ...interesting alternatives",
+      "readTime" : 3,
+      "tags" : "style",
+      "title" : "Readable Swift: The Curious Case of Not",
+      "url" : "http://www.figure.ink/blog/2017/5/7/readable-swift-the-curious-case-of-not"
+    },
+    "-Kjg8TY95Fs_gaQxi4ne" : {
+      "date" : "2017-09-05 07:39:19",
+      "description" : "Really interesting post from Erica Sadun on an undocumented feature of Swift - the use of tuple labels to mix and match tuple declarations with values. This is sometimes called a \"tuple shuffle\". Obscure and slightly complex ",
+      "readTime" : 3,
+      "tags" : "tuples",
+      "title" : "Evolving Label-Directed Tuple Assignments",
+      "url" : "http://ericasadun.com/2017/05/08/evolving-label-directed-tuple-assignments/"
+    },
+    "-KjlHNKyOd7yf7G5moOI" : {
+      "date" : "2017-10-05 07:36:23",
+      "description" : "John Sundell with a tutorial on how to create a command line tool using the Swift Package Manager. He uses his own open source tool Marathon as an example. Everything you need to create your own command line tool is explained",
+      "readTime" : 6,
+      "tags" : "command line, swift package manager",
+      "title" : "Building a command line tool using the Swift Package Manager ",
+      "url" : "https://medium.com/@johnsundell/building-a-command-line-tool-using-the-swift-package-manager-3dd96ce360b1"
+    },
+    "-KjvZ1WAbq5Fm-HXvOfF" : {
+      "date" : "2017-12-05 07:29:42",
+      "description" : "Mike Bull from Bugsnag looks at symbolicating crash reports, describing the tools available. He also investigates what causes missing information in Swift stacktraces",
+      "readTime" : 6,
+      "tags" : "iOS, debugging",
+      "title" : "Symbolicating Swift iOS crash reports",
+      "url" : "https://blog.bugsnag.com/symbolicating-ios-crashes/"
+    },
+    "-Kk-wsXGkjZMMRfgFXmv" : {
+      "date" : "2017-13-05 08:36:19",
+      "description" : "Andrew Bancroft looks at why we need to annotate Swift escaping closures. Quotes from Chris Lattner help him come to a conclusion on the motivations of the Swift compiler when it warns us to annotate our closures as escaping",
+      "readTime" : 5,
+      "tags" : "closures",
+      "title" : "Why Do We Need to Annotate Escaping Closures in Swift?",
+      "url" : "https://medium.com/@andrewcbancroft/why-do-we-need-to-annotate-escaping-closures-in-swift-d9985172cad8"
+    },
+    "-Kk5W7mBhnQdm5w48BqW" : {
+      "date" : "2017-14-05 10:32:49",
+      "description" : "Created by Seungyoun Yi, Highlighter is a really cool Swift library that enables you to easily highlight text in UI components. UILabel, UITextView, UITexTfield, and UIButton are all supported",
+      "readTime" : 0,
+      "tags" : "iOS, library",
+      "title" : "Highlighter - Highlight whatever you want",
+      "url" : "https://github.com/younatics/Highlighter"
+    },
+    "-Kk5_BhWrtdxJK7oU-Os" : {
+      "date" : "2017-14-05 10:50:33",
+      "description" : "A comprehensive guide to iOS table views from Matteo Manferdini. Everything you need to correctly utilize this common iOS component is covered in detail",
+      "readTime" : 15,
+      "tags" : "iOS, UITableView, guide",
+      "title" : "Table Views in iOS with Swift - A comprehensive guide",
+      "url" : "http://matteomanferdini.com/the-correct-way-to-display-lists-in-ios-and-what-many-developers-do-wrong/"
+    },
+    "-Kk5da6kidGBVD00Ae5_" : {
+      "date" : "2017-14-05 11:09:46",
+      "description" : "Really interesting post from Ryan Collins in which he compares the top Swift server-side frameworks and Node.js. Great to see Swift holding it's own against the established Node.js",
+      "readTime" : 10,
+      "tags" : "server-side, benchmarks",
+      "title" : "Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js",
+      "url" : "https://medium.com/@rymcol/benchmarks-for-the-top-server-side-swift-frameworks-vs-node-js-24460cfe0beb"
+    },
+    "-Kk75x8HexM-cfPQIeRV" : {
+      "date" : "2017-14-05 17:57:39",
+      "description" : "Umberto Raimondi with the first in a series of articles on concurrency in Swift. This is an excellently detailed look at what we have at our disposal, covering everything from locks and threads, to Grand Central Dispatch",
+      "readTime" : 30,
+      "tags" : "concurrency",
+      "title" : "All about Concurrency in Swift - Part 1: The Present",
+      "url" : "https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/"
+    },
+    "-KkA3losSJca4s7a3Ra-" : {
+      "date" : "2017-15-05 07:47:01",
+      "description" : "Short post from Taylor Guidon which is the first in a series on MVVM (Model-View-ViewModel). It covers the basics and is a good introduction for anyone new to MVVM",
+      "readTime" : 3,
+      "tags" : "design patterns",
+      "title" : "Swifty MVVM Part 1",
+      "url" : "https://sudo.isl.co/swift-mvvm-intro/"
+    },
+    "-KkBKnDZ0PDAt0xA4HT-" : {
+      "date" : "2017-15-05 13:41:00",
+      "description" : "Using Coordinators can help us separate our app flow logic, and make UIViewControllers more reusable. In this post, one in a series on Coordinators, Soroush Khanlou writes about techniques for handling 'back' navigation within a UINavigationController",
+      "readTime" : 4,
+      "tags" : "iOS, coordinators",
+      "title" : "Back Buttons and Coordinators in Swift",
+      "url" : "http://khanlou.com/2017/05/back-buttons-and-coordinators/"
+    },
+    "-KkBRuIRMWPcjV9tBdSb" : {
+      "date" : "2017-15-05 14:12:04",
+      "description" : "Nice countdown Swift UI component from Ruslan Serebriakov. Customizable and with a configurable timer",
+      "readTime" : 0,
+      "tags" : "iOS, library",
+      "title" : "SRCountdownTimer - Simple circle countdown",
+      "url" : "https://github.com/rsrbk/SRCountdownTimer"
+    },
+    "-KkCAiDmJzF5YiackwuJ" : {
+      "date" : "2017-15-05 17:36:35",
+      "description" : "Benjamin Encz demonstrates how to implement an Undo/Redo feature using Swift value types and pattern matching",
+      "readTime" : 5,
+      "tags" : "value types",
+      "title" : "A Simple Undo/Redo Implementation in Swift",
+      "url" : "http://blog.benjamin-encz.de/post/simple-undo-redo-swift"
+    }
+  }
+}
