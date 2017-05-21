@@ -4,11 +4,11 @@ addons:
     packages:
       - python-pygments
 
-# git:
-#   submodules: false
-#
-# before_install:
-#   - git submodule update --init --recursive
+git:
+  submodules: false
+
+before_install:
+  - git submodule update --init --recursive
 
 # Clean and don't fail
 install:
