@@ -4,6 +4,9 @@ addons:
     packages:
       - python-pygments
 
+before_install:
+  - git submodule update --init --recursive
+
 # Clean and don't fail
 install:
   - rm -rf public || exit 0
