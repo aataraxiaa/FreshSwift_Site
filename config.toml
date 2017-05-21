@@ -1,7 +1,7 @@
 # Build configuration
 publishDir = "docs"
 
-baseurl = "https://superpeteblaze.github.io"
+baseurl = "http://petethedeveloper.com/FreshSwift_Site/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Fresh Swift"
