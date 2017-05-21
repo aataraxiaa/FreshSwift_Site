@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://superpeteblaze.github.io/post/testpete/</loc>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/post/testpete/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://superpeteblaze.github.io/categories/</loc>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://superpeteblaze.github.io/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://superpeteblaze.github.io/post/</loc>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://superpeteblaze.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://superpeteblaze.github.io/tags/x/</loc>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/post/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://superpeteblaze.github.io/categories/x/</loc>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/x/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://superpeteblaze.github.io/tags/y/</loc>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/categories/x/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://superpeteblaze.github.io/categories/y/</loc>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/y/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/categories/y/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
