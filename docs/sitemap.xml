@@ -3,7 +3,7 @@
   
   <url>
     <loc>http://petethedeveloper.com/FreshSwift_Site/post/testpete/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -12,43 +12,32 @@
   </url>
   
   <url>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/enums/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://petethedeveloper.com/FreshSwift_Site/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://petethedeveloper.com/FreshSwift_Site/post/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/reflection/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://petethedeveloper.com/FreshSwift_Site/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/x/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/categories/x/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/y/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/categories/y/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
