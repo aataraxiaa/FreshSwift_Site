@@ -1,5 +1,5 @@
 # Build configuration
-publishDir = "docs"
+publishDir = "public"
 
 baseurl = "http://petethedeveloper.com/FreshSwift_Site/"
 DefaultContentLanguage = "en"
