@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Patterns on Fresh Swift</title>
+    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/design-patterns/</link>
+    <description>Recent content in Design Patterns on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 May 2017 07:47:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swifty MVVM Part 1</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kka3lossjca4s7a3ra-/</link>
+      <pubDate>Mon, 15 May 2017 07:47:01 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kka3lossjca4s7a3ra-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

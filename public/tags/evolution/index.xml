@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolution on Fresh Swift</title>
+    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/evolution/</link>
+    <description>Recent content in Evolution on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Apr 2017 13:56:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SE-0165: Dictionary &amp; Set Enhancements</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rlb8moaqr9ecldt6/</link>
+      <pubDate>Sun, 30 Apr 2017 13:56:38 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rlb8moaqr9ecldt6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution iOS app</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pgra-lzmq3p894mj/</link>
+      <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pgra-lzmq3p894mj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE-1069: Improve interactions between private declarations and extensions</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8opmi09kbkqj6x6qg/</link>
+      <pubDate>Sun, 23 Apr 2017 09:54:45 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8opmi09kbkqj6x6qg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

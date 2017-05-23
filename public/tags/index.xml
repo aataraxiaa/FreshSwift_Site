@@ -2,29 +2,407 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/</link>
+    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 13:04:13 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Enums</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/enums/</link>
-      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <title>Algorithms</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/algorithms/</link>
+      <pubDate>Sat, 29 Apr 2017 13:04:13 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/enums/</guid>
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/app/</link>
+      <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarks</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/benchmarks/</link>
+      <pubDate>Sun, 14 May 2017 11:09:46 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/benchmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/best-practices/</link>
+      <pubDate>Mon, 01 May 2017 11:09:26 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/build/</link>
+      <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/build/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheat Sheet</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/cheat-sheet/</link>
+      <pubDate>Thu, 27 Apr 2017 07:56:41 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/cheat-sheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clean Code</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/clean-code/</link>
+      <pubDate>Tue, 18 Apr 2017 11:02:11 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/clean-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closures</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/closures/</link>
+      <pubDate>Sat, 13 May 2017 08:36:19 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/closures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Style</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/code-style/</link>
+      <pubDate>Mon, 08 May 2017 07:25:17 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/code-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command Line</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/command-line/</link>
+      <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/command-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/compiler/</link>
+      <pubDate>Wed, 26 Apr 2017 12:14:50 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/compiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurrency</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/concurrency/</link>
+      <pubDate>Sun, 14 May 2017 17:57:39 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/concurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordinators</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/coordinators/</link>
+      <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/coordinators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debugging</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/debugging/</link>
+      <pubDate>Fri, 12 May 2017 07:29:42 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependency Injection</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/dependency-injection/</link>
+      <pubDate>Mon, 17 Apr 2017 08:19:18 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/dependency-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Patterns</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/design-patterns/</link>
+      <pubDate>Mon, 15 May 2017 07:47:01 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/design-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enums</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/enums/</link>
+      <pubDate>Sun, 23 Apr 2017 18:07:51 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/enums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Handling</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/error-handling/</link>
+      <pubDate>Mon, 01 May 2017 08:53:46 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/error-handling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evoluion</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/evoluion/</link>
+      <pubDate>Sat, 06 May 2017 08:29:32 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/evoluion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/evolution/</link>
+      <pubDate>Sun, 30 Apr 2017 13:56:38 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/experimental/</link>
+      <pubDate>Sun, 07 May 2017 09:45:15 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formatting</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/formatting/</link>
+      <pubDate>Mon, 08 May 2017 07:25:17 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/formatting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gist</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/gist/</link>
+      <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/guide/</link>
+      <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ios</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/ios/</link>
+      <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lazy</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/lazy/</link>
+      <pubDate>Fri, 19 May 2017 11:12:41 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/lazy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/library/</link>
+      <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/memory/</link>
+      <pubDate>Fri, 05 May 2017 08:09:29 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixin</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/mixin/</link>
+      <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/mixin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operators</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/operators/</link>
+      <pubDate>Tue, 02 May 2017 15:57:23 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/operators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Playground</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/playground/</link>
+      <pubDate>Sat, 29 Apr 2017 08:06:30 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/playground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/podcast/</link>
+      <pubDate>Wed, 19 Apr 2017 13:57:59 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/protocol/</link>
+      <pubDate>Mon, 22 May 2017 18:19:34 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/protocol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflection</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/reflection/</link>
-      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/reflection/</link>
+      <pubDate>Mon, 17 Apr 2017 08:07:13 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/reflection/</guid>
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server Side</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/server-side/</link>
+      <pubDate>Sun, 14 May 2017 11:09:46 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/server-side/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/style/</link>
+      <pubDate>Mon, 08 May 2017 19:44:08 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Package Manager</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/swift-package-manager/</link>
+      <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/swift-package-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/talk/</link>
+      <pubDate>Thu, 04 May 2017 07:47:17 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminology</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/terminology/</link>
+      <pubDate>Sat, 29 Apr 2017 06:47:07 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/terminology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/testing/</link>
+      <pubDate>Sat, 29 Apr 2017 13:40:50 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuples</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/tuples/</link>
+      <pubDate>Tue, 09 May 2017 07:39:19 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/tuples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uitableview</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/uitableview/</link>
+      <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/uitableview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value Types</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/value-types/</link>
+      <pubDate>Mon, 15 May 2017 17:36:35 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/value-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xcode</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/xcode/</link>
+      <pubDate>Sat, 29 Apr 2017 08:06:30 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/xcode/</guid>
       <description></description>
     </item>
     

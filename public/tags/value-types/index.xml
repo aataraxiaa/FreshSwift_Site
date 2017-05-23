@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Value Types on Fresh Swift</title>
+    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/value-types/</link>
+    <description>Recent content in Value Types on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 May 2017 17:36:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/value-types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Simple Undo/Redo Implementation in Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkcaidmjzf5yiackwuj/</link>
+      <pubDate>Mon, 15 May 2017 17:36:35 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkcaidmjzf5yiackwuj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lazy on Fresh Swift</title>
+    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/lazy/</link>
+    <description>Recent content in Lazy on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 May 2017 11:12:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/lazy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using lazy properties in Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkvpce91cqugfcpkppj/</link>
+      <pubDate>Fri, 19 May 2017 11:12:41 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkvpce91cqugfcpkppj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

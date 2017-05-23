@@ -2,21 +2,447 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/</link>
+    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 18:19:34 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Reflectable Enums</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/testpete/</link>
-      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <title>Loose coupling using Swift protocols</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kklnflnfcf5nuwgxdbj/</link>
+      <pubDate>Mon, 22 May 2017 18:19:34 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/testpete/</guid>
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kklnflnfcf5nuwgxdbj/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Using lazy properties in Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkvpce91cqugfcpkppj/</link>
+      <pubDate>Fri, 19 May 2017 11:12:41 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkvpce91cqugfcpkppj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Undo/Redo Implementation in Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkcaidmjzf5yiackwuj/</link>
+      <pubDate>Mon, 15 May 2017 17:36:35 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkcaidmjzf5yiackwuj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SRCountdownTimer - Simple circle countdown</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbruirmwpcjv9tbdsb/</link>
+      <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbruirmwpcjv9tbdsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back Buttons and Coordinators in Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbkndz0pdat0xa4ht-/</link>
+      <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbkndz0pdat0xa4ht-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swifty MVVM Part 1</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kka3lossjca4s7a3ra-/</link>
+      <pubDate>Mon, 15 May 2017 07:47:01 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kka3lossjca4s7a3ra-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All about Concurrency in Swift - Part 1: The Present</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk75x8hexm-cfpqierv/</link>
+      <pubDate>Sun, 14 May 2017 17:57:39 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk75x8hexm-cfpqierv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5da6kidgbvd00ae5_/</link>
+      <pubDate>Sun, 14 May 2017 11:09:46 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5da6kidgbvd00ae5_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Table Views in iOS with Swift - A comprehensive guide</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5_bhwrtdxjk7ou-os/</link>
+      <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5_bhwrtdxjk7ou-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlighter - Highlight whatever you want</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5w7mbhnqdm5w48bqw/</link>
+      <pubDate>Sun, 14 May 2017 10:32:49 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5w7mbhnqdm5w48bqw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Do We Need to Annotate Escaping Closures in Swift?</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk-wsxgkjzmmrfgfxmv/</link>
+      <pubDate>Sat, 13 May 2017 08:36:19 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk-wsxgkjzmmrfgfxmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolicating Swift iOS crash reports</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjvz1wabq5fm-hxvoff/</link>
+      <pubDate>Fri, 12 May 2017 07:29:42 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjvz1wabq5fm-hxvoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a command line tool using the Swift Package Manager </title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjlhnkyod7yf7g5mooi/</link>
+      <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjlhnkyod7yf7g5mooi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving Label-Directed Tuple Assignments</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjg8ty95fs_gaqxi4ne/</link>
+      <pubDate>Tue, 09 May 2017 07:39:19 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjg8ty95fs_gaqxi4ne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readable Swift: The Curious Case of Not</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjd_mbc2l-l9h9jc8pj/</link>
+      <pubDate>Mon, 08 May 2017 19:44:08 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjd_mbc2l-l9h9jc8pj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Swiftlint to avoid conflict </title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjawewo6t8tu8co1yq7/</link>
+      <pubDate>Mon, 08 May 2017 07:25:17 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjawewo6t8tu8co1yq7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjxi6yg_jtzldl2ckl7/</link>
+      <pubDate>Sun, 07 May 2017 09:45:15 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjxi6yg_jtzldl2ckl7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toolbar - An alternative to UIToolbar</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjtpfvbbretocbsga9e/</link>
+      <pubDate>Sat, 06 May 2017 17:35:58 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjtpfvbbretocbsga9e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change filter to return an associated type</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjrsbu8ithuiptxgw_6/</link>
+      <pubDate>Sat, 06 May 2017 08:29:32 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjrsbu8ithuiptxgw_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Arrays Holding Elements With Weak References</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjme0fit1dm6vjmnmoj/</link>
+      <pubDate>Fri, 05 May 2017 08:09:29 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjme0fit1dm6vjmnmoj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift with a hundred engineers</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjhqkwkftvzimgmbr2p/</link>
+      <pubDate>Thu, 04 May 2017 07:47:17 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjhqkwkftvzimgmbr2p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Protocols as UI Mixins</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj93n5s7zi9yi6ydzkf/</link>
+      <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj93n5s7zi9yi6ydzkf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift range containment operator</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8slimtbokwidd2ygd/</link>
+      <pubDate>Tue, 02 May 2017 15:57:23 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8slimtbokwidd2ygd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swifty Tips ⚡️</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8sboulje-uasubblb/</link>
+      <pubDate>Mon, 01 May 2017 11:09:26 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8sboulje-uasubblb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picking the right way of failing in Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8s-idi0_0jqjk-bay/</link>
+      <pubDate>Mon, 01 May 2017 08:53:46 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8s-idi0_0jqjk-bay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE-0165: Dictionary &amp; Set Enhancements</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rlb8moaqr9ecldt6/</link>
+      <pubDate>Sun, 30 Apr 2017 13:56:38 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rlb8moaqr9ecldt6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Operator Overloading in Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rbrppnp70xyn3r0i/</link>
+      <pubDate>Sat, 29 Apr 2017 13:47:15 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rbrppnp70xyn3r0i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Doubles in Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8ruqbbtncdizhrb5-/</link>
+      <pubDate>Sat, 29 Apr 2017 13:40:50 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8ruqbbtncdizhrb5-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Algorithms - Sum of First N Natural Numbers</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rgdnz_lwattlfu7n/</link>
+      <pubDate>Sat, 29 Apr 2017 13:04:13 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rgdnz_lwattlfu7n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adding Swift Playgrounds to Xcode Projects</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8r0ldyet1txhhqltu/</link>
+      <pubDate>Sat, 29 Apr 2017 08:06:30 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8r0ldyet1txhhqltu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Terms: arguments, parameters, and labels</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8qp08kitkwxc7wfvj/</link>
+      <pubDate>Sat, 29 Apr 2017 06:47:07 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8qp08kitkwxc7wfvj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwiftShield - Swift Code Obfuscator</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8qwg3kop4yr4z1xsg/</link>
+      <pubDate>Fri, 28 Apr 2017 19:03:12 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8qwg3kop4yr4z1xsg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time traveling in Swift unit tests</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8qmgko6cn3dkc2lzt/</link>
+      <pubDate>Fri, 28 Apr 2017 07:45:18 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8qmgko6cn3dkc2lzt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift String Cheat Sheet</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pxg0mf2yyllch9qe/</link>
+      <pubDate>Thu, 27 Apr 2017 07:56:41 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pxg0mf2yyllch9qe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katan - Swift playground with a micro web server</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pnvyz5ujprphkuu1/</link>
+      <pubDate>Wed, 26 Apr 2017 12:21:39 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pnvyz5ujprphkuu1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Source Compatibility Test Suite</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pdeti40lonwdjpqz/</link>
+      <pubDate>Wed, 26 Apr 2017 12:14:50 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pdeti40lonwdjpqz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tail Call Elimination in iOS</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8psh0nmgv7rgussck/</link>
+      <pubDate>Tue, 25 Apr 2017 10:44:19 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8psh0nmgv7rgussck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution iOS app</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pgra-lzmq3p894mj/</link>
+      <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8pgra-lzmq3p894mj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift enums are sum types, and that makes them very interesting</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8p7y_sqvbu2jjlyo2/</link>
+      <pubDate>Sun, 23 Apr 2017 18:07:51 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8p7y_sqvbu2jjlyo2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stopping the Swift weak-strong closure dance</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8ozvnxo7xkolb2dxt/</link>
+      <pubDate>Sun, 23 Apr 2017 11:40:16 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8ozvnxo7xkolb2dxt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE-1069: Improve interactions between private declarations and extensions</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8opmi09kbkqj6x6qg/</link>
+      <pubDate>Sun, 23 Apr 2017 09:54:45 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8opmi09kbkqj6x6qg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduce Swift build times and get home faster 😃</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8oaxsnjepzxcit94x/</link>
+      <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8oaxsnjepzxcit94x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runtime podcast - Swift ABI Stability</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8oqbrrlxgl1ncw_ha/</link>
+      <pubDate>Wed, 19 Apr 2017 13:57:59 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8oqbrrlxgl1ncw_ha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptica - Haptic Feedback Generator</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8ocn5j9lt_ljpffm4/</link>
+      <pubDate>Wed, 19 Apr 2017 11:02:27 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8ocn5j9lt_ljpffm4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOLID principles applied to Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8o-xxodgtfhj9o78i/</link>
+      <pubDate>Tue, 18 Apr 2017 11:02:11 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8o-xxodgtfhj9o78i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependency injection via protocol composition</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8qgv-molvtrumpd3r/</link>
+      <pubDate>Mon, 17 Apr 2017 08:19:18 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8qgv-molvtrumpd3r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflectable Enums</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj7s0mpq-pgwopj1onv/</link>
+      <pubDate>Mon, 17 Apr 2017 08:07:13 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj7s0mpq-pgwopj1onv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fresh Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/page/about/</guid>
+      <description>Stay up to date with the latest Swift blog posts, articles, evolution proposals etc.
+Want to get involved and suggest a link? Awesome!! Simply tweet @fresh_swift
+Fresh Swift is curated by Pete Smith, @superpeteblaze, petethedeveloper.com
+Swift is a trademark of Apple Inc.</description>
     </item>
     
   </channel>

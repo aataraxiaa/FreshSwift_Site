@@ -1,7 +1,8 @@
 # Build configuration
 publishDir = "public"
 
-baseurl = "http://petethedeveloper.com/FreshSwift_Site/"
+# baseurl = "http://petethedeveloper.com/FreshSwift_Site/"
+baseurl = "https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Fresh Swift"

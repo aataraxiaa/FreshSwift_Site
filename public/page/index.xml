@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Fresh Swift</title>
+    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/page/</link>
+    <description>Recent content in Pages on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fresh Swift</title>
+      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/page/about/</guid>
+      <description>Stay up to date with the latest Swift blog posts, articles, evolution proposals etc.
+Want to get involved and suggest a link? Awesome!! Simply tweet @fresh_swift
+Fresh Swift is curated by Pete Smith, @superpeteblaze, petethedeveloper.com
+Swift is a trademark of Apple Inc.</description>
+    </item>
+    
+  </channel>
+</rss>
