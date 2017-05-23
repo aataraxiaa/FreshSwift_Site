@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talk on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/talk/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/talk/</link>
     <description>Recent content in Talk on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 04 May 2017 07:47:17 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift with a hundred engineers</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjhqkwkftvzimgmbr2p/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjhqkwkftvzimgmbr2p/</link>
       <pubDate>Thu, 04 May 2017 07:47:17 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjhqkwkftvzimgmbr2p/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjhqkwkftvzimgmbr2p/</guid>
       <description></description>
     </item>
     

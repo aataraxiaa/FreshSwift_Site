@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swift Package Manager on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/swift-package-manager/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/swift-package-manager/</link>
     <description>Recent content in Swift Package Manager on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 10 May 2017 07:36:23 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/swift-package-manager/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/swift-package-manager/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building a command line tool using the Swift Package Manager </title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjlhnkyod7yf7g5mooi/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjlhnkyod7yf7g5mooi/</link>
       <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjlhnkyod7yf7g5mooi/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjlhnkyod7yf7g5mooi/</guid>
       <description></description>
     </item>
     

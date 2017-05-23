@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coordinators on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/coordinators/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/coordinators/</link>
     <description>Recent content in Coordinators on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 15 May 2017 13:41:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/coordinators/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/coordinators/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Back Buttons and Coordinators in Swift</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbkndz0pdat0xa4ht-/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kkbkndz0pdat0xa4ht-/</link>
       <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbkndz0pdat0xa4ht-/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kkbkndz0pdat0xa4ht-/</guid>
       <description></description>
     </item>
     

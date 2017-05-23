@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gist on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/gist/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/gist/</link>
     <description>Recent content in Gist on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 02 May 2017 16:51:47 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/gist/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/gist/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift Protocols as UI Mixins</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj93n5s7zi9yi6ydzkf/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj93n5s7zi9yi6ydzkf/</link>
       <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj93n5s7zi9yi6ydzkf/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj93n5s7zi9yi6ydzkf/</guid>
       <description></description>
     </item>
     

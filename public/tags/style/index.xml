@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Style on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/style/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/style/</link>
     <description>Recent content in Style on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 08 May 2017 19:44:08 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/style/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/style/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Readable Swift: The Curious Case of Not</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjd_mbc2l-l9h9jc8pj/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjd_mbc2l-l9h9jc8pj/</link>
       <pubDate>Mon, 08 May 2017 19:44:08 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjd_mbc2l-l9h9jc8pj/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjd_mbc2l-l9h9jc8pj/</guid>
       <description></description>
     </item>
     

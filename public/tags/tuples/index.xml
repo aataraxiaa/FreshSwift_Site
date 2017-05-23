@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tuples on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/tuples/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/tuples/</link>
     <description>Recent content in Tuples on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 09 May 2017 07:39:19 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/tuples/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/tuples/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evolving Label-Directed Tuple Assignments</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjg8ty95fs_gaqxi4ne/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjg8ty95fs_gaqxi4ne/</link>
       <pubDate>Tue, 09 May 2017 07:39:19 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjg8ty95fs_gaqxi4ne/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjg8ty95fs_gaqxi4ne/</guid>
       <description></description>
     </item>
     

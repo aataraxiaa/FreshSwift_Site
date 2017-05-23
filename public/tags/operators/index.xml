@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Operators on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/operators/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/operators/</link>
     <description>Recent content in Operators on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 02 May 2017 15:57:23 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/operators/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/operators/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift range containment operator</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8slimtbokwidd2ygd/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8slimtbokwidd2ygd/</link>
       <pubDate>Tue, 02 May 2017 15:57:23 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8slimtbokwidd2ygd/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8slimtbokwidd2ygd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom Operator Overloading in Swift</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rbrppnp70xyn3r0i/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rbrppnp70xyn3r0i/</link>
       <pubDate>Sat, 29 Apr 2017 13:47:15 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rbrppnp70xyn3r0i/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rbrppnp70xyn3r0i/</guid>
       <description></description>
     </item>
     

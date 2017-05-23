@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithms on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/algorithms/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/algorithms/</link>
     <description>Recent content in Algorithms on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 29 Apr 2017 13:04:13 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift Algorithms - Sum of First N Natural Numbers</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rgdnz_lwattlfu7n/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rgdnz_lwattlfu7n/</link>
       <pubDate>Sat, 29 Apr 2017 13:04:13 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8rgdnz_lwattlfu7n/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rgdnz_lwattlfu7n/</guid>
       <description></description>
     </item>
     

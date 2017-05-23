@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Build on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/build/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/build/</link>
     <description>Recent content in Build on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 21 Apr 2017 15:24:16 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/build/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/build/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reduce Swift build times and get home faster 😃</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8oaxsnjepzxcit94x/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8oaxsnjepzxcit94x/</link>
       <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8oaxsnjepzxcit94x/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8oaxsnjepzxcit94x/</guid>
       <description></description>
     </item>
     

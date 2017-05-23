@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios on Fresh Swift</title>
-    <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/ios/</link>
+    <link>http://petethedeveloper.com/FreshSwift_Site/tags/ios/</link>
     <description>Recent content in Ios on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 15 May 2017 14:12:04 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SRCountdownTimer - Simple circle countdown</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbruirmwpcjv9tbdsb/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kkbruirmwpcjv9tbdsb/</link>
       <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbruirmwpcjv9tbdsb/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kkbruirmwpcjv9tbdsb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Back Buttons and Coordinators in Swift</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbkndz0pdat0xa4ht-/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kkbkndz0pdat0xa4ht-/</link>
       <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kkbkndz0pdat0xa4ht-/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kkbkndz0pdat0xa4ht-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Table Views in iOS with Swift - A comprehensive guide</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5_bhwrtdxjk7ou-os/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kk5_bhwrtdxjk7ou-os/</link>
       <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5_bhwrtdxjk7ou-os/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kk5_bhwrtdxjk7ou-os/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlighter - Highlight whatever you want</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5w7mbhnqdm5w48bqw/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kk5w7mbhnqdm5w48bqw/</link>
       <pubDate>Sun, 14 May 2017 10:32:49 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kk5w7mbhnqdm5w48bqw/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kk5w7mbhnqdm5w48bqw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbolicating Swift iOS crash reports</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjvz1wabq5fm-hxvoff/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjvz1wabq5fm-hxvoff/</link>
       <pubDate>Fri, 12 May 2017 07:29:42 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjvz1wabq5fm-hxvoff/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjvz1wabq5fm-hxvoff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toolbar - An alternative to UIToolbar</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjtpfvbbretocbsga9e/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjtpfvbbretocbsga9e/</link>
       <pubDate>Sat, 06 May 2017 17:35:58 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kjtpfvbbretocbsga9e/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjtpfvbbretocbsga9e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swifty Tips ⚡️</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8sboulje-uasubblb/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8sboulje-uasubblb/</link>
       <pubDate>Mon, 01 May 2017 11:09:26 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8sboulje-uasubblb/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8sboulje-uasubblb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tail Call Elimination in iOS</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8psh0nmgv7rgussck/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8psh0nmgv7rgussck/</link>
       <pubDate>Tue, 25 Apr 2017 10:44:19 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8psh0nmgv7rgussck/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8psh0nmgv7rgussck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haptica - Haptic Feedback Generator</title>
-      <link>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8ocn5j9lt_ljpffm4/</link>
+      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8ocn5j9lt_ljpffm4/</link>
       <pubDate>Wed, 19 Apr 2017 11:02:27 +0000</pubDate>
       
-      <guid>https://github.com/superpeteblaze/FreshSwift_Site/tree/master/public/post/-kj8ocn5j9lt_ljpffm4/</guid>
+      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8ocn5j9lt_ljpffm4/</guid>
       <description></description>
     </item>
     
