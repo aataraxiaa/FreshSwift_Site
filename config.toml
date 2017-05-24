@@ -11,7 +11,7 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 
 # Analytics
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-73366940-3"
 
 [Params]
   subtitle = "Curated Swift Links"
