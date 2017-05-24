@@ -13,6 +13,7 @@ pygmentCodeFences = true
 # Analytics
 googleAnalytics = "UA-73366940-3"
 
+
 [Params]
   subtitle = "Curated Swift Links"
   logo = "img/Icon-512@2x.png"
