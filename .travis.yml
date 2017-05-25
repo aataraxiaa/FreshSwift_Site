@@ -10,13 +10,17 @@ install:
 
 # Build the website
 script:
+  # Build our site
   - binaries/hugo --theme=fresh
+  # Create a CNAME file which maps our site to our custom domain
+  - echo freshswift.net >> CNAME
 
 # Deploy to GitHub pages
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  # Our token is set in travis-ci.org dashboard
+  github_token: $GITHUB_TOKEN
   local_dir: public
   on:
     branch: master
