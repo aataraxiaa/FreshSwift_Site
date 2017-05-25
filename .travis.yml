@@ -13,6 +13,7 @@ script:
   # Build our site
   - binaries/hugo --theme=fresh
   # Create a CNAME file which maps our site to our custom domain
+  - cd public
   - echo freshswift.net >> CNAME
 
 # Deploy to GitHub pages
