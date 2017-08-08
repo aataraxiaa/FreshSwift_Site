@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Value Types on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/value-types/</link>
+    <link>http://freshswift.net/tags/value-types/</link>
     <description>Recent content in Value Types on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 15 May 2017 17:36:35 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/value-types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/value-types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Simple Undo/Redo Implementation in Swift</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kkcaidmjzf5yiackwuj/</link>
+      <link>http://freshswift.net/post/-kkcaidmjzf5yiackwuj/</link>
       <pubDate>Mon, 15 May 2017 17:36:35 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kkcaidmjzf5yiackwuj/</guid>
+      <guid>http://freshswift.net/post/-kkcaidmjzf5yiackwuj/</guid>
       <description></description>
     </item>
     

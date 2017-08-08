@@ -2,92 +2,272 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/ios/</link>
+    <link>http://freshswift.net/tags/ios/</link>
     <description>Recent content in Ios on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 May 2017 14:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 07:32:03 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Understanding Operation and OperationQueue in Swift</title>
+      <link>http://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</link>
+      <pubDate>Tue, 08 Aug 2017 07:32:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a declarative animation framework in Swift - Part 2</title>
+      <link>http://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</link>
+      <pubDate>Mon, 07 Aug 2017 09:11:45 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AZDialogViewController - Customizable alert dialog controller</title>
+      <link>http://freshswift.net/post/-kqi-jakbsk9nxxgtenf/</link>
+      <pubDate>Sun, 30 Jul 2017 10:18:40 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kqi-jakbsk9nxxgtenf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced UIKit Animations In Swift</title>
+      <link>http://freshswift.net/post/-kqctwwlc0hribq58b6s/</link>
+      <pubDate>Sat, 29 Jul 2017 08:34:48 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kqctwwlc0hribq58b6s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a declarative animation framework in Swift - Part 1</title>
+      <link>http://freshswift.net/post/-kq74w5j2vbnbn4frnjl/</link>
+      <pubDate>Fri, 28 Jul 2017 07:27:26 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kq74w5j2vbnbn4frnjl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZIPFoundation - Zip Handling in Swift</title>
+      <link>http://freshswift.net/post/-kpapwavk_b4iwo4ix-b/</link>
+      <pubDate>Sun, 16 Jul 2017 12:40:29 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kpapwavk_b4iwo4ix-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PMSuperButton - UIButton with super powers</title>
+      <link>http://freshswift.net/post/-kp0cgdrrwufjqgpvavb/</link>
+      <pubDate>Fri, 14 Jul 2017 13:06:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kp0cgdrrwufjqgpvavb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YapAnimator - Fast and friendly animation system</title>
+      <link>http://freshswift.net/post/-komo6dvbqymcbwqzyvc/</link>
+      <pubDate>Thu, 06 Jul 2017 12:12:05 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-komo6dvbqymcbwqzyvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Value Observation in iOS 11</title>
+      <link>http://freshswift.net/post/-koghe9nhofbto80ug6e/</link>
+      <pubDate>Wed, 05 Jul 2017 07:44:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-koghe9nhofbto80ug6e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using SpriteKit to create animations in Swift</title>
+      <link>http://freshswift.net/post/-ko6aumo5ooulvhtgmrp/</link>
+      <pubDate>Mon, 03 Jul 2017 08:40:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ko6aumo5ooulvhtgmrp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LGButton - Beautiful customizable UIControl </title>
+      <link>http://freshswift.net/post/-ko1rry7eso6bjfhpqyj/</link>
+      <pubDate>Sun, 02 Jul 2017 10:36:25 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ko1rry7eso6bjfhpqyj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwiftMessages - Flexible message bar for iOS</title>
+      <link>http://freshswift.net/post/-kns6fjoeoyjjtzng37q/</link>
+      <pubDate>Fri, 30 Jun 2017 08:27:52 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kns6fjoeoyjjtzng37q/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CALayer And Auto Layout With Swift</title>
+      <link>http://freshswift.net/post/-knmlb8hy68-fjalrft9/</link>
+      <pubDate>Thu, 29 Jun 2017 07:33:20 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-knmlb8hy68-fjalrft9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umbrella - Analytics abstraction layer for Swift</title>
+      <link>http://freshswift.net/post/-knhgdrbvvejk2kza9vk/</link>
+      <pubDate>Wed, 28 Jun 2017 07:53:35 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-knhgdrbvvejk2kza9vk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JTAppleCalendar - The unofficial Swift Apple calendar library</title>
+      <link>http://freshswift.net/post/-kncwgm9jywp3wqapidr/</link>
+      <pubDate>Tue, 27 Jun 2017 07:49:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kncwgm9jywp3wqapidr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructions - Customizable Coachmarks for iOS</title>
+      <link>http://freshswift.net/post/-kmv5ocfocimrpeqlxio/</link>
+      <pubDate>Sun, 18 Jun 2017 12:07:14 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmv5ocfocimrpeqlxio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMOutlineView: Hierarchical Menu for iOS</title>
+      <link>http://freshswift.net/post/-kmqhgpn0lswkh7wwxw8/</link>
+      <pubDate>Mon, 12 Jun 2017 07:51:16 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmqhgpn0lswkh7wwxw8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFKit - A collection of useful Swift classes, structs, and extensions</title>
+      <link>http://freshswift.net/post/-km6z5daiorb_ewu4yrg/</link>
+      <pubDate>Thu, 08 Jun 2017 11:56:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-km6z5daiorb_ewu4yrg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Optional or Not to Optional: IBOutlet</title>
+      <link>http://freshswift.net/post/-klwprgdikgd9ccgjbkt/</link>
+      <pubDate>Tue, 06 Jun 2017 07:58:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-klwprgdikgd9ccgjbkt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing better singletons in Swift</title>
+      <link>http://freshswift.net/post/-klsb0ux2onslnjbjlsc/</link>
+      <pubDate>Mon, 05 Jun 2017 12:17:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-klsb0ux2onslnjbjlsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SRCountdownTimer - Simple circle countdown</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kkbruirmwpcjv9tbdsb/</link>
+      <link>http://freshswift.net/post/-kkbruirmwpcjv9tbdsb/</link>
       <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kkbruirmwpcjv9tbdsb/</guid>
+      <guid>http://freshswift.net/post/-kkbruirmwpcjv9tbdsb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Back Buttons and Coordinators in Swift</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kkbkndz0pdat0xa4ht-/</link>
+      <link>http://freshswift.net/post/-kkbkndz0pdat0xa4ht-/</link>
       <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kkbkndz0pdat0xa4ht-/</guid>
+      <guid>http://freshswift.net/post/-kkbkndz0pdat0xa4ht-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Table Views in iOS with Swift - A comprehensive guide</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kk5_bhwrtdxjk7ou-os/</link>
+      <link>http://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</link>
       <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kk5_bhwrtdxjk7ou-os/</guid>
+      <guid>http://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlighter - Highlight whatever you want</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kk5w7mbhnqdm5w48bqw/</link>
+      <link>http://freshswift.net/post/-kk5w7mbhnqdm5w48bqw/</link>
       <pubDate>Sun, 14 May 2017 10:32:49 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kk5w7mbhnqdm5w48bqw/</guid>
+      <guid>http://freshswift.net/post/-kk5w7mbhnqdm5w48bqw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbolicating Swift iOS crash reports</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjvz1wabq5fm-hxvoff/</link>
+      <link>http://freshswift.net/post/-kjvz1wabq5fm-hxvoff/</link>
       <pubDate>Fri, 12 May 2017 07:29:42 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjvz1wabq5fm-hxvoff/</guid>
+      <guid>http://freshswift.net/post/-kjvz1wabq5fm-hxvoff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toolbar - An alternative to UIToolbar</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjtpfvbbretocbsga9e/</link>
+      <link>http://freshswift.net/post/-kjtpfvbbretocbsga9e/</link>
       <pubDate>Sat, 06 May 2017 17:35:58 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjtpfvbbretocbsga9e/</guid>
+      <guid>http://freshswift.net/post/-kjtpfvbbretocbsga9e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swifty Tips ⚡️</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8sboulje-uasubblb/</link>
+      <link>http://freshswift.net/post/-kj8sboulje-uasubblb/</link>
       <pubDate>Mon, 01 May 2017 11:09:26 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8sboulje-uasubblb/</guid>
+      <guid>http://freshswift.net/post/-kj8sboulje-uasubblb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tail Call Elimination in iOS</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8psh0nmgv7rgussck/</link>
+      <link>http://freshswift.net/post/-kj8psh0nmgv7rgussck/</link>
       <pubDate>Tue, 25 Apr 2017 10:44:19 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8psh0nmgv7rgussck/</guid>
+      <guid>http://freshswift.net/post/-kj8psh0nmgv7rgussck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haptica - Haptic Feedback Generator</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8ocn5j9lt_ljpffm4/</link>
+      <link>http://freshswift.net/post/-kj8ocn5j9lt_ljpffm4/</link>
       <pubDate>Wed, 19 Apr 2017 11:02:27 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8ocn5j9lt_ljpffm4/</guid>
+      <guid>http://freshswift.net/post/-kj8ocn5j9lt_ljpffm4/</guid>
       <description></description>
     </item>
     

@@ -2,20 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concurrency on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/concurrency/</link>
+    <link>http://freshswift.net/tags/concurrency/</link>
     <description>Recent content in Concurrency on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 May 2017 17:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 07:32:03 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Understanding Operation and OperationQueue in Swift</title>
+      <link>http://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</link>
+      <pubDate>Tue, 08 Aug 2017 07:32:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>All about Concurrency in Swift - Part 1: The Present</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kk75x8hexm-cfpqierv/</link>
+      <link>http://freshswift.net/post/-kk75x8hexm-cfpqierv/</link>
       <pubDate>Sun, 14 May 2017 17:57:39 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kk75x8hexm-cfpqierv/</guid>
+      <guid>http://freshswift.net/post/-kk75x8hexm-cfpqierv/</guid>
       <description></description>
     </item>
     

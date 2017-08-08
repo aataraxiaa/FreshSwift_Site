@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memory on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/memory/</link>
+    <link>http://freshswift.net/tags/memory/</link>
     <description>Recent content in Memory on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 05 May 2017 08:09:29 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/memory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift Arrays Holding Elements With Weak References</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kjme0fit1dm6vjmnmoj/</link>
+      <link>http://freshswift.net/post/-kjme0fit1dm6vjmnmoj/</link>
       <pubDate>Fri, 05 May 2017 08:09:29 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kjme0fit1dm6vjmnmoj/</guid>
+      <guid>http://freshswift.net/post/-kjme0fit1dm6vjmnmoj/</guid>
       <description></description>
     </item>
     

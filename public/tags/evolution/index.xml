@@ -2,38 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolution on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/evolution/</link>
+    <link>http://freshswift.net/tags/evolution/</link>
     <description>Recent content in Evolution on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Apr 2017 13:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 12:54:03 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The Swift Evolution Process</title>
+      <link>http://freshswift.net/post/-kq8fh2wfxntyq2e-ndo/</link>
+      <pubDate>Fri, 28 Jul 2017 12:54:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kq8fh2wfxntyq2e-ndo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing Guard-Catch</title>
+      <link>http://freshswift.net/post/-kobgoavuwxieqnvajyv/</link>
+      <pubDate>Sun, 09 Jul 2017 12:16:10 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kobgoavuwxieqnvajyv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing the !! operator to the Swift Standard Library</title>
+      <link>http://freshswift.net/post/-knxqmai5aetyzisizhb/</link>
+      <pubDate>Sat, 01 Jul 2017 09:15:38 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-knxqmai5aetyzisizhb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift phases and mis-timed proposals</title>
+      <link>http://freshswift.net/post/-kmk0j4jnynsh5idhepc/</link>
+      <pubDate>Fri, 16 Jun 2017 08:31:04 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmk0j4jnynsh5idhepc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift’s Evolution</title>
+      <link>http://freshswift.net/post/-kmnnlk-ydfjtoclk_od/</link>
+      <pubDate>Sun, 11 Jun 2017 18:20:51 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmnnlk-ydfjtoclk_od/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SE-0165: Dictionary &amp; Set Enhancements</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rlb8moaqr9ecldt6/</link>
+      <link>http://freshswift.net/post/-kj8rlb8moaqr9ecldt6/</link>
       <pubDate>Sun, 30 Apr 2017 13:56:38 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rlb8moaqr9ecldt6/</guid>
+      <guid>http://freshswift.net/post/-kj8rlb8moaqr9ecldt6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift Evolution iOS app</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8pgra-lzmq3p894mj/</link>
+      <link>http://freshswift.net/post/-kj8pgra-lzmq3p894mj/</link>
       <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8pgra-lzmq3p894mj/</guid>
+      <guid>http://freshswift.net/post/-kj8pgra-lzmq3p894mj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SE-1069: Improve interactions between private declarations and extensions</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8opmi09kbkqj6x6qg/</link>
+      <link>http://freshswift.net/post/-kj8opmi09kbkqj6x6qg/</link>
       <pubDate>Sun, 23 Apr 2017 09:54:45 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8opmi09kbkqj6x6qg/</guid>
+      <guid>http://freshswift.net/post/-kj8opmi09kbkqj6x6qg/</guid>
       <description></description>
     </item>
     

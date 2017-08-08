@@ -2,38 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Protocol on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/protocol/</link>
+    <link>http://freshswift.net/tags/protocol/</link>
     <description>Recent content in Protocol on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 May 2017 18:19:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 07:41:23 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Protocol composition in Swift and Objective-C</title>
+      <link>http://freshswift.net/post/-kn3ri9_gqwxpvy3irbj/</link>
+      <pubDate>Tue, 20 Jun 2017 07:41:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kn3ri9_gqwxpvy3irbj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocols and MVVM in Swift to avoid repetition</title>
+      <link>http://freshswift.net/post/-kkoeczuueywrzvfxrwp/</link>
+      <pubDate>Tue, 23 May 2017 07:37:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kkoeczuueywrzvfxrwp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Loose coupling using Swift protocols</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kklnflnfcf5nuwgxdbj/</link>
+      <link>http://freshswift.net/post/-kklnflnfcf5nuwgxdbj/</link>
       <pubDate>Mon, 22 May 2017 18:19:34 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kklnflnfcf5nuwgxdbj/</guid>
+      <guid>http://freshswift.net/post/-kklnflnfcf5nuwgxdbj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift Protocols as UI Mixins</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj93n5s7zi9yi6ydzkf/</link>
+      <link>http://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</link>
       <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj93n5s7zi9yi6ydzkf/</guid>
+      <guid>http://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dependency injection via protocol composition</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8qgv-molvtrumpd3r/</link>
+      <link>http://freshswift.net/post/-kj8qgv-molvtrumpd3r/</link>
       <pubDate>Mon, 17 Apr 2017 08:19:18 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8qgv-molvtrumpd3r/</guid>
+      <guid>http://freshswift.net/post/-kj8qgv-molvtrumpd3r/</guid>
       <description></description>
     </item>
     

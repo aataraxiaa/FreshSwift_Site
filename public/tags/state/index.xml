@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>State on Fresh Swift</title>
+    <link>http://freshswift.net/tags/state/</link>
+    <description>Recent content in State on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 27 Jul 2017 07:51:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://freshswift.net/tags/state/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reactive iOS Programming: Lightweight State Containers in Swift</title>
+      <link>http://freshswift.net/post/-kq20tkq0hki-quqr3am/</link>
+      <pubDate>Thu, 27 Jul 2017 07:51:40 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kq20tkq0hki-quqr3am/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling state in Swift</title>
+      <link>http://freshswift.net/post/-kopshctwqksrxphxnq-/</link>
+      <pubDate>Wed, 12 Jul 2017 08:18:53 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kopshctwqksrxphxnq-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

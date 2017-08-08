@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refactoring on Fresh Swift</title>
+    <link>http://freshswift.net/tags/refactoring/</link>
+    <description>Recent content in Refactoring on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Jul 2017 08:13:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://freshswift.net/tags/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Refactoring Reveals Truths</title>
+      <link>http://freshswift.net/post/-kpzcnao3hyenv7lbecq/</link>
+      <pubDate>Fri, 21 Jul 2017 08:13:36 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kpzcnao3hyenv7lbecq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple open sources key Xcode refactoring components</title>
+      <link>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</link>
+      <pubDate>Tue, 13 Jun 2017 07:49:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

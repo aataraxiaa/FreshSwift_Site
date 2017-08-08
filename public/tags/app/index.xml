@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/app/</link>
+    <link>http://freshswift.net/tags/app/</link>
     <description>Recent content in App on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 24 Apr 2017 15:59:16 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift Evolution iOS app</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8pgra-lzmq3p894mj/</link>
+      <link>http://freshswift.net/post/-kj8pgra-lzmq3p894mj/</link>
       <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8pgra-lzmq3p894mj/</guid>
+      <guid>http://freshswift.net/post/-kj8pgra-lzmq3p894mj/</guid>
       <description></description>
     </item>
     

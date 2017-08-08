@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lazycollection on Fresh Swift</title>
+    <link>http://freshswift.net/tags/lazycollection/</link>
+    <description>Recent content in Lazycollection on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 May 2017 07:47:54 +0000</lastBuildDate>
+    
+	<atom:link href="http://freshswift.net/tags/lazycollection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swift Tricks: Searching for Objects by Type</title>
+      <link>http://freshswift.net/post/-kktqhvafh53smopgeqo/</link>
+      <pubDate>Wed, 24 May 2017 07:47:54 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kktqhvafh53smopgeqo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

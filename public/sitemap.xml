@@ -1,534 +1,1249 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kklnflnfcf5nuwgxdbj/</loc>
+    <loc>http://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</loc>
+    <lastmod>2017-08-08T07:32:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</loc>
+    <lastmod>2017-08-07T09:11:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqlihz-y4jmu0trbpgh/</loc>
+    <lastmod>2017-08-05T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqg8fi3_ubbex_ijkuh/</loc>
+    <lastmod>2017-08-04T07:30:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqb1spnrtrlwgzgivx5/</loc>
+    <lastmod>2017-08-03T07:40:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqwrxmifbr_3sm3usfs/</loc>
+    <lastmod>2017-08-02T07:36:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqrdhjohxmzjs5_aguh/</loc>
+    <lastmod>2017-08-01T07:14:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqmzhb-x2yi2aqoxqc0/</loc>
+    <lastmod>2017-07-31T07:34:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqi-jakbsk9nxxgtenf/</loc>
+    <lastmod>2017-07-30T10:18:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kqctwwlc0hribq58b6s/</loc>
+    <lastmod>2017-07-29T08:34:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kq8fh2wfxntyq2e-ndo/</loc>
+    <lastmod>2017-07-28T12:54:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kq74w5j2vbnbn4frnjl/</loc>
+    <lastmod>2017-07-28T07:27:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kq20tkq0hki-quqr3am/</loc>
+    <lastmod>2017-07-27T07:51:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpxqgymks4parugusoz/</loc>
+    <lastmod>2017-07-26T07:42:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpsgb8qbiw2psvttyjw/</loc>
+    <lastmod>2017-07-25T07:42:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpnyw36mfnzfuskt_t2/</loc>
+    <lastmod>2017-07-24T07:46:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpilabx5o-ow_zn1xmo/</loc>
+    <lastmod>2017-07-23T09:26:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</loc>
+    <lastmod>2017-07-22T10:14:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpzcnao3hyenv7lbecq/</loc>
+    <lastmod>2017-07-21T08:13:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpu1mg4ramvc66e_m_k/</loc>
+    <lastmod>2017-07-20T08:07:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpoqu4cqne83gv2pykq/</loc>
+    <lastmod>2017-07-19T07:59:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpjct1cnhqzj_bjgenf/</loc>
+    <lastmod>2017-07-18T07:39:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpesawt4wnwaggpt08p/</loc>
+    <lastmod>2017-07-17T07:32:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kpapwavk_b4iwo4ix-b/</loc>
+    <lastmod>2017-07-16T12:40:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kp0cgdrrwufjqgpvavb/</loc>
+    <lastmod>2017-07-14T13:06:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kopshctwqksrxphxnq-/</loc>
+    <lastmod>2017-07-12T08:18:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-koke-tgpqfz_xmungtm/</loc>
+    <lastmod>2017-07-11T07:58:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kofmucwak579q8vusvc/</loc>
+    <lastmod>2017-07-10T09:19:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-koctt_bhyhrjcolrnjt/</loc>
+    <lastmod>2017-07-09T17:51:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kobgoavuwxieqnvajyv/</loc>
+    <lastmod>2017-07-09T12:16:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-komo6dvbqymcbwqzyvc/</loc>
+    <lastmod>2017-07-06T12:12:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-koghe9nhofbto80ug6e/</loc>
+    <lastmod>2017-07-05T07:44:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-koby6in5cvxmwtdev_s/</loc>
+    <lastmod>2017-07-04T07:41:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-ko6aumo5ooulvhtgmrp/</loc>
+    <lastmod>2017-07-03T08:40:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-ko1rry7eso6bjfhpqyj/</loc>
+    <lastmod>2017-07-02T10:36:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knyhqrsbezvhjlsqpp9/</loc>
+    <lastmod>2017-07-01T13:14:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knxmafzv6mvwflyredg/</loc>
+    <lastmod>2017-07-01T10:53:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knxqmai5aetyzisizhb/</loc>
+    <lastmod>2017-07-01T09:15:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knswwpqon46483ocxv9/</loc>
+    <lastmod>2017-06-30T12:22:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knsb-apyrhyhefnrxyi/</loc>
+    <lastmod>2017-06-30T08:48:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kns6fjoeoyjjtzng37q/</loc>
+    <lastmod>2017-06-30T08:27:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knmlb8hy68-fjalrft9/</loc>
+    <lastmod>2017-06-29T07:33:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knhgdrbvvejk2kza9vk/</loc>
+    <lastmod>2017-06-28T07:53:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knhf6wivy2ya2ndsrra/</loc>
+    <lastmod>2017-06-28T07:48:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kndozikh_lykb5lqgbt/</loc>
+    <lastmod>2017-06-27T13:53:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kncwgm9jywp3wqapidr/</loc>
+    <lastmod>2017-06-27T07:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-knda6swrfnvgxrjnoec/</loc>
+    <lastmod>2017-06-22T06:58:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kn8aee2jg240iomsra1/</loc>
+    <lastmod>2017-06-21T07:41:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kn3ri9_gqwxpvy3irbj/</loc>
+    <lastmod>2017-06-20T07:41:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmznvjehqax3ynryisv/</loc>
+    <lastmod>2017-06-19T08:06:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmv5ocfocimrpeqlxio/</loc>
+    <lastmod>2017-06-18T12:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmv3xidmjwpdp1ikxp7/</loc>
+    <lastmod>2017-06-18T11:59:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmkvt8kms5itk3lunhu/</loc>
+    <lastmod>2017-06-16T12:45:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmk0j4jnynsh5idhepc/</loc>
+    <lastmod>2017-06-16T08:31:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmegssjco9vanonwxu2/</loc>
+    <lastmod>2017-06-15T07:40:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-km_w3y-kj1wbvguxci3/</loc>
+    <lastmod>2017-06-14T07:32:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-km_uh_cw0vobwme3v9r/</loc>
+    <lastmod>2017-06-14T07:26:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</loc>
+    <lastmod>2017-06-13T07:49:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmrhhcw0cbb6_jhpqjy/</loc>
+    <lastmod>2017-06-12T12:32:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmqhgpn0lswkh7wwxw8/</loc>
+    <lastmod>2017-06-12T07:51:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmnnlk-ydfjtoclk_od/</loc>
+    <lastmod>2017-06-11T18:20:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kmcbkqz1jchgcifrmbb/</loc>
+    <lastmod>2017-06-09T14:12:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-km6z5daiorb_ewu4yrg/</loc>
+    <lastmod>2017-06-08T11:56:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-km1ggy90s5gf_1bal5w/</loc>
+    <lastmod>2017-06-07T11:18:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-klwprgdikgd9ccgjbkt/</loc>
+    <lastmod>2017-06-06T07:58:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-klsb0ux2onslnjbjlsc/</loc>
+    <lastmod>2017-06-05T12:17:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-klnef9wd3vrkffxw1km/</loc>
+    <lastmod>2017-06-04T15:11:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-klctr8w61mlloyqpg1_/</loc>
+    <lastmod>2017-06-02T11:03:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-klc1x3qjd8kw9doijwq/</loc>
+    <lastmod>2017-06-02T09:01:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-klsrinxvlmcoxhnn27n/</loc>
+    <lastmod>2017-05-31T07:40:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</loc>
+    <lastmod>2017-05-30T07:53:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kli7-bvgn__pee7xspr/</loc>
+    <lastmod>2017-05-29T07:33:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kldpzhntbdqerj1cnbz/</loc>
+    <lastmod>2017-05-28T11:34:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kl2ke0xfq9cnlnvl0rf/</loc>
+    <lastmod>2017-05-26T07:57:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kkyegioc80u38l1u9sw/</loc>
+    <lastmod>2017-05-25T08:13:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kktbmogjv1zplhekblk/</loc>
+    <lastmod>2017-05-24T08:40:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kktqhvafh53smopgeqo/</loc>
+    <lastmod>2017-05-24T07:47:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kkoeczuueywrzvfxrwp/</loc>
+    <lastmod>2017-05-23T07:37:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kklnflnfcf5nuwgxdbj/</loc>
     <lastmod>2017-05-22T18:19:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kkvpce91cqugfcpkppj/</loc>
+    <loc>http://freshswift.net/post/-kkvpce91cqugfcpkppj/</loc>
     <lastmod>2017-05-19T11:12:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kkcaidmjzf5yiackwuj/</loc>
+    <loc>http://freshswift.net/post/-kkcaidmjzf5yiackwuj/</loc>
     <lastmod>2017-05-15T17:36:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kkbruirmwpcjv9tbdsb/</loc>
+    <loc>http://freshswift.net/post/-kkbruirmwpcjv9tbdsb/</loc>
     <lastmod>2017-05-15T14:12:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kkbkndz0pdat0xa4ht-/</loc>
+    <loc>http://freshswift.net/post/-kkbkndz0pdat0xa4ht-/</loc>
     <lastmod>2017-05-15T13:41:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kka3lossjca4s7a3ra-/</loc>
+    <loc>http://freshswift.net/post/-kka3lossjca4s7a3ra-/</loc>
     <lastmod>2017-05-15T07:47:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kk75x8hexm-cfpqierv/</loc>
+    <loc>http://freshswift.net/post/-kk75x8hexm-cfpqierv/</loc>
     <lastmod>2017-05-14T17:57:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kk5da6kidgbvd00ae5_/</loc>
+    <loc>http://freshswift.net/post/-kk5da6kidgbvd00ae5_/</loc>
     <lastmod>2017-05-14T11:09:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kk5_bhwrtdxjk7ou-os/</loc>
+    <loc>http://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</loc>
     <lastmod>2017-05-14T10:50:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kk5w7mbhnqdm5w48bqw/</loc>
+    <loc>http://freshswift.net/post/-kk5w7mbhnqdm5w48bqw/</loc>
     <lastmod>2017-05-14T10:32:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kk-wsxgkjzmmrfgfxmv/</loc>
+    <loc>http://freshswift.net/post/-kk-wsxgkjzmmrfgfxmv/</loc>
     <lastmod>2017-05-13T08:36:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjvz1wabq5fm-hxvoff/</loc>
+    <loc>http://freshswift.net/post/-kjvz1wabq5fm-hxvoff/</loc>
     <lastmod>2017-05-12T07:29:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjlhnkyod7yf7g5mooi/</loc>
+    <loc>http://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</loc>
     <lastmod>2017-05-10T07:36:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjg8ty95fs_gaqxi4ne/</loc>
+    <loc>http://freshswift.net/post/-kjg8ty95fs_gaqxi4ne/</loc>
     <lastmod>2017-05-09T07:39:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjd_mbc2l-l9h9jc8pj/</loc>
+    <loc>http://freshswift.net/post/-kjd_mbc2l-l9h9jc8pj/</loc>
     <lastmod>2017-05-08T19:44:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjawewo6t8tu8co1yq7/</loc>
+    <loc>http://freshswift.net/post/-kjawewo6t8tu8co1yq7/</loc>
     <lastmod>2017-05-08T07:25:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjxi6yg_jtzldl2ckl7/</loc>
+    <loc>http://freshswift.net/post/-kjxi6yg_jtzldl2ckl7/</loc>
     <lastmod>2017-05-07T09:45:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjtpfvbbretocbsga9e/</loc>
+    <loc>http://freshswift.net/post/-kjtpfvbbretocbsga9e/</loc>
     <lastmod>2017-05-06T17:35:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjrsbu8ithuiptxgw_6/</loc>
+    <loc>http://freshswift.net/post/-kjrsbu8ithuiptxgw_6/</loc>
     <lastmod>2017-05-06T08:29:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjme0fit1dm6vjmnmoj/</loc>
+    <loc>http://freshswift.net/post/-kjme0fit1dm6vjmnmoj/</loc>
     <lastmod>2017-05-05T08:09:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kjhqkwkftvzimgmbr2p/</loc>
+    <loc>http://freshswift.net/post/-kjhqkwkftvzimgmbr2p/</loc>
     <lastmod>2017-05-04T07:47:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj93n5s7zi9yi6ydzkf/</loc>
+    <loc>http://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</loc>
     <lastmod>2017-05-02T16:51:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8slimtbokwidd2ygd/</loc>
+    <loc>http://freshswift.net/post/-kj8slimtbokwidd2ygd/</loc>
     <lastmod>2017-05-02T15:57:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8sboulje-uasubblb/</loc>
+    <loc>http://freshswift.net/post/-kj8sboulje-uasubblb/</loc>
     <lastmod>2017-05-01T11:09:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8s-idi0_0jqjk-bay/</loc>
+    <loc>http://freshswift.net/post/-kj8s-idi0_0jqjk-bay/</loc>
     <lastmod>2017-05-01T08:53:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rlb8moaqr9ecldt6/</loc>
+    <loc>http://freshswift.net/post/-kj8rlb8moaqr9ecldt6/</loc>
     <lastmod>2017-04-30T13:56:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rbrppnp70xyn3r0i/</loc>
+    <loc>http://freshswift.net/post/-kj8rbrppnp70xyn3r0i/</loc>
     <lastmod>2017-04-29T13:47:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8ruqbbtncdizhrb5-/</loc>
+    <loc>http://freshswift.net/post/-kj8ruqbbtncdizhrb5-/</loc>
     <lastmod>2017-04-29T13:40:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8rgdnz_lwattlfu7n/</loc>
+    <loc>http://freshswift.net/post/-kj8rgdnz_lwattlfu7n/</loc>
     <lastmod>2017-04-29T13:04:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8r0ldyet1txhhqltu/</loc>
+    <loc>http://freshswift.net/post/-kj8r0ldyet1txhhqltu/</loc>
     <lastmod>2017-04-29T08:06:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8qp08kitkwxc7wfvj/</loc>
+    <loc>http://freshswift.net/post/-kj8qp08kitkwxc7wfvj/</loc>
     <lastmod>2017-04-29T06:47:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8qwg3kop4yr4z1xsg/</loc>
+    <loc>http://freshswift.net/post/-kj8qwg3kop4yr4z1xsg/</loc>
     <lastmod>2017-04-28T19:03:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8qmgko6cn3dkc2lzt/</loc>
+    <loc>http://freshswift.net/post/-kj8qmgko6cn3dkc2lzt/</loc>
     <lastmod>2017-04-28T07:45:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8pxg0mf2yyllch9qe/</loc>
+    <loc>http://freshswift.net/post/-kj8pxg0mf2yyllch9qe/</loc>
     <lastmod>2017-04-27T07:56:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8pnvyz5ujprphkuu1/</loc>
+    <loc>http://freshswift.net/post/-kj8pnvyz5ujprphkuu1/</loc>
     <lastmod>2017-04-26T12:21:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8pdeti40lonwdjpqz/</loc>
+    <loc>http://freshswift.net/post/-kj8pdeti40lonwdjpqz/</loc>
     <lastmod>2017-04-26T12:14:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8psh0nmgv7rgussck/</loc>
+    <loc>http://freshswift.net/post/-kj8psh0nmgv7rgussck/</loc>
     <lastmod>2017-04-25T10:44:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8pgra-lzmq3p894mj/</loc>
+    <loc>http://freshswift.net/post/-kj8pgra-lzmq3p894mj/</loc>
     <lastmod>2017-04-24T15:59:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8p7y_sqvbu2jjlyo2/</loc>
+    <loc>http://freshswift.net/post/-kj8p7y_sqvbu2jjlyo2/</loc>
     <lastmod>2017-04-23T18:07:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8ozvnxo7xkolb2dxt/</loc>
+    <loc>http://freshswift.net/post/-kj8ozvnxo7xkolb2dxt/</loc>
     <lastmod>2017-04-23T11:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8opmi09kbkqj6x6qg/</loc>
+    <loc>http://freshswift.net/post/-kj8opmi09kbkqj6x6qg/</loc>
     <lastmod>2017-04-23T09:54:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8oaxsnjepzxcit94x/</loc>
+    <loc>http://freshswift.net/post/-kj8oaxsnjepzxcit94x/</loc>
     <lastmod>2017-04-21T15:24:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8oqbrrlxgl1ncw_ha/</loc>
+    <loc>http://freshswift.net/post/-kj8oqbrrlxgl1ncw_ha/</loc>
     <lastmod>2017-04-19T13:57:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8ocn5j9lt_ljpffm4/</loc>
+    <loc>http://freshswift.net/post/-kj8ocn5j9lt_ljpffm4/</loc>
     <lastmod>2017-04-19T11:02:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8o-xxodgtfhj9o78i/</loc>
+    <loc>http://freshswift.net/post/-kj8o-xxodgtfhj9o78i/</loc>
     <lastmod>2017-04-18T11:02:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj8qgv-molvtrumpd3r/</loc>
+    <loc>http://freshswift.net/post/-kj8qgv-molvtrumpd3r/</loc>
     <lastmod>2017-04-17T08:19:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/-kj7s0mpq-pgwopj1onv/</loc>
+    <loc>http://freshswift.net/post/-kj7s0mpq-pgwopj1onv/</loc>
     <lastmod>2017-04-17T08:07:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/algorithms/</loc>
+    <loc>http://freshswift.net/tags/algorithms/</loc>
     <lastmod>2017-04-29T13:04:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/app/</loc>
+    <loc>http://freshswift.net/tags/animation/</loc>
+    <lastmod>2017-08-07T09:11:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/animation-ios/</loc>
+    <lastmod>2017-07-26T07:42:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/app/</loc>
     <lastmod>2017-04-24T15:59:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/benchmarks/</loc>
+    <loc>http://freshswift.net/tags/autoclosure/</loc>
+    <lastmod>2017-06-30T08:48:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/benchmarks/</loc>
     <lastmod>2017-05-14T11:09:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/best-practices/</loc>
+    <loc>http://freshswift.net/tags/best-practices/</loc>
     <lastmod>2017-05-01T11:09:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/build/</loc>
+    <loc>http://freshswift.net/tags/build/</loc>
     <lastmod>2017-04-21T15:24:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/categories/</loc>
+    <loc>http://freshswift.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/cheat-sheet/</loc>
+    <loc>http://freshswift.net/tags/cheat-sheet/</loc>
     <lastmod>2017-04-27T07:56:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/clean-code/</loc>
+    <loc>http://freshswift.net/tags/clean-code/</loc>
     <lastmod>2017-04-18T11:02:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/closures/</loc>
+    <loc>http://freshswift.net/tags/closure/</loc>
+    <lastmod>2017-06-21T07:41:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/closures/</loc>
     <lastmod>2017-05-13T08:36:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/code-style/</loc>
+    <loc>http://freshswift.net/tags/codable/</loc>
+    <lastmod>2017-07-19T07:59:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/code-style/</loc>
     <lastmod>2017-05-08T07:25:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/command-line/</loc>
+    <loc>http://freshswift.net/tags/command-line/</loc>
     <lastmod>2017-05-10T07:36:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/compiler/</loc>
-    <lastmod>2017-04-26T12:14:50+00:00</lastmod>
+    <loc>http://freshswift.net/tags/compatibility/</loc>
+    <lastmod>2017-07-25T07:42:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/concurrency/</loc>
-    <lastmod>2017-05-14T17:57:39+00:00</lastmod>
+    <loc>http://freshswift.net/tags/compiler/</loc>
+    <lastmod>2017-07-25T07:42:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/coordinators/</loc>
+    <loc>http://freshswift.net/tags/concurrency/</loc>
+    <lastmod>2017-08-08T07:32:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/constant/</loc>
+    <lastmod>2017-07-31T07:34:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/coordinators/</loc>
     <lastmod>2017-05-15T13:41:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/debugging/</loc>
+    <loc>http://freshswift.net/tags/copyonwrite/</loc>
+    <lastmod>2017-06-07T11:18:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/coreanimation/</loc>
+    <lastmod>2017-06-29T07:33:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/debugging/</loc>
     <lastmod>2017-05-12T07:29:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/dependency-injection/</loc>
+    <loc>http://freshswift.net/tags/declarative/</loc>
+    <lastmod>2017-08-07T09:11:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/decodable/</loc>
+    <lastmod>2017-07-23T09:26:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/dependency-injection/</loc>
     <lastmod>2017-04-17T08:19:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/design-patterns/</loc>
+    <loc>http://freshswift.net/tags/design-patterns/</loc>
     <lastmod>2017-05-15T07:47:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/enums/</loc>
+    <loc>http://freshswift.net/tags/dictionary/</loc>
+    <lastmod>2017-06-27T13:53:22+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/discussion/</loc>
+    <lastmod>2017-06-16T08:31:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/dispatch/</loc>
+    <lastmod>2017-05-26T07:57:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/enum/</loc>
+    <lastmod>2017-07-12T08:18:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/enums/</loc>
     <lastmod>2017-04-23T18:07:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/error-handling/</loc>
+    <loc>http://freshswift.net/tags/error/</loc>
+    <lastmod>2017-08-02T07:36:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/error-handling/</loc>
     <lastmod>2017-05-01T08:53:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/evoluion/</loc>
+    <loc>http://freshswift.net/tags/evoluion/</loc>
     <lastmod>2017-05-06T08:29:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/evolution/</loc>
-    <lastmod>2017-04-30T13:56:38+00:00</lastmod>
+    <loc>http://freshswift.net/tags/evolution/</loc>
+    <lastmod>2017-07-28T12:54:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/experimental/</loc>
+    <loc>http://freshswift.net/tags/experimental/</loc>
     <lastmod>2017-05-07T09:45:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/formatting/</loc>
+    <loc>http://freshswift.net/tags/extension/</loc>
+    <lastmod>2017-05-24T08:40:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/flatmap/</loc>
+    <lastmod>2017-07-11T07:58:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/formatting/</loc>
     <lastmod>2017-05-08T07:25:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/</loc>
-    <lastmod>2017-05-22T18:19:34+00:00</lastmod>
+    <loc>http://freshswift.net/</loc>
+    <lastmod>2017-08-08T07:32:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/page/about/</loc>
+    <loc>http://freshswift.net/page/about/</loc>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/gist/</loc>
+    <loc>http://freshswift.net/tags/functional/</loc>
+    <lastmod>2017-08-03T07:40:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/fundamentals/</loc>
+    <lastmod>2017-07-01T13:14:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/gcd/</loc>
+    <lastmod>2017-06-04T15:11:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/generics/</loc>
+    <lastmod>2017-07-22T10:14:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/gist/</loc>
     <lastmod>2017-05-02T16:51:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/guide/</loc>
+    <loc>http://freshswift.net/tags/guide/</loc>
     <lastmod>2017-05-14T10:50:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/ios/</loc>
-    <lastmod>2017-05-15T14:12:04+00:00</lastmod>
+    <loc>http://freshswift.net/tags/higherorder/</loc>
+    <lastmod>2017-05-25T08:13:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/lazy/</loc>
+    <loc>http://freshswift.net/tags/identifier/</loc>
+    <lastmod>2017-07-18T07:39:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/identify/</loc>
+    <lastmod>2017-07-24T07:46:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/initialization/</loc>
+    <lastmod>2017-08-05T09:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/ios/</loc>
+    <lastmod>2017-08-08T07:32:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/json/</loc>
+    <lastmod>2017-07-23T09:26:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/keypath/</loc>
+    <lastmod>2017-07-22T10:14:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/kvo/</loc>
+    <lastmod>2017-07-22T10:14:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/lazy/</loc>
     <lastmod>2017-05-19T11:12:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/library/</loc>
-    <lastmod>2017-05-15T14:12:04+00:00</lastmod>
+    <loc>http://freshswift.net/tags/lazycollection/</loc>
+    <lastmod>2017-05-24T07:47:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/memory/</loc>
+    <loc>http://freshswift.net/tags/learning/</loc>
+    <lastmod>2017-08-01T07:14:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/library/</loc>
+    <lastmod>2017-07-30T10:18:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/macos/</loc>
+    <lastmod>2017-08-04T07:30:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/map/</loc>
+    <lastmod>2017-08-03T07:40:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/memory/</loc>
     <lastmod>2017-05-05T08:09:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/mixin/</loc>
+    <loc>http://freshswift.net/tags/mixin/</loc>
     <lastmod>2017-05-02T16:51:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/operators/</loc>
+    <loc>http://freshswift.net/tags/monad/</loc>
+    <lastmod>2017-07-11T07:58:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/mvvm/</loc>
+    <lastmod>2017-05-23T07:37:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/opensource/</loc>
+    <lastmod>2017-06-13T07:49:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/operationqueue/</loc>
+    <lastmod>2017-08-08T07:32:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/operators/</loc>
     <lastmod>2017-05-02T15:57:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/page/</loc>
+    <loc>http://freshswift.net/tags/optional/</loc>
+    <lastmod>2017-06-30T12:22:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/playground/</loc>
+    <loc>http://freshswift.net/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/performance/</loc>
+    <lastmod>2017-07-20T08:07:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/playground/</loc>
     <lastmod>2017-04-29T08:06:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/podcast/</loc>
+    <loc>http://freshswift.net/tags/podcast/</loc>
     <lastmod>2017-04-19T13:57:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/post/</loc>
-    <lastmod>2017-05-22T18:19:34+00:00</lastmod>
+    <loc>http://freshswift.net/post/</loc>
+    <lastmod>2017-08-08T07:32:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/protocol/</loc>
-    <lastmod>2017-05-22T18:19:34+00:00</lastmod>
+    <loc>http://freshswift.net/tags/print/</loc>
+    <lastmod>2017-08-04T07:30:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/reflection/</loc>
+    <loc>http://freshswift.net/tags/protocol/</loc>
+    <lastmod>2017-06-20T07:41:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/queue/</loc>
+    <lastmod>2017-05-26T07:57:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/reducer/</loc>
+    <lastmod>2017-07-10T09:19:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/refactoring/</loc>
+    <lastmod>2017-07-21T08:13:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/reflection/</loc>
     <lastmod>2017-04-17T08:07:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/server-side/</loc>
+    <loc>http://freshswift.net/tags/server-side/</loc>
     <lastmod>2017-05-14T11:09:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/style/</loc>
+    <loc>http://freshswift.net/tags/serverside/</loc>
+    <lastmod>2017-07-09T17:51:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/singleton/</loc>
+    <lastmod>2017-06-05T12:17:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/state/</loc>
+    <lastmod>2017-07-27T07:51:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/staticanalysis/</loc>
+    <lastmod>2017-06-09T14:12:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/string/</loc>
+    <lastmod>2017-07-18T07:39:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/style/</loc>
     <lastmod>2017-05-08T19:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/swift-package-manager/</loc>
+    <loc>http://freshswift.net/tags/swift-package-manager/</loc>
     <lastmod>2017-05-10T07:36:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/</loc>
+    <loc>http://freshswift.net/tags/swift4/</loc>
+    <lastmod>2017-07-26T07:42:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/</loc>
     <lastmod>2017-04-29T13:04:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/talk/</loc>
-    <lastmod>2017-05-04T07:47:17+00:00</lastmod>
+    <loc>http://freshswift.net/tags/talk/</loc>
+    <lastmod>2017-08-03T07:40:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/terminology/</loc>
+    <loc>http://freshswift.net/tags/terminology/</loc>
     <lastmod>2017-04-29T06:47:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/testing/</loc>
-    <lastmod>2017-04-29T13:40:50+00:00</lastmod>
+    <loc>http://freshswift.net/tags/test/</loc>
+    <lastmod>2017-05-30T07:53:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/tuples/</loc>
-    <lastmod>2017-05-09T07:39:19+00:00</lastmod>
+    <loc>http://freshswift.net/tags/testing/</loc>
+    <lastmod>2017-07-17T07:32:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/uitableview/</loc>
+    <loc>http://freshswift.net/tags/tuples/</loc>
+    <lastmod>2017-06-02T09:01:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/typedriven/</loc>
+    <lastmod>2017-05-31T07:40:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/uitableview/</loc>
     <lastmod>2017-05-14T10:50:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/value-types/</loc>
+    <loc>http://freshswift.net/tags/value-types/</loc>
     <lastmod>2017-05-15T17:36:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://petethedeveloper.com/FreshSwift_Site/tags/xcode/</loc>
-    <lastmod>2017-04-29T08:06:30+00:00</lastmod>
+    <loc>http://freshswift.net/tags/valuetype/</loc>
+    <lastmod>2017-06-07T11:18:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/vapor/</loc>
+    <lastmod>2017-07-09T17:51:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/watchos/</loc>
+    <lastmod>2017-06-08T11:56:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/xcode/</loc>
+    <lastmod>2017-06-13T07:49:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   

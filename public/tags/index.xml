@@ -2,407 +2,893 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/</link>
+    <link>http://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 29 Apr 2017 13:04:13 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Algorithms</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/algorithms/</link>
+      <link>http://freshswift.net/tags/algorithms/</link>
       <pubDate>Sat, 29 Apr 2017 13:04:13 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/algorithms/</guid>
+      <guid>http://freshswift.net/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animation</title>
+      <link>http://freshswift.net/tags/animation/</link>
+      <pubDate>Mon, 07 Aug 2017 09:11:45 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animation Ios</title>
+      <link>http://freshswift.net/tags/animation-ios/</link>
+      <pubDate>Wed, 26 Jul 2017 07:42:47 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/animation-ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>App</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/app/</link>
+      <link>http://freshswift.net/tags/app/</link>
       <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/app/</guid>
+      <guid>http://freshswift.net/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoclosure</title>
+      <link>http://freshswift.net/tags/autoclosure/</link>
+      <pubDate>Fri, 30 Jun 2017 08:48:35 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/autoclosure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benchmarks</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/benchmarks/</link>
+      <link>http://freshswift.net/tags/benchmarks/</link>
       <pubDate>Sun, 14 May 2017 11:09:46 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/benchmarks/</guid>
+      <guid>http://freshswift.net/tags/benchmarks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Best Practices</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/best-practices/</link>
+      <link>http://freshswift.net/tags/best-practices/</link>
       <pubDate>Mon, 01 May 2017 11:09:26 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/best-practices/</guid>
+      <guid>http://freshswift.net/tags/best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/build/</link>
+      <link>http://freshswift.net/tags/build/</link>
       <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/build/</guid>
+      <guid>http://freshswift.net/tags/build/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cheat Sheet</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/cheat-sheet/</link>
+      <link>http://freshswift.net/tags/cheat-sheet/</link>
       <pubDate>Thu, 27 Apr 2017 07:56:41 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/cheat-sheet/</guid>
+      <guid>http://freshswift.net/tags/cheat-sheet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clean Code</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/clean-code/</link>
+      <link>http://freshswift.net/tags/clean-code/</link>
       <pubDate>Tue, 18 Apr 2017 11:02:11 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/clean-code/</guid>
+      <guid>http://freshswift.net/tags/clean-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closure</title>
+      <link>http://freshswift.net/tags/closure/</link>
+      <pubDate>Wed, 21 Jun 2017 07:41:05 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/closure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Closures</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/closures/</link>
+      <link>http://freshswift.net/tags/closures/</link>
       <pubDate>Sat, 13 May 2017 08:36:19 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/closures/</guid>
+      <guid>http://freshswift.net/tags/closures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codable</title>
+      <link>http://freshswift.net/tags/codable/</link>
+      <pubDate>Wed, 19 Jul 2017 07:59:12 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/codable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code Style</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/code-style/</link>
+      <link>http://freshswift.net/tags/code-style/</link>
       <pubDate>Mon, 08 May 2017 07:25:17 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/code-style/</guid>
+      <guid>http://freshswift.net/tags/code-style/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Command Line</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/command-line/</link>
+      <link>http://freshswift.net/tags/command-line/</link>
       <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/command-line/</guid>
+      <guid>http://freshswift.net/tags/command-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compatibility</title>
+      <link>http://freshswift.net/tags/compatibility/</link>
+      <pubDate>Tue, 25 Jul 2017 07:42:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/compatibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compiler</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/compiler/</link>
-      <pubDate>Wed, 26 Apr 2017 12:14:50 +0000</pubDate>
+      <link>http://freshswift.net/tags/compiler/</link>
+      <pubDate>Tue, 25 Jul 2017 07:42:27 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/compiler/</guid>
+      <guid>http://freshswift.net/tags/compiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concurrency</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/concurrency/</link>
-      <pubDate>Sun, 14 May 2017 17:57:39 +0000</pubDate>
+      <link>http://freshswift.net/tags/concurrency/</link>
+      <pubDate>Tue, 08 Aug 2017 07:32:03 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/concurrency/</guid>
+      <guid>http://freshswift.net/tags/concurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constant</title>
+      <link>http://freshswift.net/tags/constant/</link>
+      <pubDate>Mon, 31 Jul 2017 07:34:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/constant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coordinators</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/coordinators/</link>
+      <link>http://freshswift.net/tags/coordinators/</link>
       <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/coordinators/</guid>
+      <guid>http://freshswift.net/tags/coordinators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copyonwrite</title>
+      <link>http://freshswift.net/tags/copyonwrite/</link>
+      <pubDate>Wed, 07 Jun 2017 11:18:17 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/copyonwrite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coreanimation</title>
+      <link>http://freshswift.net/tags/coreanimation/</link>
+      <pubDate>Thu, 29 Jun 2017 07:33:20 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/coreanimation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Debugging</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/debugging/</link>
+      <link>http://freshswift.net/tags/debugging/</link>
       <pubDate>Fri, 12 May 2017 07:29:42 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/debugging/</guid>
+      <guid>http://freshswift.net/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Declarative</title>
+      <link>http://freshswift.net/tags/declarative/</link>
+      <pubDate>Mon, 07 Aug 2017 09:11:45 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/declarative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decodable</title>
+      <link>http://freshswift.net/tags/decodable/</link>
+      <pubDate>Sun, 23 Jul 2017 09:26:12 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/decodable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dependency Injection</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/dependency-injection/</link>
+      <link>http://freshswift.net/tags/dependency-injection/</link>
       <pubDate>Mon, 17 Apr 2017 08:19:18 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/dependency-injection/</guid>
+      <guid>http://freshswift.net/tags/dependency-injection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Patterns</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/design-patterns/</link>
+      <link>http://freshswift.net/tags/design-patterns/</link>
       <pubDate>Mon, 15 May 2017 07:47:01 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/design-patterns/</guid>
+      <guid>http://freshswift.net/tags/design-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dictionary</title>
+      <link>http://freshswift.net/tags/dictionary/</link>
+      <pubDate>Tue, 27 Jun 2017 13:53:22 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/dictionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussion</title>
+      <link>http://freshswift.net/tags/discussion/</link>
+      <pubDate>Fri, 16 Jun 2017 08:31:04 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/discussion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dispatch</title>
+      <link>http://freshswift.net/tags/dispatch/</link>
+      <pubDate>Fri, 26 May 2017 07:57:29 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/dispatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enum</title>
+      <link>http://freshswift.net/tags/enum/</link>
+      <pubDate>Wed, 12 Jul 2017 08:18:53 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/enum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enums</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/enums/</link>
+      <link>http://freshswift.net/tags/enums/</link>
       <pubDate>Sun, 23 Apr 2017 18:07:51 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/enums/</guid>
+      <guid>http://freshswift.net/tags/enums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error</title>
+      <link>http://freshswift.net/tags/error/</link>
+      <pubDate>Wed, 02 Aug 2017 07:36:26 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/error/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Error Handling</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/error-handling/</link>
+      <link>http://freshswift.net/tags/error-handling/</link>
       <pubDate>Mon, 01 May 2017 08:53:46 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/error-handling/</guid>
+      <guid>http://freshswift.net/tags/error-handling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evoluion</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/evoluion/</link>
+      <link>http://freshswift.net/tags/evoluion/</link>
       <pubDate>Sat, 06 May 2017 08:29:32 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/evoluion/</guid>
+      <guid>http://freshswift.net/tags/evoluion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/evolution/</link>
-      <pubDate>Sun, 30 Apr 2017 13:56:38 +0000</pubDate>
+      <link>http://freshswift.net/tags/evolution/</link>
+      <pubDate>Fri, 28 Jul 2017 12:54:03 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/evolution/</guid>
+      <guid>http://freshswift.net/tags/evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/experimental/</link>
+      <link>http://freshswift.net/tags/experimental/</link>
       <pubDate>Sun, 07 May 2017 09:45:15 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/experimental/</guid>
+      <guid>http://freshswift.net/tags/experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extension</title>
+      <link>http://freshswift.net/tags/extension/</link>
+      <pubDate>Wed, 24 May 2017 08:40:39 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flatmap</title>
+      <link>http://freshswift.net/tags/flatmap/</link>
+      <pubDate>Tue, 11 Jul 2017 07:58:25 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/flatmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formatting</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/formatting/</link>
+      <link>http://freshswift.net/tags/formatting/</link>
       <pubDate>Mon, 08 May 2017 07:25:17 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/formatting/</guid>
+      <guid>http://freshswift.net/tags/formatting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional</title>
+      <link>http://freshswift.net/tags/functional/</link>
+      <pubDate>Thu, 03 Aug 2017 07:40:26 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamentals</title>
+      <link>http://freshswift.net/tags/fundamentals/</link>
+      <pubDate>Sat, 01 Jul 2017 13:14:24 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gcd</title>
+      <link>http://freshswift.net/tags/gcd/</link>
+      <pubDate>Sun, 04 Jun 2017 15:11:15 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/gcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generics</title>
+      <link>http://freshswift.net/tags/generics/</link>
+      <pubDate>Sat, 22 Jul 2017 10:14:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/generics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gist</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/gist/</link>
+      <link>http://freshswift.net/tags/gist/</link>
       <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/gist/</guid>
+      <guid>http://freshswift.net/tags/gist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guide</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/guide/</link>
+      <link>http://freshswift.net/tags/guide/</link>
       <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/guide/</guid>
+      <guid>http://freshswift.net/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higherorder</title>
+      <link>http://freshswift.net/tags/higherorder/</link>
+      <pubDate>Thu, 25 May 2017 08:13:20 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/higherorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifier</title>
+      <link>http://freshswift.net/tags/identifier/</link>
+      <pubDate>Tue, 18 Jul 2017 07:39:52 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/identifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identify</title>
+      <link>http://freshswift.net/tags/identify/</link>
+      <pubDate>Mon, 24 Jul 2017 07:46:28 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/identify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initialization</title>
+      <link>http://freshswift.net/tags/initialization/</link>
+      <pubDate>Sat, 05 Aug 2017 09:30:00 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/initialization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ios</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/ios/</link>
-      <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
+      <link>http://freshswift.net/tags/ios/</link>
+      <pubDate>Tue, 08 Aug 2017 07:32:03 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/ios/</guid>
+      <guid>http://freshswift.net/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>http://freshswift.net/tags/json/</link>
+      <pubDate>Sun, 23 Jul 2017 09:26:12 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keypath</title>
+      <link>http://freshswift.net/tags/keypath/</link>
+      <pubDate>Sat, 22 Jul 2017 10:14:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/keypath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kvo</title>
+      <link>http://freshswift.net/tags/kvo/</link>
+      <pubDate>Sat, 22 Jul 2017 10:14:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/kvo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lazy</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/lazy/</link>
+      <link>http://freshswift.net/tags/lazy/</link>
       <pubDate>Fri, 19 May 2017 11:12:41 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/lazy/</guid>
+      <guid>http://freshswift.net/tags/lazy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lazycollection</title>
+      <link>http://freshswift.net/tags/lazycollection/</link>
+      <pubDate>Wed, 24 May 2017 07:47:54 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/lazycollection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://freshswift.net/tags/learning/</link>
+      <pubDate>Tue, 01 Aug 2017 07:14:15 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Library</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/library/</link>
-      <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
+      <link>http://freshswift.net/tags/library/</link>
+      <pubDate>Sun, 30 Jul 2017 10:18:40 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/library/</guid>
+      <guid>http://freshswift.net/tags/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macos</title>
+      <link>http://freshswift.net/tags/macos/</link>
+      <pubDate>Fri, 04 Aug 2017 07:30:06 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map</title>
+      <link>http://freshswift.net/tags/map/</link>
+      <pubDate>Thu, 03 Aug 2017 07:40:26 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/map/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memory</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/memory/</link>
+      <link>http://freshswift.net/tags/memory/</link>
       <pubDate>Fri, 05 May 2017 08:09:29 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/memory/</guid>
+      <guid>http://freshswift.net/tags/memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixin</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/mixin/</link>
+      <link>http://freshswift.net/tags/mixin/</link>
       <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/mixin/</guid>
+      <guid>http://freshswift.net/tags/mixin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monad</title>
+      <link>http://freshswift.net/tags/monad/</link>
+      <pubDate>Tue, 11 Jul 2017 07:58:25 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/monad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mvvm</title>
+      <link>http://freshswift.net/tags/mvvm/</link>
+      <pubDate>Tue, 23 May 2017 07:37:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/mvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opensource</title>
+      <link>http://freshswift.net/tags/opensource/</link>
+      <pubDate>Tue, 13 Jun 2017 07:49:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operationqueue</title>
+      <link>http://freshswift.net/tags/operationqueue/</link>
+      <pubDate>Tue, 08 Aug 2017 07:32:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/operationqueue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Operators</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/operators/</link>
+      <link>http://freshswift.net/tags/operators/</link>
       <pubDate>Tue, 02 May 2017 15:57:23 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/operators/</guid>
+      <guid>http://freshswift.net/tags/operators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optional</title>
+      <link>http://freshswift.net/tags/optional/</link>
+      <pubDate>Fri, 30 Jun 2017 12:22:24 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/optional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>http://freshswift.net/tags/performance/</link>
+      <pubDate>Thu, 20 Jul 2017 08:07:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/performance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Playground</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/playground/</link>
+      <link>http://freshswift.net/tags/playground/</link>
       <pubDate>Sat, 29 Apr 2017 08:06:30 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/playground/</guid>
+      <guid>http://freshswift.net/tags/playground/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/podcast/</link>
+      <link>http://freshswift.net/tags/podcast/</link>
       <pubDate>Wed, 19 Apr 2017 13:57:59 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/podcast/</guid>
+      <guid>http://freshswift.net/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Print</title>
+      <link>http://freshswift.net/tags/print/</link>
+      <pubDate>Fri, 04 Aug 2017 07:30:06 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/print/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocol</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/protocol/</link>
-      <pubDate>Mon, 22 May 2017 18:19:34 +0000</pubDate>
+      <link>http://freshswift.net/tags/protocol/</link>
+      <pubDate>Tue, 20 Jun 2017 07:41:23 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/protocol/</guid>
+      <guid>http://freshswift.net/tags/protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queue</title>
+      <link>http://freshswift.net/tags/queue/</link>
+      <pubDate>Fri, 26 May 2017 07:57:29 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/queue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducer</title>
+      <link>http://freshswift.net/tags/reducer/</link>
+      <pubDate>Mon, 10 Jul 2017 09:19:20 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/reducer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>http://freshswift.net/tags/refactoring/</link>
+      <pubDate>Fri, 21 Jul 2017 08:13:36 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/refactoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflection</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/reflection/</link>
+      <link>http://freshswift.net/tags/reflection/</link>
       <pubDate>Mon, 17 Apr 2017 08:07:13 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/reflection/</guid>
+      <guid>http://freshswift.net/tags/reflection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Server Side</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/server-side/</link>
+      <link>http://freshswift.net/tags/server-side/</link>
       <pubDate>Sun, 14 May 2017 11:09:46 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/server-side/</guid>
+      <guid>http://freshswift.net/tags/server-side/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverside</title>
+      <link>http://freshswift.net/tags/serverside/</link>
+      <pubDate>Sun, 09 Jul 2017 17:51:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/serverside/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singleton</title>
+      <link>http://freshswift.net/tags/singleton/</link>
+      <pubDate>Mon, 05 Jun 2017 12:17:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/singleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State</title>
+      <link>http://freshswift.net/tags/state/</link>
+      <pubDate>Thu, 27 Jul 2017 07:51:40 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staticanalysis</title>
+      <link>http://freshswift.net/tags/staticanalysis/</link>
+      <pubDate>Fri, 09 Jun 2017 14:12:30 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/staticanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>String</title>
+      <link>http://freshswift.net/tags/string/</link>
+      <pubDate>Tue, 18 Jul 2017 07:39:52 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/string/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Style</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/style/</link>
+      <link>http://freshswift.net/tags/style/</link>
       <pubDate>Mon, 08 May 2017 19:44:08 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/style/</guid>
+      <guid>http://freshswift.net/tags/style/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift Package Manager</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/swift-package-manager/</link>
+      <link>http://freshswift.net/tags/swift-package-manager/</link>
       <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/swift-package-manager/</guid>
+      <guid>http://freshswift.net/tags/swift-package-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift4</title>
+      <link>http://freshswift.net/tags/swift4/</link>
+      <pubDate>Wed, 26 Jul 2017 07:42:47 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/swift4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/talk/</link>
-      <pubDate>Thu, 04 May 2017 07:47:17 +0000</pubDate>
+      <link>http://freshswift.net/tags/talk/</link>
+      <pubDate>Thu, 03 Aug 2017 07:40:26 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/talk/</guid>
+      <guid>http://freshswift.net/tags/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terminology</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/terminology/</link>
+      <link>http://freshswift.net/tags/terminology/</link>
       <pubDate>Sat, 29 Apr 2017 06:47:07 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/terminology/</guid>
+      <guid>http://freshswift.net/tags/terminology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://freshswift.net/tags/test/</link>
+      <pubDate>Tue, 30 May 2017 07:53:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/testing/</link>
-      <pubDate>Sat, 29 Apr 2017 13:40:50 +0000</pubDate>
+      <link>http://freshswift.net/tags/testing/</link>
+      <pubDate>Mon, 17 Jul 2017 07:32:26 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/testing/</guid>
+      <guid>http://freshswift.net/tags/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tuples</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/tuples/</link>
-      <pubDate>Tue, 09 May 2017 07:39:19 +0000</pubDate>
+      <link>http://freshswift.net/tags/tuples/</link>
+      <pubDate>Fri, 02 Jun 2017 09:01:54 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/tuples/</guid>
+      <guid>http://freshswift.net/tags/tuples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typedriven</title>
+      <link>http://freshswift.net/tags/typedriven/</link>
+      <pubDate>Wed, 31 May 2017 07:40:32 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/typedriven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uitableview</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/uitableview/</link>
+      <link>http://freshswift.net/tags/uitableview/</link>
       <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/uitableview/</guid>
+      <guid>http://freshswift.net/tags/uitableview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Value Types</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/value-types/</link>
+      <link>http://freshswift.net/tags/value-types/</link>
       <pubDate>Mon, 15 May 2017 17:36:35 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/value-types/</guid>
+      <guid>http://freshswift.net/tags/value-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valuetype</title>
+      <link>http://freshswift.net/tags/valuetype/</link>
+      <pubDate>Wed, 07 Jun 2017 11:18:17 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/valuetype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vapor</title>
+      <link>http://freshswift.net/tags/vapor/</link>
+      <pubDate>Sun, 09 Jul 2017 17:51:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/vapor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watchos</title>
+      <link>http://freshswift.net/tags/watchos/</link>
+      <pubDate>Thu, 08 Jun 2017 11:56:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/tags/watchos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xcode</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/tags/xcode/</link>
-      <pubDate>Sat, 29 Apr 2017 08:06:30 +0000</pubDate>
+      <link>http://freshswift.net/tags/xcode/</link>
+      <pubDate>Tue, 13 Jun 2017 07:49:07 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/tags/xcode/</guid>
+      <guid>http://freshswift.net/tags/xcode/</guid>
       <description></description>
     </item>
     

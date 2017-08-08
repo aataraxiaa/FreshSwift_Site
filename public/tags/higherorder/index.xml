@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Higherorder on Fresh Swift</title>
+    <link>http://freshswift.net/tags/higherorder/</link>
+    <description>Recent content in Higherorder on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 May 2017 08:13:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://freshswift.net/tags/higherorder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Higher order functions in Swift</title>
+      <link>http://freshswift.net/post/-kkyegioc80u38l1u9sw/</link>
+      <pubDate>Thu, 25 May 2017 08:13:20 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kkyegioc80u38l1u9sw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

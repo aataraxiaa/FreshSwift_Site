@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optional on Fresh Swift</title>
+    <link>http://freshswift.net/tags/optional/</link>
+    <description>Recent content in Optional on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Jun 2017 12:22:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://freshswift.net/tags/optional/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working with optional errors in completion handlers</title>
+      <link>http://freshswift.net/post/-knswwpqon46483ocxv9/</link>
+      <pubDate>Fri, 30 Jun 2017 12:22:24 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-knswwpqon46483ocxv9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Optional or Not to Optional: IBOutlet</title>
+      <link>http://freshswift.net/post/-klwprgdikgd9ccgjbkt/</link>
+      <pubDate>Tue, 06 Jun 2017 07:58:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-klwprgdikgd9ccgjbkt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tests that don&#39;t crash</title>
+      <link>http://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</link>
+      <pubDate>Tue, 30 May 2017 07:53:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

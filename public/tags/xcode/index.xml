@@ -2,29 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xcode on Fresh Swift</title>
-    <link>http://petethedeveloper.com/FreshSwift_Site/tags/xcode/</link>
+    <link>http://freshswift.net/tags/xcode/</link>
     <description>Recent content in Xcode on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Apr 2017 08:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 07:49:07 +0000</lastBuildDate>
     
-	<atom:link href="http://petethedeveloper.com/FreshSwift_Site/tags/xcode/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://freshswift.net/tags/xcode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Apple open sources key Xcode refactoring components</title>
+      <link>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</link>
+      <pubDate>Tue, 13 Jun 2017 07:49:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adding Swift Playgrounds to Xcode Projects</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8r0ldyet1txhhqltu/</link>
+      <link>http://freshswift.net/post/-kj8r0ldyet1txhhqltu/</link>
       <pubDate>Sat, 29 Apr 2017 08:06:30 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8r0ldyet1txhhqltu/</guid>
+      <guid>http://freshswift.net/post/-kj8r0ldyet1txhhqltu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reduce Swift build times and get home faster 😃</title>
-      <link>http://petethedeveloper.com/FreshSwift_Site/post/-kj8oaxsnjepzxcit94x/</link>
+      <link>http://freshswift.net/post/-kj8oaxsnjepzxcit94x/</link>
       <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
       
-      <guid>http://petethedeveloper.com/FreshSwift_Site/post/-kj8oaxsnjepzxcit94x/</guid>
+      <guid>http://freshswift.net/post/-kj8oaxsnjepzxcit94x/</guid>
       <description></description>
     </item>
     

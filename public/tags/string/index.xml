@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>String on Fresh Swift</title>
+    <link>http://freshswift.net/tags/string/</link>
+    <description>Recent content in String on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jul 2017 07:39:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://freshswift.net/tags/string/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strongly typed identifiers in Swift</title>
+      <link>http://freshswift.net/post/-kpjct1cnhqzj_bjgenf/</link>
+      <pubDate>Tue, 18 Jul 2017 07:39:52 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kpjct1cnhqzj_bjgenf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the new String API in Swift 4</title>
+      <link>http://freshswift.net/post/-kmv3xidmjwpdp1ikxp7/</link>
+      <pubDate>Sun, 18 Jun 2017 11:59:09 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmv3xidmjwpdp1ikxp7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixing Constant and Literal Strings</title>
+      <link>http://freshswift.net/post/-klctr8w61mlloyqpg1_/</link>
+      <pubDate>Fri, 02 Jun 2017 11:03:49 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-klctr8w61mlloyqpg1_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

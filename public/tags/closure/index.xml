@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Closure on Fresh Swift</title>
+    <link>http://freshswift.net/tags/closure/</link>
+    <description>Recent content in Closure on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Jun 2017 07:41:05 +0000</lastBuildDate>
+    
+	<atom:link href="http://freshswift.net/tags/closure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capturing Values In Swift Closures</title>
+      <link>http://freshswift.net/post/-kn8aee2jg240iomsra1/</link>
+      <pubDate>Wed, 21 Jun 2017 07:41:05 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kn8aee2jg240iomsra1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is it called a Closure anyway?</title>
+      <link>http://freshswift.net/post/-km_uh_cw0vobwme3v9r/</link>
+      <pubDate>Wed, 14 Jun 2017 07:26:12 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-km_uh_cw0vobwme3v9r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

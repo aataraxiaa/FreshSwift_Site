@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flatmap on Fresh Swift</title>
+    <link>http://freshswift.net/tags/flatmap/</link>
+    <description>Recent content in Flatmap on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Jul 2017 07:58:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://freshswift.net/tags/flatmap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An aside about flatMap and monads</title>
+      <link>http://freshswift.net/post/-koke-tgpqfz_xmungtm/</link>
+      <pubDate>Tue, 11 Jul 2017 07:58:25 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-koke-tgpqfz_xmungtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Tricks: Searching for Objects by Type</title>
+      <link>http://freshswift.net/post/-kktqhvafh53smopgeqo/</link>
+      <pubDate>Wed, 24 May 2017 07:47:54 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kktqhvafh53smopgeqo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
