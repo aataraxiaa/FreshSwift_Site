@@ -5,10 +5,28 @@
     <link>http://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Aug 2017 07:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 07:39:03 +0000</lastBuildDate>
     
 	<atom:link href="http://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift 5: Start your engines</title>
+      <link>http://freshswift.net/post/-kra4g2kwgdokawt1jni/</link>
+      <pubDate>Thu, 10 Aug 2017 07:39:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kra4g2kwgdokawt1jni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Swift Closures</title>
+      <link>http://freshswift.net/post/-kr4wdxbejaciaplznkn/</link>
+      <pubDate>Wed, 09 Aug 2017 07:43:17 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kr4wdxbejaciaplznkn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding Operation and OperationQueue in Swift</title>

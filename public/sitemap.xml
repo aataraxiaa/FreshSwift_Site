@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://freshswift.net/post/-kra4g2kwgdokawt1jni/</loc>
+    <lastmod>2017-08-10T07:39:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/post/-kr4wdxbejaciaplznkn/</loc>
+    <lastmod>2017-08-09T07:43:17+00:00</lastmod>
+  </url>
   
   <url>
     <loc>http://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</loc>
@@ -694,7 +703,7 @@
   
   <url>
     <loc>http://freshswift.net/tags/closure/</loc>
-    <lastmod>2017-06-21T07:41:05+00:00</lastmod>
+    <lastmod>2017-08-09T07:43:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -844,7 +853,7 @@
   
   <url>
     <loc>http://freshswift.net/tags/evolution/</loc>
-    <lastmod>2017-07-28T12:54:03+00:00</lastmod>
+    <lastmod>2017-08-10T07:39:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -874,7 +883,7 @@
   
   <url>
     <loc>http://freshswift.net/</loc>
-    <lastmod>2017-08-08T07:32:03+00:00</lastmod>
+    <lastmod>2017-08-10T07:39:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1075,7 +1084,7 @@
   
   <url>
     <loc>http://freshswift.net/post/</loc>
-    <lastmod>2017-08-08T07:32:03+00:00</lastmod>
+    <lastmod>2017-08-10T07:39:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1166,6 +1175,12 @@
   <url>
     <loc>http://freshswift.net/tags/swift4/</loc>
     <lastmod>2017-07-26T07:42:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://freshswift.net/tags/swift5/</loc>
+    <lastmod>2017-08-10T07:39:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
