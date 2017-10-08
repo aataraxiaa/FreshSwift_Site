@@ -4,18 +4,18 @@
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
         <a href="{{ .Params.link }}">
-          <h2 class="post-title">{{ .Title }}</h2>
+          <!-- <h2 class="post-title">{{ .Title }}</h2>
 
           {{ if .Params.subtitle }}
             <h3 class="post-subtitle">
               {{ .Params.subtitle }}
             </h3>
-          {{ end }}
+          {{ end }} -->
         </a>
 
-        <p class="post-meta">
+        <!-- <p class="post-meta">
           {{ default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format | i18n "postedOnDate" }}
-        </p>
+        </p> -->
         <div class="post-entry">
           {{ if .Truncated }}
             {{ .Summary }}
