@@ -4,18 +4,33 @@
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
         <a href="{{ .Params.link }}">
-          <!-- <h2 class="post-title">{{ .Title }}</h2>
 
-          {{ if .Params.subtitle }}
-            <h3 class="post-subtitle">
-              {{ .Params.subtitle }}
-            </h3>
-          {{ end }} -->
+          <!--
+             If the page's .Title is not the same as the site's title,
+          -->
+          {{ if not (eq .Title .Site.Title)}}
+
+            <h2 class="post-title">{{ .Title }}</h2>
+
+            {{ if .Params.subtitle }}
+              <h3 class="post-subtitle">
+                {{ .Params.subtitle }}
+              </h3>
+            {{ end }}
+
+          {{ end }}
+
         </a>
 
-        <!-- <p class="post-meta">
-          {{ default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format | i18n "postedOnDate" }}
-        </p> -->
+        <!--
+           If the page's .Title is not the same as the site's title,
+        -->
+        {{ if not (eq .Title .Site.Title)}}
+          <p class="post-meta">
+            {{ default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format | i18n "postedOnDate" }}
+          </p>
+        {{ end }}
+        
         <div class="post-entry">
           {{ if .Truncated }}
             {{ .Summary }}
