@@ -5,34 +5,45 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Reflectable Enums</title>
-  <meta property="og:title" content="Reflectable Enums" />
-  <meta name="twitter:title" content="Reflectable Enums" />
-  <meta name="description" content="What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types">
-  <meta property="og:description" content="What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types">
-  <meta name="twitter:description" content="What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types">
+  <title>SwiftUI Navigation in List View: Programmatic Navigation</title>
+  <meta property="og:title" content="SwiftUI Navigation in List View: Programmatic Navigation" />
+  <meta name="twitter:title" content="SwiftUI Navigation in List View: Programmatic Navigation" />
+  <meta name="description" content="It&#39;s been a while, but I&#39;m planning to again focus some of my time on Swift. And with that...this is a nice idea to provide a solution to programmatic navigation in SwiftUI. Code samples included 🥳.">
+  <meta property="og:description" content="It&#39;s been a while, but I&#39;m planning to again focus some of my time on Swift. And with that...this is a nice idea to provide a solution to programmatic navigation in SwiftUI. Code samples included 🥳.">
+  <meta name="twitter:description" content="It&#39;s been a while, but I&#39;m planning to again focus some of my time on Swift. And with that...this is a nice idea to provide a solution to programmatic navigation in SwiftUI. Code samples included 🥳.">
   <meta name="author" content=""/>
-  <link href='http://petethedeveloper.com/FreshSwift_Site/img/favicon.ico' rel='icon' type='image/x-icon'/>
-  <meta property="og:image" content="http://petethedeveloper.com/FreshSwift_Site/img/Icon-512@2x.png" />
-  <meta name="twitter:image" content="http://petethedeveloper.com/FreshSwift_Site/img/Icon-512@2x.png" />
+  <link href='http://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="http://freshswift.net/img/Icon-512@2x.png" />
+  <meta name="twitter:image" content="http://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="http://petethedeveloper.com/FreshSwift_Site/post/testpete/" />
+  <meta property="og:url" content="http://freshswift.net/post/16-05-20/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
-  <link rel="canonical" href="http://petethedeveloper.com/FreshSwift_Site/post/testpete/" />
-  <link rel="alternate" href="http://petethedeveloper.com/FreshSwift_Site/index.xml" type="application/rss+xml" title="Fresh Swift">
+  <meta name="generator" content="Hugo 0.70.0" />
+  <link rel="canonical" href="http://freshswift.net/post/16-05-20/" />
+  <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" href="http://petethedeveloper.com/FreshSwift_Site/css/main.css" />
+  <link rel="stylesheet" href="http://freshswift.net/css/main.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-  <link rel="stylesheet" href="http://petethedeveloper.com/FreshSwift_Site/css/pygment_highlights.css" />
-  <link rel="stylesheet" href="http://petethedeveloper.com/FreshSwift_Site/css/highlight.min.css" />
+  <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -46,7 +57,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="http://petethedeveloper.com/FreshSwift_Site/">Fresh Swift</a>
+      <a class="navbar-brand" href="http://freshswift.net">Fresh Swift</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
@@ -54,13 +65,13 @@
         
           
             <li>
-              <a title="About" href="/FreshSwift_Site/page/about/">About</a>
+              <a title="About" href="/page/about/">About</a>
             </li>
           
         
           
             <li>
-              <a title="Tags" href="/FreshSwift_Site/tags">Tags</a>
+              <a title="Tags" href="/tags">Tags</a>
             </li>
           
         
@@ -74,8 +85,8 @@
     <div class="avatar-container">
       <div class="avatar-img-border">
         
-          <a title="Fresh Swift" href="http://petethedeveloper.com/FreshSwift_Site/">
-            <img class="avatar-img" src="http://petethedeveloper.com/FreshSwift_Site/img/Icon-512@2x.png" alt="Fresh Swift" />
+          <a title="Fresh Swift" href="http://freshswift.net">
+            <img class="avatar-img" src="http://freshswift.net/img/Icon-512@2x.png" alt="Fresh Swift" />
           </a>
         
       </div>
@@ -105,18 +116,9 @@
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
-              <h1>Reflectable Enums</h1>
                 
                   
-                    <h2 class="post-subheading">What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types</h2>
                   
-                
-                
-                  <span class="post-meta">
-  Posted on April 17, 2017
-  
-</span>
-
                 
             </div>
           </div>
@@ -130,11 +132,52 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article role="main" class="blog-post">
+      <article class="post-preview">
+        <a href="https://lostmoa.com/blog/ProgrammaticNavigationInSwiftUIListView/">
+
+          
+          
+
+            <h2 class="post-title">SwiftUI Navigation in List View: Programmatic Navigation</h2>
+
+            
+              <h3 class="post-subtitle">
+                It&#39;s been a while, but I&#39;m planning to again focus some of my time on Swift. And with that...this is a nice idea to provide a solution to programmatic navigation in SwiftUI. Code samples included 🥳.
+              </h3>
+            
+
+          
+
+        </a>
+
         
+        
+          <p class="post-meta">
+            Posted on May 16, 2020
+          </p>
+        
+        
+        <div class="post-entry">
+          
+            
+          
+        </div>
+
+        
+          <span class="post-meta">
+            
+              #<a href="/tags/swiftui">swiftui</a>&nbsp;
+            
+          </span>
+        
+
       </article>
 
       <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="http://freshswift.net/post/-lvokhdfo_r6s0fwa8tb/" data-toggle="tooltip" data-placement="top" title="Reasoning about protocols">&larr; Previous Post</a>
+          </li>
         
         
       </ul>
@@ -163,7 +206,7 @@
               </li>
           
           <li>
-            <a href="http://petethedeveloper.com/FreshSwift_Site/index.xml" title="RSS">
+            <a href="http://freshswift.net/index.xml" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -175,16 +218,16 @@
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2020
 
           
             &nbsp;&bull;&nbsp;
-            <a href="http://petethedeveloper.com/FreshSwift_Site/">Fresh Swift</a>
+            <a href="http://freshswift.net">Fresh Swift</a>
           
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>
@@ -196,8 +239,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="http://petethedeveloper.com/FreshSwift_Site/js/main.js"></script>
-<script src="http://petethedeveloper.com/FreshSwift_Site/js/highlight.min.js"></script>
+<script src="http://freshswift.net/js/main.js"></script>
+<script src="http://freshswift.net/js/highlight.min.js"></script>
 <script> hljs.initHighlightingOnLoad(); </script>
 <script> renderMathInElement(document.body); </script>
 
@@ -207,4 +250,3 @@
 
   </body>
 </html>
-
