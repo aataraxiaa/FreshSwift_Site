@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reflection on Fresh Swift</title>
+    <link>http://freshswift.net/tags/reflection/</link>
+    <description>Recent content in reflection on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Mar 2018 16:51:23 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reflection and Mirror in Swift</title>
+      <link>http://freshswift.net/post/-l8ydabatvv_hnbwnnwr/</link>
+      <pubDate>Mon, 26 Mar 2018 16:51:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l8ydabatvv_hnbwnnwr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflectable Enums</title>
+      <link>http://freshswift.net/post/-kj7s0mpq-pgwopj1onv/</link>
+      <pubDate>Mon, 17 Apr 2017 08:07:13 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kj7s0mpq-pgwopj1onv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

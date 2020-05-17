@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>composition on Fresh Swift</title>
+    <link>http://freshswift.net/tags/composition/</link>
+    <description>Recent content in composition on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 13 Mar 2018 07:26:14 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/composition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swift Tip: Extensible Libraries with Protocols</title>
+      <link>http://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</link>
+      <pubDate>Tue, 13 Mar 2018 07:26:14 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composing types in Swift</title>
+      <link>http://freshswift.net/post/-l5nfb03s4qr-67nl3j4/</link>
+      <pubDate>Tue, 20 Feb 2018 14:44:58 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l5nfb03s4qr-67nl3j4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

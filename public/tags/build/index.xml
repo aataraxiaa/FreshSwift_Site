@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>build on Fresh Swift</title>
+    <link>http://freshswift.net/tags/build/</link>
+    <description>Recent content in build on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Nov 2017 13:18:43 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/build/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimizing Swift Build Times</title>
+      <link>http://freshswift.net/post/-kzjq_w7oynejzodrhyi/</link>
+      <pubDate>Sun, 19 Nov 2017 13:18:43 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kzjq_w7oynejzodrhyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduce Swift build times and get home faster 😃</title>
+      <link>http://freshswift.net/post/-kj8oaxsnjepzxcit94x/</link>
+      <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kj8oaxsnjepzxcit94x/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

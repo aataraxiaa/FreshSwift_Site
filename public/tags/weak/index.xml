@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weak on Fresh Swift</title>
+    <link>http://freshswift.net/tags/weak/</link>
+    <description>Recent content in weak on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 May 2018 09:53:03 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/weak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unowned Properties in Swift</title>
+      <link>http://freshswift.net/post/-lbezq_9pnzsjwfmdmhq/</link>
+      <pubDate>Fri, 04 May 2018 09:53:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lbezq_9pnzsjwfmdmhq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Tip: Capture Lists</title>
+      <link>http://freshswift.net/post/-l9vjzieakwj7bfc_vtw/</link>
+      <pubDate>Sat, 07 Apr 2018 15:35:59 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l9vjzieakwj7bfc_vtw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do you often forget [weak self]? Here’s a solution</title>
+      <link>http://freshswift.net/post/-l8n3jgctk9zntxmc_qb/</link>
+      <pubDate>Sat, 24 Mar 2018 12:52:31 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l8n3jgctk9zntxmc_qb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak Arrays</title>
+      <link>http://freshswift.net/post/-l2lq7m0abvag6lk4_-c/</link>
+      <pubDate>Mon, 08 Jan 2018 17:36:42 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l2lq7m0abvag6lk4_-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friday Q&amp;A: Swift 4 Weak References</title>
+      <link>http://freshswift.net/post/-kvr7q108xyym6hk6ei5/</link>
+      <pubDate>Mon, 02 Oct 2017 08:10:51 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kvr7q108xyym6hk6ei5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

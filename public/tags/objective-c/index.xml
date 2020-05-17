@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>objective-c on Fresh Swift</title>
+    <link>http://freshswift.net/tags/objective-c/</link>
+    <description>Recent content in objective-c on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Oct 2018 16:33:32 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/objective-c/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The State of Developer Ecosystems - Swift &amp; Objective-C</title>
+      <link>http://freshswift.net/post/-lnzvkhqspro5dkfkg5g/</link>
+      <pubDate>Thu, 04 Oct 2018 16:33:32 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lnzvkhqspro5dkfkg5g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migrating an Objective-C class to Swift: a piecemeal approach</title>
+      <link>http://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</link>
+      <pubDate>Sat, 11 Aug 2018 09:20:15 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why many developers still prefer Objective-C to Swift</title>
+      <link>http://freshswift.net/post/-kvl2vi2fzi9wryiihed/</link>
+      <pubDate>Fri, 06 Oct 2017 09:39:25 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kvl2vi2fzi9wryiihed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -23,10 +23,11 @@
             {{.}}
           </div>
         {{ end }}
+
         <div class="posts-list">
           {{ range .Paginator.Pages }}
             <article class="post-preview">
-              <a href="{{ .Permalink }}">
+              <a href="{{ .Params.link }}">
                 <h2 class="post-title">{{ .Title }}</h2>
 
                 {{ if .Params.subtitle }}

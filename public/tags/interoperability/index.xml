@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interoperability on Fresh Swift</title>
+    <link>http://freshswift.net/tags/interoperability/</link>
+    <description>Recent content in interoperability on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Mar 2018 11:29:32 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/interoperability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Circular References Between Swift and Objective-C</title>
+      <link>http://freshswift.net/post/-l6fbwme2kalyicv8vhi/</link>
+      <pubDate>Sat, 03 Mar 2018 11:29:32 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l6fbwme2kalyicv8vhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friday Q&amp;A - Swift.Unmanaged</title>
+      <link>http://freshswift.net/post/-ktfzdqoo0aa0z5exvwh/</link>
+      <pubDate>Tue, 05 Sep 2017 07:43:49 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ktfzdqoo0aa0z5exvwh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

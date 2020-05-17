@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>where on Fresh Swift</title>
+    <link>http://freshswift.net/tags/where/</link>
+    <description>Recent content in where on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Aug 2018 09:26:36 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/where/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Where usage in Swift</title>
+      <link>http://freshswift.net/post/-ljy9aeri5xpqm4bj1hp/</link>
+      <pubDate>Fri, 10 Aug 2018 09:26:36 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ljy9aeri5xpqm4bj1hp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

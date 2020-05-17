@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emoji on Fresh Swift</title>
+    <link>http://freshswift.net/tags/emoji/</link>
+    <description>Recent content in emoji on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Dec 2017 11:07:27 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Decomposing Emoji</title>
+      <link>http://freshswift.net/post/-l1mdxzfce4kmyukf_5j/</link>
+      <pubDate>Wed, 27 Dec 2017 11:07:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l1mdxzfce4kmyukf_5j/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

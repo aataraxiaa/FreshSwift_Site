@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensource on Fresh Swift</title>
+    <link>http://freshswift.net/tags/opensource/</link>
+    <description>Recent content in opensource on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Aug 2018 12:25:38 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Sourcing Validated</title>
+      <link>http://freshswift.net/post/-ll-ulpbxdxgsivtgfce/</link>
+      <pubDate>Tue, 28 Aug 2018 12:25:38 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ll-ulpbxdxgsivtgfce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple open sources key Xcode refactoring components</title>
+      <link>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</link>
+      <pubDate>Tue, 13 Jun 2017 07:49:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

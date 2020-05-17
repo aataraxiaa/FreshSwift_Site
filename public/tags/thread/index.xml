@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thread on Fresh Swift</title>
+    <link>http://freshswift.net/tags/thread/</link>
+    <description>Recent content in thread on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Nov 2017 08:39:27 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/thread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Friday Q&amp;A: Locks, Thread Safety, and Swift: 2017 Edition</title>
+      <link>http://freshswift.net/post/-kzxsra1wxfp9_duywup/</link>
+      <pubDate>Wed, 22 Nov 2017 08:39:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kzxsra1wxfp9_duywup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

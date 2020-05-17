@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interpolation on Fresh Swift</title>
+    <link>http://freshswift.net/tags/interpolation/</link>
+    <description>Recent content in interpolation on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Oct 2018 08:46:08 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/interpolation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swift Evolution - Fix ExpressibleByStringInterpolation</title>
+      <link>http://freshswift.net/post/-los8ty-blocivkck808/</link>
+      <pubDate>Wed, 10 Oct 2018 08:46:08 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-los8ty-blocivkck808/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

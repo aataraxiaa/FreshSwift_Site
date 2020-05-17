@@ -1,0 +1,139 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optional on Fresh Swift</title>
+    <link>http://freshswift.net/tags/optional/</link>
+    <description>Recent content in optional on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 08 May 2018 11:48:45 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/optional/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reimplementation of Implicitly Unwrapped Optionals</title>
+      <link>http://freshswift.net/post/-lbz_gsib5lfxpegykwo/</link>
+      <pubDate>Tue, 08 May 2018 11:48:45 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lbz_gsib5lfxpegykwo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enums And Optionals</title>
+      <link>http://freshswift.net/post/-ladr_7xxotbsscs21ou/</link>
+      <pubDate>Mon, 16 Apr 2018 12:33:41 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ladr_7xxotbsscs21ou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Optionals as Collections</title>
+      <link>http://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/</link>
+      <pubDate>Sun, 08 Apr 2018 11:16:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optional Forward Application</title>
+      <link>http://freshswift.net/post/-l90hdsaemrfzc45ff5p/</link>
+      <pubDate>Sun, 01 Apr 2018 12:57:43 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l90hdsaemrfzc45ff5p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution - Introducing `Unwrappable`, a biased unwrapping protocol</title>
+      <link>http://freshswift.net/post/-l8yajdjk94dyimjafdf/</link>
+      <pubDate>Mon, 26 Mar 2018 16:40:44 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l8yajdjk94dyimjafdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Useful Optional Extensions</title>
+      <link>http://freshswift.net/post/-l4bxwezbitklaxtl6h5/</link>
+      <pubDate>Mon, 05 Feb 2018 19:57:48 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l4bxwezbitklaxtl6h5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Non-Nil Values In An Array Of Optionals</title>
+      <link>http://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</link>
+      <pubDate>Sun, 14 Jan 2018 11:05:06 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Total programming in Swift</title>
+      <link>http://freshswift.net/post/-l-kyckewvnzfhqk6afu/</link>
+      <pubDate>Thu, 07 Dec 2017 10:38:56 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l-kyckewvnzfhqk6afu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Strange Case Of Mapping Over Optionals</title>
+      <link>http://freshswift.net/post/-kutho80upje_8z2q6dh/</link>
+      <pubDate>Wed, 20 Sep 2017 07:56:12 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kutho80upje_8z2q6dh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making the case for Implicitly Unwrapped Optionals!</title>
+      <link>http://freshswift.net/post/-ktue_dw8vdxnbaiqin3/</link>
+      <pubDate>Wed, 13 Sep 2017 07:58:10 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ktue_dw8vdxnbaiqin3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling empty optional strings in Swift</title>
+      <link>http://freshswift.net/post/-ktgysknd0qxtwv4jqdp/</link>
+      <pubDate>Sun, 10 Sep 2017 16:09:47 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ktgysknd0qxtwv4jqdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with optional errors in completion handlers</title>
+      <link>http://freshswift.net/post/-knswwpqon46483ocxv9/</link>
+      <pubDate>Fri, 30 Jun 2017 12:22:24 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-knswwpqon46483ocxv9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Optional or Not to Optional: IBOutlet</title>
+      <link>http://freshswift.net/post/-klwprgdikgd9ccgjbkt/</link>
+      <pubDate>Tue, 06 Jun 2017 07:58:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-klwprgdikgd9ccgjbkt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tests that don&#39;t crash</title>
+      <link>http://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</link>
+      <pubDate>Tue, 30 May 2017 07:53:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

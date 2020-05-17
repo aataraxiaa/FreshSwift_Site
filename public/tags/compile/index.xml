@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>compile on Fresh Swift</title>
+    <link>http://freshswift.net/tags/compile/</link>
+    <description>Recent content in compile on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Jun 2018 11:32:35 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/compile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turning Swift compile-time safety into safety for your users</title>
+      <link>http://freshswift.net/post/-l4e5_1hkqkyk8a4fooh/</link>
+      <pubDate>Tue, 06 Feb 2018 07:52:44 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l4e5_1hkqkyk8a4fooh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speed up Swift compile time</title>
+      <link>http://freshswift.net/post/-krqvbas4yn7rij_sfrg/</link>
+      <pubDate>Sun, 13 Aug 2017 12:10:35 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-krqvbas4yn7rij_sfrg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>directive on Fresh Swift</title>
+    <link>http://freshswift.net/tags/directive/</link>
+    <description>Recent content in directive on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Jun 2018 11:32:35 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/directive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swift Diagnostics: #warning and #error</title>
+      <link>http://freshswift.net/post/-lf7myk_dv-rymdwd6w2/</link>
+      <pubDate>Sat, 16 Jun 2018 11:32:35 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lf7myk_dv-rymdwd6w2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

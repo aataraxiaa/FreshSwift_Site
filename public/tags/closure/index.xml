@@ -1,0 +1,76 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>closure on Fresh Swift</title>
+    <link>http://freshswift.net/tags/closure/</link>
+    <description>Recent content in closure on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Aug 2018 08:42:40 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/closure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An iOS alert view with a text field and a “smart” OK button</title>
+      <link>http://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</link>
+      <pubDate>Mon, 20 Aug 2018 08:42:40 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why optional closures in Swift are escaping</title>
+      <link>http://freshswift.net/post/-lf2b03m6xgz4fopoaqw/</link>
+      <pubDate>Fri, 15 Jun 2018 13:21:57 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lf2b03m6xgz4fopoaqw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Challenge: Understanding Swift Closure Syntax</title>
+      <link>http://freshswift.net/post/-l9fo3wjhuxlzgqwl0-l/</link>
+      <pubDate>Wed, 04 Apr 2018 13:19:53 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l9fo3wjhuxlzgqwl0-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing objects in Swift closures</title>
+      <link>http://freshswift.net/post/-kx_goijfjifefe_ob3q/</link>
+      <pubDate>Sun, 29 Oct 2017 01:14:17 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kx_goijfjifefe_ob3q/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Swift Closures</title>
+      <link>http://freshswift.net/post/-kr4wdxbejaciaplznkn/</link>
+      <pubDate>Wed, 09 Aug 2017 07:43:17 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kr4wdxbejaciaplznkn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Values In Swift Closures</title>
+      <link>http://freshswift.net/post/-kn8aee2jg240iomsra1/</link>
+      <pubDate>Wed, 21 Jun 2017 07:41:05 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kn8aee2jg240iomsra1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is it called a Closure anyway?</title>
+      <link>http://freshswift.net/post/-km_uh_cw0vobwme3v9r/</link>
+      <pubDate>Wed, 14 Jun 2017 07:26:12 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-km_uh_cw0vobwme3v9r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

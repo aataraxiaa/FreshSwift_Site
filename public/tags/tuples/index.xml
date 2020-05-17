@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tuples on Fresh Swift</title>
+    <link>http://freshswift.net/tags/tuples/</link>
+    <description>Recent content in tuples on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Jun 2017 09:01:54 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/tuples/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Swift 4 change is objectively bad</title>
+      <link>http://freshswift.net/post/-klc1x3qjd8kw9doijwq/</link>
+      <pubDate>Fri, 02 Jun 2017 09:01:54 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-klc1x3qjd8kw9doijwq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving Label-Directed Tuple Assignments</title>
+      <link>http://freshswift.net/post/-kjg8ty95fs_gaqxi4ne/</link>
+      <pubDate>Tue, 09 May 2017 07:39:19 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kjg8ty95fs_gaqxi4ne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

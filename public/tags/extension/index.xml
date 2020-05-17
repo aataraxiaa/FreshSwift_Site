@@ -1,0 +1,76 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>extension on Fresh Swift</title>
+    <link>http://freshswift.net/tags/extension/</link>
+    <description>Recent content in extension on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Aug 2018 09:20:15 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/extension/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrating an Objective-C class to Swift: a piecemeal approach</title>
+      <link>http://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</link>
+      <pubDate>Sat, 11 Aug 2018 09:20:15 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmark of Swift extensions vs methods: Swift 4.1</title>
+      <link>http://freshswift.net/post/-ldxvi0uridp1bj0wv1f/</link>
+      <pubDate>Sat, 02 Jun 2018 00:38:59 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ldxvi0uridp1bj0wv1f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watch out for protocol extensions in your Swift API </title>
+      <link>http://freshswift.net/post/-lbu_h8ddopxnc2otigj/</link>
+      <pubDate>Mon, 07 May 2018 12:32:32 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lbu_h8ddopxnc2otigj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional conformances in Swift</title>
+      <link>http://freshswift.net/post/-l9uf2l5rrrtusgjwulk/</link>
+      <pubDate>Sat, 07 Apr 2018 10:34:47 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l9uf2l5rrrtusgjwulk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Label Effects in Swift 4</title>
+      <link>http://freshswift.net/post/-l94oxermoiwndh4xvcy/</link>
+      <pubDate>Mon, 02 Apr 2018 10:06:04 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l94oxermoiwndh4xvcy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caveats of Swift default protocol extensions</title>
+      <link>http://freshswift.net/post/-l8rrsqztl8ma2a4wuua/</link>
+      <pubDate>Fri, 30 Mar 2018 15:08:02 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l8rrsqztl8ma2a4wuua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stored Properties In Swift Extensions</title>
+      <link>http://freshswift.net/post/-kktbmogjv1zplhekblk/</link>
+      <pubDate>Wed, 24 May 2017 08:40:39 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kktbmogjv1zplhekblk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

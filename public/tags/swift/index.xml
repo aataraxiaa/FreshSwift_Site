@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swift on Fresh Swift</title>
+    <link>http://freshswift.net/tags/swift/</link>
+    <description>Recent content in swift on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 May 2020 16:47:06 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why many developers prefer Swift to Objective-C</title>
+      <link>http://freshswift.net/post/-kxcc1y5wi8iefkapaxr/</link>
+      <pubDate>Tue, 24 Oct 2017 09:04:22 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kxcc1y5wi8iefkapaxr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

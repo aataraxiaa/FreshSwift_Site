@@ -1,0 +1,76 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>refactoring on Fresh Swift</title>
+    <link>http://freshswift.net/tags/refactoring/</link>
+    <description>Recent content in refactoring on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Aug 2018 10:25:23 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Similar Prefixes</title>
+      <link>http://freshswift.net/post/-lkfste8mnghi1lpiyuj/</link>
+      <pubDate>Fri, 24 Aug 2018 10:25:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lkfste8mnghi1lpiyuj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring Swift code for testability</title>
+      <link>http://freshswift.net/post/-li0zlih9bjn8p4sp2xr/</link>
+      <pubDate>Sun, 22 Jul 2018 10:38:08 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-li0zlih9bjn8p4sp2xr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Tip: Refactoring with Deprecations</title>
+      <link>http://freshswift.net/post/-lga5v2ngxq2mb9pcf2j/</link>
+      <pubDate>Fri, 29 Jun 2018 10:32:32 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lga5v2ngxq2mb9pcf2j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Refactoring in Swift</title>
+      <link>http://freshswift.net/post/-lcsqei8670bo1x-ptya/</link>
+      <pubDate>Sat, 19 May 2018 12:43:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lcsqei8670bo1x-ptya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Local Refactoring</title>
+      <link>http://freshswift.net/post/-ksgushiun3q2esr6lds/</link>
+      <pubDate>Tue, 29 Aug 2017 07:36:28 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ksgushiun3q2esr6lds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring Reveals Truths</title>
+      <link>http://freshswift.net/post/-kpzcnao3hyenv7lbecq/</link>
+      <pubDate>Fri, 21 Jul 2017 08:13:36 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kpzcnao3hyenv7lbecq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple open sources key Xcode refactoring components</title>
+      <link>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</link>
+      <pubDate>Tue, 13 Jun 2017 07:49:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kmvqlwf2njvmoyitevh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

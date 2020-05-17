@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBM on Fresh Swift</title>
+    <link>http://freshswift.net/tags/ibm/</link>
+    <description>Recent content in IBM on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Nov 2017 04:02:47 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/ibm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Kitura 2.0</title>
+      <link>http://freshswift.net/post/-ky-1uequtisixdxfgyk/</link>
+      <pubDate>Fri, 03 Nov 2017 04:02:47 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ky-1uequtisixdxfgyk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

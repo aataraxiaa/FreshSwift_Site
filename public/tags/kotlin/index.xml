@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kotlin on Fresh Swift</title>
+    <link>http://freshswift.net/tags/kotlin/</link>
+    <description>Recent content in kotlin on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Jun 2018 16:50:27 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swift vs. Kotlin — the differences in memory management</title>
+      <link>http://freshswift.net/post/-lfrqcxrwli4r901ocki/</link>
+      <pubDate>Mon, 25 Jun 2018 16:50:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lfrqcxrwli4r901ocki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Classes in Swift</title>
+      <link>http://freshswift.net/post/-laibj4gmh2wewhcxk4h/</link>
+      <pubDate>Tue, 17 Apr 2018 10:42:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-laibj4gmh2wewhcxk4h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwiftKotlin: A tool to convert Swift code to Kotlin.</title>
+      <link>http://freshswift.net/post/-l2lp5zfrcmpjmzmzse3/</link>
+      <pubDate>Mon, 08 Jan 2018 17:32:12 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l2lp5zfrcmpjmzmzse3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

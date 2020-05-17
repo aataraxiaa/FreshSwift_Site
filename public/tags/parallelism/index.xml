@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parallelism on Fresh Swift</title>
+    <link>http://freshswift.net/tags/parallelism/</link>
+    <description>Recent content in parallelism on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Jan 2018 11:42:29 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/parallelism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basics of parallel programming with Swift</title>
+      <link>http://freshswift.net/post/-l3wzqfw4qlr6xlohfjv/</link>
+      <pubDate>Sun, 28 Jan 2018 11:42:29 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l3wzqfw4qlr6xlohfjv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

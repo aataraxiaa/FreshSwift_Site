@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>testability on Fresh Swift</title>
+    <link>http://freshswift.net/tags/testability/</link>
+    <description>Recent content in testability on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Jul 2018 10:38:08 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/testability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Refactoring Swift code for testability</title>
+      <link>http://freshswift.net/post/-li0zlih9bjn8p4sp2xr/</link>
+      <pubDate>Sun, 22 Jul 2018 10:38:08 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-li0zlih9bjn8p4sp2xr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

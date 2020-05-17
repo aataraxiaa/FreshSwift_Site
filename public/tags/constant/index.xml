@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>constant on Fresh Swift</title>
+    <link>http://freshswift.net/tags/constant/</link>
+    <description>Recent content in constant on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 Jul 2017 07:34:18 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/constant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reminder About Let Initialization</title>
+      <link>http://freshswift.net/post/-kqmzhb-x2yi2aqoxqc0/</link>
+      <pubDate>Mon, 31 Jul 2017 07:34:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kqmzhb-x2yi2aqoxqc0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

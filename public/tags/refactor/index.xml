@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>refactor on Fresh Swift</title>
+    <link>http://freshswift.net/tags/refactor/</link>
+    <description>Recent content in refactor on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Aug 2018 10:25:23 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/refactor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Functional Refactoring in Swift</title>
+      <link>http://freshswift.net/post/-l7htor9fbjpqp4rniak/</link>
+      <pubDate>Fri, 16 Mar 2018 08:20:45 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l7htor9fbjpqp4rniak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

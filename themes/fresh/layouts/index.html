@@ -9,19 +9,21 @@
         {{ end }}
 
         <div class="posts-list">
-          {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
-          {{ range $pag.Pages }}
+          {{ range .Paginator.Pages }}
             <article class="post-preview">
               <a href="{{ .Params.link }}">
                 <h2 class="post-title">{{ .Title }}</h2>
+
                 {{ if .Params.subtitle }}
                   <h3 class="post-subtitle">
-                  {{ .Params.subtitle }}
+                    {{ .Params.subtitle }}
                   </h3>
                 {{ end }}
               </a>
 
-              {{ partial "post_meta.html" . }}
+              <p class="post-meta">
+                {{ default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format | i18n "postedOnDate" }}
+              </p>
               <div class="post-entry">
                 {{ if .Truncated }}
                   {{ .Summary }}
@@ -33,11 +35,12 @@
 
               {{ if .Params.tags }}
                 <span class="post-meta">
-                {{ range .Params.tags }}
-                  #<a href="{{ $.Site.LanguagePrefix }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
-                {{ end }}
+                  {{ range .Params.tags }}
+                    #<a href="{{ $.Site.LanguagePrefix }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+                  {{ end }}
                 </span>
               {{ end }}
+
             </article>
           {{ end }}
         </div>
