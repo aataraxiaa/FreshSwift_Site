@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithm on Fresh Swift</title>
+    <link>http://freshswift.net/tags/algorithm/</link>
+    <description>Recent content in algorithm on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Jun 2018 09:41:06 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swift techniques to filter duplicates out of large JSON arrays</title>
+      <link>http://freshswift.net/post/-lfaramn7af4iijlxpik/</link>
+      <pubDate>Fri, 22 Jun 2018 09:41:06 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lfaramn7af4iijlxpik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dijkstra’s Algorithm In Swift</title>
+      <link>http://freshswift.net/post/-ktapozsfeyxjod7foco/</link>
+      <pubDate>Mon, 04 Sep 2017 07:42:47 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ktapozsfeyxjod7foco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

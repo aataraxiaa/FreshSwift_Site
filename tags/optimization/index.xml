@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization on Fresh Swift</title>
+    <link>http://freshswift.net/tags/optimization/</link>
+    <description>Recent content in optimization on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Aug 2017 12:10:35 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speed up Swift compile time</title>
+      <link>http://freshswift.net/post/-krqvbas4yn7rij_sfrg/</link>
+      <pubDate>Sun, 13 Aug 2017 12:10:35 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-krqvbas4yn7rij_sfrg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

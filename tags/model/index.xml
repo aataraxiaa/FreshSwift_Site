@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>model on Fresh Swift</title>
+    <link>http://freshswift.net/tags/model/</link>
+    <description>Recent content in model on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Aug 2018 14:46:11 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Model controllers in Swift</title>
+      <link>http://freshswift.net/post/-lkrwokxbqhigomxwvdr/</link>
+      <pubDate>Tue, 21 Aug 2018 14:46:11 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lkrwokxbqhigomxwvdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing views from being model aware in Swift</title>
+      <link>http://freshswift.net/post/-l8hmx6lxvt0iuhj_z12/</link>
+      <pubDate>Fri, 23 Mar 2018 10:20:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l8hmx6lxvt0iuhj_z12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

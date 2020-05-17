@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ABI on Fresh Swift</title>
+    <link>http://freshswift.net/tags/abi/</link>
+    <description>Recent content in ABI on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Jul 2018 14:43:18 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/abi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swift Evolution - Plan for module stability</title>
+      <link>http://freshswift.net/post/-liwl-qeisvliv4nhcm/</link>
+      <pubDate>Sat, 28 Jul 2018 14:43:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-liwl-qeisvliv4nhcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary Frameworks in Swift</title>
+      <link>http://freshswift.net/post/-l5jhlernnjpeeanobxh/</link>
+      <pubDate>Mon, 19 Feb 2018 18:17:57 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l5jhlernnjpeeanobxh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

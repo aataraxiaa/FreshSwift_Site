@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>type-safe on Fresh Swift</title>
+    <link>http://freshswift.net/tags/type-safe/</link>
+    <description>Recent content in type-safe on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jun 2018 10:49:34 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/type-safe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The power of Result types in Swift</title>
+      <link>http://freshswift.net/post/-lflprmkyb0fsg9yiuwm/</link>
+      <pubDate>Sun, 24 Jun 2018 10:49:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lflprmkyb0fsg9yiuwm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Tip: Type-Safe Initialization using Storyboards</title>
+      <link>http://freshswift.net/post/-lecdtreqf_z1pvkwekw/</link>
+      <pubDate>Tue, 05 Jun 2018 01:55:04 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lecdtreqf_z1pvkwekw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type-safe identifiers in Swift</title>
+      <link>http://freshswift.net/post/-lcnebu4s8zlpw8iepky/</link>
+      <pubDate>Fri, 18 May 2018 12:34:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lcnebu4s8zlpw8iepky/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

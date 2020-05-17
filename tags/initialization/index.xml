@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>initialization on Fresh Swift</title>
+    <link>http://freshswift.net/tags/initialization/</link>
+    <description>Recent content in initialization on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 May 2018 07:52:01 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/initialization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swift Lazy Property Initialization</title>
+      <link>http://freshswift.net/post/-ld_is_aojkumusdrga9/</link>
+      <pubDate>Mon, 28 May 2018 07:52:01 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ld_is_aojkumusdrga9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Initializer Problems</title>
+      <link>http://freshswift.net/post/-kqlihz-y4jmu0trbpgh/</link>
+      <pubDate>Sat, 05 Aug 2017 09:30:00 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kqlihz-y4jmu0trbpgh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

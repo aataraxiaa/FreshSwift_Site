@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>retain on Fresh Swift</title>
+    <link>http://freshswift.net/tags/retain/</link>
+    <description>Recent content in retain on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Nov 2018 17:28:55 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/retain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unit testing retain cycles</title>
+      <link>http://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</link>
+      <pubDate>Tue, 27 Nov 2018 17:28:55 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do you often forget [weak self]? Here’s a solution</title>
+      <link>http://freshswift.net/post/-l8n3jgctk9zntxmc_qb/</link>
+      <pubDate>Sat, 24 Mar 2018 12:52:31 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l8n3jgctk9zntxmc_qb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

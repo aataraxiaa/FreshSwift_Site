@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fresh Swift</title>
+    <link>http://freshswift.net/</link>
+    <description>Recent content on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Jan 2019 16:47:06 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>http://freshswift.net/post/</link>
+      <pubDate>Fri, 04 Jan 2019 16:47:06 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pages</title>
+      <link>http://freshswift.net/page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://freshswift.net/page/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

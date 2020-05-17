@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>migration on Fresh Swift</title>
+    <link>http://freshswift.net/tags/migration/</link>
+    <description>Recent content in migration on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Aug 2018 11:39:07 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrating an Objective-C class to Swift using subclassing</title>
+      <link>http://freshswift.net/post/-lkgyow5q5ryeje1x0y_/</link>
+      <pubDate>Sun, 19 Aug 2018 11:39:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lkgyow5q5ryeje1x0y_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migrating an Objective-C class to Swift: a piecemeal approach</title>
+      <link>http://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</link>
+      <pubDate>Sat, 11 Aug 2018 09:20:15 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

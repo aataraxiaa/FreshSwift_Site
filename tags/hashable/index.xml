@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hashable on Fresh Swift</title>
+    <link>http://freshswift.net/tags/hashable/</link>
+    <description>Recent content in hashable on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 Oct 2018 10:49:44 +0000</lastBuildDate>
+    
+        <atom:link href="http://freshswift.net/tags/hashable/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bloom Filters and Swift 4.2</title>
+      <link>http://freshswift.net/post/-lo2qek9de5vvvoacpqn/</link>
+      <pubDate>Fri, 05 Oct 2018 10:49:44 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lo2qek9de5vvvoacpqn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Equatable and Hashable conformance</title>
+      <link>http://freshswift.net/post/-kwvricbmwa2tfhdidlb/</link>
+      <pubDate>Sun, 15 Oct 2017 14:32:01 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kwvricbmwa2tfhdidlb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
