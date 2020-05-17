@@ -33,12 +33,16 @@ jobs:
       with:
           hugo-version: 'latest'
 
+    # Clean and don't fail
+    - name: Clean public directory
+      run: - rm -rf public
+
     # Builds the site using the latest version of Hugo
     - name: Build
       run: hugo --theme=fresh
 
     # Create name file
-    - name: Cname
+    - name: Create cname file
       run: echo 'freshswift.net' > public/CNAME
 
     - name: Deploy
