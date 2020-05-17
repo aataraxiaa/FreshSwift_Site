@@ -35,7 +35,7 @@ jobs:
 
     # Clean and don't fail
     - name: Clean public directory
-      run: - rm -rf public
+      run: rm -rf public
 
     # Builds the site using the latest version of Hugo
     - name: Build
