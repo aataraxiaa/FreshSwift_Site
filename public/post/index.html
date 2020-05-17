@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kra4g2kwgdokawt1jni/">
-                <h2 class="post-title">Swift 5: Start your engines</h2>
+              <a href="http://freshswift.net/post/-lvokhdfo_r6s0fwa8tb/">
+                <h2 class="post-title">Reasoning about protocols</h2>
 
                 
                   <h3 class="post-subtitle">
-                    With the official Swift 4 release imminent, it’s time to start planning the next evolution of the language. In this update Ted Kremenek outlines the primary goals of the the next development major versions, Swift 5. It’s not surprising to see API stability being the primary focus, as it was discussed as a goal for Swift 4. Reading this reminds me how awesome it is that Swift is being developed in the open. Start your engines! 🏎.
+                    This is a really nice read. Tjeerd clears up some of the confusion which may arise when using Swift protocols.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on August 10, 2017
+                Posted on January 4, 2019
               </p>
               <div class="post-entry">
                 
@@ -137,28 +141,120 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/swift5">swift5</a>&nbsp;
+                    #<a href="/tags/protocol">protocol</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lslcrqe2p8qqfehjq_d/">
+                <h2 class="post-title">Unit testing retain cycles</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Paul Samuels demonstrates how we can use two helper functions to easily unit test for retain cycles.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on November 27, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/testing">testing</a>&nbsp;
+                  
+                    #<a href="/tags/retain">retain</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lsfbbmiaa8kk-ywqqpq/">
+                <h2 class="post-title">Swift Tip: Local Struct Definitions</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This Swift tip from the objc.io team demonstrates the benefits of keeping a struct definition local to a function. Simple but useful.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on November 26, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/struct">struct</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-ls-svqcau0wkqvbg06z/">
+                <h2 class="post-title">Swift Evolution - Add Result to the Standard Library</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Result is a type commonly used for manual propagation and handling of errors within the Swift community. This Swift evolution proposal seeks to add a generic Result type to the Swift standard library. It’s currently in review 🤞🏽.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on November 23, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
                   
                     #<a href="/tags/evolution">evolution</a>&nbsp;
                   
+                    #<a href="/tags/result">result</a>&nbsp;
+                  
                 </span>
               
 
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kr4wdxbejaciaplznkn/">
-                <h2 class="post-title">Exploring Swift Closures</h2>
+              <a href="http://freshswift.net/post/-lrbn8pnht6fdnrz7wt9/">
+                <h2 class="post-title">Language Server Protocol</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Kevin Farst explores an invaluable part of the Swift language - closures. Kevin provides some tips such as using typealias to define commonly used closures, and provides examples of using closures to improve our code. Even if we are overly familiar with closures, it’s good to remind ourselves how we can best use them to make our life a little easier.
+                    Apple recently announced that it was starting work to adopt the Language Server Protocol for Swift. In this post, Mattt Thompson from NSHipster explains why this is one of the most important decisions Apple has made for Swift since releasing the language as open source in 2014.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on August 9, 2017
+                Posted on November 13, 2018
               </p>
               <div class="post-entry">
                 
@@ -169,7 +265,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/closure">closure</a>&nbsp;
+                    #<a href="/tags/lsp">LSP</a>&nbsp;
+                  
+                    #<a href="/tags/editor">editor</a>&nbsp;
                   
                 </span>
               
@@ -177,18 +275,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kr-ksyzcmyubib2xqwv/">
-                <h2 class="post-title">Understanding Operation and OperationQueue in Swift</h2>
+              <a href="http://freshswift.net/post/-lqn-gnejrcqrtvewfsk/">
+                <h2 class="post-title">What&#39;s .self, .Type and .Protocol? Understanding Swift Metatypes</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Dejan Agostini explains what Operations and OperationQueues are, and provides Swift examples of how we can use them. This is a good introductory article on implementing concurrency on iOS.
+                    Bruno Rocha digs in to Swift metatypes. He first explains what a metatype is, before highlighting the differences between dynamic and static metatypes.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on August 8, 2017
+                Posted on November 8, 2018
               </p>
               <div class="post-entry">
                 
@@ -199,9 +297,105 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/concurrency">Concurrency</a>&nbsp;
+                    #<a href="/tags/metatype">metatype</a>&nbsp;
                   
-                    #<a href="/tags/operationqueue">operationqueue</a>&nbsp;
+                    #<a href="/tags/type">type</a>&nbsp;
+                  
+                    #<a href="/tags/self">self</a>&nbsp;
+                  
+                    #<a href="/tags/protocol">protocol</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lqus8qf27jin2tprdmo/">
+                <h2 class="post-title">The power of key paths in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    In this entry of his regular series on Swift, John Sundell demonstrates the power of Swift key paths, a dynamic feature introduced with Swift 4. I particularly like the section on converting key paths to functions, allowing them to be used in place of completion closures.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on November 4, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/keypath">keypath</a>&nbsp;
+                  
+                    #<a href="/tags/dynamic">dynamic</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lq4fhvik9rsje1kvn-b/">
+                <h2 class="post-title">Specializing Protocols in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    John Sundell shows us how we can use protocols to create multiple levels of abstraction, allowing us to start out with a more general protocol that we can then specialize.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on October 30, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/protocol">protocol</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lpl1bqiyirp_puyqgoj/">
+                <h2 class="post-title">DropdownTitleView - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This is a nice Swift component which provides a simple and configurable dropdown view which can be substituted for a UINavigationItem titleView.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on October 26, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/library">library</a>&nbsp;
                   
                     #<a href="/tags/ios">iOS</a>&nbsp;
                   
@@ -211,18 +405,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/">
-                <h2 class="post-title">Building a declarative animation framework in Swift - Part 2</h2>
+              <a href="http://freshswift.net/post/-lpl4swin7k9fifyddcd/">
+                <h2 class="post-title">Building DSLs in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    John Sundell continues to build a declarative animation framework in Swift in this post, the second in a series. Here, he adds the ability to coordinate animations performed on multiple views. It’s a nice approach, and something which could be easily adopted when performing animations in any project.
+                    John Sundell demonstrates how Swift&#39;s type inference and overloading capabilities make it a  great language for building Domain Specific Languages.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on August 7, 2017
+                Posted on October 21, 2018
               </p>
               <div class="post-entry">
                 
@@ -233,197 +427,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/animation">animation</a>&nbsp;
-                  
-                    #<a href="/tags/declarative">declarative</a>&nbsp;
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqlihz-y4jmu0trbpgh/">
-                <h2 class="post-title">Swift Initializer Problems</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Swift initialization, particularly for class types where inheritance is involved, can sometimes feel a little complicated. This Swift document outlines 3 issues associated with Swift initialization, and proposes some possible solutions.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on August 5, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/initialization">initialization</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqg8fi3_ubbex_ijkuh/">
-                <h2 class="post-title">How do I simplify `Swift.print`?</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Erica Sadun encountered a problem when trying to call Swift.print on macOS from a subclass of a type which declares it’s own print function. Fortunately this name-overlap issue is fixed in macOS High Sierra, but the solution Erica comes up with is interesting.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on August 4, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/print">print</a>&nbsp;
-                  
-                    #<a href="/tags/macos">macOS</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqb1spnrtrlwgzgivx5/">
-                <h2 class="post-title">Why the Func</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Daniel Steinberg with a talk from AltConf 2017 in which he looks at what functional programming means in Swift. He takes a deep dive in to using map, and shows us what we can learn from trying to write our own map functions.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on August 3, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/talk">talk</a>&nbsp;
-                  
-                    #<a href="/tags/functional">functional</a>&nbsp;
-                  
-                    #<a href="/tags/map">map</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqwrxmifbr_3sm3usfs/">
-                <h2 class="post-title">Matching NSErrors</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Joshua Emmons shows us how to easily pattern match NSErrors in Swift. It transpires that since Swift 3, NSErrors are bridged to Swift error structs, and when combined with the pattern matching operator (~=), this allows us to deal with NSErrors in a much more declarative way.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on August 2, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/error">error</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqrdhjohxmzjs5_aguh/">
-                <h2 class="post-title">Interactive Swift Mind Map</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Learn Anything is an awesome community-driven project which maintains a searchable collection of interactive mind maps. This Swift mind map does not yet contain a great deal of content, but it’s a cool idea and  worth bookmarking. Also, as it’s community-driven we can contribute.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on August 1, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/learning">learning</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqmzhb-x2yi2aqoxqc0/">
-                <h2 class="post-title">Reminder About Let Initialization</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Use Your Loaf with a quick reminder about declaring let constants in functions. With Swift being in a constant state of evolution, sometimes it helps to be reminded about some of the less talked about language features. I must admit that I did forget about this one, and probable declared a few variables where I could have declared constants.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 31, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/constant">constant</a>&nbsp;
+                    #<a href="/tags/dsl">dsl</a>&nbsp;
                   
                 </span>
               
@@ -473,7 +477,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -482,7 +486,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

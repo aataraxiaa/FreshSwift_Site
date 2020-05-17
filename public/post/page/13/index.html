@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8opmi09kbkqj6x6qg/">
-                <h2 class="post-title">SE-1069: Improve interactions between private declarations and extensions</h2>
+              <a href="http://freshswift.net/post/-laibj4gmh2wewhcxk4h/">
+                <h2 class="post-title">Data Classes in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    I&#39;m very happy to see this Swift evolution proposal accepted. The private access modifier in Swift 4 will have a slightly wider scope, and become more usable. With this, extensions to a type declared within the same file will have access to private members. It&#39;s a change which further supports the idea that type extensions should be used as  a code-organization tool.
+                    This is an interesting post from Jorge Martín in which he looks at Kotlin’s data class type, and examines how such a type could be used in Swift to easily copy and mutate state.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 23, 2017
+                Posted on April 17, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,7 +141,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/evolution">evolution</a>&nbsp;
+                    #<a href="/tags/kotlin">kotlin</a>&nbsp;
+                  
+                    #<a href="/tags/struct">struct</a>&nbsp;
                   
                 </span>
               
@@ -145,18 +151,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8oaxsnjepzxcit94x/">
-                <h2 class="post-title">Reduce Swift build times and get home faster 😃</h2>
+              <a href="http://freshswift.net/post/-ladr_7xxotbsscs21ou/">
+                <h2 class="post-title">Enums And Optionals</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Yusei Nishiyama presented these slides at the recent Code Mobile UK conference. He provides useful tips on improving Swift&#39;s build times based on measurement, improvement, and avoiding building entirely. Included is an awesome tip on using Playgrounds to prototype as you develop.
+                    In this post, Soroush Khanlou explains how adding an extra case to an enum can replace the usage of optional enum values. As Soroush says, simplicity is king, and I agree that it’s worth taking the time to think about whether an extra optional case makes sense.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 21, 2017
+                Posted on April 16, 2018
               </p>
               <div class="post-entry">
                 
@@ -167,11 +173,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/xcode">Xcode</a>&nbsp;
+                    #<a href="/tags/enum">enum</a>&nbsp;
                   
-                    #<a href="/tags/compiler">compiler</a>&nbsp;
-                  
-                    #<a href="/tags/build">build</a>&nbsp;
+                    #<a href="/tags/optional">optional</a>&nbsp;
                   
                 </span>
               
@@ -179,18 +183,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8oqbrrlxgl1ncw_ha/">
-                <h2 class="post-title">Runtime podcast - Swift ABI Stability</h2>
+              <a href="http://freshswift.net/post/-la2flv882igrl3rrufn/">
+                <h2 class="post-title">Overture - A library for function composition</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Swift ABI stability. What is it? Why does the community seem to want it so much. Good succinct podcast in which Sam Soffes and Caleb Davenport discuss the reasons why Swift ABI stability is probably not what the community needs right now.
+                    This Swift library from Point-Free provides APIs which make it easy for us to produce new functions from a combination of existing functions.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 19, 2017
+                Posted on April 14, 2018
               </p>
               <div class="post-entry">
                 
@@ -200,38 +204,6 @@ ga('send', 'pageview');
 
               
                 <span class="post-meta">
-                  
-                    #<a href="/tags/podcast">podcast</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8ocn5j9lt_ljpffm4/">
-                <h2 class="post-title">Haptica - Haptic Feedback Generator</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Lasha Efremidze created a useful Swift library which wraps the iOS haptic feedback generator APIs. I really like how simple yet clean the API is.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 19, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
                   
                     #<a href="/tags/library">library</a>&nbsp;
                   
@@ -241,48 +213,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8o-xxodgtfhj9o78i/">
-                <h2 class="post-title">SOLID principles applied to Swift</h2>
+              <a href="http://freshswift.net/post/-l9oaal94xx9ggeop4zs/">
+                <h2 class="post-title">Understanding protocol associated types and their constraints</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Marco Santarossa presents some easy to understand Swift code examples based around using SOLID principles to to avoid code fragility, immobility and rigidity.
+                    Paul Hudson dives into Swift protocols and associated types. Paul explains why protocol associated types are so powerful, before showing us how best control their complexity using constraints.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 18, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/clean-code">clean code</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8qgv-molvtrumpd3r/">
-                <h2 class="post-title">Dependency injection via protocol composition</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Krzysztof Zablocki with a nice approach to dependency injection based on protocol composition. Avoid constantly refactoring code callsites while keeping your code testable.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 17, 2017
+                Posted on April 11, 2018
               </p>
               <div class="post-entry">
                 
@@ -295,7 +237,7 @@ ga('send', 'pageview');
                   
                     #<a href="/tags/protocol">protocol</a>&nbsp;
                   
-                    #<a href="/tags/dependency-injection">dependency injection</a>&nbsp;
+                    #<a href="/tags/generics">generics</a>&nbsp;
                   
                 </span>
               
@@ -303,18 +245,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj7s0mpq-pgwopj1onv/">
-                <h2 class="post-title">Reflectable Enums</h2>
+              <a href="http://freshswift.net/post/-l9js4u5slsgztlifq9z/">
+                <h2 class="post-title">Netfox - A lightweight, one line setup, iOS / OSX network debugging library!</h2>
 
                 
                   <h3 class="post-subtitle">
-                    What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types.
+                    This is a pretty cool library from Christos Kasketis. It provides a quick look of all executed network requests performed by an iOS or OSX app. Definitely useful. 🦊.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 17, 2017
+                Posted on April 10, 2018
               </p>
               <div class="post-entry">
                 
@@ -325,9 +267,169 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/reflection">reflection</a>&nbsp;
+                    #<a href="/tags/library">library</a>&nbsp;
                   
-                    #<a href="/tags/enums">enums</a>&nbsp;
+                    #<a href="/tags/ios">iOS</a>&nbsp;
+                  
+                    #<a href="/tags/osx">OSX</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l9jrnchebu0puhjvl8m/">
+                <h2 class="post-title">Swift Evolution - Hashable Enhancements</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This is an interesting Swift evolution proposal from Karoy Lorentey and Vincent Esche. They propose enhancements to the Hashable protocol, which should make it easier for types to manually conform to the protocol.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 10, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
+                  
+                    #<a href="/tags/hash">hash</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l9fbf9fzuiiarxkxk1d/">
+                <h2 class="post-title">Expanding Swift&#39;s Reach</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This is an interesting article from Benedikt Terhechte, in which he examines the issues preventing Swift from broader adoption in domains such as system programming. Benedikt first looks at language competitors in the systems programming space, before outlining how Swift can start to make inroads.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 9, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/system">system</a>&nbsp;
+                  
+                    #<a href="/tags/language">language</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/">
+                <h2 class="post-title"> Optionals as Collections</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Joshua Emmons returns to a post he wrote on dealing with optionals and failable initializers. Joshua goes back to basics, looking at how flapMap applies to optionals, and comes to realise that when we think of optionals as collections, things make more sense.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 8, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/optional">optional</a>&nbsp;
+                  
+                    #<a href="/tags/flatmap">flatmap</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l9zf4dmxzhghurlta_8/">
+                <h2 class="post-title">CocoaPods 1.5.0 — Swift Static Libraries</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Coming just a few months after the release of Cocoapods 1.4, this latest release of the popular dependency manager adds support for building Swift pods as static libraries. This is something that will please a lot a developers, especially those building command line tools.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 8, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/cocoapods">cocoapods</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l9zdisyqvhfq0m63pb9/">
+                <h2 class="post-title">Whats new in Swift 4.1?</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    To demonstrate what’s new in Swift 4.1, Paul Hudson has created this Xcode playground. The playground includes code samples for all the new Swift 4.1 features we have been looking forward to. Very handy!
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 8, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/swift4.1">swift4.1</a>&nbsp;
+                  
+                    #<a href="/tags/playground">playground</a>&nbsp;
                   
                 </span>
               
@@ -342,6 +444,10 @@ ga('send', 'pageview');
                 <a href="/post/page/12">&larr; Newer Posts</a>
               </li>
             
+            
+              <li class="next">
+                <a href="/post/page/14">Older Posts &rarr;</a>
+              </li>
             
           </ul>
         
@@ -377,7 +483,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -386,7 +492,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

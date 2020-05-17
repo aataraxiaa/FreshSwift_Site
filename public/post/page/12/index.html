@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8qp08kitkwxc7wfvj/">
-                <h2 class="post-title">Swift Terms: arguments, parameters, and labels</h2>
+              <a href="http://freshswift.net/post/-lbrkmr2sm3ybepda3dy/">
+                <h2 class="post-title">So Swift, So Clean Architecture for iOS</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Erica Sadun attempts to refine Swift function terminology. She looks at the arguments and labels used at function call sites, and the parameters used in function declarations.
+                    This is an interesting article from Basem Emara in which he presents his version of a clean app architecture. Basem bases his architecture on an idea by the well known software engineer Robert Martin.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 29, 2017
+                Posted on May 1, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,7 +141,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/terminology">terminology</a>&nbsp;
+                    #<a href="/tags/architecture">architecture</a>&nbsp;
                   
                 </span>
               
@@ -145,18 +149,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8qwg3kop4yr4z1xsg/">
-                <h2 class="post-title">SwiftShield - Swift Code Obfuscator</h2>
+              <a href="http://freshswift.net/post/-lbm1f8t0ovyqal2h1ky/">
+                <h2 class="post-title">Blurring the Lines Between MVVM and VIPER</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Bruno Rocha has released SwiftShield, an interesting tool which generates irreversible, encrypted names for your iOS project&#39;s objects. The goal here is to protect your app from tools that reverse engineer iOS apps.
+                    Göksel Köksal explains why he thinks MVVM and VIPER are not so different. Göksel starts by explaining the components of each software architecture, before showing us why using one doesn’t necessarily mean abandoning the other. Swift code examples are of course included 😃.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 28, 2017
+                Posted on April 30, 2018
               </p>
               <div class="post-entry">
                 
@@ -167,7 +171,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/library">library</a>&nbsp;
+                    #<a href="/tags/architecture">architecture</a>&nbsp;
                   
                 </span>
               
@@ -175,18 +179,48 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8qmgko6cn3dkc2lzt/">
-                <h2 class="post-title">Time traveling in Swift unit tests</h2>
+              <a href="http://freshswift.net/post/-lblni-yhbkvcnwxhtmt/">
+                <h2 class="post-title">Playground driven development in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Writing tests against code that relies on dates can be tricky. In this short post, John Sundell looks at how we can test such code in a simple and fun way, based on what he calls &#34;time traveling&#34;.
+                    Khoa Pham shows us how to use a Swift playground to speed up our app development process. This is a detailed post that walks us through each step required to get started with this approach.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 28, 2017
+                Posted on April 30, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/playground">playground</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lb9wk3mafhpk7mtzdhg/">
+                <h2 class="post-title">Swift Evolution - RFC: In-Line Tests</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    In this RFC, Robert Widmann suggests a very interesting Swift evolution idea. Robert comments that currently, unit testing in Swift feels like a second-class citizen, and comes with significant overhead. To improve the situation, he suggests the idea of in-line tests, enabling us to add unit tests right next to the code being tested. I really like this idea. 👍🏽.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 28, 2018
               </p>
               <div class="post-entry">
                 
@@ -205,18 +239,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8pxg0mf2yyllch9qe/">
-                <h2 class="post-title">Swift String Cheat Sheet</h2>
+              <a href="http://freshswift.net/post/-lb5jfm-hvx3rc4y29hz/">
+                <h2 class="post-title">What’s new in Swift 4.2?</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Useful String cheat sheet from Use You Loaf. The ever-evolving Swift String API if fully documented here with examples.
+                    Swift is evolving at an impressive pace, and the upcoming version, Swift 4.2, brings with it some great improvements. In this post, Paul Hudson describes some of these improvements, including derived enum cases and dynamic member lookup.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 27, 2017
+                Posted on April 27, 2018
               </p>
               <div class="post-entry">
                 
@@ -227,152 +261,28 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/cheat-sheet">cheat sheet</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8pnvyz5ujprphkuu1/">
-                <h2 class="post-title">Katan - Swift playground with a micro web server</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Cool playground from Marcio Klepacz which aims to  demonstrate the basics steps required to create a web server in Swift. It&#39;s basically a micro web server which replies &#34;Hello world!&#34; to every request.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 26, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/playground">playground</a>&nbsp;
-                  
-                    #<a href="/tags/server-side">server side</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8pdeti40lonwdjpqz/">
-                <h2 class="post-title">Swift Source Compatibility Test Suite</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    This is an awesome, community-driven project released as part of an effort to maintain source compatibility in future Swift releases. Open-source project owners can submit projects which will then be built by Swift&#39;s continuous integration system. The goal is to monitor Swift compiler-related pull request builds, and catch any source compatibility regressions.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 26, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/compiler">compiler</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8psh0nmgv7rgussck/">
-                <h2 class="post-title">Tail Call Elimination in iOS</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Jordan Morgan with an nice explanation of the compiler optimization that is tail call elimination. I was not too familiar with this particular optimization so it was great to see it explained in Swift.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 25, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                    #<a href="/tags/compiler">compiler</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8pgra-lzmq3p894mj/">
-                <h2 class="post-title">Swift Evolution iOS app</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Thiago Holanda has released Evolution, a useful mobile app to follow Swift Evolution on your iOS device. It contains all the features you need to keep up to date like filtering of proposals, and information on the authors and reviewers.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 24, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
                   
                     #<a href="/tags/evolution">evolution</a>&nbsp;
                   
-                    #<a href="/tags/app">app</a>&nbsp;
-                  
                 </span>
               
 
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8p7y_sqvbu2jjlyo2/">
-                <h2 class="post-title">Swift enums are sum types, and that makes them very interesting</h2>
+              <a href="http://freshswift.net/post/-lb0wnywhw8ttmm73l48/">
+                <h2 class="post-title">Swift Tip: Bindings with KVO and Key Paths</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Mislav Javor with an explanation of the Algebraic product and sum types in terms of Swift struct and enum types. He demonstrates that enums being sum types makes them particularly interesting. Simple examples mean no PhD in mathematics is required!
+                    Taken from their soon to be published book, the objc.io team show us how to create lightweight UI bindings using Key-Value-Observing and Swift’s key paths. Very nice.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 23, 2017
+                Posted on April 26, 2018
               </p>
               <div class="post-entry">
                 
@@ -383,7 +293,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/enums">enums</a>&nbsp;
+                    #<a href="/tags/reactive">reactive</a>&nbsp;
+                  
+                    #<a href="/tags/binding">binding</a>&nbsp;
                   
                 </span>
               
@@ -391,18 +303,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8ozvnxo7xkolb2dxt/">
-                <h2 class="post-title">Stopping the Swift weak-strong closure dance</h2>
+              <a href="http://freshswift.net/post/-lardffwi2rv3sc_znqw/">
+                <h2 class="post-title">The Cake Pattern with Swinject</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Short article from Krzysztof Zablocki detailing a nice way to avoid the common weak-strong boilerplate code that accompanies using object references in closures. Included is a 1-file µframework (microframework) which accomplishes this.
+                    Peter-John Welcome demonstrates how we can use the Swinject framework together with the cake pattern to implement dependency injection. The major benefit is decoupling of components, which in turn means easier unit testing.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 23, 2017
+                Posted on April 24, 2018
               </p>
               <div class="post-entry">
                 
@@ -413,7 +325,99 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/library">library</a>&nbsp;
+                    #<a href="/tags/injection">injection</a>&nbsp;
+                  
+                    #<a href="/tags/testing">testing</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lanoxkjw5gs_fynob5p/">
+                <h2 class="post-title">Forcing Compiler Errors in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Erica Sadun looks at the state of metadevelopment support  in Swift, showing us compiler directives introduced in Swift 4.2 which allow us to force compiler errors. Although there is still room for improvement in this area, it’s great to see directives being added which provide compile-time feedback.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 23, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/compiler">compiler</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lagtmqgglagechp8g1d/">
+                <h2 class="post-title">Memory Management and Performance of Value Types</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    In this detailed post, Bruno Rocha examines the performance differences between Swift structs and classes. Bruno explains how both are stored in memory, and provides advice on how to avoid negative performance impacts.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 22, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/memory">memory</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-labjgzqjfjsxxfr9jhz/">
+                <h2 class="post-title">Writing Swift: Adventures in Compiler Mods</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This is a great post from Erica Sadun in which she describes learning how to make changes to the Swift compiler. The lessons she learns are key for anyone who wishes to jump in and contribute to Swift.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 21, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/compiler">compiler</a>&nbsp;
                   
                 </span>
               
@@ -467,7 +471,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -476,7 +480,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

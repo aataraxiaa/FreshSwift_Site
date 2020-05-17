@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-koctt_bhyhrjcolrnjt/">
-                <h2 class="post-title">Errors On The Server</h2>
+              <a href="http://freshswift.net/post/-ll9pmdbfszl5pamvvbk/">
+                <h2 class="post-title">Easier Scrolling With Layout Guides</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Soroush Khanlou looks at how to best handle errors when writing server-side Swift, in this case Vapor. I really like his point about making the correct way to write code the same as the nice way the write code, therefore removing the need for trade-offs between the two.
+                    Keith Harrison from UseYourLoaf demonstrates how we can use layout guides to configure UIScrollView constraints. Swift code examples are provided.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 9, 2017
+                Posted on August 30, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,9 +141,75 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/serverside">serverside</a>&nbsp;
+                    #<a href="/tags/ios">iOS</a>&nbsp;
                   
-                    #<a href="/tags/vapor">vapor</a>&nbsp;
+                    #<a href="/tags/scrollview">scrollview</a>&nbsp;
+                  
+                    #<a href="/tags/layout">layout</a>&nbsp;
+                  
+                    #<a href="/tags/constraints">constraints</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-ll4hpzsua1j-wvt-clz/">
+                <h2 class="post-title">Swift Property Observers</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Mattt Thompson focuses on Swift property observers in this NSHipster post. Mattt first explains the types of properties available in Swift, before describing some use cases for property observers.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on August 29, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/observe">observe</a>&nbsp;
+                  
+                    #<a href="/tags/property">property</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-ll-ulpbxdxgsivtgfce/">
+                <h2 class="post-title">Open Sourcing Validated</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    The point free team are open sourcing a new Swift library for handling errors. Validated allows us to accumulate errors into a single type, useful for when we want to know all the reasons why something went wrong.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on August 28, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/opensource">opensource</a>&nbsp;
                   
                     #<a href="/tags/error">error</a>&nbsp;
                   
@@ -149,18 +219,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kobgoavuwxieqnvajyv/">
-                <h2 class="post-title">Introducing Guard-Catch</h2>
+              <a href="http://freshswift.net/post/-lkva7l1lwwsmraxdtzg/">
+                <h2 class="post-title">Kickstarting new official Docker support for Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Interesting draft Swift evolution proposal from Soroush Khanlou and Erica Sadun. It proposes a new guard / catch statement, which is congruent to the existing guard / else statement. Using the proposed guard / catch statement, we could attempt a throwing operation, and handle the error if thrown inside our guard catch block. The benefit here is that any value that we get when the throwing operation does not throw is then available the guard statement. There is no need to nest all our code in the do block of a do / catch statement.
+                    Haris Amin has started a thread on the official Swift forum outlining a plan to support an official Swift Docker image. Docket is software which allows people to get started and experiment with container-based software. Great to see.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 9, 2017
+                Posted on August 27, 2018
               </p>
               <div class="post-entry">
                 
@@ -170,6 +240,8 @@ ga('send', 'pageview');
 
               
                 <span class="post-meta">
+                  
+                    #<a href="/tags/forum">forum</a>&nbsp;
                   
                     #<a href="/tags/evolution">evolution</a>&nbsp;
                   
@@ -179,18 +251,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-komo6dvbqymcbwqzyvc/">
-                <h2 class="post-title">YapAnimator - Fast and friendly animation system</h2>
+              <a href="http://freshswift.net/post/-lkfste8mnghi1lpiyuj/">
+                <h2 class="post-title">Similar Prefixes</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Yap Studios have released this cool physics-based animation system written entirely in Swift. The included CALayer and UIView extensions allow us to implement animations with one line of code. Neat.
+                    Soroush Khanlou shows us how to identify the code smell known as a data clump. Soroush’s post is based on an idea discussed in Martin Fowler’s seminal 1999 book Refactoring.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 6, 2017
+                Posted on August 24, 2018
               </p>
               <div class="post-entry">
                 
@@ -201,28 +273,58 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/library">library</a>&nbsp;
+                    #<a href="/tags/refactoring">refactoring</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lkwjswtnwbco98roogr/">
+                <h2 class="post-title">Creating a Bottom Sheet </h2>
+
+                
+                  <h3 class="post-subtitle">
+                    In this post Simon Kågedal Reimer shows us how we can create a bottom sheet UI component using Swift, similar to the component used in the Apple Maps app.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on August 22, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
                   
                     #<a href="/tags/ios">iOS</a>&nbsp;
                   
+                    #<a href="/tags/ui">UI</a>&nbsp;
+                  
                 </span>
               
 
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-koghe9nhofbto80ug6e/">
-                <h2 class="post-title">Key Value Observation in iOS 11</h2>
+              <a href="http://freshswift.net/post/-lkrwokxbqhigomxwvdr/">
+                <h2 class="post-title">Model controllers in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Skye Freeman with a short post reminding us that the Codable protocols are not the only exciting additions in Swift 4. Skye provides an example showcasing exactly why the new Swift syntax for key value observing is so awesome, and details some of the things we need to know when using the new syntax.
+                    John Sundell demonstrates how we can use dedicated model controllers to improve code encapsulation, giving each defined type a very distinct and clearly defined area of responsibility.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 5, 2017
+                Posted on August 21, 2018
               </p>
               <div class="post-entry">
                 
@@ -233,28 +335,64 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/kvo">kvo</a>&nbsp;
+                    #<a href="/tags/model">model</a>&nbsp;
+                  
+                    #<a href="/tags/encapsulation">encapsulation</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/">
+                <h2 class="post-title">An iOS alert view with a text field and a “smart” OK button</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This is a very interesting post from Ole Bergmann, in which he demonstrates an approach to keeping an object alive by intentionally capturing it in a closure. Not an approach I had previously considered.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on August 20, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
                   
                     #<a href="/tags/ios">iOS</a>&nbsp;
                   
+                    #<a href="/tags/state">state</a>&nbsp;
+                  
+                    #<a href="/tags/closure">closure</a>&nbsp;
+                  
+                    #<a href="/tags/lifetime">lifetime</a>&nbsp;
+                  
                 </span>
               
 
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-koby6in5cvxmwtdev_s/">
-                <h2 class="post-title">JSON with Encoder and Encodable</h2>
+              <a href="http://freshswift.net/post/-lkgyow5q5ryeje1x0y_/">
+                <h2 class="post-title">Migrating an Objective-C class to Swift using subclassing</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Great post from Greg Heo in which he looks at the magic that is JSON encoding in Swift 4. He walks through every step in the process of encoding a single Int value to JSON, and looks at  the implementation. There are some twists, with parts of the implementation probable not being what you expect. An informative and fun read.
+                    After first looking at using Swift extensions to migrate an Objective-C type to Swift, Ole Begemann now turns his attention to using subclassing to achieve the same goal.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 4, 2017
+                Posted on August 19, 2018
               </p>
               <div class="post-entry">
                 
@@ -265,11 +403,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/swift4">swift4</a>&nbsp;
+                    #<a href="/tags/migration">migration</a>&nbsp;
                   
-                    #<a href="/tags/json">JSON</a>&nbsp;
-                  
-                    #<a href="/tags/codable">codable</a>&nbsp;
+                    #<a href="/tags/obj-c">obj-c</a>&nbsp;
                   
                 </span>
               
@@ -277,18 +413,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-ko6aumo5ooulvhtgmrp/">
-                <h2 class="post-title">Using SpriteKit to create animations in Swift</h2>
+              <a href="http://freshswift.net/post/-lkc8ofqaphnkscdfvqf/">
+                <h2 class="post-title">RFC: making Swift.org a more valuable resource for the Swift community</h2>
 
                 
                   <h3 class="post-subtitle">
-                    John Sundell demonstrates how we can use SpriteKit to create image or text-based animations. Although we can’t use SpriteKit to animate our UIViews, it could be used when animating UI components such as loading or onboarding screens.
+                    On the Swift forum Ted Kremenek has written a request for comment regarding making Swift.org a more valuable resource for the Swift community. Ted suggests that Swift.org could be improved, and is asking the community what changes they would like to see. It’s great to see the core team interacting with the community like this.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 3, 2017
+                Posted on August 18, 2018
               </p>
               <div class="post-entry">
                 
@@ -299,133 +435,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/animation">animation</a>&nbsp;
+                    #<a href="/tags/forum">forum</a>&nbsp;
                   
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-ko1rry7eso6bjfhpqyj/">
-                <h2 class="post-title">LGButton - Beautiful customizable UIControl </h2>
-
-                
-                  <h3 class="post-subtitle">
-                    This is a really nice UIControl subclass from Lorenzo Greco written entirely in Swift. It provides a customizable UIControl which allows us to create beautiful buttons. It also includes the ability the add font icons via an integration with SwiftIconFont. Very useful.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 2, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/library">library</a>&nbsp;
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-knyhqrsbezvhjlsqpp9/">
-                <h2 class="post-title">Statements, messages and reducers</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Matt Gallagher shows us how to break code into isolated units of functionality using statements, messages, and reducers. It’s good to be reminded of some basic computational theory, and as the Swift example is evolved we begin to see the benefits of using this approach.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 1, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/fundamentals">fundamentals</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-knxmafzv6mvwflyredg/">
-                <h2 class="post-title">Ultimate Guide to JSON Parsing With Swift 4</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Ben Scheirman has created this fantastic guide to JSON parsing with Swift 4. Everything from basic encoding and decoding to flattening JSON objects is covered. If you need one guide while you update your code to use the new Encodable protocols, this is the one.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 1, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/swift4">swift4</a>&nbsp;
-                  
-                    #<a href="/tags/json">JSON</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-knxqmai5aetyzisizhb/">
-                <h2 class="post-title">Introducing the !! operator to the Swift Standard Library</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    I really like this draft Swift evolution proposal from Erica Sadun. It proposes an annotated forced unwrapping operator, !!, which attempts to forcefully unwrap an optional. If the forced unwrapping fails, it then documents the failure using the String specified at the callsite. Internally, the operator uses fatalError to document the specified message. I would love to see this make it in to the language.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 1, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/evolution">evolution</a>&nbsp;
+                    #<a href="/tags/community">community</a>&nbsp;
                   
                 </span>
               
@@ -479,7 +491,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -488,7 +500,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

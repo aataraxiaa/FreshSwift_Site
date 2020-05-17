@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kk-wsxgkjzmmrfgfxmv/">
-                <h2 class="post-title">Why Do We Need to Annotate Escaping Closures in Swift?</h2>
+              <a href="http://freshswift.net/post/-ldnswsmmoah75jsdtci/">
+                <h2 class="post-title">Date.now() and other calendar thoughts</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Andrew Bancroft looks at why we need to annotate Swift escaping closures. Quotes from Chris Lattner help him come to a conclusion on the motivations of the Swift compiler when it warns us to annotate our closures as escaping.
+                    Dave Delong started this interesting discussion on the Swift Forums. In Dave’s opinion, the current date/time APIs of Foundation are lacking,  and adding a suggested Date.now() function will only make things worse. Dave then proposes a related addition to Foundation, Clock, which would tell us the date and time of day.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 13, 2017
+                Posted on May 31, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,7 +141,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/closures">closures</a>&nbsp;
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
                   
                 </span>
               
@@ -145,18 +149,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjvz1wabq5fm-hxvoff/">
-                <h2 class="post-title">Symbolicating Swift iOS crash reports</h2>
+              <a href="http://freshswift.net/post/-ldjhgbigenvlhpkexgl/">
+                <h2 class="post-title">Launch arguments in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Mike Bull from Bugsnag looks at symbolicating crash reports, describing the tools available. He also investigates what causes missing information in Swift stacktraces.
+                    John Sundell looks at launch arguments in the context of iOS apps. While traditionally used as input to command line tools, launch arguments can be incorporated into our iOS development process, helping us to debug and test our app.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 12, 2017
+                Posted on May 30, 2018
               </p>
               <div class="post-entry">
                 
@@ -167,9 +171,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/ios">iOS</a>&nbsp;
+                    #<a href="/tags/command-line">command-line</a>&nbsp;
                   
-                    #<a href="/tags/debugging">debugging</a>&nbsp;
+                    #<a href="/tags/arguments">arguments</a>&nbsp;
                   
                 </span>
               
@@ -177,18 +181,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjlhnkyod7yf7g5mooi/">
-                <h2 class="post-title">Building a command line tool using the Swift Package Manager </h2>
+              <a href="http://freshswift.net/post/-lddgeyd-jk_rzyuizjd/">
+                <h2 class="post-title">10 Quick Swift Tips</h2>
 
                 
                   <h3 class="post-subtitle">
-                    John Sundell with a tutorial on how to create a command line tool using the Swift Package Manager. He uses his own open source tool Marathon as an example. Everything you need to create your own command line tool is explained.
+                    This is an enjoyable list of 10 Swift tips from Paul Hudson. As Paul says, Swift is a huge language with lots of interesting syntax and features. Paul looks at 10 such features, providing code examples for all.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 10, 2017
+                Posted on May 29, 2018
               </p>
               <div class="post-entry">
                 
@@ -199,9 +203,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/command-line">command line</a>&nbsp;
-                  
-                    #<a href="/tags/swift-package-manager">swift package manager</a>&nbsp;
+                    #<a href="/tags/tips">tips</a>&nbsp;
                   
                 </span>
               
@@ -209,18 +211,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjg8ty95fs_gaqxi4ne/">
-                <h2 class="post-title">Evolving Label-Directed Tuple Assignments</h2>
+              <a href="http://freshswift.net/post/-ld_is_aojkumusdrga9/">
+                <h2 class="post-title">Swift Lazy Property Initialization</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Really interesting post from Erica Sadun on an undocumented feature of Swift - the use of tuple labels to mix and match tuple declarations with values. This is sometimes called a &#34;tuple shuffle&#34;. Obscure and slightly complex.
+                    We are all most likely familiar with lazy stored properties in Swift, but this post from Use Your Loaf provides a convenient overview of what they are, and how and when we should use them.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 9, 2017
+                Posted on May 28, 2018
               </p>
               <div class="post-entry">
                 
@@ -231,7 +233,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/tuples">tuples</a>&nbsp;
+                    #<a href="/tags/lazy">lazy</a>&nbsp;
+                  
+                    #<a href="/tags/initialization">initialization</a>&nbsp;
                   
                 </span>
               
@@ -239,18 +243,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjd_mbc2l-l9h9jc8pj/">
-                <h2 class="post-title">Readable Swift: The Curious Case of Not</h2>
+              <a href="http://freshswift.net/post/-ldui5_dmjmys8zlzshp/">
+                <h2 class="post-title">CardParts - Reactive, card-based UI framework</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Joshua Emmons considers the Swift not (!) operator, offering his thoughts on it&#39;s readability. Included are some ...interesting alternatives.
+                    This Swift library from Intuit provides a card-style UI framework. It is used in the Mint app, and uses MVVM and data binding built on RxSwift.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 8, 2017
+                Posted on May 27, 2018
               </p>
               <div class="post-entry">
                 
@@ -260,102 +264,6 @@ ga('send', 'pageview');
 
               
                 <span class="post-meta">
-                  
-                    #<a href="/tags/style">style</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjawewo6t8tu8co1yq7/">
-                <h2 class="post-title">Using Swiftlint to avoid conflict </h2>
-
-                
-                  <h3 class="post-subtitle">
-                    As we know, there is no such thing as one true way of formatting code. This is especially evident when working on a team and submitting PRs. Luckily, SwiftLint can help us. William Boles describes his experience using it, and how it helped keep his team happy.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 8, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/code-style">code style</a>&nbsp;
-                  
-                    #<a href="/tags/formatting">formatting</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjxi6yg_jtzldl2ckl7/">
-                <h2 class="post-title">Experimental Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    This is a really cool post from Piotr Gorzelany in which he describes how he was able to use Swift to control a Raspberry Pi via an iOS app. iOS &#43; Vapor &#43; Raspberry Pi = Madness.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 7, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/experimental">experimental</a>&nbsp;
-                  
-                    #<a href="/tags/server-side">server side</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjtpfvbbretocbsga9e/">
-                <h2 class="post-title">Toolbar - An alternative to UIToolbar</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    This is a nice component from 1amageek which can be used as an alternative to UIToolbar. It behaves more dynamically than the standard UIToolbar, and is made with auto layout.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 6, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
                   
                     #<a href="/tags/library">library</a>&nbsp;
                   
@@ -365,18 +273,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjrsbu8ithuiptxgw_6/">
-                <h2 class="post-title">Change filter to return an associated type</h2>
+              <a href="http://freshswift.net/post/-ldcf_h_odaonhiohgjv/">
+                <h2 class="post-title">How to use regular expressions in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    This Swift evoluion proposal changes the filter operation on Sequences to return an associated type, and adds a default implementation to return the same type as the filtered collection. Now, all range-replaceable collections will have a Filtered of Self, including String. Very useful.
+                    Paul Hudson gives us a primer in using regular expressions in Swift. Paul first explains the basics, before showing us how we can make NSRegularExpression easier to use.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 6, 2017
+                Posted on May 23, 2018
               </p>
               <div class="post-entry">
                 
@@ -387,7 +295,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/evoluion">evoluion</a>&nbsp;
+                    #<a href="/tags/regex">regex</a>&nbsp;
                   
                 </span>
               
@@ -395,18 +303,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjme0fit1dm6vjmnmoj/">
-                <h2 class="post-title">Swift Arrays Holding Elements With Weak References</h2>
+              <a href="http://freshswift.net/post/-ld1rpyhxrwohtpotgmb/">
+                <h2 class="post-title">Design Patterns in Swift: State Pattern</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Marco Santarossa looks at memory management in Swift, detailing how we can use NSPointerArray to store weak references to Swift classes.
+                    This post from Dejan Agostini describes what the State pattern is, and shows us how to implement it in Swift using a simple example.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 5, 2017
+                Posted on May 21, 2018
               </p>
               <div class="post-entry">
                 
@@ -417,7 +325,101 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/memory">memory</a>&nbsp;
+                    #<a href="/tags/state">state</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lcwpelrersjfjfcyqsn/">
+                <h2 class="post-title">Swift guard vs if let cheat sheet</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This cheat sheet from Paul Wallace helps us make the right choice when choosing between using guard and if let in our Swift code.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on May 20, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/guard">guard</a>&nbsp;
+                  
+                    #<a href="/tags/conditional">conditional</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lcsqei8670bo1x-ptya/">
+                <h2 class="post-title">Functional Refactoring in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Ben Scheirman explains what we need to consider when we begin refactoring our code to be more functional. Ben provides an example which demonstrates how we can iterate on our refactoring to find the best version.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on May 19, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/functional">functional</a>&nbsp;
+                  
+                    #<a href="/tags/refactoring">refactoring</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lcnebu4s8zlpw8iepky/">
+                <h2 class="post-title">Type-safe identifiers in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    John Sundell demonstrates how using type-safe identifiers can be an excellent way to make our code more robust and less error prone.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on May 18, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/type-safe">type-safe</a>&nbsp;
                   
                 </span>
               
@@ -471,7 +473,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -480,7 +482,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

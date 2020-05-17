@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqi-jakbsk9nxxgtenf/">
-                <h2 class="post-title">AZDialogViewController - Customizable alert dialog controller</h2>
+              <a href="http://freshswift.net/post/-lp5insv2ox4iyks3tp4/">
+                <h2 class="post-title">Sizes - View your app on different device and font sizes</h2>
 
                 
                   <h3 class="post-subtitle">
-                    This is a nice Swift library from Antonio Zaitoun which provides a highly customizable alert dialog view. It mimics Snapchat’s alert dialog view and would be suitable to use in a variety of situations.
+                    This is a really cool Swift library from Marcos Griselli. It enables us to evaluate how our app layout behaves across all possible device sizes, orientations, and font combinations while running on a single simulator configuration. Very useful.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 30, 2017
+                Posted on October 18, 2018
               </p>
               <div class="post-entry">
                 
@@ -147,50 +151,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kqctwwlc0hribq58b6s/">
-                <h2 class="post-title">Advanced UIKit Animations In Swift</h2>
+              <a href="http://freshswift.net/post/-lp0vpryos9kjfquhyor/">
+                <h2 class="post-title">New LSP language service supporting Swift and C-family languages for any editor and platform</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Another good post from Ignacio Nieto Carvajal at Digital Leaves. In this tutorial, Ignacio shows us how to implement animations in Swift. He starts with basic UIKit animations and then advances through interactive and interruptible animations. If you want to implement animations in your iOS apps using Swift, this is a great place to start.
+                    On the official Swift forums, Argyrios Kyrtzidis announces that Apple are going to start a new open-source project for a Swift and C-family language service based on the Language Server Protocol. What this means is that they will focus on building common infrastructure that can be shared by Xcode and other editors such as Atom or Sublime Text.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 29, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/animation">animation</a>&nbsp;
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kq8fh2wfxntyq2e-ndo/">
-                <h2 class="post-title">The Swift Evolution Process</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    With Swift being open-source, it is inevitable that people will have differing opinions on the language evolution process. In response to a discussion around the process, Chris Lattner offered his opinions on why the process works the way it does. It&#39;s a genuine and empathetic response, and some of the thoughts expressed can be applied to software engineering in general, particular around making perfect decisions up front when working in imperfect information.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 28, 2017
+                Posted on October 17, 2018
               </p>
               <div class="post-entry">
                 
@@ -203,24 +175,26 @@ ga('send', 'pageview');
                   
                     #<a href="/tags/evolution">evolution</a>&nbsp;
                   
+                    #<a href="/tags/apple">apple</a>&nbsp;
+                  
                 </span>
               
 
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kq74w5j2vbnbn4frnjl/">
-                <h2 class="post-title">Building a declarative animation framework in Swift - Part 1</h2>
+              <a href="http://freshswift.net/post/-locqu6di6c9tegwesxq/">
+                <h2 class="post-title">Hiding Implementation Details Using internal Properties</h2>
 
                 
                   <h3 class="post-subtitle">
-                    John Sundell with the first in a series of posts on building a declarative animation framework in Swift. We have probably all written animation code using UIView’s animation API consisting of n-level nested closures, which soon becomes hard to read and even harder to tweak. The approach John presents avoids such issues, and could easily be adopted in any iOS project.
+                    Arek Holko demonstrates how to provide dependency injection while hiding implementation details using internal properties.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 28, 2017
+                Posted on October 12, 2018
               </p>
               <div class="post-entry">
                 
@@ -231,9 +205,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/animation">animation</a>&nbsp;
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
+                    #<a href="/tags/encapsulation">encapsulation</a>&nbsp;
                   
                 </span>
               
@@ -241,18 +213,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kq20tkq0hki-quqr3am/">
-                <h2 class="post-title">Reactive iOS Programming: Lightweight State Containers in Swift</h2>
+              <a href="http://freshswift.net/post/-locmibh19xqzt2rcxxa/">
+                <h2 class="post-title">Smoke Framework</h2>
 
                 
                   <h3 class="post-subtitle">
-                    In this post, Tyler Tillage looks at an approach to managing app state using state containers. He starts by building a state container which wraps a state value, and then demonstrates how we can use this container to listen for state changes. It’s a nice approach, and something I can see myself adopting in my own projects.
+                    Amazon engineering have released a light-weight server-side service framework written in Swift. It uses SwiftNIO for it’s networking layer, and can even be used with model code generators such as Swagger.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 27, 2017
+                Posted on October 12, 2018
               </p>
               <div class="post-entry">
                 
@@ -263,7 +235,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/state">state</a>&nbsp;
+                    #<a href="/tags/library">library</a>&nbsp;
                   
                 </span>
               
@@ -271,18 +243,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpxqgymks4parugusoz/">
-                <h2 class="post-title">What’s New In UIKit Animations In Swift 4</h2>
+              <a href="http://freshswift.net/post/-los8ty-blocivkck808/">
+                <h2 class="post-title">Swift Evolution - Fix ExpressibleByStringInterpolation</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Ignacio Nieto Carvajal shows us what’s new in animation is iOS 11 and Swift 4. He looks specifically at UIKit’s UIViewPropertyAnimator and how we can use new properties added in iOS 11 to improve our UIView-based animations.
+                    This is a really cool Swift language evolution proposal which proposes a new design for the ExpressibleByStringInterpolation protocol. Due to issues with the original implementation of this protocol, it was deprecated. The new design aims to address these issues, and add new capabilities to string interpolation.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 26, 2017
+                Posted on October 10, 2018
               </p>
               <div class="post-entry">
                 
@@ -293,9 +265,11 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/swift4">swift4</a>&nbsp;
+                    #<a href="/tags/string">string</a>&nbsp;
                   
-                    #<a href="/tags/animation-ios">animation iOS</a>&nbsp;
+                    #<a href="/tags/interpolation">interpolation</a>&nbsp;
+                  
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
                   
                 </span>
               
@@ -303,18 +277,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpsgb8qbiw2psvttyjw/">
-                <h2 class="post-title">A story about Swift source compatibility</h2>
+              <a href="http://freshswift.net/post/-lo2qek9de5vvvoacpqn/">
+                <h2 class="post-title">Bloom Filters and Swift 4.2</h2>
 
                 
                   <h3 class="post-subtitle">
-                    The Swift source compatibility suite is a community owned project which serves to regression test changes to the Swift compiler. Projects added are periodically built against the latest development versions of Swift, helping us to better understand the impact of changes to the language. In this post, Jesse Squires tells the story of one of his own open source projects, and why adding it to the compatibility suite sooner rather than later would have prevented a regression in the Swift compiler.
+                    This is a really interesting post from Soroush Khanlou. Soroush explains how a data structure called a Bloom filter works, and describes how we can implement such a data structure using Swift 4.2 features.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 25, 2017
+                Posted on October 5, 2018
               </p>
               <div class="post-entry">
                 
@@ -325,9 +299,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/compiler">compiler</a>&nbsp;
+                    #<a href="/tags/hashable">hashable</a>&nbsp;
                   
-                    #<a href="/tags/compatibility">compatibility</a>&nbsp;
+                    #<a href="/tags/collection">collection</a>&nbsp;
                   
                 </span>
               
@@ -335,18 +309,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpnyw36mfnzfuskt_t2/">
-                <h2 class="post-title">Identifying objects in Swift</h2>
+              <a href="http://freshswift.net/post/-lnzvkhqspro5dkfkg5g/">
+                <h2 class="post-title">The State of Developer Ecosystems - Swift &amp; Objective-C</h2>
 
                 
                   <h3 class="post-subtitle">
-                    John Sundell looks at some of the common concepts of identify available in Swift. He provides simple examples to demonstrate how we can define identify when dealing with both value types and reference types. I was not familiar with Swift’s ObjectIdentifier type, but it’s something I could definitely see myself using at some point.
+                    JetBrains have collected data on the current state of developer ecosystems, and published this interested report on how Swift and Objective-C are being used.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 24, 2017
+                Posted on October 4, 2018
               </p>
               <div class="post-entry">
                 
@@ -357,7 +331,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/identify">identify</a>&nbsp;
+                    #<a href="/tags/objective-c">objective-c</a>&nbsp;
                   
                 </span>
               
@@ -365,18 +339,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpilabx5o-ow_zn1xmo/">
-                <h2 class="post-title">JSON to Swift with Decoder and Decodable</h2>
+              <a href="http://freshswift.net/post/-lneij-ehcoysznog_pm/">
+                <h2 class="post-title">It’s wrappers all the way down</h2>
 
                 
                   <h3 class="post-subtitle">
-                    After looking at encoding Swift to JSON in a previous post, Greg Heo turns his attention to decoding JSON to Swift using Swift 4’s Decodable and Decoder protocols. As with the previous article, Greg steps through a complete example. The simplicity of the example, together with the diagrams, really help to explain how the decoding process works.
+                    Ole Begemann uses the example of splitting a string to teach us about the design of collection types and protocol hierarchy in the Swift standard library.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 23, 2017
+                Posted on September 30, 2018
               </p>
               <div class="post-entry">
                 
@@ -387,11 +361,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/json">JSON</a>&nbsp;
-                  
-                    #<a href="/tags/decodable">decodable</a>&nbsp;
-                  
-                    #<a href="/tags/swift4">Swift4</a>&nbsp;
+                    #<a href="/tags/collection">collection</a>&nbsp;
                   
                 </span>
               
@@ -399,18 +369,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/">
-                <h2 class="post-title">Struct References</h2>
+              <a href="http://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/">
+                <h2 class="post-title">Swift 5.0 Release Process</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Great article from Chris Eidhof in which he looks to combine the usage of references types and value types to get the best of both worlds. He uses new Swift 4 features such as keypaths and generic subscripts together with existing Swift features to create types which are mutable and observable, while also having underlying value type data.
+                    On the official Swift blog, Ted Kremenek outlines the goals, release process, and estimated schedule for Swift 5. The primary goal of the next major release is achieving application binary interface stability, meaning Swift code compiled against different Swift compiler versions will be able to interoperate.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 22, 2017
+                Posted on September 28, 2018
               </p>
               <div class="post-entry">
                 
@@ -421,13 +391,41 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/kvo">KVO</a>&nbsp;
+                    #<a href="/tags/swift5">swift5</a>&nbsp;
                   
-                    #<a href="/tags/keypath">keypath</a>&nbsp;
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
                   
-                    #<a href="/tags/generics">generics</a>&nbsp;
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lnfya2ypuhpi1mrygjl/">
+                <h2 class="post-title">Async/await in Swift unit tests</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    John Sundell shows us how to use the async/await programming paradigm to write concise unit tests for asynchronous code.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on September 25, 2018
+              </p>
+              <div class="post-entry">
+                
                   
-                    #<a href="/tags/swift4">Swift4</a>&nbsp;
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/asynchronous">asynchronous</a>&nbsp;
+                  
+                    #<a href="/tags/testing">testing</a>&nbsp;
                   
                 </span>
               
@@ -481,7 +479,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -490,7 +488,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

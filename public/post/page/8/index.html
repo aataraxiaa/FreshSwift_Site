@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-klc1x3qjd8kw9doijwq/">
-                <h2 class="post-title">This Swift 4 change is objectively bad</h2>
+              <a href="http://freshswift.net/post/-lfw1crli4pjbwwxbgyl/">
+                <h2 class="post-title">On Apple&#39;s Love Affair With Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Interesting Twitter thread regarding what looks like an undesirable change coming in Swift 4. The change relates to how tuples are automatically expanded in closures and it&#39;s something to be mindful of as we approach the Swift 4 release.
+                    In response to a recent article examining Swift, in which the author questioned the decisions behind the development of the language, Stefan Lesser selects the most relevant excerpts from an interview with Chris Lattner to answer the questions.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 2, 2017
+                Posted on June 26, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,7 +141,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/tuples">tuples</a>&nbsp;
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
+                  
+                    #<a href="/tags/opinion">opinion</a>&nbsp;
                   
                 </span>
               
@@ -145,18 +151,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-klsrinxvlmcoxhnn27n/">
-                <h2 class="post-title">Type-Driven Development with Swift </h2>
+              <a href="http://freshswift.net/post/-lfrqcxrwli4r901ocki/">
+                <h2 class="post-title">Swift vs. Kotlin — the differences in memory management</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Type-driven development as described here means we focus on the types of our functions before fully implementing them. This allows us to build a proven foundation for our code. Then, once we have types that we compiling, we can finish implementing them. In this short post, Matt Diephouse shows us how he uses this approach with Swift. He first figures out his types, before later returning to fill in the implementation.
+                    In this post Krzysztof Turek compares Swift with Kotlin in the context of iOS and Android development, explaining how each language and platform handles memory management.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 31, 2017
+                Posted on June 25, 2018
               </p>
               <div class="post-entry">
                 
@@ -167,7 +173,13 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/typedriven">typedriven</a>&nbsp;
+                    #<a href="/tags/memory">memory</a>&nbsp;
+                  
+                    #<a href="/tags/kotlin">kotlin</a>&nbsp;
+                  
+                    #<a href="/tags/ios">iOS</a>&nbsp;
+                  
+                    #<a href="/tags/android">android</a>&nbsp;
                   
                 </span>
               
@@ -175,18 +187,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-klnl9rapnjsq_z-_9ul/">
-                <h2 class="post-title">Tests that don&#39;t crash</h2>
+              <a href="http://freshswift.net/post/-lflprmkyb0fsg9yiuwm/">
+                <h2 class="post-title">The power of Result types in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Tim Vermeulen with a short post showing us how to write tests which fail gracefully when they encounter a nil optional. Marking individual tests as throwing is not something I thought of before, and it means tests that previously crashed now simply fail, allowing subsequent tests to be executed. Nice idea.
+                    John Sundell looks at the Result type, a commonly used type in many swift projects which will likely some day be part of the Swift standard library. John provides code examples of how this type can be best utilized to reduce ambiguity.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 30, 2017
+                Posted on June 24, 2018
               </p>
               <div class="post-entry">
                 
@@ -197,9 +209,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/test">test</a>&nbsp;
-                  
-                    #<a href="/tags/optional">optional</a>&nbsp;
+                    #<a href="/tags/type-safe">type-safe</a>&nbsp;
                   
                 </span>
               
@@ -207,18 +217,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kli7-bvgn__pee7xspr/">
-                <h2 class="post-title">Using @autoclosure when designing Swift APIs</h2>
+              <a href="http://freshswift.net/post/-lfaramn7af4iijlxpik/">
+                <h2 class="post-title">Swift techniques to filter duplicates out of large JSON arrays</h2>
 
                 
                   <h3 class="post-subtitle">
-                    The @autoclosure attribute enables us to define function arguments which can be expressed as a simple expression at the call site, but which are then automatically wrapped in a closure. This has the benefit of delaying execution, as with an explicit closure, while also reducing the verbosity of our code. In this post John Sundell provides 3 quick examples of using @autoclosure when designing our APIs. While reading this it&#39;s also worth keeping in mind a note from Apple&#39;s official Swift programming guide which points out that overusing autoclosures can make our code hard to understand. Use wisely.
+                    This post from Aleksandar Vacić demonstrates how the standard library reduce function can be used to gain vast performance improvements when writing code which filters values.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 29, 2017
+                Posted on June 22, 2018
               </p>
               <div class="post-entry">
                 
@@ -229,7 +239,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/autoclosure">autoclosure</a>&nbsp;
+                    #<a href="/tags/reduce">reduce</a>&nbsp;
+                  
+                    #<a href="/tags/algorithm">algorithm</a>&nbsp;
                   
                 </span>
               
@@ -237,18 +249,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kldpzhntbdqerj1cnbz/">
-                <h2 class="post-title">Building Swift Projects In Source Compatibility Mode</h2>
+              <a href="http://freshswift.net/post/-lfmyzyrg7uwmdjkt3r7/">
+                <h2 class="post-title">Swift Unwrapped -  Interview with Ted Kremenek</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Source compatibility mode is a compilation mode available with Swift 4 which when enabled should compile the vast majority of Swift 3 sources. In this post, Daniel Duan shows us how we can try it out using the current Swift 4 snapshot.
+                    This edition of the Swift Unwrapped podcast features an interview with Ted Kremenek, who manages the Languages and Runtimes team at Apple. Ted talks about everything Swift, from the upcoming 4.2 version to Swift 5, which will be released early next year.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 28, 2017
+                Posted on June 19, 2018
               </p>
               <div class="post-entry">
                 
@@ -258,10 +270,106 @@ ga('send', 'pageview');
 
               
                 <span class="post-meta">
+                  
+                    #<a href="/tags/podcast">podcast</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lfi6cpxpsj66nwgmcoz/">
+                <h2 class="post-title">What’s new in iOS 12?</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Paul Hudson walks us through the major changes coming with iOS 12, providing Swift code examples that we can try out ourselves.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on June 18, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/ios">iOS</a>&nbsp;
+                  
+                    #<a href="/tags/ios12">iOS12</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lfcf-yfy4ldwaxvq89m/">
+                <h2 class="post-title">Enumerating enum cases in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    New in Swift 4.2 is the ability to specify that the compiler should generate a collection of an enum’s cases. In this post, Ole Begemann first shows us how we can use the new CaseIterable protocol with enums, before looking at how we can make other types  CaseIterable.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on June 17, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lf7myk_dv-rymdwd6w2/">
+                <h2 class="post-title">Swift Diagnostics: #warning and #error</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This is a really interesting post from Greg Heo, in which he looks at two new compiler diagnostic directives which are available in Swift 4.2. Rather than simple show us how we can use them, Greg instead digs deeper, showing us how they are implemented in C&#43;&#43;.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on June 16, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
                   
                     #<a href="/tags/compiler">compiler</a>&nbsp;
                   
-                    #<a href="/tags/swift4">swift4</a>&nbsp;
+                    #<a href="/tags/directive">directive</a>&nbsp;
                   
                 </span>
               
@@ -269,18 +377,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kl2ke0xfq9cnlnvl0rf/">
-                <h2 class="post-title">Swift Dispatch - 5 Easy Tricks</h2>
+              <a href="http://freshswift.net/post/-lf2b03m6xgz4fopoaqw/">
+                <h2 class="post-title">Why optional closures in Swift are escaping</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Swift Dispatch enables us to easily execute code concurrently on multicore systems. Using DispatchTime, which represents a point in time relative to the default clock time, we can schedule our concurrent tasks to happen at some point in the future. In this post, Erica Sadun looks at Dispatch and shows us five easy ways we can improve our Dispatch experience.
+                    In this short post, Jesse Squires explains why optional closure function parameters are always implicitly escaping. Once you read why, it makes total sense.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 26, 2017
+                Posted on June 15, 2018
               </p>
               <div class="post-entry">
                 
@@ -291,9 +399,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/dispatch">dispatch</a>&nbsp;
-                  
-                    #<a href="/tags/queue">queue</a>&nbsp;
+                    #<a href="/tags/closure">closure</a>&nbsp;
                   
                 </span>
               
@@ -301,18 +407,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kkyegioc80u38l1u9sw/">
-                <h2 class="post-title">Higher order functions in Swift</h2>
+              <a href="http://freshswift.net/post/-let1eq05are1esnlta_/">
+                <h2 class="post-title">Random numbers in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Swift&#39;s functional aspects such as immutability and higher order functions (functions which allow functions/closures as parameters/return values) are awesome. In this post, Craig Grummitt looks at the latter, presenting examples of how we can use Swift&#39;s higher order functions to perform operations on collections.
+                    Swift 4.2 introduces a native random number API in the standard library. In this post, Ole Begemann walks us through what was added, and describes how we can the new API to write correct random number related code.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 25, 2017
+                Posted on June 13, 2018
               </p>
               <div class="post-entry">
                 
@@ -323,103 +429,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/functional">functional</a>&nbsp;
-                  
-                    #<a href="/tags/higherorder">higherorder</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kktbmogjv1zplhekblk/">
-                <h2 class="post-title">Stored Properties In Swift Extensions</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    The ability to add stored properties to Swift extensions is something I often hear developers wish for (myself included). Although it&#39;s not something that is possible using pure Swift, it is possible using Objective-C associated objects. In this post, Marco Santarossa shows us how.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 24, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/extension">extension</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kktqhvafh53smopgeqo/">
-                <h2 class="post-title">Swift Tricks: Searching for Objects by Type</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Performing operations such as map or flatmap on large collections can be expensive. Luckily, Swift provides lazy collections. Using a lazy collection, all operations are delayed until we actually need to access an element. In this post, TIm Ekl uses a lazy collection together with flatmap to efficiently find a specific type in an array of types.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 24, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/lazycollection">lazycollection</a>&nbsp;
-                  
-                    #<a href="/tags/flatmap">flatmap</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kkoeczuueywrzvfxrwp/">
-                <h2 class="post-title">Protocols and MVVM in Swift to avoid repetition</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Thomas Degry demonstrates how we can use MVVM and protocols to avoid achieve two goals: avoiding massive view controllers (MVC!), and having as little repetitive code as possible. It&#39;s a nice simple use of a protocol to create a more generic table view, and it&#39;s something I have myself used in projects.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 23, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/protocol">protocol</a>&nbsp;
-                  
-                    #<a href="/tags/mvvm">MVVM</a>&nbsp;
+                    #<a href="/tags/evolution.-swift4.2">evolution. swift4.2</a>&nbsp;
                   
                 </span>
               
@@ -473,7 +483,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -482,7 +492,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

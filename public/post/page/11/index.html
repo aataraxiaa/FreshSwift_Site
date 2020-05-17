@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kjhqkwkftvzimgmbr2p/">
-                <h2 class="post-title">Swift with a hundred engineers</h2>
+              <a href="http://freshswift.net/post/-lci_gcyvk-pu4ykn6ea/">
+                <h2 class="post-title">Swift Tip: First Class Functions</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Uber recently undertook a complete rewrite of their main app entirely in Swift. Tuomas Artman talks about their motivations for choosing Swift, and the learnings from using Swift for such a big rewrite. Both the good and the bad a discussed, and it&#39;s unsurprising to see tooling and compile times being included as drawbacks. Very interesting.
+                    This short post from the objc.io team looks at first class functions in Swift. First class functions are a really great functional feature of Swift, allowing us to use functions as function parameters, as property types, or as function return types.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 4, 2017
+                Posted on May 17, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,7 +141,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/talk">talk</a>&nbsp;
+                    #<a href="/tags/functional">functional</a>&nbsp;
                   
                 </span>
               
@@ -145,144 +149,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/">
-                <h2 class="post-title">Swift Protocols as UI Mixins</h2>
+              <a href="http://freshswift.net/post/-lcd2k87ikowxhhbxy87/">
+                <h2 class="post-title">Introducing Related Projects to Swift Forums</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Christian Tietze comments on a GitHub gist which adds pull to refresh to a UITableView. The gist is a nice example of using a Swift protocol with a default implementation to add functionality to a UI element.
+                    As always, it’s great to see the core Swift team recognize the Swift community and it’s efforts, and in this official Swift blog post Ted kremenek announces an expansion to the Swift Forums. A new top-level category, Related Projects, is being added to the Swift Forum, creating a space for discussions relating to Swift projects developed by the community. Great stuff!
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on May 2, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/protocol">protocol</a>&nbsp;
-                  
-                    #<a href="/tags/mixin">mixin</a>&nbsp;
-                  
-                    #<a href="/tags/gist">gist</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8slimtbokwidd2ygd/">
-                <h2 class="post-title">Swift range containment operator</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Short post describing the Swift ~= operator. Szy details what it does, when to use it, and what it does not do. Included is a small extension which aims to improve it&#39;s usability.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 2, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/operators">operators</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8sboulje-uasubblb/">
-                <h2 class="post-title">Swifty Tips ⚡️</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Sensible best practices from Göksel Köksal to improve your Swift code. One of these, avoiding AppDelegate overuse, is something I have being paying particular attention to lately.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 1, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                    #<a href="/tags/best-practices">best practices</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8s-idi0_0jqjk-bay/">
-                <h2 class="post-title">Picking the right way of failing in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    John Sundell looks at the different ways errors can be handled in Swift. He lists the available techniques, split in to recoverable and non-recoverable techniques, and provides examples of usage. Also, remember, print(error) is not error handling 😉.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 1, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/error-handling">error handling</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8rlb8moaqr9ecldt6/">
-                <h2 class="post-title">SE-0165: Dictionary &amp; Set Enhancements</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Great to see this Swift proposal accepted, as it comprises  a variety of useful improvements to the standard Dictionary type, as well as corresponding changes to Set. I really like the key-based subscript with default value addition.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 30, 2017
+                Posted on May 16, 2018
               </p>
               <div class="post-entry">
                 
@@ -301,18 +179,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8rbrppnp70xyn3r0i/">
-                <h2 class="post-title">Custom Operator Overloading in Swift</h2>
+              <a href="http://freshswift.net/post/-lcyseo-uztfxmaikrz/">
+                <h2 class="post-title">An elegant pattern to craft cache-efficient functions in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Evan Dekhayser with a raywenderlich.com tutorial on operator overloading in Swift. Everything you need to know is included, from overloading existing operators to creating your own custom operators.
+                    In this post, Vincent Pradeilles describes how we can create Swift functions which cache their results, saving us valuable CPU cycles. Vincent looks at both non-recursive and recursive functions.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 29, 2017
+                Posted on May 15, 2018
               </p>
               <div class="post-entry">
                 
@@ -323,7 +201,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/operators">operators</a>&nbsp;
+                    #<a href="/tags/cache">cache</a>&nbsp;
                   
                 </span>
               
@@ -331,18 +209,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8ruqbbtncdizhrb5-/">
-                <h2 class="post-title">Test Doubles in Swift</h2>
+              <a href="http://freshswift.net/post/-lctkp888jlkpjuts-yq/">
+                <h2 class="post-title">Memory Leaks in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Unit testing components with dependencies can be complicated. Here, Marco Santarossa explains what test doubles are, and how they can help with such unit testing.
+                    This post from Leandro Pérez looks at memory leaks in Swift. Leandro first explains what memory leaks are, and how they occur, before describing what we can do to avoid them.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 29, 2017
+                Posted on May 14, 2018
               </p>
               <div class="post-entry">
                 
@@ -353,7 +231,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/testing">testing</a>&nbsp;
+                    #<a href="/tags/memory">memory</a>&nbsp;
+                  
+                    #<a href="/tags/leak">leak</a>&nbsp;
                   
                 </span>
               
@@ -361,18 +241,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8rgdnz_lwattlfu7n/">
-                <h2 class="post-title">Swift Algorithms - Sum of First N Natural Numbers</h2>
+              <a href="http://freshswift.net/post/-lbz_gsib5lfxpegykwo/">
+                <h2 class="post-title">Reimplementation of Implicitly Unwrapped Optionals</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Károly Nyisztor with a short video comparing two Swift algorithms for calculating the sum of the first N natural numbers. One algorithm executes in linear time, while the other executes in constant time.
+                    This post on the official Swift blog details a new implementation of implicitly unwrapped optional which is available in the latest Swift snapshot. As always, it’s great to see changes like these - changes which eliminate inconsistencies and introduce clarity - being prioritized as the language evolves.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 29, 2017
+                Posted on May 8, 2018
               </p>
               <div class="post-entry">
                 
@@ -383,7 +263,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/algorithms">algorithms</a>&nbsp;
+                    #<a href="/tags/optional">optional</a>&nbsp;
                   
                 </span>
               
@@ -391,18 +271,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kj8r0ldyet1txhhqltu/">
-                <h2 class="post-title">Adding Swift Playgrounds to Xcode Projects</h2>
+              <a href="http://freshswift.net/post/-lbu_h8ddopxnc2otigj/">
+                <h2 class="post-title">Watch out for protocol extensions in your Swift API </h2>
 
                 
                   <h3 class="post-subtitle">
-                    Xcode Swift playgrounds are a fantastic way to try out ideas. In this how-to, Use Your Loaf shows us how to add a playground to an Xcode project and give it access to project code and resources. Really useful for quickly iterating on UI without resorting to Interface Builder.
+                    Bartosz Polaczyk looks at a potential gotcha relating to testing code defined in Swift protocol extensions. As a companion to this article, I also recommend reading the excellent article from Raizlabs which Bartosz links to, which looks in detail at method dispatching in Swift.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on April 29, 2017
+                Posted on May 7, 2018
               </p>
               <div class="post-entry">
                 
@@ -413,9 +293,131 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/xcode">Xcode</a>&nbsp;
+                    #<a href="/tags/protocol">protocol</a>&nbsp;
                   
-                    #<a href="/tags/playground">playground</a>&nbsp;
+                    #<a href="/tags/extension">extension</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lbpwwdkfott5_kcevec/">
+                <h2 class="post-title">Behind-the scenes improvements in Swift 4.1</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    In the article Slava Pestov from the Swift compiler team focuses on some of the less visible improvements introduce in Swift 4. Slava dives into the technical details of these improvements, describing why they were introduced and how they work.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on May 6, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lbjxgzaxyrub6etjt9y/">
+                <h2 class="post-title">How to check whether a value is inside a range</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Paul Hudson shows us just how powerful Swift’s ranges are, demonstrating how we can check whether a value is within a certain range. I was not aware that this also worked with Swift strings. Very useful.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on May 5, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/range">range</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lbezq_9pnzsjwfmdmhq/">
+                <h2 class="post-title">Unowned Properties in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This short post from Bruno Rocha explains why we should consider using the unowned keyword rather than the weak keyword when preventing reference cycles.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on May 4, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/unowned">unowned</a>&nbsp;
+                  
+                    #<a href="/tags/weak">weak</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lbawub8-dh8mwieyxfg/">
+                <h2 class="post-title">What&#39;s new in Swift?</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Paul Hudson has created this fantastic resource which allows us to learn what’s new in each version of Swift, with included code examples. A definite bookmark!
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on May 3, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
                   
                 </span>
               
@@ -469,7 +471,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -478,7 +480,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

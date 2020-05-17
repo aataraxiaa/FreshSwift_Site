@@ -1,14 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Error on Fresh Swift</title>
+    <title>error on Fresh Swift</title>
     <link>http://freshswift.net/tags/error/</link>
-    <description>Recent content in Error on Fresh Swift</description>
+    <description>Recent content in error on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Aug 2017 07:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Aug 2018 12:25:38 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/error/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/error/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Sourcing Validated</title>
+      <link>http://freshswift.net/post/-ll-ulpbxdxgsivtgfce/</link>
+      <pubDate>Tue, 28 Aug 2018 12:25:38 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ll-ulpbxdxgsivtgfce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Total programming in Swift</title>
+      <link>http://freshswift.net/post/-l-kyckewvnzfhqk6afu/</link>
+      <pubDate>Thu, 07 Dec 2017 10:38:56 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l-kyckewvnzfhqk6afu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Safety into Types</title>
+      <link>http://freshswift.net/post/-kxph6ckeyf2bxsw06w2/</link>
+      <pubDate>Wed, 01 Nov 2017 03:51:23 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kxph6ckeyf2bxsw06w2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xcode 9.1 Improves Display of Fatal Errors</title>
+      <link>http://freshswift.net/post/-kw-jenyt84_3big6bac/</link>
+      <pubDate>Mon, 09 Oct 2017 08:46:44 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kw-jenyt84_3big6bac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Error Handling Implementation</title>
+      <link>http://freshswift.net/post/-kuo43tjg4w9xdkdubfd/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:56 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kuo43tjg4w9xdkdubfd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Matching NSErrors</title>

@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpzcnao3hyenv7lbecq/">
-                <h2 class="post-title">Refactoring Reveals Truths</h2>
+              <a href="http://freshswift.net/post/-lmvcvku9byh7wiebs7n/">
+                <h2 class="post-title">Swift 4.2 Released!</h2>
 
                 
                   <h3 class="post-subtitle">
-                    This is a really great post from Soroush Khanlou in which he uses a Swift function to demonstrate what can be learned from refactoring a piece of code. What starts off as a relatively verbose algorithm soon becomes a clean one line solution, making it much easier to understand and, as Soroush writes, revealing the algorithms beautiful internal symmetry.
+                    Ted Kremenek writes on the official Swift blog, detailing the language changes and updates available in Swift 4.2.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 21, 2017
+                Posted on September 21, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,7 +141,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/refactoring">refactoring</a>&nbsp;
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
                   
                 </span>
               
@@ -145,18 +149,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpu1mg4ramvc66e_m_k/">
-                <h2 class="post-title">Swift Performance</h2>
+              <a href="http://freshswift.net/post/-lmqqqm06klagh5lqib6/">
+                <h2 class="post-title">Lightweight presenters in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Matt Gallagher talks about high performance Swift. He looks at the sort of code that might be run millions of times - i.e low level code rather than abstractions. It’s a really interesting talk, and it’s great to dive in to the low level stuff when we probably spend most of our time working with higher level abstractions.
+                    John Sundell demonstrates how we can use the presenter pattern to ensure separation of concerns, a core programming principle.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 20, 2017
+                Posted on September 20, 2018
               </p>
               <div class="post-entry">
                 
@@ -167,9 +171,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/talk">talk</a>&nbsp;
-                  
-                    #<a href="/tags/performance">performance</a>&nbsp;
+                    #<a href="/tags/presenter">presenter</a>&nbsp;
                   
                 </span>
               
@@ -177,18 +179,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpoqu4cqne83gv2pykq/">
-                <h2 class="post-title">Swift.Codable</h2>
+              <a href="http://freshswift.net/post/-lm8wcfs8erimeqjpulo/">
+                <h2 class="post-title">Improving Your Build Time in Xcode 10</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Swift 4 includes some really exciting additions, one of these being it’s Codable protocol, which allows us to easily encode/decode our custom types to data types such as JSON. In this edition of his Q&amp;A series of articles, Mike Ash looks at exactly how Swift’s new encoding systems works, and how we can implement the protocols ourselves to support a custom data format.
+                    Patrick Balestra teaches us how to improve our Swift project build times using new features available in Xcode 10.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 19, 2017
+                Posted on September 11, 2018
               </p>
               <div class="post-entry">
                 
@@ -198,125 +200,29 @@ ga('send', 'pageview');
 
               
                 <span class="post-meta">
-                  
-                    #<a href="/tags/swift4">swift4</a>&nbsp;
-                  
-                    #<a href="/tags/codable">codable</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpjct1cnhqzj_bjgenf/">
-                <h2 class="post-title">Strongly typed identifiers in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Strings as identifiers are always a bit dangerous, leaving the door open to typos and resulting bugs. However, as Tom Lokhorst describes in this post, we can do better. Tom looks at a few options to transform our String identifiers into strongly typed identifiers. Of the ideas presented, I prefer the second alternative.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 18, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/string">string</a>&nbsp;
-                  
-                    #<a href="/tags/identifier">identifier</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpesawt4wnwaggpt08p/">
-                <h2 class="post-title">Writing end-to-end JSON mapping tests in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    John Sundell looks at how we can ensure the integrity of JSON retrieved from an API by using end-to-end tests. To avoid performing a network request each time we want to run our tests, he uses an Swift script which is run once to day to retrieve the JSON from the API. The example uses his own Unbox library for JSON mapping, but of course we could substitute the native Swift Codable protocol for our JSON decoding.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 17, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/json">JSON</a>&nbsp;
-                  
-                    #<a href="/tags/testing">testing</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kpapwavk_b4iwo4ix-b/">
-                <h2 class="post-title">ZIPFoundation - Zip Handling in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    This is a useful Swift library from Thomas Zoechling which provides an intuitive API for creating, modifying, and reading ZIP archive files. It’s based on Apple’s libcompression for high performance and energy efficiency.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 16, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/library">library</a>&nbsp;
                   
                     #<a href="/tags/ios">iOS</a>&nbsp;
                   
+                    #<a href="/tags/xcode">Xcode</a>&nbsp;
+                  
                 </span>
               
 
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kp0cgdrrwufjqgpvavb/">
-                <h2 class="post-title">PMSuperButton - UIButton with super powers</h2>
+              <a href="http://freshswift.net/post/-lm2jouxfcmce1bjblvt/">
+                <h2 class="post-title">Switching with Associated Values</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Cool Swift library from Pablo Musolino which provides a powerful UIButton type. It allows us to create complex buttons with custom attributes. Easy to integrate and lots of options for customization.
+                    In this post the objc.io, we learn how to use a computed property to reduce the complexity of switching on enums with associated values. Nice tip!
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 14, 2017
+                Posted on September 10, 2018
               </p>
               <div class="post-entry">
                 
@@ -326,61 +232,29 @@ ga('send', 'pageview');
 
               
                 <span class="post-meta">
-                  
-                    #<a href="/tags/library">library</a>&nbsp;
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kopshctwqksrxphxnq-/">
-                <h2 class="post-title">Modelling state in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Dealing with state is hard, error prone, and unavoidable. In this post, John Sundell looks at some of the commonly used techniques we can apply when dealing with state in Swift. I think the first two points - having a single source of truth, and making states exclusive - are key.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 12, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/state">state</a>&nbsp;
                   
                     #<a href="/tags/enum">enum</a>&nbsp;
                   
+                    #<a href="/tags/associated">associated</a>&nbsp;
+                  
                 </span>
               
 
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-koke-tgpqfz_xmungtm/">
-                <h2 class="post-title">An aside about flatMap and monads</h2>
+              <a href="http://freshswift.net/post/-llxughaskvejhgfvcs5/">
+                <h2 class="post-title">Evolution- Default Implementation In Protocols</h2>
 
                 
                   <h3 class="post-subtitle">
-                    This is a very interesting article from Matt Gallagher in which he discusses monads in the context of Swift and it’s flatmap functions. If you are not too familiar with the Haskell programming language, and the concept of a monad, this is a great place to start learning.
+                    Alejandro Alonso has been working on a Swift language change to allow default method implementations in protocol definitions. This thread is a discussion among community members of the pros and cons of this proposal.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 11, 2017
+                Posted on September 9, 2018
               </p>
               <div class="post-entry">
                 
@@ -391,9 +265,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/flatmap">flatmap</a>&nbsp;
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
                   
-                    #<a href="/tags/monad">monad</a>&nbsp;
+                    #<a href="/tags/protocol">protocol</a>&nbsp;
                   
                 </span>
               
@@ -401,18 +275,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kofmucwak579q8vusvc/">
-                <h2 class="post-title">Reducers - Dealing With Asynchrony</h2>
+              <a href="http://freshswift.net/post/-llxt7zt2m68visnsdqy/">
+                <h2 class="post-title">SwiftSyntax - Swift bindings for the libSyntax library</h2>
 
                 
                   <h3 class="post-subtitle">
-                    This is a great post from Chris Eidhof in which he walks us through an example of using reducers in Swift to better deal with state changes and asynchronous code. I really like how the code evolves as he progresses through the example.
+                    SwiftSyntax is a Swift package which enables us to build tools to parse, inspect, generate, and transform Swift source code.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 10, 2017
+                Posted on September 9, 2018
               </p>
               <div class="post-entry">
                 
@@ -423,7 +297,131 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/reducer">reducer</a>&nbsp;
+                    #<a href="/tags/library">library</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-llec6vcmszuncreoxi0/">
+                <h2 class="post-title">Why you’re not supposed to call description</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    If you have ever wondered why accessing a value’s description or debugDescription directly is discouraged, this post from Ole Begemann will tell you all you need to know.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on September 5, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/description">description</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-ll_behu1dsscvmexskd/">
+                <h2 class="post-title">Early returning functions in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    John Sundell shows us the benefits of returning early from functions, a technique we can use to improve code readability and comprehension.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on September 4, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/function">function</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lloskup10bnqqce9j43/">
+                <h2 class="post-title">Value-Oriented Programming </h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Matt Diephouse describes value-oriented programming, an approach he uses which builds on protocol-oriented programming, adding the benefits that value types can provide.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on September 2, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/value">value</a>&nbsp;
+                  
+                    #<a href="/tags/protocol">protocol</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lleaxtb8q0c-vw9-7zq/">
+                <h2 class="post-title">Enum iterations in Swift 4.2</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    John Sundell looks at CaseIterable, a protocol introduced in Swift 4.2. John describes what CaseIterable means, and demonstrates how we can use it to reduce boilerplate code.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on August 31, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
                   
                 </span>
               
@@ -477,7 +475,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -486,7 +484,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

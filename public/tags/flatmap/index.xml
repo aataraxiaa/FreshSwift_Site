@@ -1,14 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flatmap on Fresh Swift</title>
+    <title>flatmap on Fresh Swift</title>
     <link>http://freshswift.net/tags/flatmap/</link>
-    <description>Recent content in Flatmap on Fresh Swift</description>
+    <description>Recent content in flatmap on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 Jul 2017 07:58:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Apr 2018 11:16:07 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/flatmap/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/flatmap/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Optionals as Collections</title>
+      <link>http://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/</link>
+      <pubDate>Sun, 08 Apr 2018 11:16:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optional Forward Application</title>
+      <link>http://freshswift.net/post/-l90hdsaemrfzc45ff5p/</link>
+      <pubDate>Sun, 01 Apr 2018 12:57:43 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l90hdsaemrfzc45ff5p/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An aside about flatMap and monads</title>

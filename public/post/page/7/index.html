@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/post/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kmrhhcw0cbb6_jhpqjy/">
-                <h2 class="post-title">Parsing Dates: When Performance Matters</h2>
+              <a href="http://freshswift.net/post/-lhicqxnt7lvvukuwnpw/">
+                <h2 class="post-title"> Swift&#39;s new calling convention</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Processing JSON and creating types is a common task which can often result in unacceptable performance metrics. In this post, Jordan Smith examines processing JSON and parsing dates, and shows us how we can improve the performance of such a task by iterating on our approach.
+                    Swift 4.2 introduced changes to function calling conventions. This means changes to how functions receive their arguments, the order of the arguments, and how they return a result. In this post Jesse Squires describes exactly what has changed, and how these changes can benefit us.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 12, 2017
+                Posted on July 13, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,7 +141,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/performance">performance</a>&nbsp;
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
+                  
+                    #<a href="/tags/functions">functions</a>&nbsp;
                   
                 </span>
               
@@ -145,50 +151,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kmqhgpn0lswkh7wwxw8/">
-                <h2 class="post-title">NMOutlineView: Hierarchical Menu for iOS</h2>
+              <a href="http://freshswift.net/post/-lhej9w3dtkwwx_w47jm/">
+                <h2 class="post-title">Swift Evolution - Introduce compactMapValues to Dictionary</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Greg Kopel has created a neat hierarchical menu UI component for iOS. It builds on top of a UITableView and is 100% Swift. Menu items can be expanded/collapsed, and because it’s built  on top of a UITableView, we can customize it’s appearance using the standard UITableView and UITableViewCell APIs.
+                    This Swift evolution proposal adds a combined filter/map operation to Dictionary. This new operation corresponds to the compactMap operation available for Sequences.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 12, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/library">library</a>&nbsp;
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-kmnnlk-ydfjtoclk_od/">
-                <h2 class="post-title">Swift’s Evolution</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Interest post from Justin Williams in which he shares his thoughts on the evolution of Swift. Justin takes a rather dim view of how Swift is evolving, but he does raise some valid points. It can be frustrating to adopt a language and then see changes being made to it which we don’t agree with. However, I think in general, the core Swift team and the community do a pretty good job of deciding what should be addressed in each Swift release.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on June 11, 2017
+                Posted on July 12, 2018
               </p>
               <div class="post-entry">
                 
@@ -207,48 +181,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kmcbkqz1jchgcifrmbb/">
-                <h2 class="post-title">Swift: Close to greatness in programming language design</h2>
+              <a href="http://freshswift.net/post/-lh87_pmgidfivrrdnpu/">
+                <h2 class="post-title">Subclass-free view controllers in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Interesting look at how Swift rates in terms of avoiding language defect patterns. This is part 1 in a series of posts from Peter Dillinger, and it&#39;s encouraging to see Swift hold it&#39;s own when compared to other languages.
+                    John Sundell presents a few techniques in this post which can help us write subclass-free UIViewControllers when creating iOS apps. John explains the benefit of each technique as well as providing Swift code examples.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 9, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/staticanalysis">staticanalysis</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://freshswift.net/post/-km6z5daiorb_ewu4yrg/">
-                <h2 class="post-title">BFKit - A collection of useful Swift classes, structs, and extensions</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Fabrizio Brancati has created a cool Swift library which provides a collection of useful Swift classes, structs, and extensions. It&#39;s aim is to help developers crate apps faster. There is lots here including many extensions to Foundation, UIKit, and WatchKit classes.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on June 8, 2017
+                Posted on July 11, 2018
               </p>
               <div class="post-entry">
                 
@@ -261,9 +205,7 @@ ga('send', 'pageview');
                   
                     #<a href="/tags/ios">iOS</a>&nbsp;
                   
-                    #<a href="/tags/watchos">watchOS</a>&nbsp;
-                  
-                    #<a href="/tags/library">library</a>&nbsp;
+                    #<a href="/tags/inheritance">inheritance</a>&nbsp;
                   
                 </span>
               
@@ -271,18 +213,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-km1ggy90s5gf_1bal5w/">
-                <h2 class="post-title">Use Copy-On-Write With Swift Value Types</h2>
+              <a href="http://freshswift.net/post/-lh3asxatstpzrfo7bju/">
+                <h2 class="post-title">Parallel Programming with Swift: What could possibly go wrong?</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Value types are a great feature of Swift, allowing us to more easily reason about the safety of our code. When a value type is passed around our code, it is copied, meaning we can trust that no other part of our code is changing it. However, this comes with one possible drawback. Passing a large value type, such as an Array with thousands of elements, might result in unnecessary copying if the Array is not mutated after it is copied. This is where copy-on-write comes in. As explained in this post by Marco Santarossa, value types which implement copy-on-write are only copied when they need to be, i.e when they are mutated. It&#39;s a nice optimisation and something we can add to our own custom value types when needed.
+                    In this post Jan Olbrich describes what can go wrong when programming for concurrency in Swift.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 7, 2017
+                Posted on July 10, 2018
               </p>
               <div class="post-entry">
                 
@@ -293,9 +235,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/valuetype">valuetype</a>&nbsp;
-                  
-                    #<a href="/tags/copyonwrite">copyonwrite</a>&nbsp;
+                    #<a href="/tags/parallel">parallel</a>&nbsp;
                   
                 </span>
               
@@ -303,18 +243,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-klwprgdikgd9ccgjbkt/">
-                <h2 class="post-title">To Optional or Not to Optional: IBOutlet</h2>
+              <a href="http://freshswift.net/post/-lgyqkwecpapbvemlpfe/">
+                <h2 class="post-title">@autoclosure what, why and when</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Official Apple documentation recommends that we use implicitly unwrapped optionals (IUOs) when declaring IBOutlets in our Swift code. It&#39;s advice most of us probably follow, but have we ever put much thought in to it? Here, Curtis Herbert explains why he will never use IUOs for his IBOutlets again, but rather will switch to using optionals.
+                    In this short post, Pavel Gnatyuk explains what the Swift autoclosure attribute is, why it’s useful, and when we can use it.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 6, 2017
+                Posted on July 9, 2018
               </p>
               <div class="post-entry">
                 
@@ -325,7 +265,67 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/optional">optional</a>&nbsp;
+                    #<a href="/tags/autoclosure">autoclosure</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lgttllzu6zdjpbteirl/">
+                <h2 class="post-title">Introducing the !! Unwrap or Die operator to the Swift Standard Library</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Although I don’t think this Swift evolution proposal is completely useless, I agree with Chris Lattner’s opinion that the motivation for its inclusion is not very strong. Still, it’s always great to see the community proposing changes.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on July 8, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/">
+                <h2 class="post-title">Zhi — Swift Library for Live Reloading Auto Layout Constraints on iOS</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    This is an interesting iOS library which allows us to tweak auto layout constraints and observe the results without needing to rebuild. Created by Hwee-Boon Yar, it’s written in Swift and also supports tweaking properties such as fonts and colors.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on July 4, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/autolayout">autolayout</a>&nbsp;
                   
                     #<a href="/tags/ios">iOS</a>&nbsp;
                   
@@ -335,18 +335,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-klsb0ux2onslnjbjlsc/">
-                <h2 class="post-title">Writing better singletons in Swift</h2>
+              <a href="http://freshswift.net/post/-lgvwtc1gkt6uukflyqn/">
+                <h2 class="post-title">The Forbidden @inline Attribute in Swift</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Singletons, whether loved or loathed, are a  fact of software development. This is especially evident in iOS development, where they are used in many of the frameworks. In this post, Jesse Squires looks at why singletons sometimes are the right choice, and provides some guidance on how to create singletons the right way.
+                    Bruno Rocha looks at an obscure Swift attribute - the @inline attribute. This attribute can be used in Swift to specify if we want the compiler to perform function inlining, a common compiler optimization technique. Note that although this attribute is currently available for use, it’s not something which is officially documented, and so usage is generally discouraged.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 5, 2017
+                Posted on July 3, 2018
               </p>
               <div class="post-entry">
                 
@@ -357,9 +357,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/singleton">singleton</a>&nbsp;
+                    #<a href="/tags/inline">inline</a>&nbsp;
                   
-                    #<a href="/tags/ios">iOS</a>&nbsp;
+                    #<a href="/tags/attribute">attribute</a>&nbsp;
                   
                 </span>
               
@@ -367,18 +367,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-klnef9wd3vrkffxw1km/">
-                <h2 class="post-title">A deep dive into Grand Central Dispatch in Swift</h2>
+              <a href="http://freshswift.net/post/-lgqx7hzsozascfoglrn/">
+                <h2 class="post-title">Thoughts on @dynamicMemberLookup</h2>
 
                 
                   <h3 class="post-subtitle">
-                    In the latest entry in his weekly blog series, John Sundell sparks our imagination regarding what we can do with Grand Central Dispatch. The examples provided really do make you think about how some of the lesser known GCD APIs could be utilised.
+                    Ole Begemann shares his thoughts on a controversial new feature of Swift 4.2, dynamic member lookup. Ole demonstrates some use cases for the feature, before coming to some conclusions regarding it’s usefulness.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 4, 2017
+                Posted on July 2, 2018
               </p>
               <div class="post-entry">
                 
@@ -389,7 +389,9 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/gcd">gcd</a>&nbsp;
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
+                  
+                    #<a href="/tags/dynamic">dynamic</a>&nbsp;
                   
                 </span>
               
@@ -397,18 +399,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-klctr8w61mlloyqpg1_/">
-                <h2 class="post-title">Mixing Constant and Literal Strings</h2>
+              <a href="http://freshswift.net/post/-lga5v2ngxq2mb9pcf2j/">
+                <h2 class="post-title">Swift Tip: Refactoring with Deprecations</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Joshua Emmons shows us how to avoid implementing a stringly-typed interface. Using an enum with an associated type, we can enforce the use of constants, while also allowing for unexpected and unknowable string values.
+                    This Swift tip from the objc.io team describes how we can use deprecation annotations when refactoring code to ensure we leave no dead code behind.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 2, 2017
+                Posted on June 29, 2018
               </p>
               <div class="post-entry">
                 
@@ -419,9 +421,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/string">string</a>&nbsp;
-                  
-                    #<a href="/tags/enum">enum</a>&nbsp;
+                    #<a href="/tags/refactoring">refactoring</a>&nbsp;
                   
                 </span>
               
@@ -475,7 +475,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -484,7 +484,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

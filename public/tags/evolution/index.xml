@@ -1,14 +1,274 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evolution on Fresh Swift</title>
+    <title>evolution on Fresh Swift</title>
     <link>http://freshswift.net/tags/evolution/</link>
-    <description>Recent content in Evolution on Fresh Swift</description>
+    <description>Recent content in evolution on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Aug 2017 07:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Nov 2018 14:05:25 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift Evolution - Add Result to the Standard Library</title>
+      <link>http://freshswift.net/post/-ls-svqcau0wkqvbg06z/</link>
+      <pubDate>Fri, 23 Nov 2018 14:05:25 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ls-svqcau0wkqvbg06z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New LSP language service supporting Swift and C-family languages for any editor and platform</title>
+      <link>http://freshswift.net/post/-lp0vpryos9kjfquhyor/</link>
+      <pubDate>Wed, 17 Oct 2018 12:10:40 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lp0vpryos9kjfquhyor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution - Fix ExpressibleByStringInterpolation</title>
+      <link>http://freshswift.net/post/-los8ty-blocivkck808/</link>
+      <pubDate>Wed, 10 Oct 2018 08:46:08 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-los8ty-blocivkck808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift 5.0 Release Process</title>
+      <link>http://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</link>
+      <pubDate>Fri, 28 Sep 2018 13:08:00 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution- Default Implementation In Protocols</title>
+      <link>http://freshswift.net/post/-llxughaskvejhgfvcs5/</link>
+      <pubDate>Sun, 09 Sep 2018 08:40:17 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-llxughaskvejhgfvcs5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kickstarting new official Docker support for Swift</title>
+      <link>http://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</link>
+      <pubDate>Mon, 27 Aug 2018 11:37:20 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution - Plan for module stability</title>
+      <link>http://freshswift.net/post/-liwl-qeisvliv4nhcm/</link>
+      <pubDate>Sat, 28 Jul 2018 14:43:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-liwl-qeisvliv4nhcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retroactive Conformances vs. Swift-in-the-OS</title>
+      <link>http://freshswift.net/post/-lhxrj-jqryhfsby7mqq/</link>
+      <pubDate>Sat, 21 Jul 2018 15:24:33 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lhxrj-jqryhfsby7mqq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution - Introduce compactMapValues to Dictionary</title>
+      <link>http://freshswift.net/post/-lhej9w3dtkwwx_w47jm/</link>
+      <pubDate>Thu, 12 Jul 2018 16:26:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lhej9w3dtkwwx_w47jm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing the !! Unwrap or Die operator to the Swift Standard Library</title>
+      <link>http://freshswift.net/post/-lgttllzu6zdjpbteirl/</link>
+      <pubDate>Sun, 08 Jul 2018 12:39:06 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lgttllzu6zdjpbteirl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Apple&#39;s Love Affair With Swift</title>
+      <link>http://freshswift.net/post/-lfw1crli4pjbwwxbgyl/</link>
+      <pubDate>Tue, 26 Jun 2018 12:19:31 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lfw1crli4pjbwwxbgyl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE-0155 Status Update</title>
+      <link>http://freshswift.net/post/-les-vz8d0vr8cmkjauu/</link>
+      <pubDate>Fri, 08 Jun 2018 01:28:10 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-les-vz8d0vr8cmkjauu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Date.now() and other calendar thoughts</title>
+      <link>http://freshswift.net/post/-ldnswsmmoah75jsdtci/</link>
+      <pubDate>Thu, 31 May 2018 01:48:51 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ldnswsmmoah75jsdtci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing Related Projects to Swift Forums</title>
+      <link>http://freshswift.net/post/-lcd2k87ikowxhhbxy87/</link>
+      <pubDate>Wed, 16 May 2018 13:04:30 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lcd2k87ikowxhhbxy87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behind-the scenes improvements in Swift 4.1</title>
+      <link>http://freshswift.net/post/-lbpwwdkfott5_kcevec/</link>
+      <pubDate>Sun, 06 May 2018 14:54:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lbpwwdkfott5_kcevec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s new in Swift?</title>
+      <link>http://freshswift.net/post/-lbawub8-dh8mwieyxfg/</link>
+      <pubDate>Thu, 03 May 2018 15:01:44 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lbawub8-dh8mwieyxfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What’s new in Swift 4.2?</title>
+      <link>http://freshswift.net/post/-lb5jfm-hvx3rc4y29hz/</link>
+      <pubDate>Fri, 27 Apr 2018 08:56:03 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lb5jfm-hvx3rc4y29hz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution - Hashable Enhancements</title>
+      <link>http://freshswift.net/post/-l9jrnchebu0puhjvl8m/</link>
+      <pubDate>Tue, 10 Apr 2018 14:02:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l9jrnchebu0puhjvl8m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift 4.1 Released!</title>
+      <link>http://freshswift.net/post/-l8vx_63i3ufvqwhrvri/</link>
+      <pubDate>Sat, 31 Mar 2018 10:11:25 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l8vx_63i3ufvqwhrvri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution - Introducing `Unwrappable`, a biased unwrapping protocol</title>
+      <link>http://freshswift.net/post/-l8yajdjk94dyimjafdf/</link>
+      <pubDate>Mon, 26 Mar 2018 16:40:44 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l8yajdjk94dyimjafdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution - &#39;Raw&#39; mode string literals</title>
+      <link>http://freshswift.net/post/-l7ynhuphzxsd3obzdww/</link>
+      <pubDate>Mon, 19 Mar 2018 15:07:35 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l7ynhuphzxsd3obzdww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Conformance in the Standard Library</title>
+      <link>http://freshswift.net/post/-l53ddrx-typvx7o161v/</link>
+      <pubDate>Sun, 11 Feb 2018 09:38:07 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l53ddrx-typvx7o161v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution moves to Discourse</title>
+      <link>http://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</link>
+      <pubDate>Sun, 17 Dec 2017 10:47:01 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSONEncoder: Key strategies</title>
+      <link>http://freshswift.net/post/-kzjhnogth3-0uk5jymx/</link>
+      <pubDate>Sun, 19 Nov 2017 12:38:30 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kzjhnogth3-0uk5jymx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift for Data Science / ML / Big Data analytics</title>
+      <link>http://freshswift.net/post/-kz3btpwuqnromuhfnfo/</link>
+      <pubDate>Thu, 16 Nov 2017 09:38:45 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kz3btpwuqnromuhfnfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift 4.1 Release Process</title>
+      <link>http://freshswift.net/post/-kx18f-qdb_notx6tye2/</link>
+      <pubDate>Sun, 22 Oct 2017 03:34:02 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kx18f-qdb_notx6tye2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Equatable and Hashable conformance</title>
+      <link>http://freshswift.net/post/-kwvricbmwa2tfhdidlb/</link>
+      <pubDate>Sun, 15 Oct 2017 14:32:01 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kwvricbmwa2tfhdidlb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift evolution - Non-Exhaustive Enums</title>
+      <link>http://freshswift.net/post/-kuytiag_laktpbbqhik/</link>
+      <pubDate>Tue, 26 Sep 2017 13:56:09 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kuytiag_laktpbbqhik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Equatable and Hashable conformance</title>
+      <link>http://freshswift.net/post/-krdqy4fhok_k7okcf4w/</link>
+      <pubDate>Wed, 16 Aug 2017 07:04:49 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-krdqy4fhok_k7okcf4w/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swift 5: Start your engines</title>

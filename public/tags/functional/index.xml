@@ -1,14 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Functional on Fresh Swift</title>
+    <title>functional on Fresh Swift</title>
     <link>http://freshswift.net/tags/functional/</link>
-    <description>Recent content in Functional on Fresh Swift</description>
+    <description>Recent content in functional on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Aug 2017 07:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 May 2018 12:43:18 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/functional/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/functional/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Functional Refactoring in Swift</title>
+      <link>http://freshswift.net/post/-lcsqei8670bo1x-ptya/</link>
+      <pubDate>Sat, 19 May 2018 12:43:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lcsqei8670bo1x-ptya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Tip: First Class Functions</title>
+      <link>http://freshswift.net/post/-lci_gcyvk-pu4ykn6ea/</link>
+      <pubDate>Thu, 17 May 2018 14:50:55 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lci_gcyvk-pu4ykn6ea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Refactoring in Swift</title>
+      <link>http://freshswift.net/post/-l7htor9fbjpqp4rniak/</link>
+      <pubDate>Fri, 16 Mar 2018 08:20:45 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l7htor9fbjpqp4rniak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transforming collections in Swift</title>
+      <link>http://freshswift.net/post/-l5dlfobxoizadjjti8x/</link>
+      <pubDate>Tue, 13 Feb 2018 08:47:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l5dlfobxoizadjjti8x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Lazy to Delay Computation</title>
+      <link>http://freshswift.net/post/-l5-oz-q11pqsw8p-gw-/</link>
+      <pubDate>Sat, 10 Feb 2018 15:49:10 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l5-oz-q11pqsw8p-gw-/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Why the Func</title>

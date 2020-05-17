@@ -1,14 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Concurrency on Fresh Swift</title>
+    <title>concurrency on Fresh Swift</title>
     <link>http://freshswift.net/tags/concurrency/</link>
-    <description>Recent content in Concurrency on Fresh Swift</description>
+    <description>Recent content in concurrency on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Aug 2017 07:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 13:28:30 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Atomic Properties in Swift</title>
+      <link>http://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</link>
+      <pubDate>Tue, 17 Jul 2018 13:28:30 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basics of parallel programming with Swift</title>
+      <link>http://freshswift.net/post/-l3wzqfw4qlr6xlohfjv/</link>
+      <pubDate>Sun, 28 Jan 2018 11:42:29 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l3wzqfw4qlr6xlohfjv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurrency in Swift: One approach</title>
+      <link>http://freshswift.net/post/-kuerrnnojt1tea68pur/</link>
+      <pubDate>Sun, 17 Sep 2017 10:46:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kuerrnnojt1tea68pur/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding Operation and OperationQueue in Swift</title>

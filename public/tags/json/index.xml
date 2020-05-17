@@ -1,14 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Json on Fresh Swift</title>
+    <title>json on Fresh Swift</title>
     <link>http://freshswift.net/tags/json/</link>
-    <description>Recent content in Json on Fresh Swift</description>
+    <description>Recent content in json on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Jul 2017 09:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 14:38:19 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/json/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/json/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quicktype - Generate typesafe Swift JSON handling code</title>
+      <link>http://freshswift.net/post/-kvrgrg-5n41hx8b6cal/</link>
+      <pubDate>Sat, 07 Oct 2017 14:38:19 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kvrgrg-5n41hx8b6cal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When JSONDecoder meets the real world, things get ugly…</title>
+      <link>http://freshswift.net/post/-kvmbjvfw9ls9fmtvd-q/</link>
+      <pubDate>Sun, 01 Oct 2017 09:09:57 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kvmbjvfw9ls9fmtvd-q/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JSON to Swift with Decoder and Decodable</title>

@@ -1,14 +1,229 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ios on Fresh Swift</title>
+    <title>iOS on Fresh Swift</title>
     <link>http://freshswift.net/tags/ios/</link>
-    <description>Recent content in Ios on Fresh Swift</description>
+    <description>Recent content in iOS on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Aug 2017 07:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 15:40:34 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DropdownTitleView - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.</title>
+      <link>http://freshswift.net/post/-lpl1bqiyirp_puyqgoj/</link>
+      <pubDate>Fri, 26 Oct 2018 15:40:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lpl1bqiyirp_puyqgoj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sizes - View your app on different device and font sizes</title>
+      <link>http://freshswift.net/post/-lp5insv2ox4iyks3tp4/</link>
+      <pubDate>Thu, 18 Oct 2018 08:31:59 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lp5insv2ox4iyks3tp4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Your Build Time in Xcode 10</title>
+      <link>http://freshswift.net/post/-lm8wcfs8erimeqjpulo/</link>
+      <pubDate>Tue, 11 Sep 2018 16:46:00 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lm8wcfs8erimeqjpulo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easier Scrolling With Layout Guides</title>
+      <link>http://freshswift.net/post/-ll9pmdbfszl5pamvvbk/</link>
+      <pubDate>Thu, 30 Aug 2018 12:36:09 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ll9pmdbfszl5pamvvbk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating a Bottom Sheet </title>
+      <link>http://freshswift.net/post/-lkwjswtnwbco98roogr/</link>
+      <pubDate>Wed, 22 Aug 2018 11:09:49 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lkwjswtnwbco98roogr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An iOS alert view with a text field and a “smart” OK button</title>
+      <link>http://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</link>
+      <pubDate>Mon, 20 Aug 2018 08:42:40 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advance Generics to create reusable UI</title>
+      <link>http://freshswift.net/post/-libqgc7cuhctcrdg3o7/</link>
+      <pubDate>Tue, 24 Jul 2018 15:14:06 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-libqgc7cuhctcrdg3o7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wormholy - iOS network debugging</title>
+      <link>http://freshswift.net/post/-li6cv_gtnj8jrotjxtd/</link>
+      <pubDate>Mon, 23 Jul 2018 12:57:55 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-li6cv_gtnj8jrotjxtd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subclass-free view controllers in Swift</title>
+      <link>http://freshswift.net/post/-lh87_pmgidfivrrdnpu/</link>
+      <pubDate>Wed, 11 Jul 2018 11:38:08 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lh87_pmgidfivrrdnpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhi — Swift Library for Live Reloading Auto Layout Constraints on iOS</title>
+      <link>http://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/</link>
+      <pubDate>Wed, 04 Jul 2018 06:13:47 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift vs. Kotlin — the differences in memory management</title>
+      <link>http://freshswift.net/post/-lfrqcxrwli4r901ocki/</link>
+      <pubDate>Mon, 25 Jun 2018 16:50:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lfrqcxrwli4r901ocki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What’s new in iOS 12?</title>
+      <link>http://freshswift.net/post/-lfi6cpxpsj66nwgmcoz/</link>
+      <pubDate>Mon, 18 Jun 2018 13:38:46 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lfi6cpxpsj66nwgmcoz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WhatsNewKit - Showcase your awesome new app features</title>
+      <link>http://freshswift.net/post/-lemduryki_zguhbw9t9/</link>
+      <pubDate>Thu, 07 Jun 2018 00:31:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lemduryki_zguhbw9t9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Tip: Type-Safe Initialization using Storyboards</title>
+      <link>http://freshswift.net/post/-lecdtreqf_z1pvkwekw/</link>
+      <pubDate>Tue, 05 Jun 2018 01:55:04 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lecdtreqf_z1pvkwekw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisualActivityViewController - A way to represent what you’re sharing</title>
+      <link>http://freshswift.net/post/-le7psrk1b3pmfjwqnsl/</link>
+      <pubDate>Mon, 04 Jun 2018 01:29:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-le7psrk1b3pmfjwqnsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netfox - A lightweight, one line setup, iOS / OSX network debugging library!</title>
+      <link>http://freshswift.net/post/-l9js4u5slsgztlifq9z/</link>
+      <pubDate>Tue, 10 Apr 2018 14:05:38 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l9js4u5slsgztlifq9z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Label Effects in Swift 4</title>
+      <link>http://freshswift.net/post/-l94oxermoiwndh4xvcy/</link>
+      <pubDate>Mon, 02 Apr 2018 10:06:04 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l94oxermoiwndh4xvcy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URLSession Waiting For Connectivity</title>
+      <link>http://freshswift.net/post/-l04x56aj2omi8gme8px/</link>
+      <pubDate>Mon, 11 Dec 2017 14:22:11 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l04x56aj2omi8gme8px/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using child view controllers as plugins in Swift</title>
+      <link>http://freshswift.net/post/-kzh9t2tjrvgrfispps0/</link>
+      <pubDate>Fri, 24 Nov 2017 08:36:16 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kzh9t2tjrvgrfispps0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easier Swift Layout Priorities</title>
+      <link>http://freshswift.net/post/-kvvkybrcifcy63ntmfa/</link>
+      <pubDate>Sun, 08 Oct 2017 11:34:34 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kvvkybrcifcy63ntmfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BulletinBoard - Bottom Card Interfaces on iOS</title>
+      <link>http://freshswift.net/post/-kvksk2_byu0vjjutact/</link>
+      <pubDate>Fri, 06 Oct 2017 08:52:24 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kvksk2_byu0vjjutact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VegaScroll - Lightweight animated flowlayout for UICollectionView</title>
+      <link>http://freshswift.net/post/-kvmdemo39gbj7u2kp_f/</link>
+      <pubDate>Sun, 01 Oct 2017 09:18:18 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kvmdemo39gbj7u2kp_f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HGCircularSlider - Custom reusable circular slider control</title>
+      <link>http://freshswift.net/post/-kus3toe0mvakqn7seay/</link>
+      <pubDate>Mon, 25 Sep 2017 08:08:20 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kus3toe0mvakqn7seay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAPanels - Swift Panel library </title>
+      <link>http://freshswift.net/post/-kruwtne_ktlaahhne10/</link>
+      <pubDate>Sat, 19 Aug 2017 14:42:22 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kruwtne_ktlaahhne10/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding Operation and OperationQueue in Swift</title>

@@ -5,9 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Enum</title>
-  <meta property="og:title" content="Enum" />
-  <meta name="twitter:title" content="Enum" />
+  <title>enum</title>
+  <meta property="og:title" content="enum" />
+  <meta name="twitter:title" content="enum" />
   <meta name="author" content=""/>
   <link href='http://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="http://freshswift.net/img/Icon-512@2x.png" />
@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="generator" content="Hugo 0.70.0" />
   <link rel="canonical" href="http://freshswift.net/tags/enum/" />
   <link rel="alternate" href="http://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -31,12 +31,16 @@
   <link rel="stylesheet" href="http://freshswift.net/css/pygment_highlights.css" />
   <link rel="stylesheet" href="http://freshswift.net/css/highlight.min.css" />
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-73366940-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-73366940-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -98,7 +102,7 @@ ga('send', 'pageview');
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="page-heading">
-              <h1>#Enum</h1>
+              <h1>#enum</h1>
               <hr class="small">
             </div>
           </div>
@@ -115,18 +119,18 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-kopshctwqksrxphxnq-/">
-                <h2 class="post-title">Modelling state in Swift</h2>
+              <a href="http://freshswift.net/post/-lm2jouxfcmce1bjblvt/">
+                <h2 class="post-title">Switching with Associated Values</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Dealing with state is hard, error prone, and unavoidable. In this post, John Sundell looks at some of the commonly used techniques we can apply when dealing with state in Swift. I think the first two points - having a single source of truth, and making states exclusive - are key.
+                    In this post the objc.io, we learn how to use a computed property to reduce the complexity of switching on enums with associated values. Nice tip!
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on July 12, 2017
+                Posted on September 10, 2018
               </p>
               <div class="post-entry">
                 
@@ -137,7 +141,39 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/state">state</a>&nbsp;
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                    #<a href="/tags/associated">associated</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lleaxtb8q0c-vw9-7zq/">
+                <h2 class="post-title">Enum iterations in Swift 4.2</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    John Sundell looks at CaseIterable, a protocol introduced in Swift 4.2. John describes what CaseIterable means, and demonstrates how we can use it to reduce boilerplate code.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on August 31, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
                   
                     #<a href="/tags/enum">enum</a>&nbsp;
                   
@@ -147,18 +183,18 @@ ga('send', 'pageview');
             </article>
           
             <article class="post-preview">
-              <a href="http://freshswift.net/post/-klctr8w61mlloyqpg1_/">
-                <h2 class="post-title">Mixing Constant and Literal Strings</h2>
+              <a href="http://freshswift.net/post/-ljntqelom08zus1wdp2/">
+                <h2 class="post-title">Polymorphic methods in enums</h2>
 
                 
                   <h3 class="post-subtitle">
-                    Joshua Emmons shows us how to avoid implementing a stringly-typed interface. Using an enum with an associated type, we can enforce the use of constants, while also allowing for unexpected and unknowable string values.
+                    This is an interesting discussion on the official Swift forums. It was started by Pablo Bendersky who would like to be able to add extensions on enums constrained by the enum case. I can see the value in this.
                   </h3>
                 
               </a>
 
               <p class="post-meta">
-                Posted on June 2, 2017
+                Posted on August 13, 2018
               </p>
               <div class="post-entry">
                 
@@ -169,7 +205,7 @@ ga('send', 'pageview');
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/string">string</a>&nbsp;
+                    #<a href="/tags/polymorphic">polymorphic</a>&nbsp;
                   
                     #<a href="/tags/enum">enum</a>&nbsp;
                   
@@ -178,7 +214,240 @@ ga('send', 'pageview');
 
             </article>
           
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-lfcf-yfy4ldwaxvq89m/">
+                <h2 class="post-title">Enumerating enum cases in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    New in Swift 4.2 is the ability to specify that the compiler should generate a collection of an enum’s cases. In this post, Ole Begemann first shows us how we can use the new CaseIterable protocol with enums, before looking at how we can make other types  CaseIterable.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on June 17, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/swift4.2">swift4.2</a>&nbsp;
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-les-vz8d0vr8cmkjauu/">
+                <h2 class="post-title">SE-0155 Status Update</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    The Swift evolution proposal to Normalize Enum Case Representation is partly implemented, and this Swift Forums post lists the status for each goal of the proposal. This is a worthwhile proposal, with some nice improvements to the language, so it’s great to see progress being made.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on June 8, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-ladr_7xxotbsscs21ou/">
+                <h2 class="post-title">Enums And Optionals</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    In this post, Soroush Khanlou explains how adding an extra case to an enum can replace the usage of optional enum values. As Soroush says, simplicity is king, and I agree that it’s worth taking the time to think about whether an extra optional case makes sense.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 16, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                    #<a href="/tags/optional">optional</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l42_brlwpfwphzqf08f/">
+                <h2 class="post-title">Swift Tip: Codable Enums</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    In this post from Objc.io, we learn how to add Codable conformance to enums which have associated types. A very useful tip.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on January 29, 2018
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                    #<a href="/tags/codable">codable</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l0-wxrpj4qvvwadyo9d/">
+                <h2 class="post-title">When Not to Use an Enum</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Matt Diephouse shows us when not to use an enum. Matt looks at a recent post from John Sundell, in which John used enums to build an app analytics API. Matt argues that structs would be better suited to build such an API, and explains why.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on December 10, 2017
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                    #<a href="/tags/struct">struct</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l-gcjr5ahe8x3zocsqq/">
+                <h2 class="post-title">Why Dictionary sometimes encodes itself as an array </h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Oleb Begemann with a very interesting post on why Swift dictionaries sometimes encode themselves as arrays when using Swift 4’s Codable protocols. I wasn’t aware of this limitation, and as he points out, there is no clean and simple fix for it.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on December 6, 2017
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/codable">codable</a>&nbsp;
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://freshswift.net/post/-l-a2n4db_e3wccgdggr/">
+                <h2 class="post-title">Building an enum-based analytics system in Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    John Sundell demonstrates an approach to adding app analytics based on enums. It’s a nice idea, allowing us to add analytic events to our code without being tied to any particular analytics provider.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on December 5, 2017
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/enum">enum</a>&nbsp;
+                  
+                    #<a href="/tags/analytics">analytics</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
         </div>
+        
+          <ul class="pager main-pager">
+            
+            
+              <li class="next">
+                <a href="/tags/enum/page/2">Older Posts &rarr;</a>
+              </li>
+            
+          </ul>
         
       </div>
     </div>
@@ -212,7 +481,7 @@ ga('send', 'pageview');
         <p class="credits copyright text-muted">
           
           &nbsp;&bull;&nbsp;
-          2017
+          2019
 
           
             &nbsp;&bull;&nbsp;
@@ -221,7 +490,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.20.7</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.70.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

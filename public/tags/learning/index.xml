@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning on Fresh Swift</title>
+    <title>learning on Fresh Swift</title>
     <link>http://freshswift.net/tags/learning/</link>
-    <description>Recent content in Learning on Fresh Swift</description>
+    <description>Recent content in learning on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Aug 2017 07:14:15 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

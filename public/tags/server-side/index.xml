@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Server Side on Fresh Swift</title>
+    <title>server side on Fresh Swift</title>
     <link>http://freshswift.net/tags/server-side/</link>
-    <description>Recent content in Server Side on Fresh Swift</description>
+    <description>Recent content in server side on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 May 2017 11:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2017 08:56:13 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/server-side/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/server-side/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to Server Side Swift with Vapor</title>
+      <link>http://freshswift.net/post/-kznd5gtvsemh34f-9bd/</link>
+      <pubDate>Mon, 20 Nov 2017 08:56:13 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kznd5gtvsemh34f-9bd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js</title>

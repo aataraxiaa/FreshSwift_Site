@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Autoclosure on Fresh Swift</title>
+    <title>autoclosure on Fresh Swift</title>
     <link>http://freshswift.net/tags/autoclosure/</link>
-    <description>Recent content in Autoclosure on Fresh Swift</description>
+    <description>Recent content in autoclosure on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 30 Jun 2017 08:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 09:44:12 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/autoclosure/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/autoclosure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>@autoclosure what, why and when</title>
+      <link>http://freshswift.net/post/-lgyqkwecpapbvemlpfe/</link>
+      <pubDate>Mon, 09 Jul 2018 09:44:12 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-lgyqkwecpapbvemlpfe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Replacing @autoclosure in Swift</title>

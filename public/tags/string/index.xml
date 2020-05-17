@@ -1,14 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>String on Fresh Swift</title>
+    <title>string on Fresh Swift</title>
     <link>http://freshswift.net/tags/string/</link>
-    <description>Recent content in String on Fresh Swift</description>
+    <description>Recent content in string on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jul 2017 07:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 08:46:08 +0000</lastBuildDate>
     
-	<atom:link href="http://freshswift.net/tags/string/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://freshswift.net/tags/string/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift Evolution - Fix ExpressibleByStringInterpolation</title>
+      <link>http://freshswift.net/post/-los8ty-blocivkck808/</link>
+      <pubDate>Wed, 10 Oct 2018 08:46:08 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-los8ty-blocivkck808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Evolution - &#39;Raw&#39; mode string literals</title>
+      <link>http://freshswift.net/post/-l7ynhuphzxsd3obzdww/</link>
+      <pubDate>Mon, 19 Mar 2018 15:07:35 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l7ynhuphzxsd3obzdww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quick Tip For String Performance</title>
+      <link>http://freshswift.net/post/-l0e8r7kpifphifvxkzw/</link>
+      <pubDate>Mon, 18 Dec 2017 15:02:27 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l0e8r7kpifphifvxkzw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Substrings</title>
+      <link>http://freshswift.net/post/-l-gi7bcfszlm0pbnixp/</link>
+      <pubDate>Fri, 01 Dec 2017 08:58:36 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-l-gi7bcfszlm0pbnixp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updaing Strings For Swift 4</title>
+      <link>http://freshswift.net/post/-kwez2fctskskyfgjac9/</link>
+      <pubDate>Thu, 12 Oct 2017 07:50:29 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-kwez2fctskskyfgjac9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling empty optional strings in Swift</title>
+      <link>http://freshswift.net/post/-ktgysknd0qxtwv4jqdp/</link>
+      <pubDate>Sun, 10 Sep 2017 16:09:47 +0000</pubDate>
+      
+      <guid>http://freshswift.net/post/-ktgysknd0qxtwv4jqdp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Strongly typed identifiers in Swift</title>
