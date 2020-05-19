@@ -1,7 +1,7 @@
 # Build configuration
 publishDir = "public"
 
-baseurl = "http://freshswift.net"
+baseurl = "https://freshswift.net"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Fresh Swift"
