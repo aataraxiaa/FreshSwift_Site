@@ -1,38 +1,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dictionary on Fresh Swift</title>
-    <link>http://freshswift.net/tags/dictionary/</link>
+    <link>https://freshswift.net/tags/dictionary/</link>
     <description>Recent content in dictionary on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 12 Dec 2017 09:34:39 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/dictionary/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/dictionary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Key difference between Dictionary and NSDictionary</title>
-      <link>http://freshswift.net/post/-l093rtswe4xak0ism3w/</link>
+      <link>https://freshswift.net/post/-l093rtswe4xak0ism3w/</link>
       <pubDate>Tue, 12 Dec 2017 09:34:39 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l093rtswe4xak0ism3w/</guid>
+      <guid>https://freshswift.net/post/-l093rtswe4xak0ism3w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dictionary and Set Improvements in Swift 4.0</title>
-      <link>http://freshswift.net/post/-kw4hfaq6ij-cks0epfs/</link>
+      <link>https://freshswift.net/post/-kw4hfaq6ij-cks0epfs/</link>
       <pubDate>Tue, 10 Oct 2017 07:56:31 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kw4hfaq6ij-cks0epfs/</guid>
+      <guid>https://freshswift.net/post/-kw4hfaq6ij-cks0epfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The startling uniquing of Swift 4 dictionaries</title>
-      <link>http://freshswift.net/post/-kndozikh_lykb5lqgbt/</link>
+      <link>https://freshswift.net/post/-kndozikh_lykb5lqgbt/</link>
       <pubDate>Tue, 27 Jun 2017 13:53:22 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kndozikh_lykb5lqgbt/</guid>
+      <guid>https://freshswift.net/post/-kndozikh_lykb5lqgbt/</guid>
       <description></description>
     </item>
     

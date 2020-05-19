@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>generics on Fresh Swift</title>
-    <link>http://freshswift.net/tags/generics/</link>
+    <link>https://freshswift.net/tags/generics/</link>
     <description>Recent content in generics on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 11 Apr 2018 12:07:20 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/generics/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/generics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding protocol associated types and their constraints</title>
-      <link>http://freshswift.net/post/-l9oaal94xx9ggeop4zs/</link>
+      <link>https://freshswift.net/post/-l9oaal94xx9ggeop4zs/</link>
       <pubDate>Wed, 11 Apr 2018 12:07:20 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l9oaal94xx9ggeop4zs/</guid>
+      <guid>https://freshswift.net/post/-l9oaal94xx9ggeop4zs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Swift 4 generics and applying them in your code</title>
-      <link>http://freshswift.net/post/-l2ykea7n-vj4prohvfp/</link>
+      <link>https://freshswift.net/post/-l2ykea7n-vj4prohvfp/</link>
       <pubDate>Tue, 16 Jan 2018 11:37:36 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l2ykea7n-vj4prohvfp/</guid>
+      <guid>https://freshswift.net/post/-l2ykea7n-vj4prohvfp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using generic type constraints in Swift 4</title>
-      <link>http://freshswift.net/post/-kwz9lyhd17v3ijtwdzx/</link>
+      <link>https://freshswift.net/post/-kwz9lyhd17v3ijtwdzx/</link>
       <pubDate>Mon, 16 Oct 2017 07:50:16 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kwz9lyhd17v3ijtwdzx/</guid>
+      <guid>https://freshswift.net/post/-kwz9lyhd17v3ijtwdzx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Struct References</title>
-      <link>http://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</link>
+      <link>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</link>
       <pubDate>Sat, 22 Jul 2017 10:14:23 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</guid>
+      <guid>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</guid>
       <description></description>
     </item>
     

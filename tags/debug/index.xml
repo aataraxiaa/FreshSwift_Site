@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>debug on Fresh Swift</title>
-    <link>http://freshswift.net/tags/debug/</link>
+    <link>https://freshswift.net/tags/debug/</link>
     <description>Recent content in debug on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 03 Jan 2018 09:27:10 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/debug/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/debug/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Debugging Swift code with LLDB</title>
-      <link>http://freshswift.net/post/-l1vl7fmc-hvwpbrj0ne/</link>
+      <link>https://freshswift.net/post/-l1vl7fmc-hvwpbrj0ne/</link>
       <pubDate>Wed, 03 Jan 2018 09:27:10 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l1vl7fmc-hvwpbrj0ne/</guid>
+      <guid>https://freshswift.net/post/-l1vl7fmc-hvwpbrj0ne/</guid>
       <description></description>
     </item>
     

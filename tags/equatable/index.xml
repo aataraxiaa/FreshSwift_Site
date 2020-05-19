@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>equatable on Fresh Swift</title>
-    <link>http://freshswift.net/tags/equatable/</link>
+    <link>https://freshswift.net/tags/equatable/</link>
     <description>Recent content in equatable on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 09 Aug 2018 11:39:26 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/equatable/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/equatable/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Synthesized Conformance to Equatable</title>
-      <link>http://freshswift.net/post/-ljttzasvuubarb_grxr/</link>
+      <link>https://freshswift.net/post/-ljttzasvuubarb_grxr/</link>
       <pubDate>Thu, 09 Aug 2018 11:39:26 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-ljttzasvuubarb_grxr/</guid>
+      <guid>https://freshswift.net/post/-ljttzasvuubarb_grxr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesizing Equatable and Hashable conformance</title>
-      <link>http://freshswift.net/post/-kwvricbmwa2tfhdidlb/</link>
+      <link>https://freshswift.net/post/-kwvricbmwa2tfhdidlb/</link>
       <pubDate>Sun, 15 Oct 2017 14:32:01 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kwvricbmwa2tfhdidlb/</guid>
+      <guid>https://freshswift.net/post/-kwvricbmwa2tfhdidlb/</guid>
       <description></description>
     </item>
     

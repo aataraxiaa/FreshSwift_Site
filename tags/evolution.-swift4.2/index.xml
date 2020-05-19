@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evolution. swift4.2 on Fresh Swift</title>
-    <link>http://freshswift.net/tags/evolution.-swift4.2/</link>
+    <link>https://freshswift.net/tags/evolution.-swift4.2/</link>
     <description>Recent content in evolution. swift4.2 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Jun 2018 12:06:56 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/evolution.-swift4.2/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/evolution.-swift4.2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Random numbers in Swift</title>
-      <link>http://freshswift.net/post/-let1eq05are1esnlta_/</link>
+      <link>https://freshswift.net/post/-let1eq05are1esnlta_/</link>
       <pubDate>Wed, 13 Jun 2018 12:06:56 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-let1eq05are1esnlta_/</guid>
+      <guid>https://freshswift.net/post/-let1eq05are1esnlta_/</guid>
       <description></description>
     </item>
     

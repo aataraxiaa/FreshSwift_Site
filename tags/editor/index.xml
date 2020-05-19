@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>editor on Fresh Swift</title>
-    <link>http://freshswift.net/tags/editor/</link>
+    <link>https://freshswift.net/tags/editor/</link>
     <description>Recent content in editor on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 13 Nov 2018 09:21:55 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/editor/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/editor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Language Server Protocol</title>
-      <link>http://freshswift.net/post/-lrbn8pnht6fdnrz7wt9/</link>
+      <link>https://freshswift.net/post/-lrbn8pnht6fdnrz7wt9/</link>
       <pubDate>Tue, 13 Nov 2018 09:21:55 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lrbn8pnht6fdnrz7wt9/</guid>
+      <guid>https://freshswift.net/post/-lrbn8pnht6fdnrz7wt9/</guid>
       <description></description>
     </item>
     

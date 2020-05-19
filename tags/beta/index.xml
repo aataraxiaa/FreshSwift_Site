@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>beta on Fresh Swift</title>
-    <link>http://freshswift.net/tags/beta/</link>
+    <link>https://freshswift.net/tags/beta/</link>
     <description>Recent content in beta on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 27 Jan 2018 12:09:18 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/beta/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/beta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What’s new in Swift 4.1</title>
-      <link>http://freshswift.net/post/-l3rwobiie1zmlx8repa/</link>
+      <link>https://freshswift.net/post/-l3rwobiie1zmlx8repa/</link>
       <pubDate>Sat, 27 Jan 2018 12:09:18 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l3rwobiie1zmlx8repa/</guid>
+      <guid>https://freshswift.net/post/-l3rwobiie1zmlx8repa/</guid>
       <description></description>
     </item>
     

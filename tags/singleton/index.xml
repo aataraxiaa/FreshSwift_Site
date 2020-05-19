@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>singleton on Fresh Swift</title>
-    <link>http://freshswift.net/tags/singleton/</link>
+    <link>https://freshswift.net/tags/singleton/</link>
     <description>Recent content in singleton on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 19 Oct 2017 07:29:39 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/singleton/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/singleton/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Avoiding singletons in Swift</title>
-      <link>http://freshswift.net/post/-kwnxpcn5bqtyqewvyd-/</link>
+      <link>https://freshswift.net/post/-kwnxpcn5bqtyqewvyd-/</link>
       <pubDate>Thu, 19 Oct 2017 07:29:39 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kwnxpcn5bqtyqewvyd-/</guid>
+      <guid>https://freshswift.net/post/-kwnxpcn5bqtyqewvyd-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing better singletons in Swift</title>
-      <link>http://freshswift.net/post/-klsb0ux2onslnjbjlsc/</link>
+      <link>https://freshswift.net/post/-klsb0ux2onslnjbjlsc/</link>
       <pubDate>Mon, 05 Jun 2017 12:17:18 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-klsb0ux2onslnjbjlsc/</guid>
+      <guid>https://freshswift.net/post/-klsb0ux2onslnjbjlsc/</guid>
       <description></description>
     </item>
     

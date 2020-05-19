@@ -1,38 +1,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>autolayout on Fresh Swift</title>
-    <link>http://freshswift.net/tags/autolayout/</link>
+    <link>https://freshswift.net/tags/autolayout/</link>
     <description>Recent content in autolayout on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 04 Jul 2018 06:13:47 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/autolayout/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/autolayout/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Zhi — Swift Library for Live Reloading Auto Layout Constraints on iOS</title>
-      <link>http://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/</link>
+      <link>https://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/</link>
       <pubDate>Wed, 04 Jul 2018 06:13:47 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/</guid>
+      <guid>https://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Auto Layout with Key Paths</title>
-      <link>http://freshswift.net/post/-kyouzgeglierlfemymo/</link>
+      <link>https://freshswift.net/post/-kyouzgeglierlfemymo/</link>
       <pubDate>Mon, 13 Nov 2017 10:26:12 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kyouzgeglierlfemymo/</guid>
+      <guid>https://freshswift.net/post/-kyouzgeglierlfemymo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Easier Swift Layout Priorities</title>
-      <link>http://freshswift.net/post/-kvvkybrcifcy63ntmfa/</link>
+      <link>https://freshswift.net/post/-kvvkybrcifcy63ntmfa/</link>
       <pubDate>Sun, 08 Oct 2017 11:34:34 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kvvkybrcifcy63ntmfa/</guid>
+      <guid>https://freshswift.net/post/-kvvkybrcifcy63ntmfa/</guid>
       <description></description>
     </item>
     

@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arguments on Fresh Swift</title>
-    <link>http://freshswift.net/tags/arguments/</link>
+    <link>https://freshswift.net/tags/arguments/</link>
     <description>Recent content in arguments on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 14 Aug 2018 16:49:26 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/arguments/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/arguments/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Trimming long argument lists in Swift</title>
-      <link>http://freshswift.net/post/-ljtkta7t2yitmruxoik/</link>
+      <link>https://freshswift.net/post/-ljtkta7t2yitmruxoik/</link>
       <pubDate>Tue, 14 Aug 2018 16:49:26 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-ljtkta7t2yitmruxoik/</guid>
+      <guid>https://freshswift.net/post/-ljtkta7t2yitmruxoik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Launch arguments in Swift</title>
-      <link>http://freshswift.net/post/-ldjhgbigenvlhpkexgl/</link>
+      <link>https://freshswift.net/post/-ldjhgbigenvlhpkexgl/</link>
       <pubDate>Wed, 30 May 2018 04:25:02 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-ldjhgbigenvlhpkexgl/</guid>
+      <guid>https://freshswift.net/post/-ldjhgbigenvlhpkexgl/</guid>
       <description></description>
     </item>
     

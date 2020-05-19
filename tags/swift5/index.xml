@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>swift5 on Fresh Swift</title>
-    <link>http://freshswift.net/tags/swift5/</link>
+    <link>https://freshswift.net/tags/swift5/</link>
     <description>Recent content in swift5 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 28 Sep 2018 13:08:00 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/swift5/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/swift5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift 5.0 Release Process</title>
-      <link>http://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</link>
+      <link>https://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</link>
       <pubDate>Fri, 28 Sep 2018 13:08:00 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</guid>
+      <guid>https://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift 5: Start your engines</title>
-      <link>http://freshswift.net/post/-kra4g2kwgdokawt1jni/</link>
+      <link>https://freshswift.net/post/-kra4g2kwgdokawt1jni/</link>
       <pubDate>Thu, 10 Aug 2017 07:39:03 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kra4g2kwgdokawt1jni/</guid>
+      <guid>https://freshswift.net/post/-kra4g2kwgdokawt1jni/</guid>
       <description></description>
     </item>
     

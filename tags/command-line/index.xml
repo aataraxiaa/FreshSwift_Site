@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>command line on Fresh Swift</title>
-    <link>http://freshswift.net/tags/command-line/</link>
+    <link>https://freshswift.net/tags/command-line/</link>
     <description>Recent content in command line on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 30 May 2018 04:25:02 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/command-line/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/command-line/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Launch arguments in Swift</title>
-      <link>http://freshswift.net/post/-ldjhgbigenvlhpkexgl/</link>
+      <link>https://freshswift.net/post/-ldjhgbigenvlhpkexgl/</link>
       <pubDate>Wed, 30 May 2018 04:25:02 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-ldjhgbigenvlhpkexgl/</guid>
+      <guid>https://freshswift.net/post/-ldjhgbigenvlhpkexgl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building a command line tool using the Swift Package Manager </title>
-      <link>http://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</link>
+      <link>https://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</link>
       <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</guid>
+      <guid>https://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</guid>
       <description></description>
     </item>
     

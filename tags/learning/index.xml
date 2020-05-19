@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>learning on Fresh Swift</title>
-    <link>http://freshswift.net/tags/learning/</link>
+    <link>https://freshswift.net/tags/learning/</link>
     <description>Recent content in learning on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Aug 2017 07:14:15 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interactive Swift Mind Map</title>
-      <link>http://freshswift.net/post/-kqrdhjohxmzjs5_aguh/</link>
+      <link>https://freshswift.net/post/-kqrdhjohxmzjs5_aguh/</link>
       <pubDate>Tue, 01 Aug 2017 07:14:15 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kqrdhjohxmzjs5_aguh/</guid>
+      <guid>https://freshswift.net/post/-kqrdhjohxmzjs5_aguh/</guid>
       <description></description>
     </item>
     

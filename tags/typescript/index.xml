@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>typescript on Fresh Swift</title>
-    <link>http://freshswift.net/tags/typescript/</link>
+    <link>https://freshswift.net/tags/typescript/</link>
     <description>Recent content in typescript on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 07 Sep 2017 07:46:17 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift is like TypeScript</title>
-      <link>http://freshswift.net/post/-ktqimrxuzx2r0r3nxan/</link>
+      <link>https://freshswift.net/post/-ktqimrxuzx2r0r3nxan/</link>
       <pubDate>Thu, 07 Sep 2017 07:46:17 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-ktqimrxuzx2r0r3nxan/</guid>
+      <guid>https://freshswift.net/post/-ktqimrxuzx2r0r3nxan/</guid>
       <description></description>
     </item>
     

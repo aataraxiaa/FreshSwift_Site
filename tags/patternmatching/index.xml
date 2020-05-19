@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>patternmatching on Fresh Swift</title>
-    <link>http://freshswift.net/tags/patternmatching/</link>
+    <link>https://freshswift.net/tags/patternmatching/</link>
     <description>Recent content in patternmatching on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 14 Jan 2018 11:05:06 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/patternmatching/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/patternmatching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift Non-Nil Values In An Array Of Optionals</title>
-      <link>http://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</link>
+      <link>https://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</link>
       <pubDate>Sun, 14 Jan 2018 11:05:06 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</guid>
+      <guid>https://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</guid>
       <description></description>
     </item>
     

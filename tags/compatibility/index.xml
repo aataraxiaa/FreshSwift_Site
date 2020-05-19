@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>compatibility on Fresh Swift</title>
-    <link>http://freshswift.net/tags/compatibility/</link>
+    <link>https://freshswift.net/tags/compatibility/</link>
     <description>Recent content in compatibility on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 25 Jul 2017 07:42:27 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/compatibility/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/compatibility/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A story about Swift source compatibility</title>
-      <link>http://freshswift.net/post/-kpsgb8qbiw2psvttyjw/</link>
+      <link>https://freshswift.net/post/-kpsgb8qbiw2psvttyjw/</link>
       <pubDate>Tue, 25 Jul 2017 07:42:27 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kpsgb8qbiw2psvttyjw/</guid>
+      <guid>https://freshswift.net/post/-kpsgb8qbiw2psvttyjw/</guid>
       <description></description>
     </item>
     

@@ -1,92 +1,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>testing on Fresh Swift</title>
-    <link>http://freshswift.net/tags/testing/</link>
+    <link>https://freshswift.net/tags/testing/</link>
     <description>Recent content in testing on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 27 Nov 2018 17:28:55 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unit testing retain cycles</title>
-      <link>http://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</link>
+      <link>https://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</link>
       <pubDate>Tue, 27 Nov 2018 17:28:55 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</guid>
+      <guid>https://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Async/await in Swift unit tests</title>
-      <link>http://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</link>
+      <link>https://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</link>
       <pubDate>Tue, 25 Sep 2018 13:45:36 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</guid>
+      <guid>https://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift Evolution - RFC: In-Line Tests</title>
-      <link>http://freshswift.net/post/-lb9wk3mafhpk7mtzdhg/</link>
+      <link>https://freshswift.net/post/-lb9wk3mafhpk7mtzdhg/</link>
       <pubDate>Sat, 28 Apr 2018 06:31:27 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lb9wk3mafhpk7mtzdhg/</guid>
+      <guid>https://freshswift.net/post/-lb9wk3mafhpk7mtzdhg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Cake Pattern with Swinject</title>
-      <link>http://freshswift.net/post/-lardffwi2rv3sc_znqw/</link>
+      <link>https://freshswift.net/post/-lardffwi2rv3sc_znqw/</link>
       <pubDate>Tue, 24 Apr 2018 12:35:20 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lardffwi2rv3sc_znqw/</guid>
+      <guid>https://freshswift.net/post/-lardffwi2rv3sc_znqw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unit testing asynchronous Swift code</title>
-      <link>http://freshswift.net/post/-l6fexh19q3ctzdetytr/</link>
+      <link>https://freshswift.net/post/-l6fexh19q3ctzdetytr/</link>
       <pubDate>Sat, 03 Mar 2018 11:42:42 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l6fexh19q3ctzdetytr/</guid>
+      <guid>https://freshswift.net/post/-l6fexh19q3ctzdetytr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reducing flakiness in Swift tests</title>
-      <link>http://freshswift.net/post/-ksd-psf53dzxi0nmk5m/</link>
+      <link>https://freshswift.net/post/-ksd-psf53dzxi0nmk5m/</link>
       <pubDate>Wed, 23 Aug 2017 07:34:25 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-ksd-psf53dzxi0nmk5m/</guid>
+      <guid>https://freshswift.net/post/-ksd-psf53dzxi0nmk5m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing end-to-end JSON mapping tests in Swift</title>
-      <link>http://freshswift.net/post/-kpesawt4wnwaggpt08p/</link>
+      <link>https://freshswift.net/post/-kpesawt4wnwaggpt08p/</link>
       <pubDate>Mon, 17 Jul 2017 07:32:26 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kpesawt4wnwaggpt08p/</guid>
+      <guid>https://freshswift.net/post/-kpesawt4wnwaggpt08p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test Doubles in Swift</title>
-      <link>http://freshswift.net/post/-kj8ruqbbtncdizhrb5-/</link>
+      <link>https://freshswift.net/post/-kj8ruqbbtncdizhrb5-/</link>
       <pubDate>Sat, 29 Apr 2017 13:40:50 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kj8ruqbbtncdizhrb5-/</guid>
+      <guid>https://freshswift.net/post/-kj8ruqbbtncdizhrb5-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time traveling in Swift unit tests</title>
-      <link>http://freshswift.net/post/-kj8qmgko6cn3dkc2lzt/</link>
+      <link>https://freshswift.net/post/-kj8qmgko6cn3dkc2lzt/</link>
       <pubDate>Fri, 28 Apr 2017 07:45:18 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kj8qmgko6cn3dkc2lzt/</guid>
+      <guid>https://freshswift.net/post/-kj8qmgko6cn3dkc2lzt/</guid>
       <description></description>
     </item>
     

@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>benchmark on Fresh Swift</title>
-    <link>http://freshswift.net/tags/benchmark/</link>
+    <link>https://freshswift.net/tags/benchmark/</link>
     <description>Recent content in benchmark on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 02 Aug 2018 16:35:10 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/benchmark/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/benchmark/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Benchmarking Swift Locking APIs</title>
-      <link>http://freshswift.net/post/-livuyurqizdjjm57zeb/</link>
+      <link>https://freshswift.net/post/-livuyurqizdjjm57zeb/</link>
       <pubDate>Thu, 02 Aug 2018 16:35:10 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-livuyurqizdjjm57zeb/</guid>
+      <guid>https://freshswift.net/post/-livuyurqizdjjm57zeb/</guid>
       <description></description>
     </item>
     

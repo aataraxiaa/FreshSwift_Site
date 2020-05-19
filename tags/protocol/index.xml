@@ -1,209 +1,209 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>protocol on Fresh Swift</title>
-    <link>http://freshswift.net/tags/protocol/</link>
+    <link>https://freshswift.net/tags/protocol/</link>
     <description>Recent content in protocol on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 04 Jan 2019 16:47:06 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reasoning about protocols</title>
-      <link>http://freshswift.net/post/-lvokhdfo_r6s0fwa8tb/</link>
+      <link>https://freshswift.net/post/-lvokhdfo_r6s0fwa8tb/</link>
       <pubDate>Fri, 04 Jan 2019 16:47:06 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lvokhdfo_r6s0fwa8tb/</guid>
+      <guid>https://freshswift.net/post/-lvokhdfo_r6s0fwa8tb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What&#39;s .self, .Type and .Protocol? Understanding Swift Metatypes</title>
-      <link>http://freshswift.net/post/-lqn-gnejrcqrtvewfsk/</link>
+      <link>https://freshswift.net/post/-lqn-gnejrcqrtvewfsk/</link>
       <pubDate>Thu, 08 Nov 2018 11:07:06 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lqn-gnejrcqrtvewfsk/</guid>
+      <guid>https://freshswift.net/post/-lqn-gnejrcqrtvewfsk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specializing Protocols in Swift</title>
-      <link>http://freshswift.net/post/-lq4fhvik9rsje1kvn-b/</link>
+      <link>https://freshswift.net/post/-lq4fhvik9rsje1kvn-b/</link>
       <pubDate>Tue, 30 Oct 2018 13:56:25 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lq4fhvik9rsje1kvn-b/</guid>
+      <guid>https://freshswift.net/post/-lq4fhvik9rsje1kvn-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution- Default Implementation In Protocols</title>
-      <link>http://freshswift.net/post/-llxughaskvejhgfvcs5/</link>
+      <link>https://freshswift.net/post/-llxughaskvejhgfvcs5/</link>
       <pubDate>Sun, 09 Sep 2018 08:40:17 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-llxughaskvejhgfvcs5/</guid>
+      <guid>https://freshswift.net/post/-llxughaskvejhgfvcs5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Value-Oriented Programming </title>
-      <link>http://freshswift.net/post/-lloskup10bnqqce9j43/</link>
+      <link>https://freshswift.net/post/-lloskup10bnqqce9j43/</link>
       <pubDate>Sun, 02 Sep 2018 10:43:28 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lloskup10bnqqce9j43/</guid>
+      <guid>https://freshswift.net/post/-lloskup10bnqqce9j43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retroactive Conformances vs. Swift-in-the-OS</title>
-      <link>http://freshswift.net/post/-lhxrj-jqryhfsby7mqq/</link>
+      <link>https://freshswift.net/post/-lhxrj-jqryhfsby7mqq/</link>
       <pubDate>Sat, 21 Jul 2018 15:24:33 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lhxrj-jqryhfsby7mqq/</guid>
+      <guid>https://freshswift.net/post/-lhxrj-jqryhfsby7mqq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Watch out for protocol extensions in your Swift API </title>
-      <link>http://freshswift.net/post/-lbu_h8ddopxnc2otigj/</link>
+      <link>https://freshswift.net/post/-lbu_h8ddopxnc2otigj/</link>
       <pubDate>Mon, 07 May 2018 12:32:32 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lbu_h8ddopxnc2otigj/</guid>
+      <guid>https://freshswift.net/post/-lbu_h8ddopxnc2otigj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding protocol associated types and their constraints</title>
-      <link>http://freshswift.net/post/-l9oaal94xx9ggeop4zs/</link>
+      <link>https://freshswift.net/post/-l9oaal94xx9ggeop4zs/</link>
       <pubDate>Wed, 11 Apr 2018 12:07:20 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l9oaal94xx9ggeop4zs/</guid>
+      <guid>https://freshswift.net/post/-l9oaal94xx9ggeop4zs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional conformances in Swift</title>
-      <link>http://freshswift.net/post/-l9uf2l5rrrtusgjwulk/</link>
+      <link>https://freshswift.net/post/-l9uf2l5rrrtusgjwulk/</link>
       <pubDate>Sat, 07 Apr 2018 10:34:47 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l9uf2l5rrrtusgjwulk/</guid>
+      <guid>https://freshswift.net/post/-l9uf2l5rrrtusgjwulk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dependency Mixins in Swift using Protocol-Oriented-Programming</title>
-      <link>http://freshswift.net/post/-l90khp1d7op-bkveazv/</link>
+      <link>https://freshswift.net/post/-l90khp1d7op-bkveazv/</link>
       <pubDate>Sun, 01 Apr 2018 13:11:05 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l90khp1d7op-bkveazv/</guid>
+      <guid>https://freshswift.net/post/-l90khp1d7op-bkveazv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caveats of Swift default protocol extensions</title>
-      <link>http://freshswift.net/post/-l8rrsqztl8ma2a4wuua/</link>
+      <link>https://freshswift.net/post/-l8rrsqztl8ma2a4wuua/</link>
       <pubDate>Fri, 30 Mar 2018 15:08:02 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l8rrsqztl8ma2a4wuua/</guid>
+      <guid>https://freshswift.net/post/-l8rrsqztl8ma2a4wuua/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift Tip: Extensible Libraries with Protocols</title>
-      <link>http://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</link>
+      <link>https://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</link>
       <pubDate>Tue, 13 Mar 2018 07:26:14 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</guid>
+      <guid>https://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift Protocols Wishlist</title>
-      <link>http://freshswift.net/post/-l6mxc8w24415fkpmd3m/</link>
+      <link>https://freshswift.net/post/-l6mxc8w24415fkpmd3m/</link>
       <pubDate>Sun, 04 Mar 2018 19:41:48 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l6mxc8w24415fkpmd3m/</guid>
+      <guid>https://freshswift.net/post/-l6mxc8w24415fkpmd3m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Conformance</title>
-      <link>http://freshswift.net/post/-l5o4o8or5vg-6lbhemq/</link>
+      <link>https://freshswift.net/post/-l5o4o8or5vg-6lbhemq/</link>
       <pubDate>Thu, 15 Feb 2018 10:51:33 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l5o4o8or5vg-6lbhemq/</guid>
+      <guid>https://freshswift.net/post/-l5o4o8or5vg-6lbhemq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Conformance in the Standard Library</title>
-      <link>http://freshswift.net/post/-l53ddrx-typvx7o161v/</link>
+      <link>https://freshswift.net/post/-l53ddrx-typvx7o161v/</link>
       <pubDate>Sun, 11 Feb 2018 09:38:07 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l53ddrx-typvx7o161v/</guid>
+      <guid>https://freshswift.net/post/-l53ddrx-typvx7o161v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Associated Type Requirements Become Generic Constraints</title>
-      <link>http://freshswift.net/post/-l3r_3yu5ueik8qsejwb/</link>
+      <link>https://freshswift.net/post/-l3r_3yu5ueik8qsejwb/</link>
       <pubDate>Sat, 27 Jan 2018 12:25:20 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l3r_3yu5ueik8qsejwb/</guid>
+      <guid>https://freshswift.net/post/-l3r_3yu5ueik8qsejwb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Replacing legacy code using Swift protocols</title>
-      <link>http://freshswift.net/post/-ktp-1ata0tip6usqmbd/</link>
+      <link>https://freshswift.net/post/-ktp-1ata0tip6usqmbd/</link>
       <pubDate>Tue, 12 Sep 2017 07:32:07 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-ktp-1ata0tip6usqmbd/</guid>
+      <guid>https://freshswift.net/post/-ktp-1ata0tip6usqmbd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocol composition in Swift and Objective-C</title>
-      <link>http://freshswift.net/post/-kn3ri9_gqwxpvy3irbj/</link>
+      <link>https://freshswift.net/post/-kn3ri9_gqwxpvy3irbj/</link>
       <pubDate>Tue, 20 Jun 2017 07:41:23 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kn3ri9_gqwxpvy3irbj/</guid>
+      <guid>https://freshswift.net/post/-kn3ri9_gqwxpvy3irbj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocols and MVVM in Swift to avoid repetition</title>
-      <link>http://freshswift.net/post/-kkoeczuueywrzvfxrwp/</link>
+      <link>https://freshswift.net/post/-kkoeczuueywrzvfxrwp/</link>
       <pubDate>Tue, 23 May 2017 07:37:03 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kkoeczuueywrzvfxrwp/</guid>
+      <guid>https://freshswift.net/post/-kkoeczuueywrzvfxrwp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loose coupling using Swift protocols</title>
-      <link>http://freshswift.net/post/-kklnflnfcf5nuwgxdbj/</link>
+      <link>https://freshswift.net/post/-kklnflnfcf5nuwgxdbj/</link>
       <pubDate>Mon, 22 May 2017 18:19:34 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kklnflnfcf5nuwgxdbj/</guid>
+      <guid>https://freshswift.net/post/-kklnflnfcf5nuwgxdbj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift Protocols as UI Mixins</title>
-      <link>http://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</link>
+      <link>https://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</link>
       <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</guid>
+      <guid>https://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dependency injection via protocol composition</title>
-      <link>http://freshswift.net/post/-kj8qgv-molvtrumpd3r/</link>
+      <link>https://freshswift.net/post/-kj8qgv-molvtrumpd3r/</link>
       <pubDate>Mon, 17 Apr 2017 08:19:18 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kj8qgv-molvtrumpd3r/</guid>
+      <guid>https://freshswift.net/post/-kj8qgv-molvtrumpd3r/</guid>
       <description></description>
     </item>
     

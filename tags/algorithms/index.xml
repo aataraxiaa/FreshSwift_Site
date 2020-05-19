@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>algorithms on Fresh Swift</title>
-    <link>http://freshswift.net/tags/algorithms/</link>
+    <link>https://freshswift.net/tags/algorithms/</link>
     <description>Recent content in algorithms on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 29 Apr 2017 13:04:13 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift Algorithms - Sum of First N Natural Numbers</title>
-      <link>http://freshswift.net/post/-kj8rgdnz_lwattlfu7n/</link>
+      <link>https://freshswift.net/post/-kj8rgdnz_lwattlfu7n/</link>
       <pubDate>Sat, 29 Apr 2017 13:04:13 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kj8rgdnz_lwattlfu7n/</guid>
+      <guid>https://freshswift.net/post/-kj8rgdnz_lwattlfu7n/</guid>
       <description></description>
     </item>
     

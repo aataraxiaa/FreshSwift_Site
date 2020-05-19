@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>result on Fresh Swift</title>
-    <link>http://freshswift.net/tags/result/</link>
+    <link>https://freshswift.net/tags/result/</link>
     <description>Recent content in result on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 23 Nov 2018 14:05:25 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/result/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/result/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swift Evolution - Add Result to the Standard Library</title>
-      <link>http://freshswift.net/post/-ls-svqcau0wkqvbg06z/</link>
+      <link>https://freshswift.net/post/-ls-svqcau0wkqvbg06z/</link>
       <pubDate>Fri, 23 Nov 2018 14:05:25 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-ls-svqcau0wkqvbg06z/</guid>
+      <guid>https://freshswift.net/post/-ls-svqcau0wkqvbg06z/</guid>
       <description></description>
     </item>
     

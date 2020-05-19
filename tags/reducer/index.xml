@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reducer on Fresh Swift</title>
-    <link>http://freshswift.net/tags/reducer/</link>
+    <link>https://freshswift.net/tags/reducer/</link>
     <description>Recent content in reducer on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 10 Jul 2017 09:19:20 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/reducer/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/reducer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reducers - Dealing With Asynchrony</title>
-      <link>http://freshswift.net/post/-kofmucwak579q8vusvc/</link>
+      <link>https://freshswift.net/post/-kofmucwak579q8vusvc/</link>
       <pubDate>Mon, 10 Jul 2017 09:19:20 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kofmucwak579q8vusvc/</guid>
+      <guid>https://freshswift.net/post/-kofmucwak579q8vusvc/</guid>
       <description></description>
     </item>
     

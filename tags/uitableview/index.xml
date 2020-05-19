@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UITableView on Fresh Swift</title>
-    <link>http://freshswift.net/tags/uitableview/</link>
+    <link>https://freshswift.net/tags/uitableview/</link>
     <description>Recent content in UITableView on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 14 May 2017 10:50:33 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/uitableview/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/uitableview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Table Views in iOS with Swift - A comprehensive guide</title>
-      <link>http://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</link>
+      <link>https://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</link>
       <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</guid>
+      <guid>https://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</guid>
       <description></description>
     </item>
     

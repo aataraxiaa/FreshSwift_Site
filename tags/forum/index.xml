@@ -1,38 +1,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>forum on Fresh Swift</title>
-    <link>http://freshswift.net/tags/forum/</link>
+    <link>https://freshswift.net/tags/forum/</link>
     <description>Recent content in forum on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 27 Aug 2018 11:37:20 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/forum/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/forum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kickstarting new official Docker support for Swift</title>
-      <link>http://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</link>
+      <link>https://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</link>
       <pubDate>Mon, 27 Aug 2018 11:37:20 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</guid>
+      <guid>https://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RFC: making Swift.org a more valuable resource for the Swift community</title>
-      <link>http://freshswift.net/post/-lkc8ofqaphnkscdfvqf/</link>
+      <link>https://freshswift.net/post/-lkc8ofqaphnkscdfvqf/</link>
       <pubDate>Sat, 18 Aug 2018 13:07:13 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-lkc8ofqaphnkscdfvqf/</guid>
+      <guid>https://freshswift.net/post/-lkc8ofqaphnkscdfvqf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift Evolution moves to Discourse</title>
-      <link>http://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</link>
+      <link>https://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</link>
       <pubDate>Sun, 17 Dec 2017 10:47:01 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</guid>
+      <guid>https://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</guid>
       <description></description>
     </item>
     

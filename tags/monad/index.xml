@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>monad on Fresh Swift</title>
-    <link>http://freshswift.net/tags/monad/</link>
+    <link>https://freshswift.net/tags/monad/</link>
     <description>Recent content in monad on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 11 Jul 2017 07:58:25 +0000</lastBuildDate>
     
-        <atom:link href="http://freshswift.net/tags/monad/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freshswift.net/tags/monad/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An aside about flatMap and monads</title>
-      <link>http://freshswift.net/post/-koke-tgpqfz_xmungtm/</link>
+      <link>https://freshswift.net/post/-koke-tgpqfz_xmungtm/</link>
       <pubDate>Tue, 11 Jul 2017 07:58:25 +0000</pubDate>
       
-      <guid>http://freshswift.net/post/-koke-tgpqfz_xmungtm/</guid>
+      <guid>https://freshswift.net/post/-koke-tgpqfz_xmungtm/</guid>
       <description></description>
     </item>
     
