@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>The Some Keyword In Swift</title>
-  <meta property="og:title" content="The Some Keyword In Swift" />
-  <meta name="twitter:title" content="The Some Keyword In Swift" />
-  <meta name="description" content="In this post Reinder de Vries explains a language feature introduced with Swift 5.1 - opaque types. Reinder describes what they are, how they relate to Generics, and how they can solve a common problem encountered when using protocols with associated types.">
-  <meta property="og:description" content="In this post Reinder de Vries explains a language feature introduced with Swift 5.1 - opaque types. Reinder describes what they are, how they relate to Generics, and how they can solve a common problem encountered when using protocols with associated types.">
-  <meta name="twitter:description" content="In this post Reinder de Vries explains a language feature introduced with Swift 5.1 - opaque types. Reinder describes what they are, how they relate to Generics, and how they can solve a common …">
+  <title>Understanding type erasure in Swift</title>
+  <meta property="og:title" content="Understanding type erasure in Swift" />
+  <meta name="twitter:title" content="Understanding type erasure in Swift" />
+  <meta name="description" content="In this post Donny Wals explains type erasure. Donny first describes why type erasure is useful, and then shows us how we can apply it in our code. This is a great post, and explains a complicated topic in a very accessible manner.">
+  <meta property="og:description" content="In this post Donny Wals explains type erasure. Donny first describes why type erasure is useful, and then shows us how we can apply it in our code. This is a great post, and explains a complicated topic in a very accessible manner.">
+  <meta name="twitter:description" content="In this post Donny Wals explains type erasure. Donny first describes why type erasure is useful, and then shows us how we can apply it in our code. This is a great post, and explains a complicated …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/20-05-20/" />
+  <meta property="og:url" content="https://freshswift.net/post/22-05-20/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.71.0" />
-  <link rel="canonical" href="https://freshswift.net/post/20-05-20/" />
+  <link rel="canonical" href="https://freshswift.net/post/22-05-20/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://learnappmaking.com/some-swift-opaque-types-how-to/">
+        <a href="https://www.donnywals.com/understanding-type-erasure-in-swift/">
 
           
           
 
-            <h2 class="post-title">The Some Keyword In Swift</h2>
+            <h2 class="post-title">Understanding type erasure in Swift</h2>
 
             
               <h3 class="post-subtitle">
-                In this post Reinder de Vries explains a language feature introduced with Swift 5.1 - opaque types. Reinder describes what they are, how they relate to Generics, and how they can solve a common problem encountered when using protocols with associated types.
+                In this post Donny Wals explains type erasure. Donny first describes why type erasure is useful, and then shows us how we can apply it in our code. This is a great post, and explains a complicated topic in a very accessible manner.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on May 20, 2020
+            Posted on May 22, 2020
           </p>
         
 
@@ -166,7 +166,7 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/some">some</a>&nbsp;
+              #<a href="/tags/type-erasure">type erasure</a>&nbsp;
             
           </span>
         
@@ -176,13 +176,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/18-05-20/" data-toggle="tooltip" data-placement="top" title="Template-view pattern in SwiftUI">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/20-05-20/" data-toggle="tooltip" data-placement="top" title="The Some Keyword In Swift">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/22-05-20/" data-toggle="tooltip" data-placement="top" title="Understanding type erasure in Swift">Next Post &rarr;</a>
-          </li>
         
       </ul>
 

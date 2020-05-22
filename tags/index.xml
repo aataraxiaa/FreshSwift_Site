@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>type</title>
+      <link>https://freshswift.net/tags/type/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/type/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>type erasure</title>
+      <link>https://freshswift.net/tags/type-erasure/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/type-erasure/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>some</title>
@@ -132,15 +150,6 @@
       <pubDate>Thu, 08 Nov 2018 11:07:06 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>type</title>
-      <link>https://freshswift.net/tags/type/</link>
-      <pubDate>Thu, 08 Nov 2018 11:07:06 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/type/</guid>
       <description></description>
     </item>
     
@@ -1905,15 +1914,6 @@
       <pubDate>Tue, 15 Aug 2017 07:26:43 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>type-erasure</title>
-      <link>https://freshswift.net/tags/type-erasure/</link>
-      <pubDate>Mon, 14 Aug 2017 07:53:53 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/type-erasure/</guid>
       <description></description>
     </item>
     
