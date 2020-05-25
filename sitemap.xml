@@ -4,16 +4,31 @@
   
   <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/post/24-05-20/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/server-side/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/25-05-20/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/24-05-20/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,11 +39,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/property-wrapper/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -2013,11 +2023,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/server-side/</loc>
-    <lastmod>2017-11-20T08:56:13+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/vapor/</loc>
     <lastmod>2017-11-20T08:56:13+00:00</lastmod>
   </url>
@@ -2724,11 +2729,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-koctt_bhyhrjcolrnjt/</loc>
-    <lastmod>2017-07-09T17:51:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/serverside/</loc>
     <lastmod>2017-07-09T17:51:03+00:00</lastmod>
   </url>
   

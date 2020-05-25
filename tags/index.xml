@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>server side</title>
+      <link>https://freshswift.net/tags/server-side/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/server-side/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>property</title>
@@ -1666,15 +1675,6 @@
     </item>
     
     <item>
-      <title>server side</title>
-      <link>https://freshswift.net/tags/server-side/</link>
-      <pubDate>Mon, 20 Nov 2017 08:56:13 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/server-side/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>vapor</title>
       <link>https://freshswift.net/tags/vapor/</link>
       <pubDate>Mon, 20 Nov 2017 08:56:13 +0000</pubDate>
@@ -2058,15 +2058,6 @@
       <pubDate>Mon, 10 Jul 2017 09:19:20 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/reducer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>serverside</title>
-      <link>https://freshswift.net/tags/serverside/</link>
-      <pubDate>Sun, 09 Jul 2017 17:51:03 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/serverside/</guid>
       <description></description>
     </item>
     
