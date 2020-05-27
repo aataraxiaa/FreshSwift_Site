@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>swift 5.3</title>
+      <link>https://freshswift.net/tags/swift-5.3/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swift-5.3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>server side</title>
@@ -19,29 +28,11 @@
     </item>
     
     <item>
-      <title>property</title>
-      <link>https://freshswift.net/tags/property/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/property/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>property wrapper</title>
       <link>https://freshswift.net/tags/property-wrapper/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/property-wrapper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>type</title>
-      <link>https://freshswift.net/tags/type/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/type/</guid>
       <description></description>
     </item>
     
@@ -60,15 +51,6 @@
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/some/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swift</title>
-      <link>https://freshswift.net/tags/swift/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swift/</guid>
       <description></description>
     </item>
     
@@ -96,15 +78,6 @@
       <pubDate>Tue, 27 Nov 2018 17:28:55 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/retain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://freshswift.net/tags/test/</link>
-      <pubDate>Tue, 27 Nov 2018 17:28:55 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/test/</guid>
       <description></description>
     </item>
     
@@ -181,6 +154,15 @@
     </item>
     
     <item>
+      <title>type</title>
+      <link>https://freshswift.net/tags/type/</link>
+      <pubDate>Thu, 08 Nov 2018 11:07:06 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/type/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>dynamic</title>
       <link>https://freshswift.net/tags/dynamic/</link>
       <pubDate>Sun, 04 Nov 2018 16:00:53 +0000</pubDate>
@@ -226,15 +208,6 @@
     </item>
     
     <item>
-      <title>app</title>
-      <link>https://freshswift.net/tags/app/</link>
-      <pubDate>Wed, 17 Oct 2018 12:10:40 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>apple</title>
       <link>https://freshswift.net/tags/apple/</link>
       <pubDate>Wed, 17 Oct 2018 12:10:40 +0000</pubDate>
@@ -271,29 +244,11 @@
     </item>
     
     <item>
-      <title>c</title>
-      <link>https://freshswift.net/tags/c/</link>
-      <pubDate>Fri, 05 Oct 2018 10:49:44 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>collection</title>
       <link>https://freshswift.net/tags/collection/</link>
       <pubDate>Fri, 05 Oct 2018 10:49:44 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/collection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hash</title>
-      <link>https://freshswift.net/tags/hash/</link>
-      <pubDate>Fri, 05 Oct 2018 10:49:44 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/hash/</guid>
       <description></description>
     </item>
     
@@ -325,29 +280,11 @@
     </item>
     
     <item>
-      <title>async</title>
-      <link>https://freshswift.net/tags/async/</link>
-      <pubDate>Tue, 25 Sep 2018 13:45:36 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/async/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>asynchronous</title>
       <link>https://freshswift.net/tags/asynchronous/</link>
       <pubDate>Tue, 25 Sep 2018 13:45:36 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/asynchronous/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swift4</title>
-      <link>https://freshswift.net/tags/swift4/</link>
-      <pubDate>Fri, 21 Sep 2018 10:18:54 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swift4/</guid>
       <description></description>
     </item>
     
@@ -460,6 +397,15 @@
     </item>
     
     <item>
+      <title>property</title>
+      <link>https://freshswift.net/tags/property/</link>
+      <pubDate>Wed, 29 Aug 2018 10:45:21 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>error</title>
       <link>https://freshswift.net/tags/error/</link>
       <pubDate>Tue, 28 Aug 2018 12:25:38 +0000</pubDate>
@@ -483,15 +429,6 @@
       <pubDate>Mon, 27 Aug 2018 11:37:20 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/forum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>refactor</title>
-      <link>https://freshswift.net/tags/refactor/</link>
-      <pubDate>Fri, 24 Aug 2018 10:25:23 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/refactor/</guid>
       <description></description>
     </item>
     
@@ -721,20 +658,20 @@
     </item>
     
     <item>
+      <title>async</title>
+      <link>https://freshswift.net/tags/async/</link>
+      <pubDate>Thu, 02 Aug 2018 16:35:10 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>benchmark</title>
       <link>https://freshswift.net/tags/benchmark/</link>
       <pubDate>Thu, 02 Aug 2018 16:35:10 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lock</title>
-      <link>https://freshswift.net/tags/lock/</link>
-      <pubDate>Thu, 02 Aug 2018 16:35:10 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/lock/</guid>
       <description></description>
     </item>
     
@@ -982,15 +919,6 @@
     </item>
     
     <item>
-      <title>compile</title>
-      <link>https://freshswift.net/tags/compile/</link>
-      <pubDate>Sat, 16 Jun 2018 11:32:35 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/compile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>compiler</title>
       <link>https://freshswift.net/tags/compiler/</link>
       <pubDate>Sat, 16 Jun 2018 11:32:35 +0000</pubDate>
@@ -1234,6 +1162,15 @@
     </item>
     
     <item>
+      <title>hash</title>
+      <link>https://freshswift.net/tags/hash/</link>
+      <pubDate>Tue, 10 Apr 2018 14:02:34 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/hash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>language</title>
       <link>https://freshswift.net/tags/language/</link>
       <pubDate>Mon, 09 Apr 2018 16:15:38 +0000</pubDate>
@@ -1405,6 +1342,15 @@
     </item>
     
     <item>
+      <title>refactor</title>
+      <link>https://freshswift.net/tags/refactor/</link>
+      <pubDate>Fri, 16 Mar 2018 08:20:45 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/refactor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>crash</title>
       <link>https://freshswift.net/tags/crash/</link>
       <pubDate>Thu, 15 Mar 2018 08:00:53 +0000</pubDate>
@@ -1441,15 +1387,6 @@
     </item>
     
     <item>
-      <title>interop</title>
-      <link>https://freshswift.net/tags/interop/</link>
-      <pubDate>Sat, 03 Mar 2018 11:29:32 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/interop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>interoperability</title>
       <link>https://freshswift.net/tags/interoperability/</link>
       <pubDate>Sat, 03 Mar 2018 11:29:32 +0000</pubDate>
@@ -1464,6 +1401,15 @@
       <pubDate>Sat, 03 Mar 2018 11:29:32 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/objc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compile</title>
+      <link>https://freshswift.net/tags/compile/</link>
+      <pubDate>Tue, 06 Feb 2018 07:52:44 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/compile/</guid>
       <description></description>
     </item>
     
@@ -1518,6 +1464,15 @@
       <pubDate>Sun, 14 Jan 2018 11:05:06 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/patternmatching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interop</title>
+      <link>https://freshswift.net/tags/interop/</link>
+      <pubDate>Thu, 11 Jan 2018 09:07:12 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/interop/</guid>
       <description></description>
     </item>
     
@@ -1666,6 +1621,15 @@
     </item>
     
     <item>
+      <title>lock</title>
+      <link>https://freshswift.net/tags/lock/</link>
+      <pubDate>Wed, 22 Nov 2017 08:39:27 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/lock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>thread</title>
       <link>https://freshswift.net/tags/thread/</link>
       <pubDate>Wed, 22 Nov 2017 08:39:27 +0000</pubDate>
@@ -1698,6 +1662,15 @@
       <pubDate>Fri, 17 Nov 2017 08:46:03 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swift4</title>
+      <link>https://freshswift.net/tags/swift4/</link>
+      <pubDate>Fri, 17 Nov 2017 08:46:03 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swift4/</guid>
       <description></description>
     </item>
     
@@ -1752,6 +1725,15 @@
       <pubDate>Tue, 31 Oct 2017 09:31:59 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swift</title>
+      <link>https://freshswift.net/tags/swift/</link>
+      <pubDate>Tue, 24 Oct 2017 09:04:22 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swift/</guid>
       <description></description>
     </item>
     
@@ -1887,6 +1869,15 @@
       <pubDate>Thu, 07 Sep 2017 07:46:17 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c</title>
+      <link>https://freshswift.net/tags/c/</link>
+      <pubDate>Tue, 05 Sep 2017 07:43:49 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/c/</guid>
       <description></description>
     </item>
     
@@ -2152,6 +2143,15 @@
     </item>
     
     <item>
+      <title>test</title>
+      <link>https://freshswift.net/tags/test/</link>
+      <pubDate>Tue, 30 May 2017 07:53:46 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>dispatch</title>
       <link>https://freshswift.net/tags/dispatch/</link>
       <pubDate>Fri, 26 May 2017 07:57:29 +0000</pubDate>
@@ -2373,6 +2373,15 @@
       <pubDate>Thu, 27 Apr 2017 07:56:41 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/cheat-sheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>app</title>
+      <link>https://freshswift.net/tags/app/</link>
+      <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/app/</guid>
       <description></description>
     </item>
     

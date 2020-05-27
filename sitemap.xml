@@ -4,21 +4,31 @@
   
   <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/server-side/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/swift-5.3/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/27-05-20/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/server-side/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,18 +43,8 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/property/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/property-wrapper/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/type/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,11 +65,6 @@
   <url>
     <loc>https://freshswift.net/post/20-05-20/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swift/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -99,11 +94,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/retain/</loc>
-    <lastmod>2018-11-27T17:28:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/test/</loc>
     <lastmod>2018-11-27T17:28:55+00:00</lastmod>
   </url>
   
@@ -168,6 +158,11 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/type/</loc>
+    <lastmod>2018-11-08T11:07:06+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/post/-lqn-gnejrcqrtvewfsk/</loc>
     <lastmod>2018-11-08T11:07:06+00:00</lastmod>
   </url>
@@ -223,11 +218,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/app/</loc>
-    <lastmod>2018-10-17T12:10:40+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/apple/</loc>
     <lastmod>2018-10-17T12:10:40+00:00</lastmod>
   </url>
@@ -273,17 +263,7 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/c/</loc>
-    <lastmod>2018-10-05T10:49:44+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/collection/</loc>
-    <lastmod>2018-10-05T10:49:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/hash/</loc>
     <lastmod>2018-10-05T10:49:44+00:00</lastmod>
   </url>
   
@@ -318,11 +298,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/async/</loc>
-    <lastmod>2018-09-25T13:45:36+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</loc>
     <lastmod>2018-09-25T13:45:36+00:00</lastmod>
   </url>
@@ -334,11 +309,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-lmvcvku9byh7wiebs7n/</loc>
-    <lastmod>2018-09-21T10:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swift4/</loc>
     <lastmod>2018-09-21T10:18:54+00:00</lastmod>
   </url>
   
@@ -453,6 +423,11 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/property/</loc>
+    <lastmod>2018-08-29T10:45:21+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/post/-ll4hpzsua1j-wvt-clz/</loc>
     <lastmod>2018-08-29T10:45:21+00:00</lastmod>
   </url>
@@ -480,11 +455,6 @@
   <url>
     <loc>https://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</loc>
     <lastmod>2018-08-27T11:37:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/refactor/</loc>
-    <lastmod>2018-08-24T10:25:23+00:00</lastmod>
   </url>
   
   <url>
@@ -693,17 +663,17 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/async/</loc>
+    <lastmod>2018-08-02T16:35:10+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/benchmark/</loc>
     <lastmod>2018-08-02T16:35:10+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/-livuyurqizdjjm57zeb/</loc>
-    <lastmod>2018-08-02T16:35:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/lock/</loc>
     <lastmod>2018-08-02T16:35:10+00:00</lastmod>
   </url>
   
@@ -970,11 +940,6 @@
   <url>
     <loc>https://freshswift.net/post/-lfcf-yfy4ldwaxvq89m/</loc>
     <lastmod>2018-06-17T12:15:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/compile/</loc>
-    <lastmod>2018-06-16T11:32:35+00:00</lastmod>
   </url>
   
   <url>
@@ -1353,6 +1318,11 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/hash/</loc>
+    <lastmod>2018-04-10T14:02:34+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/post/-l9jrnchebu0puhjvl8m/</loc>
     <lastmod>2018-04-10T14:02:34+00:00</lastmod>
   </url>
@@ -1598,6 +1568,11 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/refactor/</loc>
+    <lastmod>2018-03-16T08:20:45+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/crash/</loc>
     <lastmod>2018-03-15T08:00:53+00:00</lastmod>
   </url>
@@ -1663,11 +1638,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/interop/</loc>
-    <lastmod>2018-03-03T11:29:32+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/interoperability/</loc>
     <lastmod>2018-03-03T11:29:32+00:00</lastmod>
   </url>
@@ -1710,6 +1680,11 @@
   <url>
     <loc>https://freshswift.net/post/-l5-oz-q11pqsw8p-gw-/</loc>
     <lastmod>2018-02-10T15:49:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/compile/</loc>
+    <lastmod>2018-02-06T07:52:44+00:00</lastmod>
   </url>
   
   <url>
@@ -1804,6 +1779,11 @@
   
   <url>
     <loc>https://freshswift.net/post/-l2zthleehmamfcr1tt_/</loc>
+    <lastmod>2018-01-11T09:07:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/interop/</loc>
     <lastmod>2018-01-11T09:07:12+00:00</lastmod>
   </url>
   
@@ -2008,6 +1988,11 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/lock/</loc>
+    <lastmod>2017-11-22T08:39:27+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/thread/</loc>
     <lastmod>2017-11-22T08:39:27+00:00</lastmod>
   </url>
@@ -2049,6 +2034,11 @@
   
   <url>
     <loc>https://freshswift.net/post/-kz89-ikg-s4jzxylpz9/</loc>
+    <lastmod>2017-11-17T08:46:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swift4/</loc>
     <lastmod>2017-11-17T08:46:03+00:00</lastmod>
   </url>
   
@@ -2135,6 +2125,11 @@
   <url>
     <loc>https://freshswift.net/post/-kxr2e_ufjrmnh3xsjdg/</loc>
     <lastmod>2017-10-27T04:17:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swift/</loc>
+    <lastmod>2017-10-24T09:04:22+00:00</lastmod>
   </url>
   
   <url>
@@ -2405,6 +2400,11 @@
   <url>
     <loc>https://freshswift.net/tags/typescript/</loc>
     <lastmod>2017-09-07T07:46:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/c/</loc>
+    <lastmod>2017-09-05T07:43:49+00:00</lastmod>
   </url>
   
   <url>
@@ -2988,6 +2988,11 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/test/</loc>
+    <lastmod>2017-05-30T07:53:46+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</loc>
     <lastmod>2017-05-30T07:53:46+00:00</lastmod>
   </url>
@@ -3335,6 +3340,11 @@
   <url>
     <loc>https://freshswift.net/post/-kj8psh0nmgv7rgussck/</loc>
     <lastmod>2017-04-25T10:44:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/app/</loc>
+    <lastmod>2017-04-24T15:59:16+00:00</lastmod>
   </url>
   
   <url>
