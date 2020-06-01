@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/01-06-20/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/ios-xcode-swiftui/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/post/31-05-20/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/ios-combine-swiftui/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
   
