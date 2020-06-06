@@ -5,12 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>How the SwiftUI DSL Works</title>
-  <meta property="og:title" content="How the SwiftUI DSL Works" />
-  <meta name="twitter:title" content="How the SwiftUI DSL Works" />
-  <meta name="description" content="Harshil Shah writes about SwiftUI&#39;s DSL (Domain Specific Language), with a focus on function builders. Although not intended to be publicly used yet, function builders are available in current Swift development toolchains, and are key to really understanding how SwiftUI works.">
-  <meta property="og:description" content="Harshil Shah writes about SwiftUI&#39;s DSL (Domain Specific Language), with a focus on function builders. Although not intended to be publicly used yet, function builders are available in current Swift development toolchains, and are key to really understanding how SwiftUI works.">
-  <meta name="twitter:description" content="Harshil Shah writes about SwiftUI&#39;s DSL (Domain Specific Language), with a focus on function builders. Although not intended to be publicly used yet, function builders are available in current Swift …">
+  <title>Posts</title>
+  <meta property="og:title" content="Posts" />
+  <meta name="twitter:title" content="Posts" />
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +15,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/05-06-20/" />
+  <meta property="og:url" content="https://freshswift.net/post/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.72.0" />
-  <link rel="canonical" href="https://freshswift.net/post/05-06-20/" />
+  <link rel="canonical" href="https://freshswift.net/post/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -99,27 +96,14 @@ if (!doNotTrack) {
 
 
     
-  
-  
-  
-
-
-
-
-  
-
   <header class="header-section ">
-    
     <div class="intro-header no-img">
-      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="post-heading">
-                
-                  
-                  
-                
+            <div class="page-heading">
+              <h1>Posts</h1>
+              <hr class="small">
             </div>
           </div>
         </div>
@@ -127,72 +111,61 @@ if (!doNotTrack) {
     </div>
   </header>
 
-
     
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article class="post-preview">
-        <a href="https://harshil.net/blog/swiftui-dsl-function-builders">
-
-          
-          
-
-            <h2 class="post-title">How the SwiftUI DSL Works</h2>
-
-            
-              <h3 class="post-subtitle">
-                Harshil Shah writes about SwiftUI&#39;s DSL (Domain Specific Language), with a focus on function builders. Although not intended to be publicly used yet, function builders are available in current Swift development toolchains, and are key to really understanding how SwiftUI works.
-              </h3>
-            
-
-          
-
-        </a>
-
-        
-        
-          <p class="post-meta">
-            Posted on June 5, 2020
-          </p>
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
 
-        <div class="post-entry">
+        <div class="posts-list">
           
-            
+            <article class="post-preview">
+              <a href="https://ijoshsmith.com/2017/04/08/reflectable-enums-in-swift-3/">
+                <h2 class="post-title">Reflectable Enums</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on April 17, 2017
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/reflection">reflection</a>&nbsp;
+                  
+                    #<a href="/tags/enums">enums</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
         </div>
 
         
-          <span class="post-meta">
+          <ul class="pager main-pager">
             
-              #<a href="/tags/swiftui">swiftui</a>&nbsp;
+              <li class="previous">
+                <a href="/post/page/42">&larr; Newer Posts</a>
+              </li>
             
-          </span>
+            
+          </ul>
         
-
-      </article>
-
-      <ul class="pager blog-pager">
-        
-          <li class="previous">
-            <a href="https://freshswift.net/post/04-06-20/" data-toggle="tooltip" data-placement="top" title="Mastering images in SwiftUI">&larr; Previous Post</a>
-          </li>
-        
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/06-06-20/" data-toggle="tooltip" data-placement="top" title="Using coordinators to manage SwiftUI view controllers">Next Post &rarr;</a>
-          </li>
-        
-      </ul>
-
-      
-        
-      
-
+      </div>
     </div>
   </div>
-</div>
 
     <footer>
   <div class="container">
