@@ -3,22 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/tags/embedded-systems/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/09-06-20/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
