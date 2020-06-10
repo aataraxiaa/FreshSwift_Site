@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/decodable/</link>
     <description>Recent content in decodable on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Jul 2017 09:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/decodable/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decode and Flatten JSON with Dynamic Keys Using Decodable</title>
+      <link>https://freshswift.net/post/10-06-20/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/10-06-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JSON to Swift with Decoder and Decodable</title>
