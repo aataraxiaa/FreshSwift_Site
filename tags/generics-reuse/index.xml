@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>generics, reuse on Fresh Swift</title>
+    <link>https://freshswift.net/tags/generics-reuse/</link>
+    <description>Recent content in generics, reuse on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/generics-reuse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing reusable Swift libraries</title>
+      <link>https://freshswift.net/post/13-06-20/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/13-06-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
