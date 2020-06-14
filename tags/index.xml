@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>functional</title>
+      <link>https://freshswift.net/tags/functional/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/functional/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>generics, reuse</title>
@@ -1122,15 +1131,6 @@
       <pubDate>Sun, 20 May 2018 09:15:23 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/guard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>functional</title>
-      <link>https://freshswift.net/tags/functional/</link>
-      <pubDate>Sat, 19 May 2018 12:43:18 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/functional/</guid>
       <description></description>
     </item>
     
