@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>function builders, swiftui on Fresh Swift</title>
+    <link>https://freshswift.net/tags/function-builders-swiftui/</link>
+    <description>Recent content in function builders, swiftui on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/function-builders-swiftui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Function Builders in Swift and SwiftUI</title>
+      <link>https://freshswift.net/post/15-06-20/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/15-06-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
