@@ -17,6 +17,5 @@ echo --- >> $fileName.md
 # Move file to site content directory
 mv $fileName.md ~/Code/FreshSwift_Site/content/post/$fileName.md
 
-# Open file with Atom
-
-atom ~/Code/FreshSwift_Site/content/post/$fileName.md
+#  Pass file as output for next workflow action
+echo ~/Code/FreshSwift_Site/content/post/$fileName.md
