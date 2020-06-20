@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design pattern on Fresh Swift</title>
+    <link>https://freshswift.net/tags/design-pattern/</link>
+    <description>Recent content in design pattern on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/design-pattern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using the builder pattern in Swift</title>
+      <link>https://freshswift.net/post/20-06-20-084605/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/20-06-20-084605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swifty MVVM Part 1</title>
+      <link>https://freshswift.net/post/-kka3lossjca4s7a3ra-/</link>
+      <pubDate>Mon, 15 May 2017 07:47:01 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/-kka3lossjca4s7a3ra-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

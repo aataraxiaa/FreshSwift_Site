@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>design pattern</title>
+      <link>https://freshswift.net/tags/design-pattern/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/design-pattern/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>swiftui</title>
@@ -1162,6 +1171,15 @@
     </item>
     
     <item>
+      <title>state, design pattern</title>
+      <link>https://freshswift.net/tags/state-design-pattern/</link>
+      <pubDate>Mon, 21 May 2018 13:22:34 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/state-design-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>guard</title>
       <link>https://freshswift.net/tags/guard/</link>
       <pubDate>Sun, 20 May 2018 09:15:23 +0000</pubDate>
@@ -2301,15 +2319,6 @@
       <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/coordinators/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design patterns</title>
-      <link>https://freshswift.net/tags/design-patterns/</link>
-      <pubDate>Mon, 15 May 2017 07:47:01 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/design-patterns/</guid>
       <description></description>
     </item>
     
