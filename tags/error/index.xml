@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/error/</link>
     <description>Recent content in error on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Aug 2018 12:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/error/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Benefits of using throwing functions (try) - Swift&#39;s most underrated feature?</title>
+      <link>https://freshswift.net/post/21-06-20-091135/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/21-06-20-091135/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open Sourcing Validated</title>
