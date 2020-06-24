@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/post/24-06-20-084013/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url>
@@ -14,6 +19,11 @@
   
   <url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swiftui-xcode-watchkit/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url>
   
