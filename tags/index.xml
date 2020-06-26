@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>swiftui, uikit</title>
+      <link>https://freshswift.net/tags/swiftui-uikit/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swiftui-uikit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>swiftui, wwdc20</title>
@@ -132,15 +141,6 @@
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftui, uikit</title>
-      <link>https://freshswift.net/tags/swiftui-uikit/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftui-uikit/</guid>
       <description></description>
     </item>
     
