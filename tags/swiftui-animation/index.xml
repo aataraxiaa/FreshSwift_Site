@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swiftui, animation on Fresh Swift</title>
+    <link>https://freshswift.net/tags/swiftui-animation/</link>
+    <description>Recent content in swiftui, animation on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/swiftui-animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The magic of Animatable values in SwiftUI</title>
+      <link>https://freshswift.net/post/29-06-20-080212/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/29-06-20-080212/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
