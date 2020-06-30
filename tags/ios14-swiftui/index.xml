@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ios14, swiftui on Fresh Swift</title>
+    <link>https://freshswift.net/tags/ios14-swiftui/</link>
+    <description>Recent content in ios14, swiftui on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/ios14-swiftui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using SceneStorage for State Restoration in SwiftUI Apps</title>
+      <link>https://freshswift.net/post/30-06-20-080945/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/30-06-20-080945/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
