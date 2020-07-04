@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://freshswift.net/tags/array-dictionary/</loc>
+    <loc>https://freshswift.net/tags/array/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/dictionary/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,12 +28,17 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/performance/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/post/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui-performance/</loc>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,22 +48,17 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/02-07-20-075233/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/01-07-20-073948/</loc>
+    <loc>https://freshswift.net/tags/architecture/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui-uikit-architecture/</loc>
+    <loc>https://freshswift.net/post/01-07-20-073948/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +68,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/ios14-swiftui/</loc>
+    <loc>https://freshswift.net/tags/uikit/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/ios14/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui-animation/</loc>
+    <loc>https://freshswift.net/tags/animation/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,11 +94,6 @@
   
   <url>
     <loc>https://freshswift.net/post/28-06-20-092302/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swiftui-uikit/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,12 +113,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui-wwdc20/</loc>
+    <loc>https://freshswift.net/post/25-06-20-085506/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/25-06-20-085506/</loc>
+    <loc>https://freshswift.net/tags/wwdc20/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,22 +128,22 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui-xcode-watchkit/</loc>
-    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/24-06-20-074253/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/23-06-20-113932/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/watchkit/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/wwdc20-swiftui/</loc>
+    <loc>https://freshswift.net/tags/xcode/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/23-06-20-113932/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,12 +163,17 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/concurrency/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/design-pattern/</loc>
     <lastmod>2020-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/evolution-concurrency/</loc>
+    <loc>https://freshswift.net/tags/evolution/</loc>
     <lastmod>2020-06-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,12 +203,17 @@
   </url>
   
   <url>
+    <loc>https://freshswift.net/tags/combine/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/post/17-06-20/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui-combine-ios/</loc>
+    <loc>https://freshswift.net/tags/ios/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,12 +228,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/15-06-20/</loc>
+    <loc>https://freshswift.net/tags/function-builders/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/function-builders-swiftui/</loc>
+    <loc>https://freshswift.net/post/15-06-20/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,7 +253,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/generics-reuse/</loc>
+    <loc>https://freshswift.net/tags/generics/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/reuse/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -303,17 +323,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui-ios/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/02-06-20/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui-property-wrapper/</loc>
+    <loc>https://freshswift.net/tags/property-wrapper/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -323,22 +338,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/ios-xcode-swiftui/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/31-05-20/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/ios-combine-swiftui/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/ios-macos-uikit/</loc>
+    <loc>https://freshswift.net/tags/macos/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -349,11 +354,6 @@
   
   <url>
     <loc>https://freshswift.net/post/28-05-20/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/ios/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -379,11 +379,6 @@
   
   <url>
     <loc>https://freshswift.net/post/24-05-20/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/property-wrapper/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -450,11 +445,6 @@
   <url>
     <loc>https://freshswift.net/post/-lsfbbmiaa8kk-ywqqpq/</loc>
     <lastmod>2018-11-26T13:23:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/evolution/</loc>
-    <lastmod>2018-11-23T14:05:25+00:00</lastmod>
   </url>
   
   <url>
@@ -659,11 +649,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-lm8wcfs8erimeqjpulo/</loc>
-    <lastmod>2018-09-11T16:46:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/xcode/</loc>
     <lastmod>2018-09-11T16:46:00+00:00</lastmod>
   </url>
   
@@ -968,11 +953,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/array/</loc>
-    <lastmod>2018-08-03T08:19:14+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/compactmap/</loc>
     <lastmod>2018-08-03T08:19:14+00:00</lastmod>
   </url>
@@ -1048,11 +1028,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/reuse/</loc>
-    <lastmod>2018-07-24T15:14:06+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-li6cv_gtnj8jrotjxtd/</loc>
     <lastmod>2018-07-23T12:57:55+00:00</lastmod>
   </url>
@@ -1084,11 +1059,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</loc>
-    <lastmod>2018-07-17T13:28:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/concurrency/</loc>
     <lastmod>2018-07-17T13:28:30+00:00</lastmod>
   </url>
   
@@ -1533,11 +1503,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/architecture/</loc>
-    <lastmod>2018-05-01T17:30:31+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-lbrkmr2sm3ybepda3dy/</loc>
     <lastmod>2018-05-01T17:30:31+00:00</lastmod>
   </url>
@@ -1615,11 +1580,6 @@
   <url>
     <loc>https://freshswift.net/post/-la2flv882igrl3rrufn/</loc>
     <lastmod>2018-04-14T08:26:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/generics/</loc>
-    <lastmod>2018-04-11T12:07:20+00:00</lastmod>
   </url>
   
   <url>
@@ -2178,11 +2138,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/performance/</loc>
-    <lastmod>2017-12-18T15:02:27+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</loc>
     <lastmod>2017-12-17T10:47:01+00:00</lastmod>
   </url>
@@ -2195,11 +2150,6 @@
   <url>
     <loc>https://freshswift.net/post/-l0jo99fb05lti4drvej/</loc>
     <lastmod>2017-12-14T11:37:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/dictionary/</loc>
-    <lastmod>2017-12-12T09:34:39+00:00</lastmod>
   </url>
   
   <url>
@@ -2733,11 +2683,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/animation/</loc>
-    <lastmod>2017-09-03T12:11:21+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-kt6dhh1ebznisarmv3f/</loc>
     <lastmod>2017-09-03T12:11:21+00:00</lastmod>
   </url>
@@ -2859,11 +2804,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-kqg8fi3_ubbex_ijkuh/</loc>
-    <lastmod>2017-08-04T07:30:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/macos/</loc>
     <lastmod>2017-08-04T07:30:06+00:00</lastmod>
   </url>
   

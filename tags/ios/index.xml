@@ -4,10 +4,55 @@
     <link>https://freshswift.net/tags/ios/</link>
     <description>Recent content in iOS on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Infinite List Scroll with SwiftUI and Combine</title>
+      <link>https://freshswift.net/post/17-06-20/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/17-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scroll List to Row in SwiftUI</title>
+      <link>https://freshswift.net/post/03-06-20/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/03-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting the most out of Xcode Previews for SwiftUI</title>
+      <link>https://freshswift.net/post/01-06-20/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/01-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combine and SwiftUI views</title>
+      <link>https://freshswift.net/post/31-05-20/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/31-05-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift tip: marking unused required initializers as unavailable</title>
+      <link>https://freshswift.net/post/29-05-20/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/29-05-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An effective way to clear entire Userdefaults in Swift</title>

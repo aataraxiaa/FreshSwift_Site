@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/animation/</link>
     <description>Recent content in animation on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Sep 2017 12:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/animation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The magic of Animatable values in SwiftUI</title>
+      <link>https://freshswift.net/post/29-06-20-080212/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/29-06-20-080212/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Core Animation gems: Using replicator layers in Swift</title>

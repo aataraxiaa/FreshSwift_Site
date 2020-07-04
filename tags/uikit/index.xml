@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uikit on Fresh Swift</title>
+    <link>https://freshswift.net/tags/uikit/</link>
+    <description>Recent content in uikit on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/uikit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SwiftUI: Double-Edged Sword</title>
+      <link>https://freshswift.net/post/01-07-20-150059/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/01-07-20-150059/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating SwiftUI &amp; UI Kit</title>
+      <link>https://freshswift.net/post/28-06-20-092302/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/28-06-20-092302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwiftUI, UIViewRepresentable, and attributed text</title>
+      <link>https://freshswift.net/post/26-06-20-083910/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/26-06-20-083910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using coordinators to manage SwiftUI view controllers</title>
+      <link>https://freshswift.net/post/06-06-20/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/06-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift tip: marking unused required initializers as unavailable</title>
+      <link>https://freshswift.net/post/29-05-20/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/29-05-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

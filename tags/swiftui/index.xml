@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enabling high-performance Metal rendering with drawingGroup()</title>
+      <link>https://freshswift.net/post/03-07-20-065520/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/03-07-20-065520/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftUI: Two equal width columns</title>
@@ -28,11 +37,83 @@
     </item>
     
     <item>
+      <title>SwiftUI: Double-Edged Sword</title>
+      <link>https://freshswift.net/post/01-07-20-150059/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/01-07-20-150059/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using SceneStorage for State Restoration in SwiftUI Apps</title>
+      <link>https://freshswift.net/post/30-06-20-080945/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/30-06-20-080945/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The magic of Animatable values in SwiftUI</title>
+      <link>https://freshswift.net/post/29-06-20-080212/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/29-06-20-080212/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating SwiftUI &amp; UI Kit</title>
+      <link>https://freshswift.net/post/28-06-20-092302/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/28-06-20-092302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwiftUI, UIViewRepresentable, and attributed text</title>
+      <link>https://freshswift.net/post/26-06-20-083910/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/26-06-20-083910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s new in SwiftUI</title>
+      <link>https://freshswift.net/post/25-06-20-085506/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/25-06-20-085506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a silly WatchKit App</title>
+      <link>https://freshswift.net/post/24-06-20-084013/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/24-06-20-084013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TikTok logo-ish effect in SwiftUI</title>
       <link>https://freshswift.net/post/24-06-20-074253/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/post/24-06-20-074253/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What’s new in SwiftUI for iOS 14</title>
+      <link>https://freshswift.net/post/23-06-20-113932/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/23-06-20-113932/</guid>
       <description></description>
     </item>
     
@@ -51,6 +132,42 @@
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/post/19-06-20-083227/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why TextView is my SwiftUI canary</title>
+      <link>https://freshswift.net/post/19-06-20-081701/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/19-06-20-081701/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwiftUI wishlist for WWDC20</title>
+      <link>https://freshswift.net/post/18-06-20/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite List Scroll with SwiftUI and Combine</title>
+      <link>https://freshswift.net/post/17-06-20/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/17-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Function Builders in Swift and SwiftUI</title>
+      <link>https://freshswift.net/post/15-06-20/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/15-06-20/</guid>
       <description></description>
     </item>
     
@@ -91,6 +208,15 @@
     </item>
     
     <item>
+      <title>Using coordinators to manage SwiftUI view controllers</title>
+      <link>https://freshswift.net/post/06-06-20/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/06-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How the SwiftUI DSL Works</title>
       <link>https://freshswift.net/post/05-06-20/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
@@ -105,6 +231,42 @@
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/post/04-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scroll List to Row in SwiftUI</title>
+      <link>https://freshswift.net/post/03-06-20/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/03-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use @ObservedObject to manage state from external objects</title>
+      <link>https://freshswift.net/post/02-06-20/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/02-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting the most out of Xcode Previews for SwiftUI</title>
+      <link>https://freshswift.net/post/01-06-20/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/01-06-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combine and SwiftUI views</title>
+      <link>https://freshswift.net/post/31-05-20/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/31-05-20/</guid>
       <description></description>
     </item>
     

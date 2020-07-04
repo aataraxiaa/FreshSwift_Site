@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/performance/</link>
     <description>Recent content in performance on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Dec 2017 15:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enabling high-performance Metal rendering with drawingGroup()</title>
+      <link>https://freshswift.net/post/03-07-20-065520/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/03-07-20-065520/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Quick Tip For String Performance</title>

@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/architecture/</link>
     <description>Recent content in architecture on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 May 2018 17:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SwiftUI: Double-Edged Sword</title>
+      <link>https://freshswift.net/post/01-07-20-150059/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/01-07-20-150059/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>So Swift, So Clean Architecture for iOS</title>
