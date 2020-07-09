@@ -10,11 +10,20 @@
     
     
     <item>
-      <title>evolution, keypath</title>
-      <link>https://freshswift.net/tags/evolution-keypath/</link>
+      <title>evolution</title>
+      <link>https://freshswift.net/tags/evolution/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/tags/evolution-keypath/</guid>
+      <guid>https://freshswift.net/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keypath</title>
+      <link>https://freshswift.net/tags/keypath/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/keypath/</guid>
       <description></description>
     </item>
     
@@ -168,15 +177,6 @@
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/design-pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolution</title>
-      <link>https://freshswift.net/tags/evolution/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/evolution/</guid>
       <description></description>
     </item>
     
@@ -411,15 +411,6 @@
       <pubDate>Sun, 04 Nov 2018 16:00:53 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/dynamic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keypath</title>
-      <link>https://freshswift.net/tags/keypath/</link>
-      <pubDate>Sun, 04 Nov 2018 16:00:53 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/keypath/</guid>
       <description></description>
     </item>
     
