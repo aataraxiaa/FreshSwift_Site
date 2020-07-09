@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>iOS 14: Notable UIKit Additions</title>
-  <meta property="og:title" content="iOS 14: Notable UIKit Additions" />
-  <meta name="twitter:title" content="iOS 14: Notable UIKit Additions" />
-  <meta name="description" content="With Apple understandably putting a lot of effort into SwiftUI, it&#39;s great to see that UIKit is not being ignored. iOS 14 includes substantial updates to UIKit, and in this post from Jordan Morgan, we get a rundown of some of the new additions, with Swift code samples for each. I really like the move away from the target-action pattern to UIActions.">
-  <meta property="og:description" content="With Apple understandably putting a lot of effort into SwiftUI, it&#39;s great to see that UIKit is not being ignored. iOS 14 includes substantial updates to UIKit, and in this post from Jordan Morgan, we get a rundown of some of the new additions, with Swift code samples for each. I really like the move away from the target-action pattern to UIActions.">
-  <meta name="twitter:description" content="With Apple understandably putting a lot of effort into SwiftUI, it&#39;s great to see that UIKit is not being ignored. iOS 14 includes substantial updates to UIKit, and in this post from Jordan Morgan, we …">
+  <title>Introduce AnonymousKeyPath</title>
+  <meta property="og:title" content="Introduce AnonymousKeyPath" />
+  <meta name="twitter:title" content="Introduce AnonymousKeyPath" />
+  <meta name="description" content="In this evolution pitch from the Swift forums, Shai Mishali suggests the introduction of a new kind of KeyPath - AnonymousKeyPath. The idea here is that the key path can be used without knowing the Root of the KeyPath, but rather only the Value constrained to it. Although it&#39;s an interesting suggestion, the discussion that follows the pitch indicates that the problem it solves can be solved in other, more effective ways.">
+  <meta property="og:description" content="In this evolution pitch from the Swift forums, Shai Mishali suggests the introduction of a new kind of KeyPath - AnonymousKeyPath. The idea here is that the key path can be used without knowing the Root of the KeyPath, but rather only the Value constrained to it. Although it&#39;s an interesting suggestion, the discussion that follows the pitch indicates that the problem it solves can be solved in other, more effective ways.">
+  <meta name="twitter:description" content="In this evolution pitch from the Swift forums, Shai Mishali suggests the introduction of a new kind of KeyPath - AnonymousKeyPath. The idea here is that the key path can be used without knowing the …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/08-07-20-080619/" />
+  <meta property="og:url" content="https://freshswift.net/post/09-07-20-084545/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.73.0" />
-  <link rel="canonical" href="https://freshswift.net/post/08-07-20-080619/" />
+  <link rel="canonical" href="https://freshswift.net/post/09-07-20-084545/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://www.swiftjectivec.com/ios-14-notable-uikit-additions/">
+        <a href="https://forums.swift.org/t/introduce-anonymouskeypath/38080">
 
           
           
 
-            <h2 class="post-title">iOS 14: Notable UIKit Additions</h2>
+            <h2 class="post-title">Introduce AnonymousKeyPath</h2>
 
             
               <h3 class="post-subtitle">
-                With Apple understandably putting a lot of effort into SwiftUI, it&#39;s great to see that UIKit is not being ignored. iOS 14 includes substantial updates to UIKit, and in this post from Jordan Morgan, we get a rundown of some of the new additions, with Swift code samples for each. I really like the move away from the target-action pattern to UIActions.
+                In this evolution pitch from the Swift forums, Shai Mishali suggests the introduction of a new kind of KeyPath - AnonymousKeyPath. The idea here is that the key path can be used without knowing the Root of the KeyPath, but rather only the Value constrained to it. Although it&#39;s an interesting suggestion, the discussion that follows the pitch indicates that the problem it solves can be solved in other, more effective ways.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on July 8, 2020
+            Posted on July 9, 2020
           </p>
         
 
@@ -166,9 +166,7 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/ios14">ios14</a>&nbsp;
-            
-              #<a href="/tags/uikit">uikit</a>&nbsp;
+              #<a href="/tags/evolution-keypath">evolution, keypath</a>&nbsp;
             
           </span>
         
@@ -178,13 +176,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/07-07-20-081107/" data-toggle="tooltip" data-placement="top" title="Returning to an old hobbyhorse: Migrating higher order function names to comply with API guidelines">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/08-07-20-080619/" data-toggle="tooltip" data-placement="top" title="iOS 14: Notable UIKit Additions">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/09-07-20-084545/" data-toggle="tooltip" data-placement="top" title="Introduce AnonymousKeyPath">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
