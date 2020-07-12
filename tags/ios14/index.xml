@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>The difference between @StateObject, @EnvironmentObject, and @ObservedObject in SwiftUI</title>
+      <link>https://freshswift.net/post/12-07-20-162514/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/12-07-20-162514/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UICollectionView Compositional List Layout</title>
       <link>https://freshswift.net/post/10-07-20-084455/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
