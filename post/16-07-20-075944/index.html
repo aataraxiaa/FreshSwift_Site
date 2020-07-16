@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture</title>
-  <meta property="og:title" content="SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture" />
-  <meta name="twitter:title" content="SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture" />
-  <meta name="description" content="SwiftUI includes a ScrollView type, which is similar in function to its UIKit counterpart. However, until recently, SwiftUI was unable to programmatically scroll to a particular offset in the ScrollView. With iOS 14, this is now possible, and in this post, Federico Zanetello uses this new ability, together with DragGesture, to implement his own version of an index list.">
-  <meta property="og:description" content="SwiftUI includes a ScrollView type, which is similar in function to its UIKit counterpart. However, until recently, SwiftUI was unable to programmatically scroll to a particular offset in the ScrollView. With iOS 14, this is now possible, and in this post, Federico Zanetello uses this new ability, together with DragGesture, to implement his own version of an index list.">
-  <meta name="twitter:description" content="SwiftUI includes a ScrollView type, which is similar in function to its UIKit counterpart. However, until recently, SwiftUI was unable to programmatically scroll to a particular offset in the …">
+  <title>Custom navigation bar title view in SwiftUI</title>
+  <meta property="og:title" content="Custom navigation bar title view in SwiftUI" />
+  <meta name="twitter:title" content="Custom navigation bar title view in SwiftUI" />
+  <meta name="description" content="SwiftUI in iOS 14 includes a new ToolbarItem type and toolbar view modifier, which can be used together to create a customized navigation bar title. In this short post, Sarun shows us how to create a navigation bar title that displays text, an image, and even a button.">
+  <meta property="og:description" content="SwiftUI in iOS 14 includes a new ToolbarItem type and toolbar view modifier, which can be used together to create a customized navigation bar title. In this short post, Sarun shows us how to create a navigation bar title that displays text, an image, and even a button.">
+  <meta name="twitter:description" content="SwiftUI in iOS 14 includes a new ToolbarItem type and toolbar view modifier, which can be used together to create a customized navigation bar title. In this short post, Sarun shows us how to create a …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/15-07-20-064138/" />
+  <meta property="og:url" content="https://freshswift.net/post/16-07-20-075944/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.1" />
-  <link rel="canonical" href="https://freshswift.net/post/15-07-20-064138/" />
+  <link rel="canonical" href="https://freshswift.net/post/16-07-20-075944/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://www.fivestars.blog/code/section-title-index-swiftui.html">
+        <a href="https://sarunw.com/posts/custom-navigation-bar-title-view-in-swiftui/">
 
           
           
 
-            <h2 class="post-title">SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture</h2>
+            <h2 class="post-title">Custom navigation bar title view in SwiftUI</h2>
 
             
               <h3 class="post-subtitle">
-                SwiftUI includes a ScrollView type, which is similar in function to its UIKit counterpart. However, until recently, SwiftUI was unable to programmatically scroll to a particular offset in the ScrollView. With iOS 14, this is now possible, and in this post, Federico Zanetello uses this new ability, together with DragGesture, to implement his own version of an index list.
+                SwiftUI in iOS 14 includes a new ToolbarItem type and toolbar view modifier, which can be used together to create a customized navigation bar title. In this short post, Sarun shows us how to create a navigation bar title that displays text, an image, and even a button.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on July 15, 2020
+            Posted on July 16, 2020
           </p>
         
 
@@ -170,8 +170,6 @@ if (!doNotTrack) {
             
               #<a href="/tags/ios14">ios14</a>&nbsp;
             
-              #<a href="/tags/scrollview">scrollview</a>&nbsp;
-            
           </span>
         
 
@@ -180,13 +178,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/14-07-20-075448/" data-toggle="tooltip" data-placement="top" title="SwiftUI’s New App Lifecycle and Replacements for AppDelegate and SceneDelegate in iOS 14">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/15-07-20-064138/" data-toggle="tooltip" data-placement="top" title="SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/16-07-20-075944/" data-toggle="tooltip" data-placement="top" title="Custom navigation bar title view in SwiftUI">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
