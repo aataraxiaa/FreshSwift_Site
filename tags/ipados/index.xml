@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iPadOS on Fresh Swift</title>
+    <link>https://freshswift.net/tags/ipados/</link>
+    <description>Recent content in iPadOS on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/ipados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Glyph: A Year With SwiftUI</title>
+      <link>https://freshswift.net/post/17-07-20-161201/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/17-07-20-161201/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
