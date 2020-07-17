@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>state</title>
+      <link>https://freshswift.net/tags/state/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://freshswift.net/tags/swiftui/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swiftui/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ios14</title>
@@ -15,15 +33,6 @@
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/ios14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
-      <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftui/</guid>
       <description></description>
     </item>
     
@@ -69,15 +78,6 @@
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/type-casting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>state</title>
-      <link>https://freshswift.net/tags/state/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/state/</guid>
       <description></description>
     </item>
     
