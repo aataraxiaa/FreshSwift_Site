@@ -4,10 +4,64 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>evolution</title>
+      <link>https://freshswift.net/tags/evolution/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grid</title>
+      <link>https://freshswift.net/tags/grid/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ios14</title>
+      <link>https://freshswift.net/tags/ios14/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/ios14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://freshswift.net/tags/podcast/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://freshswift.net/tags/swiftui/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swiftui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tuples</title>
+      <link>https://freshswift.net/tags/tuples/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/tuples/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>iPadOS</title>
@@ -24,24 +78,6 @@
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/state/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
-      <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ios14</title>
-      <link>https://freshswift.net/tags/ios14/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/ios14/</guid>
       <description></description>
     </item>
     
@@ -96,15 +132,6 @@
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/uikit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolution</title>
-      <link>https://freshswift.net/tags/evolution/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/evolution/</guid>
       <description></description>
     </item>
     
@@ -1113,15 +1140,6 @@
       <pubDate>Fri, 22 Jun 2018 09:41:06 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/reduce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>podcast</title>
-      <link>https://freshswift.net/tags/podcast/</link>
-      <pubDate>Tue, 19 Jun 2018 12:17:17 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/podcast/</guid>
       <description></description>
     </item>
     
@@ -2256,15 +2274,6 @@
       <pubDate>Sun, 04 Jun 2017 15:11:15 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/gcd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tuples</title>
-      <link>https://freshswift.net/tags/tuples/</link>
-      <pubDate>Fri, 02 Jun 2017 09:01:54 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/tuples/</guid>
       <description></description>
     </item>
     

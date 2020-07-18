@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/podcast/</link>
     <description>Recent content in podcast on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Jun 2018 12:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift Unwrapped #86: Tuples</title>
+      <link>https://freshswift.net/post/18-07-20-133444/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-07-20-133444/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swift Unwrapped -  Interview with Ted Kremenek</title>

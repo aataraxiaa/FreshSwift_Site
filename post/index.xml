@@ -4,10 +4,37 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invert guard let scoping</title>
+      <link>https://freshswift.net/post/18-07-20-092544/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-07-20-092544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mastering grids in SwiftUI</title>
+      <link>https://freshswift.net/post/18-07-20-090524/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-07-20-090524/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift Unwrapped #86: Tuples</title>
+      <link>https://freshswift.net/post/18-07-20-133444/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-07-20-133444/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A guide to SwiftUI’s state management system</title>

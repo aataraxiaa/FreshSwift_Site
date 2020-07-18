@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/evolution/</link>
     <description>Recent content in evolution on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invert guard let scoping</title>
+      <link>https://freshswift.net/post/18-07-20-092544/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-07-20-092544/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Introduce AnonymousKeyPath</title>
