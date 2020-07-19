@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://freshswift.net/tags/evolution/</loc>
-    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/</loc>
+    <loc>https://freshswift.net/post/19-07-20-074219/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/lifecycle/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/opensource/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/server/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/evolution/</loc>
     <lastmod>2020-07-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,22 +68,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/18-07-20-133444/</loc>
     <lastmod>2020-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-07-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -95,11 +115,6 @@
   <url>
     <loc>https://freshswift.net/post/15-07-20-064138/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/lifecycle/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -533,11 +548,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/server-side/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/25-05-20/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
@@ -904,11 +914,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-ll-ulpbxdxgsivtgfce/</loc>
-    <lastmod>2018-08-28T12:25:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/opensource/</loc>
     <lastmod>2018-08-28T12:25:38+00:00</lastmod>
   </url>
   
@@ -3579,6 +3584,11 @@
   
   <url>
     <loc>https://freshswift.net/post/-kjxi6yg_jtzldl2ckl7/</loc>
+    <lastmod>2017-05-07T09:45:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/server-side/</loc>
     <lastmod>2017-05-07T09:45:15+00:00</lastmod>
   </url>
   

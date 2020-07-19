@@ -4,10 +4,37 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>lifecycle</title>
+      <link>https://freshswift.net/tags/lifecycle/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/lifecycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensource</title>
+      <link>https://freshswift.net/tags/opensource/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://freshswift.net/tags/server/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/server/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>evolution</title>
@@ -87,15 +114,6 @@
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/scrollview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lifecycle</title>
-      <link>https://freshswift.net/tags/lifecycle/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/lifecycle/</guid>
       <description></description>
     </item>
     
@@ -366,15 +384,6 @@
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/swift-5.3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>server side</title>
-      <link>https://freshswift.net/tags/server-side/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/server-side/</guid>
       <description></description>
     </item>
     
@@ -690,15 +699,6 @@
       <pubDate>Wed, 29 Aug 2018 10:45:21 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/property/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>opensource</title>
-      <link>https://freshswift.net/tags/opensource/</link>
-      <pubDate>Tue, 28 Aug 2018 12:25:38 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/opensource/</guid>
       <description></description>
     </item>
     
@@ -2427,6 +2427,15 @@
       <pubDate>Sun, 07 May 2017 09:45:15 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server side</title>
+      <link>https://freshswift.net/tags/server-side/</link>
+      <pubDate>Sun, 07 May 2017 09:45:15 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/server-side/</guid>
       <description></description>
     </item>
     

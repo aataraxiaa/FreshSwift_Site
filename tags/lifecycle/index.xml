@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/lifecycle/</link>
     <description>Recent content in lifecycle on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/lifecycle/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Swift Service Lifecycle</title>
+      <link>https://freshswift.net/post/19-07-20-074219/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/19-07-20-074219/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftUI’s New App Lifecycle and Replacements for AppDelegate and SceneDelegate in iOS 14</title>

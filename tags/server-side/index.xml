@@ -4,46 +4,10 @@
     <link>https://freshswift.net/tags/server-side/</link>
     <description>Recent content in server side on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2017 09:45:15 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/server-side/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Future of Swift on the Server</title>
-      <link>https://freshswift.net/post/25-05-20/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/post/25-05-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to Server Side Swift with Vapor</title>
-      <link>https://freshswift.net/post/-kznd5gtvsemh34f-9bd/</link>
-      <pubDate>Mon, 20 Nov 2017 08:56:13 +0000</pubDate>
-      
-      <guid>https://freshswift.net/post/-kznd5gtvsemh34f-9bd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Errors On The Server</title>
-      <link>https://freshswift.net/post/-koctt_bhyhrjcolrnjt/</link>
-      <pubDate>Sun, 09 Jul 2017 17:51:03 +0000</pubDate>
-      
-      <guid>https://freshswift.net/post/-koctt_bhyhrjcolrnjt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js</title>
-      <link>https://freshswift.net/post/-kk5da6kidgbvd00ae5_/</link>
-      <pubDate>Sun, 14 May 2017 11:09:46 +0000</pubDate>
-      
-      <guid>https://freshswift.net/post/-kk5da6kidgbvd00ae5_/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Experimental Swift</title>
