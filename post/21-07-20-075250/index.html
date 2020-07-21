@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>closures</title>
-  <meta property="og:title" content="closures" />
-  <meta name="twitter:title" content="closures" />
+  <title>Forward scan matching for trailing closures</title>
+  <meta property="og:title" content="Forward scan matching for trailing closures" />
+  <meta name="twitter:title" content="Forward scan matching for trailing closures" />
+  <meta name="description" content="Swift 5.3 extended trailing closure syntax, allowing additional labeled trailing closures to follow an initial un-labeled trailing closure. In this Swift evolution pitch, Doug Gregor from the Swift Core Team proposes an improvement to how the Swift compiler scans and matches trailing closures to parameters.">
+  <meta property="og:description" content="Swift 5.3 extended trailing closure syntax, allowing additional labeled trailing closures to follow an initial un-labeled trailing closure. In this Swift evolution pitch, Doug Gregor from the Swift Core Team proposes an improvement to how the Swift compiler scans and matches trailing closures to parameters.">
+  <meta name="twitter:description" content="Swift 5.3 extended trailing closure syntax, allowing additional labeled trailing closures to follow an initial un-labeled trailing closure. In this Swift evolution pitch, Doug Gregor from the Swift …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -15,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/tags/closures/" />
+  <meta property="og:url" content="https://freshswift.net/post/21-07-20-075250/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.2" />
-  <link rel="canonical" href="https://freshswift.net/tags/closures/" />
+  <link rel="canonical" href="https://freshswift.net/post/21-07-20-075250/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -96,14 +99,27 @@ if (!doNotTrack) {
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>#closures</h1>
-              <hr class="small">
+            <div class="post-heading">
+                
+                  
+                  
+                
             </div>
           </div>
         </div>
@@ -111,50 +127,70 @@ if (!doNotTrack) {
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article class="post-preview">
+        <a href="Forward%20scan%20matching%20for%20trailing%20closures">
+
+          
+          
+
+            <h2 class="post-title">Forward scan matching for trailing closures</h2>
+
+            
+              <h3 class="post-subtitle">
+                Swift 5.3 extended trailing closure syntax, allowing additional labeled trailing closures to follow an initial un-labeled trailing closure. In this Swift evolution pitch, Doug Gregor from the Swift Core Team proposes an improvement to how the Swift compiler scans and matches trailing closures to parameters.
+              </h3>
+            
+
+          
+
+        </a>
+
+        
+        
+          <p class="post-meta">
+            Posted on July 21, 2020
+          </p>
         
 
-        <div class="posts-list">
+        <div class="post-entry">
           
-            <article class="post-preview">
-              <a href="https://medium.com/@andrewcbancroft/why-do-we-need-to-annotate-escaping-closures-in-swift-d9985172cad8">
-                <h2 class="post-title">Why Do We Need to Annotate Escaping Closures in Swift?</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Andrew Bancroft looks at why we need to annotate Swift escaping closures. Quotes from Chris Lattner help him come to a conclusion on the motivations of the Swift compiler when it warns us to annotate our closures as escaping.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 13, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/closures">closures</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
+            
           
         </div>
 
         
-      </div>
+          <span class="post-meta">
+            
+              #<a href="/tags/evolution">evolution</a>&nbsp;
+            
+              #<a href="/tags/closure">closure</a>&nbsp;
+            
+          </span>
+        
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://freshswift.net/post/20-07-20-080103/" data-toggle="tooltip" data-placement="top" title="SwiftUI Property Wrappers">&larr; Previous Post</a>
+          </li>
+        
+        
+      </ul>
+
+      
+        
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">
