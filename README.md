@@ -5,7 +5,7 @@ This repository contains the files which are used by Hugo to generate the [Fresh
 
 ## Tools and Services Used
 ### Hugo
-[Hugo](https://gohugo.io) is an open source static website generator. What this means is that it builds (generates HTML) a website for you based on content and formatting you specify.
+[Hugo](https://gohugo.io) is an open-source static website generator. What this means is that it builds (generates HTML) a website for you based on content and formatting you specify.
 
 ### Github Actions
 Github actions allow us to create automated jobs and workflows, which can be triggered when an action occurs in our repository, e.g push to master
