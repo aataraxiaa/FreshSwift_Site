@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/evolution/</link>
     <description>Recent content in evolution on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Proposing to expand `available` to introduce `discouraged`</title>
+      <link>https://freshswift.net/post/24-07-20-105834/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/24-07-20-105834/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forward scan matching for trailing closures</title>
