@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/ios14/</link>
     <description>Recent content in ios14 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/ios14/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Handling deeplinks in iOS 14 with onOpenURL</title>
+      <link>https://freshswift.net/post/24-07-20-082118/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/24-07-20-082118/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mastering toolbars in SwiftUI</title>
