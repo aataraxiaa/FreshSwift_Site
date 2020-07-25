@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>generics</title>
+      <link>https://freshswift.net/tags/generics/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/generics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://freshswift.net/tags/swiftui/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swiftui/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>deeplink</title>
@@ -33,15 +51,6 @@
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/ios14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
-      <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftui/</guid>
       <description></description>
     </item>
     
@@ -366,15 +375,6 @@
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/functional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generics</title>
-      <link>https://freshswift.net/tags/generics/</link>
-      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/generics/</guid>
       <description></description>
     </item>
     
