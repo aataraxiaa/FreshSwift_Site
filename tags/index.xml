@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>combine</title>
+      <link>https://freshswift.net/tags/combine/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/combine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://freshswift.net/tags/swiftui/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swiftui/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>concurrency</title>
@@ -24,15 +42,6 @@
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/generics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
-      <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftui/</guid>
       <description></description>
     </item>
     
@@ -330,15 +339,6 @@
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/design-pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>combine</title>
-      <link>https://freshswift.net/tags/combine/</link>
-      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/combine/</guid>
       <description></description>
     </item>
     
