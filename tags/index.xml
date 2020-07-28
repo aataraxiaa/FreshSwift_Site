@@ -10,6 +10,24 @@
     
     
     <item>
+      <title>evolution</title>
+      <link>https://freshswift.net/tags/evolution/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>property wrapper</title>
+      <link>https://freshswift.net/tags/property-wrapper/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/property-wrapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>swift 5.3</title>
       <link>https://freshswift.net/tags/swift-5.3/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
@@ -64,15 +82,6 @@
     </item>
     
     <item>
-      <title>evolution</title>
-      <link>https://freshswift.net/tags/evolution/</link>
-      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ios14</title>
       <link>https://freshswift.net/tags/ios14/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
@@ -123,15 +132,6 @@
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/closure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>property wrapper</title>
-      <link>https://freshswift.net/tags/property-wrapper/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/property-wrapper/</guid>
       <description></description>
     </item>
     

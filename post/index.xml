@@ -10,6 +10,15 @@
     
     
     <item>
+      <title>Allow Property Wrappers with Multiple Arguments to Defer Initialization when wrappedValue is not Specified</title>
+      <link>https://freshswift.net/post/28-07-20-134247/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/28-07-20-134247/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Generating automatic placeholders for SwiftUI views</title>
       <link>https://freshswift.net/post/28-07-20-074401/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
