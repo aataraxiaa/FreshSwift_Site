@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>localization on Fresh Swift</title>
+    <link>https://freshswift.net/tags/localization/</link>
+    <description>Recent content in localization on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/localization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Safer Localization in SwiftUI</title>
+      <link>https://freshswift.net/post/29-07-20-082732/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/29-07-20-082732/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
