@@ -55,6 +55,15 @@
     </item>
     
     <item>
+      <title>Returning to an old hobbyhorse: Migrating higher order function names to comply with API guidelines</title>
+      <link>https://freshswift.net/post/07-07-20-081107/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/07-07-20-081107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Static Thread Safety</title>
       <link>https://freshswift.net/post/20-06-20-124450/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
@@ -159,6 +168,15 @@
       <pubDate>Tue, 26 Jun 2018 12:19:31 +0000</pubDate>
       
       <guid>https://freshswift.net/post/-lfw1crli4pjbwwxbgyl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random numbers in Swift</title>
+      <link>https://freshswift.net/post/-let1eq05are1esnlta_/</link>
+      <pubDate>Wed, 13 Jun 2018 12:06:56 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/-let1eq05are1esnlta_/</guid>
       <description></description>
     </item>
     

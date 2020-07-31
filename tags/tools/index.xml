@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/tools/</link>
     <description>Recent content in tools on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Jan 2018 19:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2018 10:40:02 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Online Swift Playground</title>
+      <link>https://freshswift.net/post/-l2yytvthjzgnksdcrmm/</link>
+      <pubDate>Tue, 16 Jan 2018 10:40:02 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/-l2yytvthjzgnksdcrmm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swift Demangler</title>

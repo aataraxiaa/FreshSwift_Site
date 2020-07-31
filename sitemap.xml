@@ -318,7 +318,7 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/evolution-higher-order-functions/</loc>
+    <loc>https://freshswift.net/tags/higher-order-functions/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -898,12 +898,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/-lmvcvku9byh7wiebs7n/</loc>
+    <loc>https://freshswift.net/tags/swift-4.2/</loc>
     <lastmod>2018-09-21T10:18:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swift4.2/</loc>
+    <loc>https://freshswift.net/post/-lmvcvku9byh7wiebs7n/</loc>
     <lastmod>2018-09-21T10:18:54+00:00</lastmod>
   </url>
   
@@ -1074,11 +1074,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/migration/</loc>
-    <lastmod>2018-08-19T11:39:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/obj-c/</loc>
     <lastmod>2018-08-19T11:39:07+00:00</lastmod>
   </url>
   
@@ -1498,11 +1493,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/evolution.-swift4.2/</loc>
-    <lastmod>2018-06-13T12:06:56+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-let1eq05are1esnlta_/</loc>
     <lastmod>2018-06-13T12:06:56+00:00</lastmod>
   </url>
@@ -1639,11 +1629,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-ld1rpyhxrwohtpotgmb/</loc>
-    <lastmod>2018-05-21T13:22:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/state-design-pattern/</loc>
     <lastmod>2018-05-21T13:22:34+00:00</lastmod>
   </url>
   
@@ -1888,7 +1873,7 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swift4.1/</loc>
+    <loc>https://freshswift.net/tags/swift-4.1/</loc>
     <lastmod>2018-04-08T09:47:04+00:00</lastmod>
   </url>
   
@@ -1933,7 +1918,7 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/machine_learning/</loc>
+    <loc>https://freshswift.net/tags/machine-learning/</loc>
     <lastmod>2018-04-03T06:46:14+00:00</lastmod>
   </url>
   
@@ -2168,11 +2153,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/objc/</loc>
-    <lastmod>2018-03-03T11:29:32+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-l5nfb03s4qr-67nl3j4/</loc>
     <lastmod>2018-02-20T14:44:58+00:00</lastmod>
   </url>
@@ -2283,7 +2263,7 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/tool/</loc>
+    <loc>https://freshswift.net/tags/tools/</loc>
     <lastmod>2018-01-16T10:40:02+00:00</lastmod>
   </url>
   
@@ -2328,11 +2308,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/tools/</loc>
-    <lastmod>2018-01-07T19:05:47+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-l20esphqsgpz5vl47hi/</loc>
     <lastmod>2018-01-04T14:53:43+00:00</lastmod>
   </url>
@@ -2350,11 +2325,6 @@
   <url>
     <loc>https://freshswift.net/post/-l1vl7fmc-hvwpbrj0ne/</loc>
     <lastmod>2018-01-03T09:27:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/erasure/</loc>
-    <lastmod>2018-01-02T15:11:26+00:00</lastmod>
   </url>
   
   <url>
@@ -2543,12 +2513,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/-kz89-ikg-s4jzxylpz9/</loc>
+    <loc>https://freshswift.net/tags/swift-4/</loc>
     <lastmod>2017-11-17T08:46:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swift4/</loc>
+    <loc>https://freshswift.net/post/-kz89-ikg-s4jzxylpz9/</loc>
     <lastmod>2017-11-17T08:46:03+00:00</lastmod>
   </url>
   
@@ -3110,11 +3080,6 @@
   <url>
     <loc>https://freshswift.net/post/-kq20tkq0hki-quqr3am/</loc>
     <lastmod>2017-07-27T07:51:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/animation-ios/</loc>
-    <lastmod>2017-07-26T07:42:47+00:00</lastmod>
   </url>
   
   <url>
