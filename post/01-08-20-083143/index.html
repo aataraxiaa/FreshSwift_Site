@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>swiftui</title>
-  <meta property="og:title" content="swiftui" />
-  <meta name="twitter:title" content="swiftui" />
+  <title>SwiftUI Hierarchy List</title>
+  <meta property="og:title" content="SwiftUI Hierarchy List" />
+  <meta name="twitter:title" content="SwiftUI Hierarchy List" />
+  <meta name="description" content="New in iOS 14 is the ability to easily create hierarchical lists using SwiftUI&#39;s List view type. Given a recursive data model that contains optional children of the same type as the parent, a List will display a tree-like structure with expandable rows. In this post, Federico Zanetello shows us how to implement our version of a hierarchical list, creating a custom type that is compatible with iOS 13. I like the approach Federico takes in his posts. Implementing our version of existing types and APIs is a great way of learning more about how the original versions work.">
+  <meta property="og:description" content="New in iOS 14 is the ability to easily create hierarchical lists using SwiftUI&#39;s List view type. Given a recursive data model that contains optional children of the same type as the parent, a List will display a tree-like structure with expandable rows. In this post, Federico Zanetello shows us how to implement our version of a hierarchical list, creating a custom type that is compatible with iOS 13. I like the approach Federico takes in his posts. Implementing our version of existing types and APIs is a great way of learning more about how the original versions work.">
+  <meta name="twitter:description" content="New in iOS 14 is the ability to easily create hierarchical lists using SwiftUI&#39;s List view type. Given a recursive data model that contains optional children of the same type as the parent, a List …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -15,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/tags/swiftui/" />
+  <meta property="og:url" content="https://freshswift.net/post/01-08-20-083143/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.3" />
-  <link rel="canonical" href="https://freshswift.net/tags/swiftui/" />
+  <link rel="canonical" href="https://freshswift.net/post/01-08-20-083143/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -96,14 +99,27 @@ if (!doNotTrack) {
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>#swiftui</h1>
-              <hr class="small">
+            <div class="post-heading">
+                
+                  
+                  
+                
             </div>
           </div>
         </div>
@@ -111,189 +127,70 @@ if (!doNotTrack) {
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article class="post-preview">
+        <a href="https://www.fivestars.blog/code/swiftui-hierarchy-list.html">
+
+          
+          
+
+            <h2 class="post-title">SwiftUI Hierarchy List</h2>
+
+            
+              <h3 class="post-subtitle">
+                New in iOS 14 is the ability to easily create hierarchical lists using SwiftUI&#39;s List view type. Given a recursive data model that contains optional children of the same type as the parent, a List will display a tree-like structure with expandable rows. In this post, Federico Zanetello shows us how to implement our version of a hierarchical list, creating a custom type that is compatible with iOS 13. I like the approach Federico takes in his posts. Implementing our version of existing types and APIs is a great way of learning more about how the original versions work.
+              </h3>
+            
+
+          
+
+        </a>
+
+        
+        
+          <p class="post-meta">
+            Posted on August 1, 2020
+          </p>
         
 
-        <div class="posts-list">
+        <div class="post-entry">
           
-            <article class="post-preview">
-              <a href="https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects">
-                <h2 class="post-title">How to use @ObservedObject to manage state from external objects</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    At this point, most of us are likely familiar with how observed objects can be used with SwiftUI to manage state. However, a quick refresh is often helpful, and this post from Paul Hudson provides exactly that.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on June 2, 2020
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/swiftui">swiftui</a>&nbsp;
-                  
-                    #<a href="/tags/property-wrapper">property wrapper</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/">
-                <h2 class="post-title">Getting the most out of Xcode Previews for SwiftUI</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    John Sundell shows us a number of techniques and abstractions to help us make the most of Xcode 11&#39;s Preview feature. As always, John provides lots of code snippets which we can immediately start using in our own code.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on June 1, 2020
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/ios">ios</a>&nbsp;
-                  
-                    #<a href="/tags/xcode">xcode</a>&nbsp;
-                  
-                    #<a href="/tags/swiftui">swiftui</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://swiftwithmajid.com/2019/11/27/combine-and-swiftui-views/">
-                <h2 class="post-title">Combine and SwiftUI views</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    In this post, Majid demonstrates how we can use SwiftUI&#39;s onReceive view modifier to react to values emitted from a Combine publisher. I really like the approach of wrapping the publisher creation and onReceive logic into a custom view modifier to make it reusable.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 31, 2020
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/ios">ios</a>&nbsp;
-                  
-                    #<a href="/tags/combine">combine</a>&nbsp;
-                  
-                    #<a href="/tags/swiftui">swiftui</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://swiftwithmajid.com/2020/05/13/template-view-pattern-in-swiftui/">
-                <h2 class="post-title">Template-view pattern in SwiftUI</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Continuing the SwiftUI theme, this post from Majid describes a technique which can be used to support dynamic type in stack views. I really like posts like this that demonstrate how a bit of creativity can go a long way to solving common UI issues.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 18, 2020
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/swiftui">swiftui</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://lostmoa.com/blog/ProgrammaticNavigationInSwiftUIListView/">
-                <h2 class="post-title">SwiftUI Navigation in List View: Programmatic Navigation</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    It&#39;s been a while, but I&#39;m planning to again focus some of my time on Swift. And with that...this is a nice idea to provide a solution to programmatic navigation in SwiftUI. Code samples included 🥳.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 16, 2020
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/swiftui">swiftui</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
+            
           
         </div>
 
         
-          <ul class="pager main-pager">
+          <span class="post-meta">
             
-              <li class="previous">
-                <a href="/tags/swiftui/page/5">&larr; Newer Posts</a>
-              </li>
+              #<a href="/tags/swiftui">swiftui</a>&nbsp;
             
+              #<a href="/tags/ios14">ios14</a>&nbsp;
             
-          </ul>
+          </span>
         
-      </div>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://freshswift.net/post/31-07-20-074228/" data-toggle="tooltip" data-placement="top" title="Entry Points in Swift: How @main and @UIApplicationMain work internally">&larr; Previous Post</a>
+          </li>
+        
+        
+      </ul>
+
+      
+        
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">
