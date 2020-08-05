@@ -4,15 +4,33 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>grid</title>
+      <link>https://freshswift.net/tags/grid/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ios14</title>
+      <link>https://freshswift.net/tags/ios14/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/ios14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>swiftui</title>
       <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/swiftui/</guid>
       <description></description>
@@ -42,15 +60,6 @@
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ios14</title>
-      <link>https://freshswift.net/tags/ios14/</link>
-      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/ios14/</guid>
       <description></description>
     </item>
     
@@ -177,15 +186,6 @@
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>grid</title>
-      <link>https://freshswift.net/tags/grid/</link>
-      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/grid/</guid>
       <description></description>
     </item>
     
