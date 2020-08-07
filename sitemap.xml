@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/dependency-injection/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/mapkit/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/07-08-20-082648/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/property-wrapper/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/mapkit/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,11 +154,6 @@
   
   <url>
     <loc>https://freshswift.net/post/28-07-20-074401/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/property-wrapper/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -3875,11 +3885,6 @@
   <url>
     <loc>https://freshswift.net/post/-kj8o-xxodgtfhj9o78i/</loc>
     <lastmod>2017-04-18T11:02:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/dependency-injection/</loc>
-    <lastmod>2017-04-17T08:19:18+00:00</lastmod>
   </url>
   
   <url>

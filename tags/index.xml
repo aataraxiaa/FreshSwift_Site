@@ -4,10 +4,37 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dependency injection</title>
+      <link>https://freshswift.net/tags/dependency-injection/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/dependency-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>property wrapper</title>
+      <link>https://freshswift.net/tags/property-wrapper/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/property-wrapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://freshswift.net/tags/swiftui/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swiftui/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>mapkit</title>
@@ -15,15 +42,6 @@
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/mapkit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
-      <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftui/</guid>
       <description></description>
     </item>
     
@@ -123,15 +141,6 @@
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>property wrapper</title>
-      <link>https://freshswift.net/tags/property-wrapper/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/property-wrapper/</guid>
       <description></description>
     </item>
     
@@ -2499,15 +2508,6 @@
       <pubDate>Tue, 18 Apr 2017 11:02:11 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/clean-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dependency injection</title>
-      <link>https://freshswift.net/tags/dependency-injection/</link>
-      <pubDate>Mon, 17 Apr 2017 08:19:18 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/dependency-injection/</guid>
       <description></description>
     </item>
     
