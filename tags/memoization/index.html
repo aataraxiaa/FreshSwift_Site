@@ -5,12 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Dependency Injection via Property Wrappers</title>
-  <meta property="og:title" content="Dependency Injection via Property Wrappers" />
-  <meta name="twitter:title" content="Dependency Injection via Property Wrappers" />
-  <meta name="description" content="Property Wrappers in Swift allow us to add a layer of separation between code that manages how a property is stored and the code that defines a property. It&#39;s a powerful feature with a lot of potential use cases. Dependency injection is a software engineering technique used to supply dependencies to an object or value type. In this post, Kilo Loco demonstrates how we can use Swift property wrappers to pass dependencies to a SwiftUI view. It&#39;s a cool idea.">
-  <meta property="og:description" content="Property Wrappers in Swift allow us to add a layer of separation between code that manages how a property is stored and the code that defines a property. It&#39;s a powerful feature with a lot of potential use cases. Dependency injection is a software engineering technique used to supply dependencies to an object or value type. In this post, Kilo Loco demonstrates how we can use Swift property wrappers to pass dependencies to a SwiftUI view. It&#39;s a cool idea.">
-  <meta name="twitter:description" content="Property Wrappers in Swift allow us to add a layer of separation between code that manages how a property is stored and the code that defines a property. It&#39;s a powerful feature with a lot of …">
+  <title>memoization</title>
+  <meta property="og:title" content="memoization" />
+  <meta name="twitter:title" content="memoization" />
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +15,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/07-08-20-082648/" />
+  <meta property="og:url" content="https://freshswift.net/tags/memoization/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.3" />
-  <link rel="canonical" href="https://freshswift.net/post/07-08-20-082648/" />
+  <link rel="canonical" href="https://freshswift.net/tags/memoization/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -99,27 +96,14 @@ if (!doNotTrack) {
 
 
     
-  
-  
-  
-
-
-
-
-  
-
   <header class="header-section ">
-    
     <div class="intro-header no-img">
-      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="post-heading">
-                
-                  
-                  
-                
+            <div class="page-heading">
+              <h1>#memoization</h1>
+              <hr class="small">
             </div>
           </div>
         </div>
@@ -127,76 +111,52 @@ if (!doNotTrack) {
     </div>
   </header>
 
-
     
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article class="post-preview">
-        <a href="https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/">
-
-          
-          
-
-            <h2 class="post-title">Dependency Injection via Property Wrappers</h2>
-
-            
-              <h3 class="post-subtitle">
-                Property Wrappers in Swift allow us to add a layer of separation between code that manages how a property is stored and the code that defines a property. It&#39;s a powerful feature with a lot of potential use cases. Dependency injection is a software engineering technique used to supply dependencies to an object or value type. In this post, Kilo Loco demonstrates how we can use Swift property wrappers to pass dependencies to a SwiftUI view. It&#39;s a cool idea.
-              </h3>
-            
-
-          
-
-        </a>
-
-        
-        
-          <p class="post-meta">
-            Posted on August 7, 2020
-          </p>
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
 
-        <div class="post-entry">
+        <div class="posts-list">
           
-            
+            <article class="post-preview">
+              <a href="https://forums.swift.org/t/memoization-of-swift-properties/38783">
+                <h2 class="post-title">Memoization of Swift properties</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Memoization is an optimization technique where the results of expensive computations (e.g function calls or computed properties) are stored, and these cached results are returned when the inputs to future computations are unchanged. In this Swift evolution pitch, Justin Reusch proposes adding keywords to Swift which tell the compiler when to synthesize boilerplate code to support the memoization of computed properties. I think this would be a good addition to the language.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on August 8, 2020
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/evolution">evolution</a>&nbsp;
+                  
+                    #<a href="/tags/memoization">memoization</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
         </div>
 
         
-          <span class="post-meta">
-            
-              #<a href="/tags/swiftui">swiftui</a>&nbsp;
-            
-              #<a href="/tags/property-wrapper">property wrapper</a>&nbsp;
-            
-              #<a href="/tags/dependency-injection">dependency injection</a>&nbsp;
-            
-          </span>
-        
-
-      </article>
-
-      <ul class="pager blog-pager">
-        
-          <li class="previous">
-            <a href="https://freshswift.net/post/06-08-20-075648/" data-toggle="tooltip" data-placement="top" title="Using MapKit with SwiftUI">&larr; Previous Post</a>
-          </li>
-        
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/08-08-20-083153/" data-toggle="tooltip" data-placement="top" title="Memoization of Swift properties">Next Post &rarr;</a>
-          </li>
-        
-      </ul>
-
-      
-        
-      
-
+      </div>
     </div>
   </div>
-</div>
 
     <footer>
   <div class="container">
