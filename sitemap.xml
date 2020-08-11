@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/11-08-20-071309/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/protocol/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swift-5/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/app/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/10-08-20-074736/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,17 +53,7 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -758,11 +773,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/protocol/</loc>
-    <lastmod>2019-01-04T16:47:06+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-lvokhdfo_r6s0fwa8tb/</loc>
     <lastmod>2019-01-04T16:47:06+00:00</lastmod>
   </url>
@@ -949,11 +959,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</loc>
-    <lastmod>2018-09-28T13:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swift5/</loc>
     <lastmod>2018-09-28T13:08:00+00:00</lastmod>
   </url>
   

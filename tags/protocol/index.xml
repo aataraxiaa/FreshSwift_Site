@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/protocol/</link>
     <description>Recent content in protocol on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 04 Jan 2019 16:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to declare Swift protocol for a specific class</title>
+      <link>https://freshswift.net/post/11-08-20-071309/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/11-08-20-071309/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reasoning about protocols</title>
