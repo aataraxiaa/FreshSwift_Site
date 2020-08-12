@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/closure/</link>
     <description>Recent content in closure on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/closure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adding a closure as a target to UIButton and other controls in Swift</title>
+      <link>https://freshswift.net/post/12-08-20-074536/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/12-08-20-074536/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forward scan matching for trailing closures</title>
