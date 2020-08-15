@@ -4,10 +4,19 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Concurrency] Add `async` to the Swift type system.</title>
+      <link>https://freshswift.net/post/15-08-20-083049/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/15-08-20-083049/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-Sizing UITableView Cells with SwiftUI</title>

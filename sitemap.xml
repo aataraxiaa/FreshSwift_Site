@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/15-08-20-083049/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/ios/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/asynchronous/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/coroutine/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/evolution/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/pull-request/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/ios/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -25,16 +55,6 @@
   <url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/evolution/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -993,11 +1013,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/asynchronous/</loc>
-    <lastmod>2018-09-25T13:45:36+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/swift-4.2/</loc>
     <lastmod>2018-09-21T10:18:54+00:00</lastmod>
   </url>
@@ -1310,11 +1325,6 @@
   <url>
     <loc>https://freshswift.net/post/-liyrcum86q6z0xeemp9/</loc>
     <lastmod>2018-08-03T08:19:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/async/</loc>
-    <lastmod>2018-08-02T16:35:10+00:00</lastmod>
   </url>
   
   <url>

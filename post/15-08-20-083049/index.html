@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>async</title>
-  <meta property="og:title" content="async" />
-  <meta name="twitter:title" content="async" />
+  <title>[Concurrency] Add `async` to the Swift type system.</title>
+  <meta property="og:title" content="[Concurrency] Add `async` to the Swift type system." />
+  <meta name="twitter:title" content="[Concurrency] Add `async` to the Swift type system." />
+  <meta name="description" content="Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.">
+  <meta property="og:description" content="Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.">
+  <meta name="twitter:description" content="Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -15,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/tags/async/" />
+  <meta property="og:url" content="https://freshswift.net/post/15-08-20-083049/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.3" />
-  <link rel="canonical" href="https://freshswift.net/tags/async/" />
+  <link rel="canonical" href="https://freshswift.net/post/15-08-20-083049/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -96,14 +99,27 @@ if (!doNotTrack) {
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>#async</h1>
-              <hr class="small">
+            <div class="post-heading">
+                
+                  
+                  
+                
             </div>
           </div>
         </div>
@@ -111,150 +127,74 @@ if (!doNotTrack) {
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article class="post-preview">
+        <a href="https://github.com/apple/swift/pull/33147">
+
+          
+          
+
+            <h2 class="post-title">[Concurrency] Add `async` to the Swift type system.</h2>
+
+            
+              <h3 class="post-subtitle">
+                Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.
+              </h3>
+            
+
+          
+
+        </a>
+
+        
+        
+          <p class="post-meta">
+            Posted on August 15, 2020
+          </p>
         
 
-        <div class="posts-list">
+        <div class="post-entry">
           
-            <article class="post-preview">
-              <a href="http://www.vadimbulavin.com/benchmarking-locking-apis/">
-                <h2 class="post-title">Benchmarking Swift Locking APIs</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    This is a really interesting post from Vadim Bulavin in which he benchmarks Swift locking APIs. While the results are not entirely surprising, I was surprised by how bad one particular API performed.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on August 2, 2018
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/benchmark">benchmark</a>&nbsp;
-                  
-                    #<a href="/tags/locking">locking</a>&nbsp;
-                  
-                    #<a href="/tags/async">async</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://www.swiftbysundell.com/posts/using-tokens-to-handle-async-swift-code">
-                <h2 class="post-title">Using tokens to handle async Swift code</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    John Sundell shows us how we can use request tokens to improve our asynchronous APIs. As John points out, most codebases will include some sort of asynchronous method calls, and having the ability to cancel such calls can be useful. Using request tokens is one way we can provide such an ability.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on November 7, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/async">async</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://agostini.tech/2017/08/20/dispatchgroup-vs-operationqueue-in-swift">
-                <h2 class="post-title">DispatchGroup vs. OperationQueue in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Dejan Agostini covers both DispatchGroups and OperationQueues as he demonstrates how to perform numerous asynchronous tasks and be notified when they all finish.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on September 30, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/async">async</a>&nbsp;
-                  
-                    #<a href="/tags/queue">queue</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://www.figure.ink/blog/2017/9/4/expressive-coroutines">
-                <h2 class="post-title">Why Coroutines</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Coroutines are a general form of subroutine (function) that don’t follow normal subroutine rules. Coroutines can exit (return) whenever they call other coroutines, and can pick up where they left off when called again. In this post, Joshua Emmons explains why coroutines are becoming extremely relevant in Swift, particularly so when we consider the async/await proposal being discussed in Swift evolution. This is a great explanation for anyone unsure of what a coroutine is and how they might be used in Swift.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on September 21, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/coroutines">coroutines</a>&nbsp;
-                  
-                    #<a href="/tags/async">async</a>&nbsp;
-                  
-                    #<a href="/tags/await">await</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
+            
           
         </div>
 
         
-      </div>
+          <span class="post-meta">
+            
+              #<a href="/tags/evolution">evolution</a>&nbsp;
+            
+              #<a href="/tags/pull-request">pull request</a>&nbsp;
+            
+              #<a href="/tags/coroutine">coroutine</a>&nbsp;
+            
+              #<a href="/tags/asynchronous">asynchronous</a>&nbsp;
+            
+          </span>
+        
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://freshswift.net/post/14-08-20-072303/" data-toggle="tooltip" data-placement="top" title="Self-Sizing UITableView Cells with SwiftUI">&larr; Previous Post</a>
+          </li>
+        
+        
+      </ul>
+
+      
+        
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">

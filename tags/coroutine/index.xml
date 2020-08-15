@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coroutine on Fresh Swift</title>
+    <link>https://freshswift.net/tags/coroutine/</link>
+    <description>Recent content in coroutine on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/coroutine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Concurrency] Add `async` to the Swift type system.</title>
+      <link>https://freshswift.net/post/15-08-20-083049/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/15-08-20-083049/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
