@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>[Concurrency] Add `async` to the Swift type system.</title>
-  <meta property="og:title" content="[Concurrency] Add `async` to the Swift type system." />
-  <meta name="twitter:title" content="[Concurrency] Add `async` to the Swift type system." />
-  <meta name="description" content="Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.">
-  <meta property="og:description" content="Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.">
-  <meta name="twitter:description" content="Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly …">
+  <title>Swift types with @AppStorage and @SceneStorage</title>
+  <meta property="og:title" content="Swift types with @AppStorage and @SceneStorage" />
+  <meta name="twitter:title" content="Swift types with @AppStorage and @SceneStorage" />
+  <meta name="description" content="Introduced this year, AppStorage is a SwiftUI property wrapper that reflects a value from UserDefaults which allows for easy storage and observation of app data. Similarly, SceneStorage is a property wrapper that reads and writes to persisted, per-scene storage. They are both super useful, but as they are backed by plists, they are limited in the types of data they support. In this post, Federico Zanetello shows us how we can extend the Published SwiftUI property wrapper to provide similar storage functionality for Codable types.">
+  <meta property="og:description" content="Introduced this year, AppStorage is a SwiftUI property wrapper that reflects a value from UserDefaults which allows for easy storage and observation of app data. Similarly, SceneStorage is a property wrapper that reads and writes to persisted, per-scene storage. They are both super useful, but as they are backed by plists, they are limited in the types of data they support. In this post, Federico Zanetello shows us how we can extend the Published SwiftUI property wrapper to provide similar storage functionality for Codable types.">
+  <meta name="twitter:description" content="Introduced this year, AppStorage is a SwiftUI property wrapper that reflects a value from UserDefaults which allows for easy storage and observation of app data. Similarly, SceneStorage is a property …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/15-08-20-083049/" />
+  <meta property="og:url" content="https://freshswift.net/post/16-08-20-082312/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.3" />
-  <link rel="canonical" href="https://freshswift.net/post/15-08-20-083049/" />
+  <link rel="canonical" href="https://freshswift.net/post/16-08-20-082312/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://github.com/apple/swift/pull/33147">
+        <a href="https://www.fivestars.blog/swiftui/app-scene-storage.html">
 
           
           
 
-            <h2 class="post-title">[Concurrency] Add `async` to the Swift type system.</h2>
+            <h2 class="post-title">Swift types with @AppStorage and @SceneStorage</h2>
 
             
               <h3 class="post-subtitle">
-                Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.
+                Introduced this year, AppStorage is a SwiftUI property wrapper that reflects a value from UserDefaults which allows for easy storage and observation of app data. Similarly, SceneStorage is a property wrapper that reads and writes to persisted, per-scene storage. They are both super useful, but as they are backed by plists, they are limited in the types of data they support. In this post, Federico Zanetello shows us how we can extend the Published SwiftUI property wrapper to provide similar storage functionality for Codable types.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on August 15, 2020
+            Posted on August 16, 2020
           </p>
         
 
@@ -166,13 +166,9 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/evolution">evolution</a>&nbsp;
+              #<a href="/tags/swiftui">swiftui</a>&nbsp;
             
-              #<a href="/tags/pull-request">pull request</a>&nbsp;
-            
-              #<a href="/tags/coroutine">coroutine</a>&nbsp;
-            
-              #<a href="/tags/asynchronous">asynchronous</a>&nbsp;
+              #<a href="/tags/property-wrapper">property wrapper</a>&nbsp;
             
           </span>
         
@@ -182,13 +178,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/14-08-20-072303/" data-toggle="tooltip" data-placement="top" title="Self-Sizing UITableView Cells with SwiftUI">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/15-08-20-083049/" data-toggle="tooltip" data-placement="top" title="[Concurrency] Add `async` to the Swift type system.">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/16-08-20-082312/" data-toggle="tooltip" data-placement="top" title="Swift types with @AppStorage and @SceneStorage">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
