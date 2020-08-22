@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>iOS</title>
+      <link>https://freshswift.net/tags/ios/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://freshswift.net/tags/network/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/network/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>lifecycle</title>
@@ -42,15 +60,6 @@
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/layout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>https://freshswift.net/tags/ios/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/ios/</guid>
       <description></description>
     </item>
     
@@ -1752,15 +1761,6 @@
       <pubDate>Thu, 14 Dec 2017 11:37:27 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/date/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network</title>
-      <link>https://freshswift.net/tags/network/</link>
-      <pubDate>Mon, 11 Dec 2017 14:22:11 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/network/</guid>
       <description></description>
     </item>
     
