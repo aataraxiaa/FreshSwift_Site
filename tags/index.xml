@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>optional</title>
+      <link>https://freshswift.net/tags/optional/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/optional/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>iOS</title>
@@ -1347,15 +1356,6 @@
       <pubDate>Mon, 14 May 2018 11:09:31 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/leak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optional</title>
-      <link>https://freshswift.net/tags/optional/</link>
-      <pubDate>Tue, 08 May 2018 11:48:45 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/optional/</guid>
       <description></description>
     </item>
     
