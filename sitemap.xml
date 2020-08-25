@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/post/25-08-20-074510/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/debugging/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swift-5.3/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/bitwise/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/optionset/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,16 +84,6 @@
   
   <url>
     <loc>https://freshswift.net/post/21-08-20-084336/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swift-5.3/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -2488,11 +2498,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/debug/</loc>
-    <lastmod>2018-01-03T09:27:10+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-l1vl7fmc-hvwpbrj0ne/</loc>
     <lastmod>2018-01-03T09:27:10+00:00</lastmod>
   </url>
@@ -3750,11 +3755,6 @@
   <url>
     <loc>https://freshswift.net/post/-kk-wsxgkjzmmrfgfxmv/</loc>
     <lastmod>2017-05-13T08:36:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/debugging/</loc>
-    <lastmod>2017-05-12T07:29:42+00:00</lastmod>
   </url>
   
   <url>
