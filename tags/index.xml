@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>swiftpm</title>
+      <link>https://freshswift.net/tags/swiftpm/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swiftpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://freshswift.net/tags/tools/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/tools/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>debugging</title>
@@ -159,15 +177,6 @@
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/pull-request/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftpm</title>
-      <link>https://freshswift.net/tags/swiftpm/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftpm/</guid>
       <description></description>
     </item>
     
@@ -1716,15 +1725,6 @@
       <pubDate>Sat, 27 Jan 2018 12:09:18 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/beta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>https://freshswift.net/tags/tools/</link>
-      <pubDate>Tue, 16 Jan 2018 10:40:02 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/tools/</guid>
       <description></description>
     </item>
     
