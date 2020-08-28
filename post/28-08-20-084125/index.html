@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Flexible layouts in SwiftUI</title>
-  <meta property="og:title" content="Flexible layouts in SwiftUI" />
-  <meta name="twitter:title" content="Flexible layouts in SwiftUI" />
-  <meta name="description" content="This year SwiftUI gained two new container view types - LazyVGrid and LazyHGrid - which provide grid-style layouts with a reasonable amount of flexibility. In this post, Federico Zanetello shows us how we can build a custom grid-style view, aiming to provide an even more powerful API than is available in these native SwiftUI types.">
-  <meta property="og:description" content="This year SwiftUI gained two new container view types - LazyVGrid and LazyHGrid - which provide grid-style layouts with a reasonable amount of flexibility. In this post, Federico Zanetello shows us how we can build a custom grid-style view, aiming to provide an even more powerful API than is available in these native SwiftUI types.">
-  <meta name="twitter:description" content="This year SwiftUI gained two new container view types - LazyVGrid and LazyHGrid - which provide grid-style layouts with a reasonable amount of flexibility. In this post, Federico Zanetello shows us …">
+  <title>Managing scenes in SwiftUI</title>
+  <meta property="og:title" content="Managing scenes in SwiftUI" />
+  <meta name="twitter:title" content="Managing scenes in SwiftUI" />
+  <meta name="description" content="On Apple platforms, a scene represents a part of an app&#39;s user interface, with a life cycle managed by the system. A single app may consist of multiple scenes, all of which can be running concurrently. With SwiftUI, we can use primitive scenes it provides, such as WindowGroup, together with custom scenes we create based on the Scene protocol. In this post, Majid Jabrayilov shows us how we can create custom scenes in SwiftUI, and how we can respond to app life cycle events.">
+  <meta property="og:description" content="On Apple platforms, a scene represents a part of an app&#39;s user interface, with a life cycle managed by the system. A single app may consist of multiple scenes, all of which can be running concurrently. With SwiftUI, we can use primitive scenes it provides, such as WindowGroup, together with custom scenes we create based on the Scene protocol. In this post, Majid Jabrayilov shows us how we can create custom scenes in SwiftUI, and how we can respond to app life cycle events.">
+  <meta name="twitter:description" content="On Apple platforms, a scene represents a part of an app&#39;s user interface, with a life cycle managed by the system. A single app may consist of multiple scenes, all of which can be running …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/27-08-20-074337/" />
+  <meta property="og:url" content="https://freshswift.net/post/28-08-20-084125/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.3" />
-  <link rel="canonical" href="https://freshswift.net/post/27-08-20-074337/" />
+  <link rel="canonical" href="https://freshswift.net/post/28-08-20-084125/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://fivestars.blog/swiftui/flexible-swiftui.html">
+        <a href="https://swiftwithmajid.com/2020/08/26/managing-scenes-in-swiftui/">
 
           
           
 
-            <h2 class="post-title">Flexible layouts in SwiftUI</h2>
+            <h2 class="post-title">Managing scenes in SwiftUI</h2>
 
             
               <h3 class="post-subtitle">
-                This year SwiftUI gained two new container view types - LazyVGrid and LazyHGrid - which provide grid-style layouts with a reasonable amount of flexibility. In this post, Federico Zanetello shows us how we can build a custom grid-style view, aiming to provide an even more powerful API than is available in these native SwiftUI types.
+                On Apple platforms, a scene represents a part of an app&#39;s user interface, with a life cycle managed by the system. A single app may consist of multiple scenes, all of which can be running concurrently. With SwiftUI, we can use primitive scenes it provides, such as WindowGroup, together with custom scenes we create based on the Scene protocol. In this post, Majid Jabrayilov shows us how we can create custom scenes in SwiftUI, and how we can respond to app life cycle events.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on August 27, 2020
+            Posted on August 28, 2020
           </p>
         
 
@@ -168,7 +168,7 @@ if (!doNotTrack) {
             
               #<a href="/tags/swiftui">swiftui</a>&nbsp;
             
-              #<a href="/tags/grid">grid</a>&nbsp;
+              #<a href="/tags/lifecycle">lifecycle</a>&nbsp;
             
           </span>
         
@@ -178,13 +178,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/26-08-20-082343/" data-toggle="tooltip" data-placement="top" title="Launching Language and Platform Package Compatibility">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/27-08-20-074337/" data-toggle="tooltip" data-placement="top" title="Flexible layouts in SwiftUI">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/28-08-20-084125/" data-toggle="tooltip" data-placement="top" title="Managing scenes in SwiftUI">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
