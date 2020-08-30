@@ -4,10 +4,19 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Extend implicit member syntax to cover chains of member references</title>
+      <link>https://freshswift.net/post/30-08-20-083559/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/30-08-20-083559/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How to Get Users’ Swipe Direction in SwiftUI</title>
