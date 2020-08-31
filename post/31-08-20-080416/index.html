@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Extend implicit member syntax to cover chains of member references</title>
-  <meta property="og:title" content="Extend implicit member syntax to cover chains of member references" />
-  <meta name="twitter:title" content="Extend implicit member syntax to cover chains of member references" />
-  <meta name="description" content="This Swift evolution proposal suggests an expansion of implicit member syntax to more complex expressions than just a single static member or function. What this means is that when the type of an expression is implied by the context, developers would be able to use leading dot syntax, even when the expression consists of chains of member references. This is a very logical language evolution in my opinion.">
-  <meta property="og:description" content="This Swift evolution proposal suggests an expansion of implicit member syntax to more complex expressions than just a single static member or function. What this means is that when the type of an expression is implied by the context, developers would be able to use leading dot syntax, even when the expression consists of chains of member references. This is a very logical language evolution in my opinion.">
-  <meta name="twitter:description" content="This Swift evolution proposal suggests an expansion of implicit member syntax to more complex expressions than just a single static member or function. What this means is that when the type of an …">
+  <title>SwiftUI betas - what changed before 1.0</title>
+  <meta property="og:title" content="SwiftUI betas - what changed before 1.0" />
+  <meta name="twitter:title" content="SwiftUI betas - what changed before 1.0" />
+  <meta name="description" content="SwiftUI continues to evolve, with lots of regular changes to the original APIs that were debuted at WWDC 2019. In this post, Kuba Suder presents a list of all the API changes that took place between the original beta from June 2019 and the final version from September of that year. This is especially useful if you are trying to recreate examples from WWDC 2019 videos, but are wondering why the code won&#39;t compile.">
+  <meta property="og:description" content="SwiftUI continues to evolve, with lots of regular changes to the original APIs that were debuted at WWDC 2019. In this post, Kuba Suder presents a list of all the API changes that took place between the original beta from June 2019 and the final version from September of that year. This is especially useful if you are trying to recreate examples from WWDC 2019 videos, but are wondering why the code won&#39;t compile.">
+  <meta name="twitter:description" content="SwiftUI continues to evolve, with lots of regular changes to the original APIs that were debuted at WWDC 2019. In this post, Kuba Suder presents a list of all the API changes that took place between …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/30-08-20-083559/" />
+  <meta property="og:url" content="https://freshswift.net/post/31-08-20-080416/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.3" />
-  <link rel="canonical" href="https://freshswift.net/post/30-08-20-083559/" />
+  <link rel="canonical" href="https://freshswift.net/post/31-08-20-080416/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://github.com/apple/swift-evolution/blob/master/proposals/0287-implicit-member-chains.md">
+        <a href="https://mackuba.eu/2020/08/17/swiftui-beta/">
 
           
           
 
-            <h2 class="post-title">Extend implicit member syntax to cover chains of member references</h2>
+            <h2 class="post-title">SwiftUI betas - what changed before 1.0</h2>
 
             
               <h3 class="post-subtitle">
-                This Swift evolution proposal suggests an expansion of implicit member syntax to more complex expressions than just a single static member or function. What this means is that when the type of an expression is implied by the context, developers would be able to use leading dot syntax, even when the expression consists of chains of member references. This is a very logical language evolution in my opinion.
+                SwiftUI continues to evolve, with lots of regular changes to the original APIs that were debuted at WWDC 2019. In this post, Kuba Suder presents a list of all the API changes that took place between the original beta from June 2019 and the final version from September of that year. This is especially useful if you are trying to recreate examples from WWDC 2019 videos, but are wondering why the code won&#39;t compile.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on August 30, 2020
+            Posted on August 31, 2020
           </p>
         
 
@@ -166,7 +166,7 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/evolution">evolution</a>&nbsp;
+              #<a href="/tags/swiftui">swiftui</a>&nbsp;
             
           </span>
         
@@ -176,13 +176,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/29-08-20-074258/" data-toggle="tooltip" data-placement="top" title="How to Get Users’ Swipe Direction in SwiftUI">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/30-08-20-083559/" data-toggle="tooltip" data-placement="top" title="Extend implicit member syntax to cover chains of member references">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/31-08-20-080416/" data-toggle="tooltip" data-placement="top" title="SwiftUI betas - what changed before 1.0">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
