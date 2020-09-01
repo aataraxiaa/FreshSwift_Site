@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/tags/combine/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/reactive/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/31-08-20-080416/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/01-09-20-084826/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/31-08-20-080416/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -380,11 +395,6 @@
   <url>
     <loc>https://freshswift.net/post/28-07-20-074401/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/combine/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1979,11 +1989,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/binding/</loc>
-    <lastmod>2018-04-26T12:33:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/reactive/</loc>
     <lastmod>2018-04-26T12:33:18+00:00</lastmod>
   </url>
   

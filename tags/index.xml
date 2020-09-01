@@ -4,15 +4,33 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>combine</title>
+      <link>https://freshswift.net/tags/combine/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/combine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reactive</title>
+      <link>https://freshswift.net/tags/reactive/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/reactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>swiftui</title>
       <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/swiftui/</guid>
       <description></description>
@@ -312,15 +330,6 @@
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>combine</title>
-      <link>https://freshswift.net/tags/combine/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/combine/</guid>
       <description></description>
     </item>
     
@@ -1437,15 +1446,6 @@
       <pubDate>Thu, 26 Apr 2018 12:33:18 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/binding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reactive</title>
-      <link>https://freshswift.net/tags/reactive/</link>
-      <pubDate>Thu, 26 Apr 2018 12:33:18 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/reactive/</guid>
       <description></description>
     </item>
     

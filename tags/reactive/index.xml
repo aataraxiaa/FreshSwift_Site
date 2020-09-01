@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/reactive/</link>
     <description>Recent content in reactive on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 26 Apr 2018 12:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/reactive/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SwiftUI &#43; Combine = ❤️</title>
+      <link>https://freshswift.net/post/01-09-20-084826/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/01-09-20-084826/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swift Tip: Bindings with KVO and Key Paths</title>
