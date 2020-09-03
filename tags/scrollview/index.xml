@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/scrollview/</link>
     <description>Recent content in scrollview on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/scrollview/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SwiftUI ScrollView offset</title>
+      <link>https://freshswift.net/post/03-09-20-082236/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/03-09-20-082236/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture</title>
