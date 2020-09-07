@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>micro-interaction on Fresh Swift</title>
+    <link>https://freshswift.net/tags/micro-interaction/</link>
+    <description>Recent content in micro-interaction on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/micro-interaction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Micro-interactions: Alignment Control</title>
+      <link>https://freshswift.net/post/07-09-20-080234/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/07-09-20-080234/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
