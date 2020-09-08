@@ -4,10 +4,37 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>codable</title>
+      <link>https://freshswift.net/tags/codable/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/codable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ios14</title>
+      <link>https://freshswift.net/tags/ios14/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/ios14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://freshswift.net/tags/swiftui/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swiftui/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>micro-interaction</title>
@@ -15,24 +42,6 @@
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/micro-interaction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
-      <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ios14</title>
-      <link>https://freshswift.net/tags/ios14/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/ios14/</guid>
       <description></description>
     </item>
     
@@ -555,15 +564,6 @@
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/design-pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>codable</title>
-      <link>https://freshswift.net/tags/codable/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/codable/</guid>
       <description></description>
     </item>
     
