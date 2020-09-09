@@ -136,6 +136,36 @@ if (!doNotTrack) {
         <div class="posts-list">
           
             <article class="post-preview">
+              <a href="https://www.jessesquires.com/blog/2020/07/16/swift-globals-and-static-members-are-atomic-and-lazily-computed/">
+                <h2 class="post-title">Swift globals and static members are atomic and lazily computed</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    A lazy stored property in Swift is a property whose initial value is not calculated until the first time it used. This is useful as it allows us to delay the initialization of a property that requires a computationally expensive setup until that property is actually needed. In this post, Jesse Squires reminds us that Swift globals and static members are also lazily initialized, and he explains how the concept of atomicity is distinct from the concept of thread-safety.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on July 26, 2020
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/concurrency">concurrency</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+            <article class="post-preview">
               <a href="https://www.swiftbysundell.com/articles/opaque-return-types-in-swift/">
                 <h2 class="post-title">Opaque return types in Swift</h2>
 
@@ -423,36 +453,6 @@ if (!doNotTrack) {
                     #<a href="/tags/lifecycle">lifecycle</a>&nbsp;
                   
                     #<a href="/tags/open-source">open-source</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://forums.swift.org/t/invert-guard-let-scoping/38401">
-                <h2 class="post-title">Invert guard let scoping</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    In this Swift evolution pitch, Danny Sung proposes the introduction of an inverted scope guard let pattern. Danny explains that this would solve the problem of guarding against a condition, while also making an optional value associated with the condition available inside the body of the guard statement. Although I understand the problem, I am not sure if adding negated versions of such keywords is the right solution.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on July 18, 2020
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/evolution">evolution</a>&nbsp;
                   
                 </span>
               

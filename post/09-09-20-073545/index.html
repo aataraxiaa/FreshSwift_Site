@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Posts</title>
-  <meta property="og:title" content="Posts" />
-  <meta name="twitter:title" content="Posts" />
+  <title>Displaying recursive data using OutlineGroup in SwiftUI</title>
+  <meta property="og:title" content="Displaying recursive data using OutlineGroup in SwiftUI" />
+  <meta name="twitter:title" content="Displaying recursive data using OutlineGroup in SwiftUI" />
+  <meta name="description" content="OutlineGroup is a SwiftUI structure that computes views on demand from an underlying collection of tree-structured data. In this post, Majid Jabrayilov shows us how to use OutlineGroup, as well as demonstrating how it can be used with SwiftUI&#39;s List type to display styled lists of tree-structured data.">
+  <meta property="og:description" content="OutlineGroup is a SwiftUI structure that computes views on demand from an underlying collection of tree-structured data. In this post, Majid Jabrayilov shows us how to use OutlineGroup, as well as demonstrating how it can be used with SwiftUI&#39;s List type to display styled lists of tree-structured data.">
+  <meta name="twitter:description" content="OutlineGroup is a SwiftUI structure that computes views on demand from an underlying collection of tree-structured data. In this post, Majid Jabrayilov shows us how to use OutlineGroup, as well as …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -15,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/" />
+  <meta property="og:url" content="https://freshswift.net/post/09-09-20-073545/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.3" />
-  <link rel="canonical" href="https://freshswift.net/post/" />
+  <link rel="canonical" href="https://freshswift.net/post/09-09-20-073545/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -96,14 +99,27 @@ if (!doNotTrack) {
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>Posts</h1>
-              <hr class="small">
+            <div class="post-heading">
+                
+                  
+                  
+                
             </div>
           </div>
         </div>
@@ -111,155 +127,68 @@ if (!doNotTrack) {
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article class="post-preview">
+        <a href="https://swiftwithmajid.com/2020/09/02/displaying-recursive-data-using-outlinegroup-in-swiftui/">
+
+          
+          
+
+            <h2 class="post-title">Displaying recursive data using OutlineGroup in SwiftUI</h2>
+
+            
+              <h3 class="post-subtitle">
+                OutlineGroup is a SwiftUI structure that computes views on demand from an underlying collection of tree-structured data. In this post, Majid Jabrayilov shows us how to use OutlineGroup, as well as demonstrating how it can be used with SwiftUI&#39;s List type to display styled lists of tree-structured data.
+              </h3>
+            
+
+          
+
+        </a>
+
+        
+        
+          <p class="post-meta">
+            Posted on September 9, 2020
+          </p>
         
 
-        <div class="posts-list">
+        <div class="post-entry">
           
-            <article class="post-preview">
-              <a href="https://github.com/efremidze/Haptica">
-                <h2 class="post-title">Haptica - Haptic Feedback Generator</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Lasha Efremidze created a useful Swift library which wraps the iOS haptic feedback generator APIs. I really like how simple yet clean the API is.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 19, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                    #<a href="/tags/library">library</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://marcosantadev.com/solid-principles-applied-swift">
-                <h2 class="post-title">SOLID principles applied to Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Marco Santarossa presents some easy to understand Swift code examples based around using SOLID principles to to avoid code fragility, immobility and rigidity.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 18, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/clean-code">clean code</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection">
-                <h2 class="post-title">Dependency injection via protocol composition</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Krzysztof Zablocki with a nice approach to dependency injection based on protocol composition. Avoid constantly refactoring code callsites while keeping your code testable.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 17, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/protocol">protocol</a>&nbsp;
-                  
-                    #<a href="/tags/dependency-injection">dependency injection</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://ijoshsmith.com/2017/04/08/reflectable-enums-in-swift-3/">
-                <h2 class="post-title">Reflectable Enums</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on April 17, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/reflection">reflection</a>&nbsp;
-                  
-                    #<a href="/tags/enums">enums</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
+            
           
         </div>
 
         
-          <ul class="pager main-pager">
+          <span class="post-meta">
             
-              <li class="previous">
-                <a href="/post/page/53">&larr; Newer Posts</a>
-              </li>
+              #<a href="/tags/swiftui">swiftui</a>&nbsp;
             
-            
-          </ul>
+          </span>
         
-      </div>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://freshswift.net/post/08-09-20-075830/" data-toggle="tooltip" data-placement="top" title="Save Custom Codable Types in AppStorage or SceneStorage">&larr; Previous Post</a>
+          </li>
+        
+        
+      </ul>
+
+      
+        
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">

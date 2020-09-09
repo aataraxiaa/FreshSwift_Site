@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Displaying recursive data using OutlineGroup in SwiftUI</title>
+      <link>https://freshswift.net/post/09-09-20-073545/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/09-09-20-073545/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Save Custom Codable Types in AppStorage or SceneStorage</title>
