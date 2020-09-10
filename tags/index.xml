@@ -4,15 +4,24 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>animation</title>
+      <link>https://freshswift.net/tags/animation/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>swiftui</title>
       <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/swiftui/</guid>
       <description></description>
@@ -519,15 +528,6 @@
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>animation</title>
-      <link>https://freshswift.net/tags/animation/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/animation/</guid>
       <description></description>
     </item>
     
