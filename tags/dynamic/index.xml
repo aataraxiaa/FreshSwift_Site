@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/dynamic/</link>
     <description>Recent content in dynamic on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Nov 2018 16:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/dynamic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Private APIs, Objective-C runtime, and Swift</title>
+      <link>https://freshswift.net/post/11-09-20-073952/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/11-09-20-073952/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The power of key paths in Swift</title>

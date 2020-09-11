@@ -4,10 +4,37 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dynamic</title>
+      <link>https://freshswift.net/tags/dynamic/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>objective-c</title>
+      <link>https://freshswift.net/tags/objective-c/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/objective-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>runtime</title>
+      <link>https://freshswift.net/tags/runtime/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/runtime/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>animation</title>
@@ -703,15 +730,6 @@
     </item>
     
     <item>
-      <title>dynamic</title>
-      <link>https://freshswift.net/tags/dynamic/</link>
-      <pubDate>Sun, 04 Nov 2018 16:00:53 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/dynamic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>library</title>
       <link>https://freshswift.net/tags/library/</link>
       <pubDate>Fri, 26 Oct 2018 15:40:34 +0000</pubDate>
@@ -771,15 +789,6 @@
       <pubDate>Fri, 05 Oct 2018 10:49:44 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/hashable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>objective-c</title>
-      <link>https://freshswift.net/tags/objective-c/</link>
-      <pubDate>Thu, 04 Oct 2018 16:33:32 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/objective-c/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>withAnimation completion callback with animatable modifiers</title>
-  <meta property="og:title" content="withAnimation completion callback with animatable modifiers" />
-  <meta name="twitter:title" content="withAnimation completion callback with animatable modifiers" />
-  <meta name="description" content="SwiftUI provides excellent support for animations, enabling us to implement simple animations using its withAnimation view modifier. In this post, Antoine Van Der Lee shows us how to create a custom animatable modifier which triggers a completion callback once the animation completes.">
-  <meta property="og:description" content="SwiftUI provides excellent support for animations, enabling us to implement simple animations using its withAnimation view modifier. In this post, Antoine Van Der Lee shows us how to create a custom animatable modifier which triggers a completion callback once the animation completes.">
-  <meta name="twitter:description" content="SwiftUI provides excellent support for animations, enabling us to implement simple animations using its withAnimation view modifier. In this post, Antoine Van Der Lee shows us how to create a custom …">
+  <title>runtime</title>
+  <meta property="og:title" content="runtime" />
+  <meta name="twitter:title" content="runtime" />
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +15,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/10-09-20-075336/" />
+  <meta property="og:url" content="https://freshswift.net/tags/runtime/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.74.3" />
-  <link rel="canonical" href="https://freshswift.net/post/10-09-20-075336/" />
+  <link rel="canonical" href="https://freshswift.net/tags/runtime/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -99,27 +96,14 @@ if (!doNotTrack) {
 
 
     
-  
-  
-  
-
-
-
-
-  
-
   <header class="header-section ">
-    
     <div class="intro-header no-img">
-      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="post-heading">
-                
-                  
-                  
-                
+            <div class="page-heading">
+              <h1>#runtime</h1>
+              <hr class="small">
             </div>
           </div>
         </div>
@@ -127,74 +111,54 @@ if (!doNotTrack) {
     </div>
   </header>
 
-
     
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article class="post-preview">
-        <a href="https://www.avanderlee.com/swiftui/withanimation-completion-callback/">
-
-          
-          
-
-            <h2 class="post-title">withAnimation completion callback with animatable modifiers</h2>
-
-            
-              <h3 class="post-subtitle">
-                SwiftUI provides excellent support for animations, enabling us to implement simple animations using its withAnimation view modifier. In this post, Antoine Van Der Lee shows us how to create a custom animatable modifier which triggers a completion callback once the animation completes.
-              </h3>
-            
-
-          
-
-        </a>
-
-        
-        
-          <p class="post-meta">
-            Posted on September 10, 2020
-          </p>
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
 
-        <div class="post-entry">
+        <div class="posts-list">
           
-            
+            <article class="post-preview">
+              <a href="https://medium.com/@victor.pavlychko/private-apis-objective-c-runtime-and-swift-ceaeefbb6e48">
+                <h2 class="post-title">Private APIs, Objective-C runtime, and Swift</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Objective-C and Swift can be used together, and it&#39;s still very common for apps and projects to contain a mix of both. Calling public Objective-C APIs from Swift usually just involves exposing the APIs via a bridging header. However, calling private, or Swift-unavailable, Objective-C APIs from our Swift code is also possible, thanks to Objective-C&#39;s dynamic nature. In this post, Victor Pavlychko focuses on accessing such APIs using the Objective-C runtime.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on September 11, 2020
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/objective-c">objective-c</a>&nbsp;
+                  
+                    #<a href="/tags/dynamic">dynamic</a>&nbsp;
+                  
+                    #<a href="/tags/runtime">runtime</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
         </div>
 
         
-          <span class="post-meta">
-            
-              #<a href="/tags/swiftui">swiftui</a>&nbsp;
-            
-              #<a href="/tags/animation">animation</a>&nbsp;
-            
-          </span>
-        
-
-      </article>
-
-      <ul class="pager blog-pager">
-        
-          <li class="previous">
-            <a href="https://freshswift.net/post/09-09-20-073545/" data-toggle="tooltip" data-placement="top" title="Displaying recursive data using OutlineGroup in SwiftUI">&larr; Previous Post</a>
-          </li>
-        
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/11-09-20-073952/" data-toggle="tooltip" data-placement="top" title="Private APIs, Objective-C runtime, and Swift">Next Post &rarr;</a>
-          </li>
-        
-      </ul>
-
-      
-        
-      
-
+      </div>
     </div>
   </div>
-</div>
 
     <footer>
   <div class="container">

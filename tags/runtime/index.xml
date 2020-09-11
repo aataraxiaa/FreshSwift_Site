@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>runtime on Fresh Swift</title>
+    <link>https://freshswift.net/tags/runtime/</link>
+    <description>Recent content in runtime on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/runtime/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Private APIs, Objective-C runtime, and Swift</title>
+      <link>https://freshswift.net/post/11-09-20-073952/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/11-09-20-073952/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
