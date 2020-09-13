@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/evolution/</link>
     <description>Recent content in evolution on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Support Negative Availability Literals</title>
+      <link>https://freshswift.net/post/13-09-20-072845/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/13-09-20-072845/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Typed throws</title>
