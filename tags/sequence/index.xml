@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/sequence/</link>
     <description>Recent content in sequence on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/sequence/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Standard library behavior change for LazyMapCollection prefix to act as a Sequence</title>
+      <link>https://freshswift.net/post/16-09-20-073734/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/16-09-20-073734/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swiftʼs Collection Types</title>
