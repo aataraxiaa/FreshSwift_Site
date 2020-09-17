@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>testing</title>
+      <link>https://freshswift.net/tags/testing/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xctest</title>
+      <link>https://freshswift.net/tags/xctest/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/xctest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>collection</title>
@@ -658,15 +676,6 @@
     </item>
     
     <item>
-      <title>testing</title>
-      <link>https://freshswift.net/tags/testing/</link>
-      <pubDate>Tue, 27 Nov 2018 17:28:55 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>struct</title>
       <link>https://freshswift.net/tags/struct/</link>
       <pubDate>Mon, 26 Nov 2018 13:23:52 +0000</pubDate>
@@ -1131,15 +1140,6 @@
       <pubDate>Fri, 27 Jul 2018 10:04:09 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/strong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>testability</title>
-      <link>https://freshswift.net/tags/testability/</link>
-      <pubDate>Sun, 22 Jul 2018 10:38:08 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/testability/</guid>
       <description></description>
     </item>
     
@@ -1837,15 +1837,6 @@
     </item>
     
     <item>
-      <title>tests</title>
-      <link>https://freshswift.net/tags/tests/</link>
-      <pubDate>Tue, 28 Nov 2017 08:40:59 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/tests/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>modular</title>
       <link>https://freshswift.net/tags/modular/</link>
       <pubDate>Fri, 24 Nov 2017 08:36:16 +0000</pubDate>
@@ -2328,15 +2319,6 @@
       <pubDate>Wed, 31 May 2017 07:40:32 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/typedriven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://freshswift.net/tags/test/</link>
-      <pubDate>Tue, 30 May 2017 07:53:46 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/test/</guid>
       <description></description>
     </item>
     

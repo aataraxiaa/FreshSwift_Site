@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/testing/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/17-09-20-075302/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/xctest/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/collection/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
@@ -13,27 +43,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/sequence/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/16-09-20-073734/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -1063,11 +1078,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/testing/</loc>
-    <lastmod>2018-11-27T17:28:55+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</loc>
     <lastmod>2018-11-27T17:28:55+00:00</lastmod>
   </url>
@@ -1604,11 +1614,6 @@
   
   <url>
     <loc>https://freshswift.net/post/-li0zlih9bjn8p4sp2xr/</loc>
-    <lastmod>2018-07-22T10:38:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/testability/</loc>
     <lastmod>2018-07-22T10:38:08+00:00</lastmod>
   </url>
   
@@ -2728,11 +2733,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/tests/</loc>
-    <lastmod>2017-11-28T08:40:59+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-l-0mkkoedprpaok5pqa/</loc>
     <lastmod>2017-11-28T08:40:59+00:00</lastmod>
   </url>
@@ -3735,11 +3735,6 @@
   <url>
     <loc>https://freshswift.net/tags/typedriven/</loc>
     <lastmod>2017-05-31T07:40:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/test/</loc>
-    <lastmod>2017-05-30T07:53:46+00:00</lastmod>
   </url>
   
   <url>
