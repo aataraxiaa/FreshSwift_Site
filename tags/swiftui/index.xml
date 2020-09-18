@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SwiftUI 2.0: The Future is Declarative</title>
+      <link>https://freshswift.net/post/18-09-20-072858/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-09-20-072858/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Porting @AppStorage to iOS 13</title>
