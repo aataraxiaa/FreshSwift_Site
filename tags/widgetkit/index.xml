@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/widgetkit/</link>
     <description>Recent content in widgetkit on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/widgetkit/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building widgets in SwiftUI</title>
+      <link>https://freshswift.net/post/22-09-20-073654/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/22-09-20-073654/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftUI features in WidgetKit</title>
