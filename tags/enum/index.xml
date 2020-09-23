@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/enum/</link>
     <description>Recent content in enum on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Sep 2018 11:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/enum/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 lesser-known ways of using Swift enums</title>
+      <link>https://freshswift.net/post/23-09-20-072632/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/23-09-20-072632/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Switching with Associated Values</title>

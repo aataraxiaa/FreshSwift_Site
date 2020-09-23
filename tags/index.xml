@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>enum</title>
+      <link>https://freshswift.net/tags/enum/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/enum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>swiftui</title>
@@ -825,15 +834,6 @@
       <pubDate>Mon, 10 Sep 2018 11:50:30 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/associated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>enum</title>
-      <link>https://freshswift.net/tags/enum/</link>
-      <pubDate>Mon, 10 Sep 2018 11:50:30 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/enum/</guid>
       <description></description>
     </item>
     
