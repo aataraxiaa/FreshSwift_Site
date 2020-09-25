@@ -171,5 +171,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Swift enums are sum types, and that makes them very interesting</title>
+      <link>https://freshswift.net/post/-kj8p7y_sqvbu2jjlyo2/</link>
+      <pubDate>Sun, 23 Apr 2017 18:07:51 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/-kj8p7y_sqvbu2jjlyo2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflectable Enums</title>
+      <link>https://freshswift.net/post/-kj7s0mpq-pgwopj1onv/</link>
+      <pubDate>Mon, 17 Apr 2017 08:07:13 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/-kj7s0mpq-pgwopj1onv/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
