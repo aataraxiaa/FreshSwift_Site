@@ -4,17 +4,35 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>appkit</title>
+      <link>https://freshswift.net/tags/appkit/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/appkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>swiftui</title>
       <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/swiftui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uikit</title>
+      <link>https://freshswift.net/tags/uikit/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/uikit/</guid>
       <description></description>
     </item>
     
@@ -366,15 +384,6 @@
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>uikit</title>
-      <link>https://freshswift.net/tags/uikit/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/uikit/</guid>
       <description></description>
     </item>
     
