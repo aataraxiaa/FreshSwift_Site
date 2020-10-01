@@ -4,10 +4,37 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>api</title>
+      <link>https://freshswift.net/tags/api/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encapsulation</title>
+      <link>https://freshswift.net/tags/encapsulation/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/encapsulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://freshswift.net/tags/ios/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/ios/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>extension</title>
@@ -195,15 +222,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/ios14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>https://freshswift.net/tags/ios/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/ios/</guid>
       <description></description>
     </item>
     
@@ -789,15 +807,6 @@
       <pubDate>Wed, 17 Oct 2018 12:10:40 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>encapsulation</title>
-      <link>https://freshswift.net/tags/encapsulation/</link>
-      <pubDate>Fri, 12 Oct 2018 15:16:45 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/encapsulation/</guid>
       <description></description>
     </item>
     
@@ -2121,15 +2130,6 @@
       <pubDate>Tue, 29 Aug 2017 07:36:28 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/sourcekit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>api</title>
-      <link>https://freshswift.net/tags/api/</link>
-      <pubDate>Tue, 15 Aug 2017 07:26:43 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/api/</guid>
       <description></description>
     </item>
     

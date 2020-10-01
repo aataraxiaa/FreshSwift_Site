@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>api</title>
-  <meta property="og:title" content="api" />
-  <meta name="twitter:title" content="api" />
+  <title>Context-Bound Types</title>
+  <meta property="og:title" content="Context-Bound Types" />
+  <meta name="twitter:title" content="Context-Bound Types" />
+  <meta name="description" content="Writing any kind of API involves trying to balance exposing the right amount of implementation details without revealing too much. In this post, Joe Fabisevich looks at this topic and walks us through the task of creating a view controller with a header view in Swift.">
+  <meta property="og:description" content="Writing any kind of API involves trying to balance exposing the right amount of implementation details without revealing too much. In this post, Joe Fabisevich looks at this topic and walks us through the task of creating a view controller with a header view in Swift.">
+  <meta name="twitter:description" content="Writing any kind of API involves trying to balance exposing the right amount of implementation details without revealing too much. In this post, Joe Fabisevich looks at this topic and walks us through …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -15,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/tags/api/" />
+  <meta property="og:url" content="https://freshswift.net/post/01-10-20-073958/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.75.1" />
-  <link rel="canonical" href="https://freshswift.net/tags/api/" />
+  <link rel="canonical" href="https://freshswift.net/post/01-10-20-073958/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -96,14 +99,27 @@ if (!doNotTrack) {
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>#api</h1>
-              <hr class="small">
+            <div class="post-heading">
+                
+                  
+                  
+                
             </div>
           </div>
         </div>
@@ -111,86 +127,72 @@ if (!doNotTrack) {
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article class="post-preview">
+        <a href="https://www.fabisevi.ch/2020/09/21/Context-Bound-Types/">
+
+          
+          
+
+            <h2 class="post-title">Context-Bound Types</h2>
+
+            
+              <h3 class="post-subtitle">
+                Writing any kind of API involves trying to balance exposing the right amount of implementation details without revealing too much. In this post, Joe Fabisevich looks at this topic and walks us through the task of creating a view controller with a header view in Swift.
+              </h3>
+            
+
+          
+
+        </a>
+
+        
+        
+          <p class="post-meta">
+            Posted on October 1, 2020
+          </p>
         
 
-        <div class="posts-list">
+        <div class="post-entry">
           
-            <article class="post-preview">
-              <a href="https://www.fabisevi.ch/2020/09/21/Context-Bound-Types/">
-                <h2 class="post-title">Context-Bound Types</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Writing any kind of API involves trying to balance exposing the right amount of implementation details without revealing too much. In this post, Joe Fabisevich looks at this topic and walks us through the task of creating a view controller with a header view in Swift.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on October 1, 2020
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/encapsulation">encapsulation</a>&nbsp;
-                  
-                    #<a href="/tags/api">api</a>&nbsp;
-                  
-                    #<a href="/tags/ios">ios</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://oleb.net/blog/2017/07/mental-models-in-api-design/">
-                <h2 class="post-title">Mental models in API design</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Taking inspiration from Don Norman’s The Design of Everyday Things, Olg Begemann examines API design. He uses Swift standard library APIs as examples, and explains how a well designed API manages to convey the API designer’s mental model to the API user.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on August 15, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/api">api</a>&nbsp;
-                  
-                    #<a href="/tags/design">design</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
+            
           
         </div>
 
         
-      </div>
+          <span class="post-meta">
+            
+              #<a href="/tags/encapsulation">encapsulation</a>&nbsp;
+            
+              #<a href="/tags/api">api</a>&nbsp;
+            
+              #<a href="/tags/ios">ios</a>&nbsp;
+            
+          </span>
+        
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://freshswift.net/post/30-09-20-063848/" data-toggle="tooltip" data-placement="top" title="Protocol extensions">&larr; Previous Post</a>
+          </li>
+        
+        
+      </ul>
+
+      
+        
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">

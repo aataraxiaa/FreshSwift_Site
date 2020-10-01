@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/encapsulation/</link>
     <description>Recent content in encapsulation on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Oct 2018 15:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/encapsulation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Context-Bound Types</title>
+      <link>https://freshswift.net/post/01-10-20-073958/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/01-10-20-073958/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hiding Implementation Details Using internal Properties</title>
