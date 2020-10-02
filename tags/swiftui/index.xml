@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SwiftUI View Modifiers and if #available</title>
+      <link>https://freshswift.net/post/02-10-20-065624/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/02-10-20-065624/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tabs and pages in SwiftUI</title>
