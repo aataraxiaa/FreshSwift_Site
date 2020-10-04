@@ -4,15 +4,42 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>iOS</title>
+      <link>https://freshswift.net/tags/ios/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ios14</title>
+      <link>https://freshswift.net/tags/ios14/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/ios14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macOS</title>
+      <link>https://freshswift.net/tags/macos/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>swiftui</title>
       <link>https://freshswift.net/tags/swiftui/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/swiftui/</guid>
       <description></description>
@@ -33,15 +60,6 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/encapsulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>https://freshswift.net/tags/ios/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/ios/</guid>
       <description></description>
     </item>
     
@@ -213,15 +231,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/codable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ios14</title>
-      <link>https://freshswift.net/tags/ios14/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/ios14/</guid>
       <description></description>
     </item>
     
@@ -420,15 +429,6 @@
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/swift-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>macOS</title>
-      <link>https://freshswift.net/tags/macos/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/macos/</guid>
       <description></description>
     </item>
     
