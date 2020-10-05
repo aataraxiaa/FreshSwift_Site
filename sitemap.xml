@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://freshswift.net/post/04-10-20-110753/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/05-10-20-075639/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/encapsulation/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/04-10-20-110753/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,21 +58,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/02-10-20-065624/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
@@ -59,11 +69,6 @@
   
   <url>
     <loc>https://freshswift.net/post/01-10-20-073958/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/encapsulation/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
