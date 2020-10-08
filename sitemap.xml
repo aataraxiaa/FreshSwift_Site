@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://freshswift.net/tags/extensionpitfalls-of-protocol-extensions/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/database/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/ios/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/macos/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/08-10-20-064207/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/storage/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/extensionpitfalls-of-protocol-extensions/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,23 +53,8 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/protocol/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/ios/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -74,11 +94,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/ios14/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/macos/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
