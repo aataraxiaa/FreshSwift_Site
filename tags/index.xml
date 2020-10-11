@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>attribute</title>
+      <link>https://freshswift.net/tags/attribute/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/attribute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compiler</title>
+      <link>https://freshswift.net/tags/compiler/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/compiler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>atomic</title>
@@ -658,15 +676,6 @@
     </item>
     
     <item>
-      <title>compiler</title>
-      <link>https://freshswift.net/tags/compiler/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/compiler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>watchkit</title>
       <link>https://freshswift.net/tags/watchkit/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
@@ -1257,15 +1266,6 @@
       <pubDate>Wed, 04 Jul 2018 06:13:47 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/autolayout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>attribute</title>
-      <link>https://freshswift.net/tags/attribute/</link>
-      <pubDate>Tue, 03 Jul 2018 16:22:14 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/attribute/</guid>
       <description></description>
     </item>
     

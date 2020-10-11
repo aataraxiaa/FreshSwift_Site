@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/compiler/</link>
     <description>Recent content in compiler on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Swift API Availability Works Internally</title>
+      <link>https://freshswift.net/post/11-10-20-073039/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/11-10-20-073039/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Re: Making Wrong Code Look Wrong</title>
