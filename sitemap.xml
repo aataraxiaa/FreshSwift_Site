@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/tags/equatable/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/hashable/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/14-10-20-073942/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swift-4.1/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -1383,11 +1403,6 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/hashable/</loc>
-    <lastmod>2018-10-05T10:49:44+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/post/-lnzvkhqspro5dkfkg5g/</loc>
     <lastmod>2018-10-04T16:33:32+00:00</lastmod>
   </url>
@@ -1644,11 +1659,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/c&#43;&#43;/</loc>
-    <lastmod>2018-08-09T11:39:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/equatable/</loc>
     <lastmod>2018-08-09T11:39:26+00:00</lastmod>
   </url>
   
@@ -2335,11 +2345,6 @@
   <url>
     <loc>https://freshswift.net/post/-l9zf4dmxzhghurlta_8/</loc>
     <lastmod>2018-04-08T09:53:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swift-4.1/</loc>
-    <lastmod>2018-04-08T09:47:04+00:00</lastmod>
   </url>
   
   <url>

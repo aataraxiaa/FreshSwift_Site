@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/hashable/</link>
     <description>Recent content in hashable on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Oct 2018 10:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/hashable/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reduce boilerplate code with an automatic synthesis of Equatable and Hashable conformance</title>
+      <link>https://freshswift.net/post/14-10-20-073942/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/14-10-20-073942/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bloom Filters and Swift 4.2</title>
