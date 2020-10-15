@@ -3,22 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/tags/algorithm/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/15-10-20-072607/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/collection/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/evolution/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/open-source/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/sequence/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/equatable/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/hashable/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/post/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,11 +64,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/swift-4.1/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -275,21 +305,6 @@
   <url>
     <loc>https://freshswift.net/tags/xctest/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/collection/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/evolution/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/sequence/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -609,11 +624,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/closure/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/open-source/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -1925,11 +1935,6 @@
   <url>
     <loc>https://freshswift.net/tags/type-safe/</loc>
     <lastmod>2018-06-24T10:49:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/algorithm/</loc>
-    <lastmod>2018-06-22T09:41:06+00:00</lastmod>
   </url>
   
   <url>

@@ -4,10 +4,55 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>algorithm</title>
+      <link>https://freshswift.net/tags/algorithm/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collection</title>
+      <link>https://freshswift.net/tags/collection/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolution</title>
+      <link>https://freshswift.net/tags/evolution/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://freshswift.net/tags/open-source/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sequence</title>
+      <link>https://freshswift.net/tags/sequence/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/sequence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>equatable</title>
@@ -244,33 +289,6 @@
     </item>
     
     <item>
-      <title>collection</title>
-      <link>https://freshswift.net/tags/collection/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/collection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolution</title>
-      <link>https://freshswift.net/tags/evolution/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sequence</title>
-      <link>https://freshswift.net/tags/sequence/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/sequence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>micro-interaction</title>
       <link>https://freshswift.net/tags/micro-interaction/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
@@ -501,15 +519,6 @@
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/closure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
-      <link>https://freshswift.net/tags/open-source/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/open-source/</guid>
       <description></description>
     </item>
     
@@ -1329,15 +1338,6 @@
       <pubDate>Sun, 24 Jun 2018 10:49:34 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/type-safe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>algorithm</title>
-      <link>https://freshswift.net/tags/algorithm/</link>
-      <pubDate>Fri, 22 Jun 2018 09:41:06 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/algorithm/</guid>
       <description></description>
     </item>
     
