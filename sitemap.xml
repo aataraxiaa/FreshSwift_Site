@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freshswift.net/tags/animation/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/16-10-20-072939/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freshswift.net/tags/algorithm/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -23,27 +53,12 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/open-source/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/sequence/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -65,11 +80,6 @@
   <url>
     <loc>https://freshswift.net/tags/swift-4.1/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -355,11 +365,6 @@
   <url>
     <loc>https://freshswift.net/tags/runtime/</loc>
     <lastmod>2020-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/animation/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
