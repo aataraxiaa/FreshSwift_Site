@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/initialization/</link>
     <description>Recent content in initialization on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 May 2018 07:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/initialization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift deinit is (sometimes) not called for throwing or failable initializers</title>
+      <link>https://freshswift.net/post/18-10-20-113224/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-10-20-113224/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swift Lazy Property Initialization</title>

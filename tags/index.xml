@@ -4,10 +4,46 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>evolution</title>
+      <link>https://freshswift.net/tags/evolution/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>initialization</title>
+      <link>https://freshswift.net/tags/initialization/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/initialization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memory</title>
+      <link>https://freshswift.net/tags/memory/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>result builders</title>
+      <link>https://freshswift.net/tags/result-builders/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/result-builders/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>animation</title>
@@ -42,15 +78,6 @@
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/collection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolution</title>
-      <link>https://freshswift.net/tags/evolution/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/evolution/</guid>
       <description></description>
     </item>
     
@@ -1324,15 +1351,6 @@
     </item>
     
     <item>
-      <title>memory</title>
-      <link>https://freshswift.net/tags/memory/</link>
-      <pubDate>Mon, 25 Jun 2018 16:50:27 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>type-safe</title>
       <link>https://freshswift.net/tags/type-safe/</link>
       <pubDate>Sun, 24 Jun 2018 10:49:34 +0000</pubDate>
@@ -1428,15 +1446,6 @@
       <pubDate>Tue, 29 May 2018 02:20:50 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/tips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initialization</title>
-      <link>https://freshswift.net/tags/initialization/</link>
-      <pubDate>Mon, 28 May 2018 07:52:01 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/initialization/</guid>
       <description></description>
     </item>
     

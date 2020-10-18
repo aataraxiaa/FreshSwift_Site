@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/memory/</link>
     <description>Recent content in memory on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Jun 2018 16:50:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/memory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift deinit is (sometimes) not called for throwing or failable initializers</title>
+      <link>https://freshswift.net/post/18-10-20-113224/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-10-20-113224/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swift vs. Kotlin — the differences in memory management</title>

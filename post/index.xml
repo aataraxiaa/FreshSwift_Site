@@ -4,10 +4,28 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Result builders</title>
+      <link>https://freshswift.net/post/18-10-20-111833/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-10-20-111833/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift deinit is (sometimes) not called for throwing or failable initializers</title>
+      <link>https://freshswift.net/post/18-10-20-113224/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/18-10-20-113224/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Transactions in SwiftUI</title>
