@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>http on Fresh Swift</title>
+    <link>https://freshswift.net/tags/http/</link>
+    <description>Recent content in http on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTTP in Swift, Part 1: An Intro to HTTP </title>
+      <link>https://freshswift.net/post/19-10-20-072933/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/19-10-20-072933/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

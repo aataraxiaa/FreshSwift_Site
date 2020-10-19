@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://freshswift.net/tags/evolution/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/</loc>
+    <loc>https://freshswift.net/tags/http/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/19-10-20-072933/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/network/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/evolution/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,11 +44,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/memory/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/post/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,11 +59,6 @@
   
   <url>
     <loc>https://freshswift.net/post/18-10-20-113224/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -555,11 +570,6 @@
   <url>
     <loc>https://freshswift.net/post/23-08-20-074855/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/network/</loc>
-    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
