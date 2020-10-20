@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>HTTP in Swift, Part 1: An Intro to HTTP </title>
-  <meta property="og:title" content="HTTP in Swift, Part 1: An Intro to HTTP " />
-  <meta name="twitter:title" content="HTTP in Swift, Part 1: An Intro to HTTP " />
-  <meta name="description" content="In this first post in a series on building a Swift HTTP framework, Dave Delong provides an introduction to HTTP. This looks like it is going to be a great series, and as Dave says, knowing the details of how HTTP works is one of the most valuable things a software engineer can know.">
-  <meta property="og:description" content="In this first post in a series on building a Swift HTTP framework, Dave Delong provides an introduction to HTTP. This looks like it is going to be a great series, and as Dave says, knowing the details of how HTTP works is one of the most valuable things a software engineer can know.">
-  <meta name="twitter:description" content="In this first post in a series on building a Swift HTTP framework, Dave Delong provides an introduction to HTTP. This looks like it is going to be a great series, and as Dave says, knowing the details …">
+  <title>@warn_unqualified_access</title>
+  <meta property="og:title" content="@warn_unqualified_access" />
+  <meta name="twitter:title" content="@warn_unqualified_access" />
+  <meta name="description" content="Introduced in Swift 2, @warn_unqualified_access triggers a warning when the function or method it is applied to is used without a preceding qualifier, such as a module or type name. In this post, Federico Zanetello shows us how to use this attribute to discourage ambiguity between functions with the same signature.">
+  <meta property="og:description" content="Introduced in Swift 2, @warn_unqualified_access triggers a warning when the function or method it is applied to is used without a preceding qualifier, such as a module or type name. In this post, Federico Zanetello shows us how to use this attribute to discourage ambiguity between functions with the same signature.">
+  <meta name="twitter:description" content="Introduced in Swift 2, @warn_unqualified_access triggers a warning when the function or method it is applied to is used without a preceding qualifier, such as a module or type name. In this post, …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/19-10-20-072933/" />
+  <meta property="og:url" content="https://freshswift.net/post/20-10-20-073243/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.76.5" />
-  <link rel="canonical" href="https://freshswift.net/post/19-10-20-072933/" />
+  <link rel="canonical" href="https://freshswift.net/post/20-10-20-073243/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/">
+        <a href="https://fivestars.blog/swift/warn_unqualified_access.html">
 
           
           
 
-            <h2 class="post-title">HTTP in Swift, Part 1: An Intro to HTTP </h2>
+            <h2 class="post-title">@warn_unqualified_access</h2>
 
             
               <h3 class="post-subtitle">
-                In this first post in a series on building a Swift HTTP framework, Dave Delong provides an introduction to HTTP. This looks like it is going to be a great series, and as Dave says, knowing the details of how HTTP works is one of the most valuable things a software engineer can know.
+                Introduced in Swift 2, @warn_unqualified_access triggers a warning when the function or method it is applied to is used without a preceding qualifier, such as a module or type name. In this post, Federico Zanetello shows us how to use this attribute to discourage ambiguity between functions with the same signature.
               </h3>
             
 
@@ -166,9 +166,7 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/network">network</a>&nbsp;
-            
-              #<a href="/tags/http">http</a>&nbsp;
+              #<a href="/tags/attribute">attribute</a>&nbsp;
             
           </span>
         
@@ -178,13 +176,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/18-10-20-111833/" data-toggle="tooltip" data-placement="top" title="Result builders">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/19-10-20-072933/" data-toggle="tooltip" data-placement="top" title="HTTP in Swift, Part 1: An Intro to HTTP ">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/20-10-20-073243/" data-toggle="tooltip" data-placement="top" title="@warn_unqualified_access">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
