@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transition on Fresh Swift</title>
+    <link>https://freshswift.net/tags/transition/</link>
+    <description>Recent content in transition on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/transition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mastering transitions in SwiftUI</title>
+      <link>https://freshswift.net/post/21-10-20-074642/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/21-10-20-074642/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
