@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>existential on Fresh Swift</title>
+    <link>https://freshswift.net/tags/existential/</link>
+    <description>Recent content in existential on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://freshswift.net/tags/existential/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unlock Existential Types for All Protocols</title>
+      <link>https://freshswift.net/post/22-10-20-071420/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/22-10-20-071420/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
