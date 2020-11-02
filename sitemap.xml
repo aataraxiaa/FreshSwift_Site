@@ -4,7 +4,27 @@
   
   <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/keypath/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/02-11-20-075117/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,17 +33,7 @@
   </url>
   
   <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -1004,11 +1014,6 @@
   
   <url>
     <loc>https://freshswift.net/post/09-07-20-084545/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/keypath/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
