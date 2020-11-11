@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Fresh Swift</title>
-  <meta property="og:title" content="Fresh Swift" />
-  <meta name="twitter:title" content="Fresh Swift" />
+  <title>HTTP in Swift, Part 3: Request Bodies</title>
+  <meta property="og:title" content="HTTP in Swift, Part 3: Request Bodies" />
+  <meta name="twitter:title" content="HTTP in Swift, Part 3: Request Bodies" />
+  <meta name="description" content="In part 3 in his series on building a Swift HTTP framework, Dave Delong takes a look at the body property of HTTP requests. Dave shows us how to implement a generalized body type in Swift, providing lots of code samples.">
+  <meta property="og:description" content="In part 3 in his series on building a Swift HTTP framework, Dave Delong takes a look at the body property of HTTP requests. Dave shows us how to implement a generalized body type in Swift, providing lots of code samples.">
+  <meta name="twitter:description" content="In part 3 in his series on building a Swift HTTP framework, Dave Delong takes a look at the body property of HTTP requests. Dave shows us how to implement a generalized body type in Swift, providing …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -15,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/" />
+  <meta property="og:url" content="https://freshswift.net/post/11-11-20-083652/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.78.1" />
-  <link rel="canonical" href="https://freshswift.net/" />
+  <link rel="canonical" href="https://freshswift.net/post/11-11-20-083652/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -112,11 +115,9 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
+            <div class="post-heading">
                 
                   
-                  <h1>Fresh Swift</h1>
-                    <h2 class="page-subheading">Curated Swift Articles, Videos, News &amp; More</h2>
                   
                 
             </div>
@@ -128,150 +129,68 @@ if (!doNotTrack) {
 
 
     
-  <div role="main" class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article class="post-preview">
+        <a href="https://davedelong.com/blog/2020/06/30/http-in-swift-part-3-request-bodies/">
+
+          
+          
+
+            <h2 class="post-title">HTTP in Swift, Part 3: Request Bodies</h2>
+
+            
+              <h3 class="post-subtitle">
+                In part 3 in his series on building a Swift HTTP framework, Dave Delong takes a look at the body property of HTTP requests. Dave shows us how to implement a generalized body type in Swift, providing lots of code samples.
+              </h3>
+            
+
+          
+
+        </a>
+
+        
+        
+          <p class="post-meta">
+            
+          </p>
         
 
-        <div class="posts-list">
+        <div class="post-entry">
           
-            <article class="post-preview">
-              <a href="https://marcosantadev.com/solid-principles-applied-swift">
-                <h2 class="post-title">SOLID principles applied to Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Marco Santarossa presents some easy to understand Swift code examples based around using SOLID principles to to avoid code fragility, immobility and rigidity.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/clean-code">clean code</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection">
-                <h2 class="post-title">Dependency injection via protocol composition</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Krzysztof Zablocki with a nice approach to dependency injection based on protocol composition. Avoid constantly refactoring code callsites while keeping your code testable.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/protocol">protocol</a>&nbsp;
-                  
-                    #<a href="/tags/dependency-injection">dependency injection</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://ijoshsmith.com/2017/04/08/reflectable-enums-in-swift-3/">
-                <h2 class="post-title">Reflectable Enums</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/reflection">reflection</a>&nbsp;
-                  
-                    #<a href="/tags/enum">enum</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="">
-                <h2 class="post-title">Fresh Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Curated Swift Links
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                
-              </p>
-              <div class="post-entry">
-                
-                  <p>Stay up to date with the latest Swift blog posts, articles, evolution proposals etc.</p>
-<p>Want to get involved and suggest a post? Awesome!! Simply tweet <a href="https://twitter.com/superpeteblaze">@superpeteblaze</a></p>
-<p>Fresh Swift is curated by Pete Smith, <a href="https://twitter.com/superpeteblaze">@superpeteblaze</a></p>
-<p><em>Swift is a trademark of Apple Inc.</em></p>
-
-                
-              </div>
-
-              
-
-            </article>
+            
           
         </div>
 
         
-          <ul class="pager main-pager">
+          <span class="post-meta">
             
-              <li class="previous">
-                <a href="/page/58">&larr; Newer Posts</a>
-              </li>
+              #<a href="/tags/network">network</a>&nbsp;
             
+              #<a href="/tags/http">http</a>&nbsp;
             
-          </ul>
+          </span>
         
-      </div>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://freshswift.net/post/09-11-20-123224/" data-toggle="tooltip" data-placement="top" title="Swift Concurrency Roadmap">&larr; Previous Post</a>
+          </li>
+        
+        
+      </ul>
+
+      
+        
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">
