@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/testing/</link>
     <description>Recent content in testing on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unit Testing Asynchronous Code in Swift</title>
+      <link>https://freshswift.net/post/16-11-20-083559/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/16-11-20-083559/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Testing delegates and protocols in XCTest</title>

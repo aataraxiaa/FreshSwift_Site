@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>testing</title>
-  <meta property="og:title" content="testing" />
-  <meta name="twitter:title" content="testing" />
+  <title>Unit Testing Asynchronous Code in Swift</title>
+  <meta property="og:title" content="Unit Testing Asynchronous Code in Swift" />
+  <meta name="twitter:title" content="Unit Testing Asynchronous Code in Swift" />
+  <meta name="description" content="Implementing unit tests for asynchronous logic presents challenges such as false-positive test results and untrustworthy or error-prone test executions. In this post, Vadim Bulavin describes four patterns that help us to deal with such challenges, enabling us to reliably test asynchronous code.">
+  <meta property="og:description" content="Implementing unit tests for asynchronous logic presents challenges such as false-positive test results and untrustworthy or error-prone test executions. In this post, Vadim Bulavin describes four patterns that help us to deal with such challenges, enabling us to reliably test asynchronous code.">
+  <meta name="twitter:description" content="Implementing unit tests for asynchronous logic presents challenges such as false-positive test results and untrustworthy or error-prone test executions. In this post, Vadim Bulavin describes four …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -15,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/tags/testing/" />
+  <meta property="og:url" content="https://freshswift.net/post/16-11-20-083559/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.78.2" />
-  <link rel="canonical" href="https://freshswift.net/tags/testing/" />
+  <link rel="canonical" href="https://freshswift.net/post/16-11-20-083559/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -96,14 +99,27 @@ if (!doNotTrack) {
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>#testing</h1>
-              <hr class="small">
+            <div class="post-heading">
+                
+                  
+                  
+                
             </div>
           </div>
         </div>
@@ -111,153 +127,70 @@ if (!doNotTrack) {
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article class="post-preview">
+        <a href="https://www.vadimbulavin.com/unit-testing-async-code-in-swift/">
+
+          
+          
+
+            <h2 class="post-title">Unit Testing Asynchronous Code in Swift</h2>
+
+            
+              <h3 class="post-subtitle">
+                Implementing unit tests for asynchronous logic presents challenges such as false-positive test results and untrustworthy or error-prone test executions. In this post, Vadim Bulavin describes four patterns that help us to deal with such challenges, enabling us to reliably test asynchronous code.
+              </h3>
+            
+
+          
+
+        </a>
+
+        
+        
+          <p class="post-meta">
+            
+          </p>
         
 
-        <div class="posts-list">
+        <div class="post-entry">
           
-            <article class="post-preview">
-              <a href="https://www.swiftbysundell.com/posts/writing-end-to-end-json-mapping-tests-in-swift">
-                <h2 class="post-title">Writing end-to-end JSON mapping tests in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    John Sundell looks at how we can ensure the integrity of JSON retrieved from an API by using end-to-end tests. To avoid performing a network request each time we want to run our tests, he uses an Swift script which is run once to day to retrieve the JSON from the API. The example uses his own Unbox library for JSON mapping, but of course we could substitute the native Swift Codable protocol for our JSON decoding.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/json">JSON</a>&nbsp;
-                  
-                    #<a href="/tags/testing">testing</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://ericasadun.com/2017/05/27/tests-that-dont-crash/">
-                <h2 class="post-title">Tests that don&#39;t crash</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Tim Vermeulen with a short post showing us how to write tests which fail gracefully when they encounter a nil optional. Marking individual tests as throwing is not something I thought of before, and it means tests that previously crashed now simply fail, allowing subsequent tests to be executed. Nice idea.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/testing">testing</a>&nbsp;
-                  
-                    #<a href="/tags/optional">optional</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://marcosantadev.com/test-doubles-swift">
-                <h2 class="post-title">Test Doubles in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Unit testing components with dependencies can be complicated. Here, Marco Santarossa explains what test doubles are, and how they can help with such unit testing.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/testing">testing</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://medium.com/@johnsundell/time-traveling-in-swift-unit-tests-583a2c3ce85b">
-                <h2 class="post-title">Time traveling in Swift unit tests</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Writing tests against code that relies on dates can be tricky. In this short post, John Sundell looks at how we can test such code in a simple and fun way, based on what he calls &#34;time traveling&#34;.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/testing">testing</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
+            
           
         </div>
 
         
-          <ul class="pager main-pager">
+          <span class="post-meta">
             
-              <li class="previous">
-                <a href="/tags/testing/page/1">&larr; Newer Posts</a>
-              </li>
+              #<a href="/tags/testing">testing</a>&nbsp;
             
+              #<a href="/tags/asynchronous">asynchronous</a>&nbsp;
             
-          </ul>
+          </span>
         
-      </div>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://freshswift.net/post/15-11-20-114741/" data-toggle="tooltip" data-placement="top" title="Debugging SwiftUI: Trials and Tribulations">&larr; Previous Post</a>
+          </li>
+        
+        
+      </ul>
+
+      
+        
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">
