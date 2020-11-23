@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>[Proposal] Static member lookup on protocol metatypes</title>
-  <meta property="og:title" content="[Proposal] Static member lookup on protocol metatypes" />
-  <meta name="twitter:title" content="[Proposal] Static member lookup on protocol metatypes" />
-  <meta name="description" content="Swift currently supports static member lookup on concrete types. This improves call-site legibility by enabling us to use leading dot syntax when accessing static values. In this Swift evolution pitch, Sam Lazarus proposes extending static member lookup to protocol metatypes. This would be a nice addition, and would not have any effect of source of API stability.">
-  <meta property="og:description" content="Swift currently supports static member lookup on concrete types. This improves call-site legibility by enabling us to use leading dot syntax when accessing static values. In this Swift evolution pitch, Sam Lazarus proposes extending static member lookup to protocol metatypes. This would be a nice addition, and would not have any effect of source of API stability.">
-  <meta name="twitter:description" content="Swift currently supports static member lookup on concrete types. This improves call-site legibility by enabling us to use leading dot syntax when accessing static values. In this Swift evolution …">
+  <title>How an Hstack Lays out Its Children</title>
+  <meta property="og:title" content="How an Hstack Lays out Its Children" />
+  <meta name="twitter:title" content="How an Hstack Lays out Its Children" />
+  <meta name="description" content="As Chris Eidhof states in the introduction to this post, SwiftUI&#39;s layout system is, for the most part, intuitive to use. However, there are times when we encounter puzzling layout behaviors, and here Chris provides a detailed explanation of how one particular container view, an HStack, lays out its child views.">
+  <meta property="og:description" content="As Chris Eidhof states in the introduction to this post, SwiftUI&#39;s layout system is, for the most part, intuitive to use. However, there are times when we encounter puzzling layout behaviors, and here Chris provides a detailed explanation of how one particular container view, an HStack, lays out its child views.">
+  <meta name="twitter:description" content="As Chris Eidhof states in the introduction to this post, SwiftUI&#39;s layout system is, for the most part, intuitive to use. However, there are times when we encounter puzzling layout behaviors, and here …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/22-11-20-112326/" />
+  <meta property="og:url" content="https://freshswift.net/post/23-11-20-085214/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.78.2" />
-  <link rel="canonical" href="https://freshswift.net/post/22-11-20-112326/" />
+  <link rel="canonical" href="https://freshswift.net/post/23-11-20-085214/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://forums.swift.org/t/proposal-static-member-lookup-on-protocol-metatypes/41946">
+        <a href="https://www.objc.io/blog/2020/11/09/hstacks-child-ordering/">
 
           
           
 
-            <h2 class="post-title">[Proposal] Static member lookup on protocol metatypes</h2>
+            <h2 class="post-title">How an Hstack Lays out Its Children</h2>
 
             
               <h3 class="post-subtitle">
-                Swift currently supports static member lookup on concrete types. This improves call-site legibility by enabling us to use leading dot syntax when accessing static values. In this Swift evolution pitch, Sam Lazarus proposes extending static member lookup to protocol metatypes. This would be a nice addition, and would not have any effect of source of API stability.
+                As Chris Eidhof states in the introduction to this post, SwiftUI&#39;s layout system is, for the most part, intuitive to use. However, there are times when we encounter puzzling layout behaviors, and here Chris provides a detailed explanation of how one particular container view, an HStack, lays out its child views.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on November 22, 2020
+            Posted on November 23, 2020
           </p>
         
 
@@ -166,9 +166,9 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/evolution">evolution</a>&nbsp;
+              #<a href="/tags/swiftui">swiftui</a>&nbsp;
             
-              #<a href="/tags/protocol">protocol</a>&nbsp;
+              #<a href="/tags/layout">layout</a>&nbsp;
             
           </span>
         
@@ -178,13 +178,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/18-11-20-073712/" data-toggle="tooltip" data-placement="top" title="Parsing Tricky JSON With Codable in Swift">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/22-11-20-112326/" data-toggle="tooltip" data-placement="top" title="[Proposal] Static member lookup on protocol metatypes">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/23-11-20-085214/" data-toggle="tooltip" data-placement="top" title="How an Hstack Lays out Its Children">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
