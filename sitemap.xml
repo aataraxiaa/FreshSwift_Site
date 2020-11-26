@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/combine/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/lifecycle/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/26-11-20-064625/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/concurrency/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/lifecycle/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://freshswift.net/post/25-11-20-073131/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -115,11 +130,6 @@
   <url>
     <loc>https://freshswift.net/post/11-11-20-083652/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/concurrency/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -595,11 +605,6 @@
   <url>
     <loc>https://freshswift.net/post/02-09-20-073257/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/combine/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
