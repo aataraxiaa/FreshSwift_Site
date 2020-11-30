@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="generator" content="Hugo 0.78.2" />
+  <meta name="generator" content="Hugo 0.79.0" />
   <link rel="canonical" href="https://freshswift.net/post/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -118,6 +118,38 @@ if (!doNotTrack) {
         
 
         <div class="posts-list">
+          
+            <article class="post-preview">
+              <a href="https://marcosantadev.com/copy-write-swift-value-types/">
+                <h2 class="post-title">Use Copy-On-Write With Swift Value Types</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Value types are a great feature of Swift, allowing us to more easily reason about the safety of our code. When a value type is passed around our code, it is copied, meaning we can trust that no other part of our code is changing it. However, this comes with one possible drawback. Passing a large value type, such as an Array with thousands of elements, might result in unnecessary copying if the Array is not mutated after it is copied. This is where copy-on-write comes in. As explained in this post by Marco Santarossa, value types which implement copy-on-write are only copied when they need to be, i.e when they are mutated. It&#39;s a nice optimisation and something we can add to our own custom value types when needed.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on June 7, 2017
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/valuetype">valuetype</a>&nbsp;
+                  
+                    #<a href="/tags/copyonwrite">copyonwrite</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
             <article class="post-preview">
               <a href="https://blog.curtisherbert.com/to-optional-or-not-to-optional-iboutlet/">
@@ -399,38 +431,6 @@ if (!doNotTrack) {
 
             </article>
           
-            <article class="post-preview">
-              <a href="http://ericasadun.com/2017/05/23/5-easy-dispatch-tricks/">
-                <h2 class="post-title">Swift Dispatch - 5 Easy Tricks</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Swift Dispatch enables us to easily execute code concurrently on multicore systems. Using DispatchTime, which represents a point in time relative to the default clock time, we can schedule our concurrent tasks to happen at some point in the future. In this post, Erica Sadun looks at Dispatch and shows us five easy ways we can improve our Dispatch experience.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 26, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/dispatch">dispatch</a>&nbsp;
-                  
-                    #<a href="/tags/queue">queue</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
         </div>
 
         
@@ -488,7 +488,7 @@ if (!doNotTrack) {
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.78.2</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.79.0</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>
