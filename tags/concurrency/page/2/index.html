@@ -5,12 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>SwiftUI’s Grid Views</title>
-  <meta property="og:title" content="SwiftUI’s Grid Views" />
-  <meta name="twitter:title" content="SwiftUI’s Grid Views" />
-  <meta name="description" content="SwiftUI&#39;s grid views arrange their child views in a horizontal or vertical grid. However, how they layout their child views can be surprising, and in this post, Florian Kugler from Objc.io examines three particular grid view layout scenarios and explains how the layout algorithm works.">
-  <meta property="og:description" content="SwiftUI&#39;s grid views arrange their child views in a horizontal or vertical grid. However, how they layout their child views can be surprising, and in this post, Florian Kugler from Objc.io examines three particular grid view layout scenarios and explains how the layout algorithm works.">
-  <meta name="twitter:description" content="SwiftUI&#39;s grid views arrange their child views in a horizontal or vertical grid. However, how they layout their child views can be surprising, and in this post, Florian Kugler from Objc.io examines …">
+  <title>concurrency</title>
+  <meta property="og:title" content="concurrency" />
+  <meta name="twitter:title" content="concurrency" />
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +15,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/01-12-20-130657/" />
+  <meta property="og:url" content="https://freshswift.net/tags/concurrency/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.79.0" />
-  <link rel="canonical" href="https://freshswift.net/post/01-12-20-130657/" />
+  <link rel="canonical" href="https://freshswift.net/tags/concurrency/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -99,27 +96,14 @@ if (!doNotTrack) {
 
 
     
-  
-  
-  
-
-
-
-
-  
-
   <header class="header-section ">
-    
     <div class="intro-header no-img">
-      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="post-heading">
-                
-                  
-                  
-                
+            <div class="page-heading">
+              <h1>#concurrency</h1>
+              <hr class="small">
             </div>
           </div>
         </div>
@@ -127,74 +111,59 @@ if (!doNotTrack) {
     </div>
   </header>
 
-
     
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article class="post-preview">
-        <a href="https://www.objc.io/blog/2020/11/23/grid-layout/">
-
-          
-          
-
-            <h2 class="post-title">SwiftUI’s Grid Views</h2>
-
-            
-              <h3 class="post-subtitle">
-                SwiftUI&#39;s grid views arrange their child views in a horizontal or vertical grid. However, how they layout their child views can be surprising, and in this post, Florian Kugler from Objc.io examines three particular grid view layout scenarios and explains how the layout algorithm works.
-              </h3>
-            
-
-          
-
-        </a>
-
-        
-        
-          <p class="post-meta">
-            Posted on December 1, 2020
-          </p>
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
 
-        <div class="post-entry">
+        <div class="posts-list">
           
-            
+            <article class="post-preview">
+              <a href="https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/">
+                <h2 class="post-title">All about Concurrency in Swift - Part 1: The Present</h2>
+
+                
+                  <h3 class="post-subtitle">
+                    Umberto Raimondi with the first in a series of articles on concurrency in Swift. This is an excellently detailed look at what we have at our disposal, covering everything from locks and threads, to Grand Central Dispatch.
+                  </h3>
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on May 14, 2017
+              </p>
+              <div class="post-entry">
+                
+                  
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/concurrency">concurrency</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
         </div>
 
         
-          <span class="post-meta">
+          <ul class="pager main-pager">
             
-              #<a href="/tags/swiftui">swiftui</a>&nbsp;
+              <li class="previous">
+                <a href="/tags/concurrency/page/1">&larr; Newer Posts</a>
+              </li>
             
-              #<a href="/tags/layout">layout</a>&nbsp;
             
-          </span>
+          </ul>
         
-
-      </article>
-
-      <ul class="pager blog-pager">
-        
-          <li class="previous">
-            <a href="https://freshswift.net/post/30-11-20-125624/" data-toggle="tooltip" data-placement="top" title="Availability checking for protocol conformances">&larr; Previous Post</a>
-          </li>
-        
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/02-12-20-145517/" data-toggle="tooltip" data-placement="top" title="What went wrong with the libdispatch. A tale of caution for the future of concurrency.">Next Post &rarr;</a>
-          </li>
-        
-      </ul>
-
-      
-        
-      
-
+      </div>
     </div>
   </div>
-</div>
 
     <footer>
   <div class="container">
