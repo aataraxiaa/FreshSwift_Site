@@ -4,7 +4,27 @@
   
   <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/testing/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/06-12-20-120615/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,16 +39,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/network/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -124,11 +134,6 @@
   
   <url>
     <loc>https://freshswift.net/tags/asynchronous/</loc>
-    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/testing/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url>
   

@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/testing/</link>
     <description>Recent content in testing on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testing the UI without UI Testing in Swift</title>
+      <link>https://freshswift.net/post/06-12-20-120615/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/06-12-20-120615/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unit Testing Asynchronous Code in Swift</title>
