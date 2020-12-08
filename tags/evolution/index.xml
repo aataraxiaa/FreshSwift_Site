@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/evolution/</link>
     <description>Recent content in evolution on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Codable synthesis for enums with associated values</title>
+      <link>https://freshswift.net/post/08-12-20-120455/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/08-12-20-120455/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Availability checking for protocol conformances</title>

@@ -4,10 +4,37 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>codable</title>
+      <link>https://freshswift.net/tags/codable/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/codable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enum</title>
+      <link>https://freshswift.net/tags/enum/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/enum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolution</title>
+      <link>https://freshswift.net/tags/evolution/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/evolution/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>lazy</title>
@@ -82,15 +109,6 @@
     </item>
     
     <item>
-      <title>evolution</title>
-      <link>https://freshswift.net/tags/evolution/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>protocol</title>
       <link>https://freshswift.net/tags/protocol/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
@@ -114,15 +132,6 @@
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/lifecycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>codable</title>
-      <link>https://freshswift.net/tags/codable/</link>
-      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/codable/</guid>
       <description></description>
     </item>
     
@@ -429,15 +438,6 @@
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/optional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>enum</title>
-      <link>https://freshswift.net/tags/enum/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/enum/</guid>
       <description></description>
     </item>
     

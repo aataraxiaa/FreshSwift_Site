@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Statically computed default property values</title>
-  <meta property="og:title" content="Statically computed default property values" />
-  <meta name="twitter:title" content="Statically computed default property values" />
-  <meta name="description" content="As John Sundell writes in the introduction to this short post, defining default values for our API properties can improve the usability of our APIs while still enabling customization when needed. With that in mind, John shares a tip for setting a default property value while also reminding us of a crucial difference between a lazy property and a non-lazy one.">
-  <meta property="og:description" content="As John Sundell writes in the introduction to this short post, defining default values for our API properties can improve the usability of our APIs while still enabling customization when needed. With that in mind, John shares a tip for setting a default property value while also reminding us of a crucial difference between a lazy property and a non-lazy one.">
-  <meta name="twitter:description" content="As John Sundell writes in the introduction to this short post, defining default values for our API properties can improve the usability of our APIs while still enabling customization when needed. With …">
+  <title>Codable synthesis for enums with associated values</title>
+  <meta property="og:title" content="Codable synthesis for enums with associated values" />
+  <meta name="twitter:title" content="Codable synthesis for enums with associated values" />
+  <meta name="description" content="Swift 4 introduced support for automatically synthesizing conformance to the Encodable and Decodable protocols. It&#39;s a useful feature, most likely used by any application which handles JSON-based network requests. This Swift evolution pitch from Dario Rexin proposes extending auto-synthesis of these conformances to enums with associated values. I&#39;m sure we will see this in an upcoming Swift version.">
+  <meta property="og:description" content="Swift 4 introduced support for automatically synthesizing conformance to the Encodable and Decodable protocols. It&#39;s a useful feature, most likely used by any application which handles JSON-based network requests. This Swift evolution pitch from Dario Rexin proposes extending auto-synthesis of these conformances to enums with associated values. I&#39;m sure we will see this in an upcoming Swift version.">
+  <meta name="twitter:description" content="Swift 4 introduced support for automatically synthesizing conformance to the Encodable and Decodable protocols. It&#39;s a useful feature, most likely used by any application which handles JSON-based …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/07-12-20-122841/" />
+  <meta property="og:url" content="https://freshswift.net/post/08-12-20-120455/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.79.0" />
-  <link rel="canonical" href="https://freshswift.net/post/07-12-20-122841/" />
+  <link rel="canonical" href="https://freshswift.net/post/08-12-20-120455/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://www.swiftbysundell.com/tips/statically-computed-default-property-values/">
+        <a href="https://github.com/apple/swift-evolution/blob/main/proposals/0295-codable-synthesis-for-enums-with-associated-values.md">
 
           
           
 
-            <h2 class="post-title">Statically computed default property values</h2>
+            <h2 class="post-title">Codable synthesis for enums with associated values</h2>
 
             
               <h3 class="post-subtitle">
-                As John Sundell writes in the introduction to this short post, defining default values for our API properties can improve the usability of our APIs while still enabling customization when needed. With that in mind, John shares a tip for setting a default property value while also reminding us of a crucial difference between a lazy property and a non-lazy one.
+                Swift 4 introduced support for automatically synthesizing conformance to the Encodable and Decodable protocols. It&#39;s a useful feature, most likely used by any application which handles JSON-based network requests. This Swift evolution pitch from Dario Rexin proposes extending auto-synthesis of these conformances to enums with associated values. I&#39;m sure we will see this in an upcoming Swift version.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on December 7, 2020
+            Posted on December 8, 2020
           </p>
         
 
@@ -166,9 +166,11 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/property">property</a>&nbsp;
+              #<a href="/tags/evolution">evolution</a>&nbsp;
             
-              #<a href="/tags/lazy">lazy</a>&nbsp;
+              #<a href="/tags/enum">enum</a>&nbsp;
+            
+              #<a href="/tags/codable">codable</a>&nbsp;
             
           </span>
         
@@ -178,13 +180,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/06-12-20-120615/" data-toggle="tooltip" data-placement="top" title="Testing the UI without UI Testing in Swift">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/07-12-20-122841/" data-toggle="tooltip" data-placement="top" title="Statically computed default property values">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/08-12-20-120455/" data-toggle="tooltip" data-placement="top" title="Codable synthesis for enums with associated values">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
