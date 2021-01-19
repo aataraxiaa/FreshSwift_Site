@@ -4,10 +4,19 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What type is self in a Swift self-executing anonymous closure used to initialize a stored property?</title>
+      <link>https://freshswift.net/post/19-01-21-104618/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/19-01-21-104618/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Result in Swift: Getting started with Code Examples</title>
