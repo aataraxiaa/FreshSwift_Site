@@ -4,21 +4,31 @@
   
   <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/post/12-02-21-122316/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://freshswift.net/tags/swift-5.4/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/server/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freshswift.net/tags/swift-5.4/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -284,11 +294,6 @@
   
   <url>
     <loc>https://freshswift.net/post/26-10-20-084153/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freshswift.net/tags/server/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
   </url>
   
