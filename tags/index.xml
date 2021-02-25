@@ -4,10 +4,37 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>nullability</title>
+      <link>https://freshswift.net/tags/nullability/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/nullability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>objective-c</title>
+      <link>https://freshswift.net/tags/objective-c/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/objective-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optional</title>
+      <link>https://freshswift.net/tags/optional/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/optional/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>testing</title>
@@ -478,15 +505,6 @@
     </item>
     
     <item>
-      <title>optional</title>
-      <link>https://freshswift.net/tags/optional/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/optional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>widgetkit</title>
       <link>https://freshswift.net/tags/widgetkit/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
@@ -519,15 +537,6 @@
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/dynamic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>objective-c</title>
-      <link>https://freshswift.net/tags/objective-c/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/objective-c/</guid>
       <description></description>
     </item>
     
