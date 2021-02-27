@@ -4,10 +4,28 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gcd</title>
+      <link>https://freshswift.net/tags/gcd/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/gcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operation</title>
+      <link>https://freshswift.net/tags/operation/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/operation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>generics</title>
@@ -2409,15 +2427,6 @@
       <pubDate>Wed, 07 Jun 2017 11:18:17 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/valuetype/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gcd</title>
-      <link>https://freshswift.net/tags/gcd/</link>
-      <pubDate>Sun, 04 Jun 2017 15:11:15 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/gcd/</guid>
       <description></description>
     </item>
     
