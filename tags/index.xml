@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>spm</title>
+      <link>https://freshswift.net/tags/spm/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/spm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>typealias</title>
@@ -618,15 +627,6 @@
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/grid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swiftpm</title>
-      <link>https://freshswift.net/tags/swiftpm/</link>
-      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swiftpm/</guid>
       <description></description>
     </item>
     

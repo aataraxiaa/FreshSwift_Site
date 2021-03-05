@@ -4,10 +4,19 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distributing closed-source frameworks with SPM</title>
+      <link>https://freshswift.net/post/05-03-21-135252/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/05-03-21-135252/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variable, Tuple, Closure, and Generic Typealias in Swift</title>

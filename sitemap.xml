@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/post/05-03-21-135252/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/spm/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/typealias/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
@@ -495,9 +501,6 @@
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/26-08-20-082343/</loc>
-    <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swiftpm/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/tools/</loc>
