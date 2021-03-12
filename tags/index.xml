@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>string</title>
+      <link>https://freshswift.net/tags/string/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/string/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>core data</title>
@@ -1059,15 +1068,6 @@
       <pubDate>Wed, 10 Oct 2018 08:46:08 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/interpolation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>string</title>
-      <link>https://freshswift.net/tags/string/</link>
-      <pubDate>Wed, 10 Oct 2018 08:46:08 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/string/</guid>
       <description></description>
     </item>
     
