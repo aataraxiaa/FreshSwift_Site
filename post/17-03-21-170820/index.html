@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Exploiting String Interpolation For Fun And For Profit</title>
-  <meta property="og:title" content="Exploiting String Interpolation For Fun And For Profit" />
-  <meta name="twitter:title" content="Exploiting String Interpolation For Fun And For Profit" />
-  <meta name="description" content="String interpolation allows us to construct a Swift String value from a mix of constants, variables, literals, and expressions. In this post, Dave Delong gets creative with interpolation, creating what he describes as a solution in search of a problem.">
-  <meta property="og:description" content="String interpolation allows us to construct a Swift String value from a mix of constants, variables, literals, and expressions. In this post, Dave Delong gets creative with interpolation, creating what he describes as a solution in search of a problem.">
-  <meta name="twitter:description" content="String interpolation allows us to construct a Swift String value from a mix of constants, variables, literals, and expressions. In this post, Dave Delong gets creative with interpolation, creating …">
+  <title>How to use @autoclosure in Swift to improve performance</title>
+  <meta property="og:title" content="How to use @autoclosure in Swift to improve performance" />
+  <meta name="twitter:title" content="How to use @autoclosure in Swift to improve performance" />
+  <meta name="description" content="An autoclosure is a Swift closure that is automatically created to wrap an expression passed as a function argument. In this post, Antoine Van Der Lee demonstrates how we can use autoclosures and provides examples of Swift APIs which use this feature.">
+  <meta property="og:description" content="An autoclosure is a Swift closure that is automatically created to wrap an expression passed as a function argument. In this post, Antoine Van Der Lee demonstrates how we can use autoclosures and provides examples of Swift APIs which use this feature.">
+  <meta name="twitter:description" content="An autoclosure is a Swift closure that is automatically created to wrap an expression passed as a function argument. In this post, Antoine Van Der Lee demonstrates how we can use autoclosures and …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/12-03-21-142012/" />
+  <meta property="og:url" content="https://freshswift.net/post/17-03-21-170820/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.81.0" />
-  <link rel="canonical" href="https://freshswift.net/post/12-03-21-142012/" />
+  <link rel="canonical" href="https://freshswift.net/post/17-03-21-170820/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://davedelong.com/blog/2021/03/04/exploiting-string-interpolation-for-fun-and-for-profit/">
+        <a href="https://www.avanderlee.com/swift/autoclosure/">
 
           
           
 
-            <h2 class="post-title">Exploiting String Interpolation For Fun And For Profit</h2>
+            <h2 class="post-title">How to use @autoclosure in Swift to improve performance</h2>
 
             
               <h3 class="post-subtitle">
-                String interpolation allows us to construct a Swift String value from a mix of constants, variables, literals, and expressions. In this post, Dave Delong gets creative with interpolation, creating what he describes as a solution in search of a problem.
+                An autoclosure is a Swift closure that is automatically created to wrap an expression passed as a function argument. In this post, Antoine Van Der Lee demonstrates how we can use autoclosures and provides examples of Swift APIs which use this feature.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on March 12, 2021
+            Posted on March 17, 2021
           </p>
         
 
@@ -166,7 +166,7 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/string">string</a>&nbsp;
+              #<a href="/tags/autoclosure">autoclosure</a>&nbsp;
             
           </span>
         
@@ -176,13 +176,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/08-03-21-134256/" data-toggle="tooltip" data-placement="top" title="Core Store">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/12-03-21-142012/" data-toggle="tooltip" data-placement="top" title="Exploiting String Interpolation For Fun And For Profit">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/17-03-21-170820/" data-toggle="tooltip" data-placement="top" title="How to use @autoclosure in Swift to improve performance">Next Post &rarr;</a>
-          </li>
         
       </ul>
 
