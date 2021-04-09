@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/closure/</link>
     <description>Recent content in closure on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/closure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Swift closures are not Equatable</title>
+      <link>https://freshswift.net/post/09-04-21-142422/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/09-04-21-142422/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What type is self in a Swift self-executing anonymous closure used to initialize a stored property?</title>
