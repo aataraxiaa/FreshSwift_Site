@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/post/12-04-21-142148/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/property-wrapper/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/tags/closure/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,15 +27,6 @@
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/equatable/</loc>
-    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/09-04-21-142422/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/06-04-21-155635/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/objective-c/</loc>
@@ -586,9 +592,6 @@
   </url><url>
     <loc>https://freshswift.net/tags/function-builders/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/property-wrapper/</loc>
-    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/16-08-20-082312/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>

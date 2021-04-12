@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Custom Property Wrappers for SwiftUI</title>
+      <link>https://freshswift.net/post/12-04-21-142148/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/12-04-21-142148/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftOnTap - Complete SwiftUI Docs with Examples</title>
