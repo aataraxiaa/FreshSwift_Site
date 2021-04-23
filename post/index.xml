@@ -4,10 +4,19 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Combine’s futures and subjects</title>
+      <link>https://freshswift.net/post/23-04-21-125123/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/23-04-21-125123/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swift Result Builders: The Basics You Need to Know!</title>
