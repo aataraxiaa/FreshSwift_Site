@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/mvvm/</link>
     <description>Recent content in MVVM on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 23 May 2017 07:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/mvvm/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Extending UIKit with Combine, MVVM and Unit Tests</title>
+      <link>https://freshswift.net/post/27-04-21-155217/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/27-04-21-155217/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Protocols and MVVM in Swift to avoid repetition</title>

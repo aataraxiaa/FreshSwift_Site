@@ -10,20 +10,29 @@
     
     
     <item>
+      <title>combine</title>
+      <link>https://freshswift.net/tags/combine/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/combine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVVM</title>
+      <link>https://freshswift.net/tags/mvvm/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/mvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>testing</title>
       <link>https://freshswift.net/tags/testing/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>combine</title>
-      <link>https://freshswift.net/tags/combine/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/combine/</guid>
       <description></description>
     </item>
     
@@ -2517,15 +2526,6 @@
       <pubDate>Wed, 24 May 2017 07:47:54 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/lazycollection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MVVM</title>
-      <link>https://freshswift.net/tags/mvvm/</link>
-      <pubDate>Tue, 23 May 2017 07:37:03 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/mvvm/</guid>
       <description></description>
     </item>
     

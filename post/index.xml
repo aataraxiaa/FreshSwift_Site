@@ -10,6 +10,15 @@
     
     
     <item>
+      <title>Extending UIKit with Combine, MVVM and Unit Tests</title>
+      <link>https://freshswift.net/post/27-04-21-155217/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/27-04-21-155217/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The hidden cost of @testable</title>
       <link>https://freshswift.net/post/27-04-21-153459/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
