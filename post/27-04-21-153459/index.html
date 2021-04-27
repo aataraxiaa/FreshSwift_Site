@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Using Combine’s futures and subjects</title>
-  <meta property="og:title" content="Using Combine’s futures and subjects" />
-  <meta name="twitter:title" content="Using Combine’s futures and subjects" />
-  <meta name="description" content="Apple&#39;s Combine framework provides a declarative Swift API for processing asynchronous values over time. In this post, John Sundell demonstrates how some of Combine&#39;s convenience APIs can be used to wrap existing asynchronous APIs.">
-  <meta property="og:description" content="Apple&#39;s Combine framework provides a declarative Swift API for processing asynchronous values over time. In this post, John Sundell demonstrates how some of Combine&#39;s convenience APIs can be used to wrap existing asynchronous APIs.">
-  <meta name="twitter:description" content="Apple&#39;s Combine framework provides a declarative Swift API for processing asynchronous values over time. In this post, John Sundell demonstrates how some of Combine&#39;s convenience APIs can be used to …">
+  <title>The hidden cost of @testable</title>
+  <meta property="og:title" content="The hidden cost of @testable" />
+  <meta name="twitter:title" content="The hidden cost of @testable" />
+  <meta name="description" content="Swift&#39;s @testable annotation affects how a module is imported, changing its access control to simplify testing. In this interesting post, Paul Samuels argues that there are hidden costs to using this feature. I don&#39;t entirely agree with everything Paul states, but it&#39;s always good to consider a different point of view.">
+  <meta property="og:description" content="Swift&#39;s @testable annotation affects how a module is imported, changing its access control to simplify testing. In this interesting post, Paul Samuels argues that there are hidden costs to using this feature. I don&#39;t entirely agree with everything Paul states, but it&#39;s always good to consider a different point of view.">
+  <meta name="twitter:description" content="Swift&#39;s @testable annotation affects how a module is imported, changing its access control to simplify testing. In this interesting post, Paul Samuels argues that there are hidden costs to using this …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/post/23-04-21-125123/" />
+  <meta property="og:url" content="https://freshswift.net/post/27-04-21-153459/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.82.1" />
-  <link rel="canonical" href="https://freshswift.net/post/23-04-21-125123/" />
+  <link rel="canonical" href="https://freshswift.net/post/27-04-21-153459/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -133,16 +133,16 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article class="post-preview">
-        <a href="https://swiftbysundell.com/articles/using-combine-futures-and-subjects/">
+        <a href="https://paul-samuels.com/blog/2021/03/29/thoughts-on-testable-import/">
 
           
           
 
-            <h2 class="post-title">Using Combine’s futures and subjects</h2>
+            <h2 class="post-title">The hidden cost of @testable</h2>
 
             
               <h3 class="post-subtitle">
-                Apple&#39;s Combine framework provides a declarative Swift API for processing asynchronous values over time. In this post, John Sundell demonstrates how some of Combine&#39;s convenience APIs can be used to wrap existing asynchronous APIs.
+                Swift&#39;s @testable annotation affects how a module is imported, changing its access control to simplify testing. In this interesting post, Paul Samuels argues that there are hidden costs to using this feature. I don&#39;t entirely agree with everything Paul states, but it&#39;s always good to consider a different point of view.
               </h3>
             
 
@@ -153,7 +153,7 @@ if (!doNotTrack) {
         
         
           <p class="post-meta">
-            Posted on April 23, 2021
+            Posted on April 27, 2021
           </p>
         
 
@@ -166,7 +166,7 @@ if (!doNotTrack) {
         
           <span class="post-meta">
             
-              #<a href="/tags/combine">combine</a>&nbsp;
+              #<a href="/tags/testing">testing</a>&nbsp;
             
           </span>
         
@@ -176,13 +176,9 @@ if (!doNotTrack) {
       <ul class="pager blog-pager">
         
           <li class="previous">
-            <a href="https://freshswift.net/post/13-04-21-153849/" data-toggle="tooltip" data-placement="top" title="Swift Result Builders: The Basics You Need to Know!">&larr; Previous Post</a>
+            <a href="https://freshswift.net/post/23-04-21-125123/" data-toggle="tooltip" data-placement="top" title="Using Combine’s futures and subjects">&larr; Previous Post</a>
           </li>
         
-        
-          <li class="next">
-            <a href="https://freshswift.net/post/27-04-21-153459/" data-toggle="tooltip" data-placement="top" title="The hidden cost of @testable">Next Post &rarr;</a>
-          </li>
         
       </ul>
 

@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/testing/</link>
     <description>Recent content in testing on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The hidden cost of @testable</title>
+      <link>https://freshswift.net/post/27-04-21-153459/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/27-04-21-153459/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>XCTest tips and tricks that can level up your Swift testing</title>
