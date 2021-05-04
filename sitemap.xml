@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/tags/concurrency/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/04-05-21-132740/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/tags/combine/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/27-04-21-155217/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/tags/mvvm/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/testing/</loc>
@@ -177,9 +183,6 @@
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/16-12-20-104855/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/concurrency/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/evolution/</loc>
