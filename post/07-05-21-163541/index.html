@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>singleton</title>
-  <meta property="og:title" content="singleton" />
-  <meta name="twitter:title" content="singleton" />
+  <title>What’s the difference between a singleton and a shared instance in Swift?</title>
+  <meta property="og:title" content="What’s the difference between a singleton and a shared instance in Swift?" />
+  <meta name="twitter:title" content="What’s the difference between a singleton and a shared instance in …" />
+  <meta name="description" content="The Singleton pattern is a well-known design pattern that aims to allow exactly one single instantiation of a type. A similar pattern often used in iOS development is to create a shared instance of an object that can be accessed from anywhere in a project. In this short post, Donny Wals explains the subtle difference between the two.">
+  <meta property="og:description" content="The Singleton pattern is a well-known design pattern that aims to allow exactly one single instantiation of a type. A similar pattern often used in iOS development is to create a shared instance of an object that can be accessed from anywhere in a project. In this short post, Donny Wals explains the subtle difference between the two.">
+  <meta name="twitter:description" content="The Singleton pattern is a well-known design pattern that aims to allow exactly one single instantiation of a type. A similar pattern often used in iOS development is to create a shared instance of an …">
   <meta name="author" content=""/>
   <link href='https://freshswift.net/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
@@ -15,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
   <meta name="twitter:creator" content="@fresh_swift" />
-  <meta property="og:url" content="https://freshswift.net/tags/singleton/" />
+  <meta property="og:url" content="https://freshswift.net/post/07-05-21-163541/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Fresh Swift" />
 
   <meta name="generator" content="Hugo 0.83.1" />
-  <link rel="canonical" href="https://freshswift.net/tags/singleton/" />
+  <link rel="canonical" href="https://freshswift.net/post/07-05-21-163541/" />
   <link rel="alternate" href="https://freshswift.net/index.xml" type="application/rss+xml" title="Fresh Swift">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -96,14 +99,27 @@ if (!doNotTrack) {
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>#singleton</h1>
-              <hr class="small">
+            <div class="post-heading">
+                
+                  
+                  
+                
             </div>
           </div>
         </div>
@@ -111,112 +127,68 @@ if (!doNotTrack) {
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article class="post-preview">
+        <a href="https://www.donnywals.com/whats-the-difference-between-a-singleton-and-a-shared-instance-in-swift/">
+
+          
+          
+
+            <h2 class="post-title">What’s the difference between a singleton and a shared instance in Swift?</h2>
+
+            
+              <h3 class="post-subtitle">
+                The Singleton pattern is a well-known design pattern that aims to allow exactly one single instantiation of a type. A similar pattern often used in iOS development is to create a shared instance of an object that can be accessed from anywhere in a project. In this short post, Donny Wals explains the subtle difference between the two.
+              </h3>
+            
+
+          
+
+        </a>
+
+        
+        
+          <p class="post-meta">
+            Posted on May 7, 2021
+          </p>
         
 
-        <div class="posts-list">
+        <div class="post-entry">
           
-            <article class="post-preview">
-              <a href="https://www.donnywals.com/whats-the-difference-between-a-singleton-and-a-shared-instance-in-swift/">
-                <h2 class="post-title">What’s the difference between a singleton and a shared instance in Swift?</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    The Singleton pattern is a well-known design pattern that aims to allow exactly one single instantiation of a type. A similar pattern often used in iOS development is to create a shared instance of an object that can be accessed from anywhere in a project. In this short post, Donny Wals explains the subtle difference between the two.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on May 7, 2021
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/singleton">singleton</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift">
-                <h2 class="post-title">Avoiding singletons in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    John Sundell makes his case for why we should avoid using singletons. John first describes why singletons are bad, and then demonstrates some techniques to help us avoid them. Although I do agree that singletons sometimes present their own set of problems, I am not on the side of avoiding them completely. When used with care, they sometimes can be a valid solution.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on October 19, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/singleton">singleton</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="http://www.jessesquires.com/blog/writing-better-singletons-in-swift/">
-                <h2 class="post-title">Writing better singletons in Swift</h2>
-
-                
-                  <h3 class="post-subtitle">
-                    Singletons, whether loved or loathed, are a  fact of software development. This is especially evident in iOS development, where they are used in many of the frameworks. In this post, Jesse Squires looks at why singletons sometimes are the right choice, and provides some guidance on how to create singletons the right way.
-                  </h3>
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on June 5, 2017
-              </p>
-              <div class="post-entry">
-                
-                  
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="/tags/singleton">singleton</a>&nbsp;
-                  
-                    #<a href="/tags/ios">iOS</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
+            
           
         </div>
 
         
-      </div>
+          <span class="post-meta">
+            
+              #<a href="/tags/singleton">singleton</a>&nbsp;
+            
+          </span>
+        
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://freshswift.net/post/04-05-21-132740/" data-toggle="tooltip" data-placement="top" title="Concurrency Done Right">&larr; Previous Post</a>
+          </li>
+        
+        
+      </ul>
+
+      
+        
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">
