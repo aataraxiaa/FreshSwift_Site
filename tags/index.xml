@@ -4,10 +4,64 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>codable</title>
+      <link>https://freshswift.net/tags/codable/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/codable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collection</title>
+      <link>https://freshswift.net/tags/collection/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolution</title>
+      <link>https://freshswift.net/tags/evolution/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://freshswift.net/tags/open-source/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polymorphic</title>
+      <link>https://freshswift.net/tags/polymorphic/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/polymorphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sequence</title>
+      <link>https://freshswift.net/tags/sequence/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/sequence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>singleton</title>
@@ -298,29 +352,11 @@
     </item>
     
     <item>
-      <title>evolution</title>
-      <link>https://freshswift.net/tags/evolution/</link>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>diagram</title>
       <link>https://freshswift.net/tags/diagram/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/diagram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>codable</title>
-      <link>https://freshswift.net/tags/codable/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/codable/</guid>
       <description></description>
     </item>
     
@@ -483,33 +519,6 @@
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>collection</title>
-      <link>https://freshswift.net/tags/collection/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/collection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
-      <link>https://freshswift.net/tags/open-source/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sequence</title>
-      <link>https://freshswift.net/tags/sequence/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/sequence/</guid>
       <description></description>
     </item>
     
@@ -1293,15 +1302,6 @@
       <pubDate>Tue, 14 Aug 2018 16:49:26 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/arguments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>polymorphic</title>
-      <link>https://freshswift.net/tags/polymorphic/</link>
-      <pubDate>Mon, 13 Aug 2018 13:28:58 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/polymorphic/</guid>
       <description></description>
     </item>
     

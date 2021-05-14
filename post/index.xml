@@ -4,10 +4,28 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bringing Polymorphism to Codable</title>
+      <link>https://freshswift.net/post/14-05-21-141449/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/14-05-21-141449/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing Swift Collections</title>
+      <link>https://freshswift.net/post/14-05-21-133658/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/14-05-21-133658/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What’s the difference between a singleton and a shared instance in Swift?</title>

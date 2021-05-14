@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/polymorphic/</link>
     <description>Recent content in polymorphic on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Aug 2018 13:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/polymorphic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bringing Polymorphism to Codable</title>
+      <link>https://freshswift.net/post/14-05-21-141449/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/post/14-05-21-141449/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Polymorphic methods in enums</title>
