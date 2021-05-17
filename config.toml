@@ -2,6 +2,7 @@
 publishDir = "public"
 
 baseurl = "https://freshswift.net"
+RSSLink = "index.xml"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Fresh Swift"
