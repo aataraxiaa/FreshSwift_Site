@@ -4,10 +4,19 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>swift 5.4</title>
+      <link>https://freshswift.net/tags/swift-5.4/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freshswift.net/tags/swift-5.4/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>codable</title>
@@ -303,15 +312,6 @@
       <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/tags/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swift 5.4</title>
-      <link>https://freshswift.net/tags/swift-5.4/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://freshswift.net/tags/swift-5.4/</guid>
       <description></description>
     </item>
     
