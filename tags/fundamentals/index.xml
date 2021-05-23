@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fundamentals on Fresh Swift</title>
     <link>https://freshswift.net/tags/fundamentals/</link>
     <description>Recent content in fundamentals on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jul 2017 13:14:24 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/fundamentals/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Jul 2017 13:14:24 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/fundamentals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statements, messages and reducers</title>
       <link>https://freshswift.net/post/-knyhqrsbezvhjlsqpp9/</link>

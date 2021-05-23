@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>compilation on Fresh Swift</title>
     <link>https://freshswift.net/tags/compilation/</link>
     <description>Recent content in compilation on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Aug 2018 08:40:58 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/compilation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 08 Aug 2018 08:40:58 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/compilation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conditional Compilation in Swift, Part 1</title>
       <link>https://freshswift.net/post/-ljngyjm0fmnvd9h-ybr/</link>

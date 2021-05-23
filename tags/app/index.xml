@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>app on Fresh Swift</title>
     <link>https://freshswift.net/tags/app/</link>
     <description>Recent content in app on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/app/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SwiftUI Kit - A SwiftUI system components and interactions demo app</title>
       <link>https://freshswift.net/post/12-08-20-073516/</link>

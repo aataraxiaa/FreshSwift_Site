@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>crash on Fresh Swift</title>
     <link>https://freshswift.net/tags/crash/</link>
     <description>Recent content in crash on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Mar 2018 08:00:53 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/crash/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 15 Mar 2018 08:00:53 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/crash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solving a Mysterious Heap Corruption Crash </title>
       <link>https://freshswift.net/post/-l7cfg5ywff_uzoirtmv/</link>

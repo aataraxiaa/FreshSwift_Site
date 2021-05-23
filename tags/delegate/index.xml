@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>delegate on Fresh Swift</title>
     <link>https://freshswift.net/tags/delegate/</link>
     <description>Recent content in delegate on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Jun 2018 07:35:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/delegate/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 03 Jun 2018 07:35:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/delegate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multicast Delegate and Delegates Composition</title>
       <link>https://freshswift.net/post/-le3zx9fmgf6wq6efzpi/</link>

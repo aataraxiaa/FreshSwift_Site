@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>injection on Fresh Swift</title>
     <link>https://freshswift.net/tags/injection/</link>
     <description>Recent content in injection on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Jun 2018 00:53:37 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/injection/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 09 Jun 2018 00:53:37 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/injection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Injection In Swift</title>
       <link>https://freshswift.net/post/-lex1bhpundzy8hyqmt_/</link>

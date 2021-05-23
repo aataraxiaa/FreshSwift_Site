@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kvo on Fresh Swift</title>
     <link>https://freshswift.net/tags/kvo/</link>
     <description>Recent content in kvo on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Jul 2017 10:14:23 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/kvo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 22 Jul 2017 10:14:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/kvo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Struct References</title>
       <link>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</link>

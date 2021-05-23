@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deeplink on Fresh Swift</title>
     <link>https://freshswift.net/tags/deeplink/</link>
     <description>Recent content in deeplink on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/deeplink/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/deeplink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handling deeplinks in iOS 14 with onOpenURL</title>
       <link>https://freshswift.net/post/24-07-20-082118/</link>

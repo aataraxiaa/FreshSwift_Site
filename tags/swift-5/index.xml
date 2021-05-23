@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>swift 5 on Fresh Swift</title>
     <link>https://freshswift.net/tags/swift-5/</link>
     <description>Recent content in swift 5 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/swift-5/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swift-5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to declare Swift protocol for a specific class</title>
       <link>https://freshswift.net/post/11-08-20-071309/</link>

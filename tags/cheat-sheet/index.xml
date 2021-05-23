@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cheat sheet on Fresh Swift</title>
     <link>https://freshswift.net/tags/cheat-sheet/</link>
     <description>Recent content in cheat sheet on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Apr 2017 07:56:41 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/cheat-sheet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 27 Apr 2017 07:56:41 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/cheat-sheet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift String Cheat Sheet</title>
       <link>https://freshswift.net/post/-kj8pxg0mf2yyllch9qe/</link>

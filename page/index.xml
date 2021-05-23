@@ -1,24 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Fresh Swift</title>
     <link>https://freshswift.net/page/</link>
     <description>Recent content in Pages on Fresh Swift</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-        <atom:link href="https://freshswift.net/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://freshswift.net/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fresh Swift</title>
       <link>https://freshswift.net/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://freshswift.net/page/about/</guid>
-      <description>&lt;p&gt;Stay up to date with the latest Swift blog posts, articles, evolution proposals etc.&lt;/p&gt;
-&lt;p&gt;Want to get involved and suggest a post? Awesome!! Simply tweet &lt;a href=&#34;https://twitter.com/superpeteblaze&#34;&gt;@superpeteblaze&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Fresh Swift is curated by Pete Smith, &lt;a href=&#34;https://twitter.com/superpeteblaze&#34;&gt;@superpeteblaze&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Swift is a trademark of Apple Inc.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Stay up to date with the latest Swift blog posts, articles, evolution proposals etc.
+Want to get involved and suggest a post? Awesome!! Simply tweet @superpeteblaze
+Fresh Swift is curated by Pete Smith, @superpeteblaze
+Swift is a trademark of Apple Inc.</description>
     </item>
     
   </channel>

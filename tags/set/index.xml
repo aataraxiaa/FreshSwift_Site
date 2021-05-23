@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>set on Fresh Swift</title>
     <link>https://freshswift.net/tags/set/</link>
     <description>Recent content in set on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 21 Mar 2018 07:36:33 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/set/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 21 Mar 2018 07:36:33 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/set/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The power of sets in Swift</title>
       <link>https://freshswift.net/post/-l86ue2zahy_13qgtztl/</link>

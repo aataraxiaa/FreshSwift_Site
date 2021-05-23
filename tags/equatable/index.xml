@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>equatable on Fresh Swift</title>
     <link>https://freshswift.net/tags/equatable/</link>
     <description>Recent content in equatable on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/equatable/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/equatable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Swift closures are not Equatable</title>
       <link>https://freshswift.net/post/09-04-21-142422/</link>

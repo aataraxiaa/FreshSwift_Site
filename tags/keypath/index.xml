@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>keypath on Fresh Swift</title>
     <link>https://freshswift.net/tags/keypath/</link>
     <description>Recent content in keypath on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/keypath/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/keypath/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift KeyPaths under a different optic</title>
       <link>https://freshswift.net/post/02-11-20-075117/</link>

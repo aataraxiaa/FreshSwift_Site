@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>retain on Fresh Swift</title>
     <link>https://freshswift.net/tags/retain/</link>
     <description>Recent content in retain on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Nov 2018 17:28:55 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/retain/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 27 Nov 2018 17:28:55 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/retain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit testing retain cycles</title>
       <link>https://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</link>

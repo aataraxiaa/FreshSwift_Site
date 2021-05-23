@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>date on Fresh Swift</title>
     <link>https://freshswift.net/tags/date/</link>
     <description>Recent content in date on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Dec 2017 11:37:27 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/date/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 14 Dec 2017 11:37:27 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/date/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Codable With Custom Dates</title>
       <link>https://freshswift.net/post/-l0jo99fb05lti4drvej/</link>

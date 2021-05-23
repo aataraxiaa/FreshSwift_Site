@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>staticanalysis on Fresh Swift</title>
     <link>https://freshswift.net/tags/staticanalysis/</link>
     <description>Recent content in staticanalysis on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Jun 2017 14:12:30 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/staticanalysis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 09 Jun 2017 14:12:30 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/staticanalysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift: Close to greatness in programming language design</title>
       <link>https://freshswift.net/post/-kmcbkqz1jchgcifrmbb/</link>

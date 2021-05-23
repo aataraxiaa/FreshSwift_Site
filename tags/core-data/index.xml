@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>core data on Fresh Swift</title>
     <link>https://freshswift.net/tags/core-data/</link>
     <description>Recent content in core data on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/core-data/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/core-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Core Store</title>
       <link>https://freshswift.net/post/08-03-21-134256/</link>

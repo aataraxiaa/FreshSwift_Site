@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>style on Fresh Swift</title>
     <link>https://freshswift.net/tags/style/</link>
     <description>Recent content in style on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 May 2017 19:44:08 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/style/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 08 May 2017 19:44:08 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/style/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Readable Swift: The Curious Case of Not</title>
       <link>https://freshswift.net/post/-kjd_mbc2l-l9h9jc8pj/</link>

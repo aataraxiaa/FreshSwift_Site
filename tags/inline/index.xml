@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inline on Fresh Swift</title>
     <link>https://freshswift.net/tags/inline/</link>
     <description>Recent content in inline on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jul 2018 16:22:14 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/inline/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Jul 2018 16:22:14 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/inline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Forbidden @inline Attribute in Swift</title>
       <link>https://freshswift.net/post/-lgvwtc1gkt6uukflyqn/</link>

@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plugin on Fresh Swift</title>
     <link>https://freshswift.net/tags/plugin/</link>
     <description>Recent content in plugin on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Nov 2017 08:36:16 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 24 Nov 2017 08:36:16 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using child view controllers as plugins in Swift</title>
       <link>https://freshswift.net/post/-kzh9t2tjrvgrfispps0/</link>

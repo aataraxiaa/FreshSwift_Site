@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>metatype on Fresh Swift</title>
     <link>https://freshswift.net/tags/metatype/</link>
     <description>Recent content in metatype on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 08 Nov 2018 11:07:06 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/metatype/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 08 Nov 2018 11:07:06 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/metatype/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What&#39;s .self, .Type and .Protocol? Understanding Swift Metatypes</title>
       <link>https://freshswift.net/post/-lqn-gnejrcqrtvewfsk/</link>

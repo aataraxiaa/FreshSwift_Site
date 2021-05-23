@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>formatting on Fresh Swift</title>
     <link>https://freshswift.net/tags/formatting/</link>
     <description>Recent content in formatting on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 May 2017 07:25:17 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/formatting/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 08 May 2017 07:25:17 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/formatting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Swiftlint to avoid conflict </title>
       <link>https://freshswift.net/post/-kjawewo6t8tu8co1yq7/</link>

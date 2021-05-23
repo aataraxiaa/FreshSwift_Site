@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arguments on Fresh Swift</title>
     <link>https://freshswift.net/tags/arguments/</link>
     <description>Recent content in arguments on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Aug 2018 16:49:26 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/arguments/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 14 Aug 2018 16:49:26 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/arguments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trimming long argument lists in Swift</title>
       <link>https://freshswift.net/post/-ljtkta7t2yitmruxoik/</link>

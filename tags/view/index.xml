@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>view on Fresh Swift</title>
     <link>https://freshswift.net/tags/view/</link>
     <description>Recent content in view on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Mar 2018 10:20:34 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/view/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 23 Mar 2018 10:20:34 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/view/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preventing views from being model aware in Swift</title>
       <link>https://freshswift.net/post/-l8hmx6lxvt0iuhj_z12/</link>

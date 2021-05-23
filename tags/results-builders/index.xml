@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>results builders on Fresh Swift</title>
     <link>https://freshswift.net/tags/results-builders/</link>
     <description>Recent content in results builders on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/results-builders/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/results-builders/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Result Builders: The Basics You Need to Know!</title>
       <link>https://freshswift.net/post/13-04-21-153849/</link>

@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lifecycle on Fresh Swift</title>
     <link>https://freshswift.net/tags/lifecycle/</link>
     <description>Recent content in lifecycle on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/lifecycle/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/lifecycle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SwiftUI View Lifecycle</title>
       <link>https://freshswift.net/post/25-11-20-073131/</link>

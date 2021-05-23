@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>operators on Fresh Swift</title>
     <link>https://freshswift.net/tags/operators/</link>
     <description>Recent content in operators on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 May 2017 15:57:23 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/operators/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 02 May 2017 15:57:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/operators/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift range containment operator</title>
       <link>https://freshswift.net/post/-kj8slimtbokwidd2ygd/</link>

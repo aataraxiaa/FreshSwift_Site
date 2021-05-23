@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>observe on Fresh Swift</title>
     <link>https://freshswift.net/tags/observe/</link>
     <description>Recent content in observe on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Aug 2018 10:45:21 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/observe/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 29 Aug 2018 10:45:21 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/observe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Property Observers</title>
       <link>https://freshswift.net/post/-ll4hpzsua1j-wvt-clz/</link>

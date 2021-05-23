@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>demangle on Fresh Swift</title>
     <link>https://freshswift.net/tags/demangle/</link>
     <description>Recent content in demangle on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Jan 2018 19:05:47 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/demangle/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 07 Jan 2018 19:05:47 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/demangle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Demangler</title>
       <link>https://freshswift.net/post/-l2h-vel2xdqdgxqezpj/</link>

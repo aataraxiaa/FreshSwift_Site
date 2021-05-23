@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>forum on Fresh Swift</title>
     <link>https://freshswift.net/tags/forum/</link>
     <description>Recent content in forum on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Aug 2018 11:37:20 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/forum/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 27 Aug 2018 11:37:20 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/forum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kickstarting new official Docker support for Swift</title>
       <link>https://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</link>

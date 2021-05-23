@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spm on Fresh Swift</title>
     <link>https://freshswift.net/tags/spm/</link>
     <description>Recent content in spm on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/spm/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/spm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distributing closed-source frameworks with SPM</title>
       <link>https://freshswift.net/post/05-03-21-135252/</link>

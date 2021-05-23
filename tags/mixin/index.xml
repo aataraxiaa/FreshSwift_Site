@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mixin on Fresh Swift</title>
     <link>https://freshswift.net/tags/mixin/</link>
     <description>Recent content in mixin on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Apr 2018 13:11:05 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/mixin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Apr 2018 13:11:05 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/mixin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dependency Mixins in Swift using Protocol-Oriented-Programming</title>
       <link>https://freshswift.net/post/-l90khp1d7op-bkveazv/</link>

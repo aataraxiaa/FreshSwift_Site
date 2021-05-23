@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>typedriven on Fresh Swift</title>
     <link>https://freshswift.net/tags/typedriven/</link>
     <description>Recent content in typedriven on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 May 2017 07:40:32 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/typedriven/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 31 May 2017 07:40:32 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/typedriven/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Type-Driven Development with Swift </title>
       <link>https://freshswift.net/post/-klsrinxvlmcoxhnn27n/</link>

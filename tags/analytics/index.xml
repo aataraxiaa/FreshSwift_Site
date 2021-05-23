@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>analytics on Fresh Swift</title>
     <link>https://freshswift.net/tags/analytics/</link>
     <description>Recent content in analytics on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Dec 2017 09:41:47 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 05 Dec 2017 09:41:47 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building an enum-based analytics system in Swift</title>
       <link>https://freshswift.net/post/-l-a2n4db_e3wccgdggr/</link>

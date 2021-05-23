@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>identifier on Fresh Swift</title>
     <link>https://freshswift.net/tags/identifier/</link>
     <description>Recent content in identifier on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jul 2017 07:39:52 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/identifier/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 18 Jul 2017 07:39:52 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/identifier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strongly typed identifiers in Swift</title>
       <link>https://freshswift.net/post/-kpjct1cnhqzj_bjgenf/</link>

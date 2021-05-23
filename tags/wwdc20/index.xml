@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wwdc20 on Fresh Swift</title>
     <link>https://freshswift.net/tags/wwdc20/</link>
     <description>Recent content in wwdc20 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/wwdc20/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc20/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with WidgetKit</title>
       <link>https://freshswift.net/post/22-07-20-083925/</link>

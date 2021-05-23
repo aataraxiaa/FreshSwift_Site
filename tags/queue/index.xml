@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>queue on Fresh Swift</title>
     <link>https://freshswift.net/tags/queue/</link>
     <description>Recent content in queue on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Sep 2017 17:45:03 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/queue/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 30 Sep 2017 17:45:03 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/queue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DispatchGroup vs. OperationQueue in Swift</title>
       <link>https://freshswift.net/post/-kvit2sh5-62ka5yqoio/</link>

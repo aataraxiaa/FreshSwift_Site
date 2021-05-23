@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>result on Fresh Swift</title>
     <link>https://freshswift.net/tags/result/</link>
     <description>Recent content in result on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/result/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/result/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Result in Swift: Getting started with Code Examples</title>
       <link>https://freshswift.net/post/20-12-20-110621/</link>

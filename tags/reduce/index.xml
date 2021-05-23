@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reduce on Fresh Swift</title>
     <link>https://freshswift.net/tags/reduce/</link>
     <description>Recent content in reduce on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Jun 2018 09:41:06 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/reduce/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 22 Jun 2018 09:41:06 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/reduce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift techniques to filter duplicates out of large JSON arrays</title>
       <link>https://freshswift.net/post/-lfaramn7af4iijlxpik/</link>

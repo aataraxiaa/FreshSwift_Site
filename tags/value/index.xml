@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>value on Fresh Swift</title>
     <link>https://freshswift.net/tags/value/</link>
     <description>Recent content in value on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Sep 2018 10:43:28 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/value/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 02 Sep 2018 10:43:28 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/value/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Value-Oriented Programming </title>
       <link>https://freshswift.net/post/-lloskup10bnqqce9j43/</link>

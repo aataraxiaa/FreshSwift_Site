@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>testing on Fresh Swift</title>
     <link>https://freshswift.net/tags/testing/</link>
     <description>Recent content in testing on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/testing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The hidden cost of @testable</title>
       <link>https://freshswift.net/post/27-04-21-153459/</link>

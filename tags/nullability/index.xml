@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nullability on Fresh Swift</title>
     <link>https://freshswift.net/tags/nullability/</link>
     <description>Recent content in nullability on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/nullability/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/nullability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nil-null-mess in Objective-C and Swift</title>
       <link>https://freshswift.net/post/25-02-21-163229/</link>

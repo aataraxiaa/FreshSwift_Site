@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>library on Fresh Swift</title>
     <link>https://freshswift.net/tags/library/</link>
     <description>Recent content in library on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 Oct 2018 15:40:34 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/library/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 26 Oct 2018 15:40:34 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/library/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DropdownTitleView - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.</title>
       <link>https://freshswift.net/post/-lpl1bqiyirp_puyqgoj/</link>

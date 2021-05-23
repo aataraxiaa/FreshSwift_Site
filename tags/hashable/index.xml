@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hashable on Fresh Swift</title>
     <link>https://freshswift.net/tags/hashable/</link>
     <description>Recent content in hashable on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://freshswift.net/tags/hashable/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/hashable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reduce boilerplate code with an automatic synthesis of Equatable and Hashable conformance</title>
       <link>https://freshswift.net/post/14-10-20-073942/</link>
