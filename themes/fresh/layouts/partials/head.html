@@ -27,9 +27,6 @@
   <meta name="twitter:site" content="@{{ . }}" />
   <meta name="twitter:creator" content="@{{ . }}" />
 {{- end }}
-{{ range .AlternativeOutputFormats -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-{{ end -}}
 {{- with .Site.Params.fb_app_id }}
   <meta property="fb:app_id" content="{{ . }}" />
 {{- end }}
