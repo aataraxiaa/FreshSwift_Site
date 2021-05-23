@@ -13,10 +13,6 @@ pygmentCodeFences = true
 # Analytics
 googleAnalytics = "UA-73366940-3"
 
-[outputs]
-  home = [ "HTML", "CSS", "RSS", "JSON" ]
-  section = [ "HTML", "RSS" ]
-
 [Params]
   subtitle = "Curated Swift Articles, Videos, News & More"
   logo = "img/Icon-512@2x.png"
