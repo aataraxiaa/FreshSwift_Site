@@ -2,7 +2,6 @@
 publishDir = "public"
 
 baseurl = "https://freshswift.net"
-RSSLink = "index.xml"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Fresh Swift"
@@ -14,6 +13,9 @@ pygmentCodeFences = true
 # Analytics
 googleAnalytics = "UA-73366940-3"
 
+[outputs]
+  home = [ "HTML", "CSS", "RSS", "JSON" ]
+  section = [ "HTML", "RSS" ]
 
 [Params]
   subtitle = "Curated Swift Articles, Videos, News & More"
