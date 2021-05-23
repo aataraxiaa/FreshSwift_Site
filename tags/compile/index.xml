@@ -8,20 +8,18 @@
     <lastBuildDate>Tue, 06 Feb 2018 07:52:44 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/compile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Turning Swift compile-time safety into safety for your users</title>
-      <link>https://freshswift.net/post/-l4e5_1hkqkyk8a4fooh/</link>
+      <link>https://medium.com/anysuggestion/turning-swift-compile-time-safety-into-safety-for-your-users-4e49a8a612f3</link>
       <pubDate>Tue, 06 Feb 2018 07:52:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l4e5_1hkqkyk8a4fooh/</guid>
-      <description></description>
+      <description>Oleg Dreyman shows us how we can take advantage of Swift’s compiler to ensure we always ask the user for confirmation before performing destructive actions on their data.</description>
     </item>
     
     <item>
       <title>Speed up Swift compile time</title>
-      <link>https://freshswift.net/post/-krqvbas4yn7rij_sfrg/</link>
+      <link>https://medium.com/theappspace/speed-up-swift-compile-time-6f62d86f85e6</link>
       <pubDate>Sun, 13 Aug 2017 12:10:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-krqvbas4yn7rij_sfrg/</guid>
-      <description></description>
+      <description>Dejan Atanasov provides some tips to speed up Swift compile times. He looks at changes we can make to Xcode project configuration, together with changes to how we write our Swift code.</description>
     </item>
     
   </channel>

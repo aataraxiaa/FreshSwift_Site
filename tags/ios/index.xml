@@ -8,650 +8,578 @@
     <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting default values for NSUserDefaults</title>
-      <link>https://freshswift.net/post/08-10-20-064207/</link>
+      <link>https://sarunw.com/posts/setting-default-value-for-nsuserdefaults/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-10-20-064207/</guid>
-      <description></description>
+      <description>Apple&#39;s UserDefaults type provides an interface to the default database associated with an application. It&#39;s most commonly used to store user preferences. In this post, Sarun Wongpatcharapakorn shows us how to set default values for such stored preferences in Swift.</description>
     </item>
     
     <item>
       <title>What does @main do in Swift 5.3?</title>
-      <link>https://freshswift.net/post/06-10-20-073516/</link>
+      <link>https://useyourloaf.com/blog/what-does-main-do-in-swift-5.3/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-10-20-073516/</guid>
-      <description></description>
+      <description>Swift 5.3 introduced the @main attribute, providing a way to designate a type as the entry point of a Swift program. In this post, Keith Harrison shares what he learned when he investigated how iOS and Swift programs start when using this attribute.</description>
     </item>
     
     <item>
       <title>Handling Undo &amp; Redo in SwiftUI</title>
-      <link>https://freshswift.net/post/04-10-20-112113/</link>
+      <link>https://lostmoa.com/blog/HandlingUndoAndRedoInSwiftUI/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-10-20-112113/</guid>
-      <description></description>
+      <description>The UndoManager type, available in Apple&#39;s Foundation framework, provides a general-purpose recorder of operations that enables undo and redo actions. In this post, Matthaus Woolard describes a Provider pattern he uses to improve how UndoManager integrates with SwiftUI.</description>
     </item>
     
     <item>
       <title>Context-Bound Types</title>
-      <link>https://freshswift.net/post/01-10-20-073958/</link>
+      <link>https://www.fabisevi.ch/2020/09/21/Context-Bound-Types/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-10-20-073958/</guid>
-      <description></description>
+      <description>Writing any kind of API involves trying to balance exposing the right amount of implementation details without revealing too much. In this post, Joe Fabisevich looks at this topic and walks us through the task of creating a view controller with a header view in Swift.</description>
     </item>
     
     <item>
       <title>SwiftUI ScrollView offset</title>
-      <link>https://freshswift.net/post/03-09-20-082236/</link>
+      <link>https://fivestars.blog/swiftui/scrollview-offset.html</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-09-20-082236/</guid>
-      <description></description>
+      <description>When using scrollable view types, it&#39;s common to want to access the content offset. The content offset is the point at which the origin of the content view is offset from the origin of the scroll view. While UIKit&#39;s UIScrollView provides contentOffset, allowing us to read/write to this property, SwiftUI&#39;s ScrollView does not provide such a property. Instead, SwiftUI provides the ScrollViewReader type, which can be used in place of direct access to a content offset property. However, there might still be times when we want to directly access the content offset of a SwiftUI ScrollView, and in this post, Federico Zanetello shows us how to do that.</description>
     </item>
     
     <item>
       <title>How to Get Users’ Swipe Direction in SwiftUI</title>
-      <link>https://freshswift.net/post/29-08-20-074258/</link>
+      <link>https://medium.com/better-programming/how-to-get-users-swipe-direction-in-swiftui-b482a6a8771b</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-08-20-074258/</guid>
-      <description></description>
+      <description>SwiftUI provides the DragGesture type, which represents a dragging motion that invokes an action as the drag-event sequence changes. In this short post, Sarah shows us how we can capture the direction of a user&#39;s swipe using DragGesture.</description>
     </item>
     
     <item>
       <title>Working with an Internet Connection on iOS with Swift: Best Practices</title>
-      <link>https://freshswift.net/post/22-08-20-073206/</link>
+      <link>https://www.vadimbulavin.com/network-connectivity-on-ios-with-swift/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-08-20-073206/</guid>
-      <description></description>
+      <description>The Network and System Configuration frameworks contain several APIs for performing network-related tasks such as checking connectivity or constraining network operations. In this post, Vadim Bulavin provides a list of best practices when using these APIs in Swift.</description>
     </item>
     
     <item>
       <title>How to manage multiple sheets in SwiftUI</title>
-      <link>https://freshswift.net/post/19-08-20-071400/</link>
+      <link>https://masilotti.com/multiple-sheets-swiftui/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-08-20-071400/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s sheet modifier enables us to modally present a sheet view when a given condition is true. It&#39;s a simple way of modally presenting content and works great when presenting a single sheet from a view. However, things get slightly more complicated when presenting multiple sheets based on different conditions. In his first SwiftUI post, Joe Masilotti describes how he solved the problem of presenting multiple sheets, showing us how he went from an initial solution to a final, more reusable implementation.</description>
     </item>
     
     <item>
       <title>Self-Sizing UITableView Cells with SwiftUI</title>
-      <link>https://freshswift.net/post/14-08-20-072303/</link>
+      <link>https://noahgilmore.com/blog/swiftui-self-sizing-cells/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-08-20-072303/</guid>
-      <description></description>
+      <description>SwiftUI works with existing UI frameworks, making it possible to integrate SwiftUI views into UIKit views, and vice versa. In this really interesting post, Noah Gilmore describes his experience of implementing self-sizing UITableView cells which contain an embedded SwiftUI view.</description>
     </item>
     
     <item>
       <title>Building a Multi-platform App with SwiftUI</title>
-      <link>https://freshswift.net/post/10-08-20-074736/</link>
+      <link>https://heartbeat.fritz.ai/building-a-multi-platform-app-with-swiftui-5336bce94689</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-08-20-074736/</guid>
-      <description></description>
+      <description>The Introduction to SwiftUI session at WWDC 2020 included content that focused on using SwiftUI to build multi-platform apps - i.e apps that work on both iOS and macOS. Building such apps can be done by separately building for each platform from a single codebase, or creating a Mac Catalyst app which runs an app built for iPad on macOS. In this post, Rick Wierenga looks at the former, providing a tutorial that shows us how to use a single codebase to build a HackerNews app for each platform.</description>
     </item>
     
     <item>
       <title>Activity Indicators in SwiftUI</title>
-      <link>https://freshswift.net/post/03-08-20-073015/</link>
+      <link>https://medium.com/better-programming/activity-indicators-in-swiftui-17b66e6c0137</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-08-20-073015/</guid>
-      <description></description>
+      <description>Activity indicators and progress bars are UI components that can be used to inform users that an app is performing some task and to give them some idea of how long they will be waiting. In this post, Sarah provides some examples of such UI components implemented in SwiftUI.</description>
     </item>
     
     <item>
       <title>Entry Points in Swift: How @main and @UIApplicationMain work internally</title>
-      <link>https://freshswift.net/post/31-07-20-074228/</link>
+      <link>https://swiftrocks.com/entry-points-swift-uiapplicationmain-main</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/31-07-20-074228/</guid>
-      <description></description>
+      <description>When creating Swift command-line programs, the Swift compiler automatically generates the main C function, which is used as the program&#39;s entry point. On iOS, where the entry point needs to be more tightly controlled, Swift provides attributes that can be used to designate an app&#39;s entry point. In this post, Bruno Rocha looks at how Swift determines the entry point of an app and explains how the attributes available in iOS work internally.</description>
     </item>
     
     <item>
       <title>Infinite List Scroll with SwiftUI and Combine</title>
-      <link>https://freshswift.net/post/17-06-20/</link>
+      <link>https://www.vadimbulavin.com/infinite-list-scroll-swiftui-combine/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-06-20/</guid>
-      <description></description>
+      <description>Vadim Bulavin demonstrates how we can implement infinite scroll on iOS using SwiftUI and the Combine framework. It&#39;s a really nice, simple approach, implemented using the MVVM iOS app architecture.</description>
     </item>
     
     <item>
       <title>Scroll List to Row in SwiftUI</title>
-      <link>https://freshswift.net/post/03-06-20/</link>
+      <link>https://lostmoa.com/blog/ScrollListToRowInSwiftUI/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-06-20/</guid>
-      <description></description>
+      <description>Continuing the SwiftUI theme, this post by Natalia Panferova shows us how we can implement scroll to row for a SwiftUI List. The approach is based on the fact that currently the List view in SwiftUI is a UITableView under the hood.</description>
     </item>
     
     <item>
       <title>Getting the most out of Xcode Previews for SwiftUI</title>
-      <link>https://freshswift.net/post/01-06-20/</link>
+      <link>https://swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-06-20/</guid>
-      <description></description>
+      <description>John Sundell shows us a number of techniques and abstractions to help us make the most of Xcode 11&#39;s Preview feature. As always, John provides lots of code snippets which we can immediately start using in our own code.</description>
     </item>
     
     <item>
       <title>Combine and SwiftUI views</title>
-      <link>https://freshswift.net/post/31-05-20/</link>
+      <link>https://swiftwithmajid.com/2019/11/27/combine-and-swiftui-views/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/31-05-20/</guid>
-      <description></description>
+      <description>In this post, Majid demonstrates how we can use SwiftUI&#39;s onReceive view modifier to react to values emitted from a Combine publisher. I really like the approach of wrapping the publisher creation and onReceive logic into a custom view modifier to make it reusable.</description>
     </item>
     
     <item>
       <title>Swift tip: marking unused required initializers as unavailable</title>
-      <link>https://freshswift.net/post/29-05-20/</link>
+      <link>https://www.jessesquires.com/blog/2020/05/20/marking-unused-required-initializers-as-unavailable/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-05-20/</guid>
-      <description></description>
+      <description>Jesse Squires shares a Swift tip to help us avoid accidentally calling an irrelevant type initializer.</description>
     </item>
     
     <item>
       <title>An effective way to clear entire Userdefaults in Swift</title>
-      <link>https://freshswift.net/post/28-05-20/</link>
+      <link>https://ohmyswift.com/blog/2020/05/19/an-effective-way-to-clear-entire-userdefaults-in-swift/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-05-20/</guid>
-      <description></description>
+      <description>This is a nice, simple Swift tip from Oh my Swift. It uses an iOS app&#39;s bundle identifier to simplify the task of clearing all the UserDefault values associated with the app.</description>
     </item>
     
     <item>
       <title>DropdownTitleView - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.</title>
-      <link>https://freshswift.net/post/-lpl1bqiyirp_puyqgoj/</link>
+      <link>https://github.com/GitHawkApp/DropdownTitleView</link>
       <pubDate>Fri, 26 Oct 2018 15:40:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lpl1bqiyirp_puyqgoj/</guid>
-      <description></description>
+      <description>This is a nice Swift component which provides a simple and configurable dropdown view which can be substituted for a UINavigationItem titleView.</description>
     </item>
     
     <item>
       <title>Sizes - View your app on different device and font sizes</title>
-      <link>https://freshswift.net/post/-lp5insv2ox4iyks3tp4/</link>
+      <link>https://github.com/marcosgriselli/Sizes</link>
       <pubDate>Thu, 18 Oct 2018 08:31:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lp5insv2ox4iyks3tp4/</guid>
-      <description></description>
+      <description>This is a really cool Swift library from Marcos Griselli. It enables us to evaluate how our app layout behaves across all possible device sizes, orientations, and font combinations while running on a single simulator configuration. Very useful.</description>
     </item>
     
     <item>
       <title>Improving Your Build Time in Xcode 10</title>
-      <link>https://freshswift.net/post/-lm8wcfs8erimeqjpulo/</link>
+      <link>https://patrickbalestra.com/blog/2018/08/27/improving-your-build-time-in-xcode-10.html</link>
       <pubDate>Tue, 11 Sep 2018 16:46:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lm8wcfs8erimeqjpulo/</guid>
-      <description></description>
+      <description>Patrick Balestra teaches us how to improve our Swift project build times using new features available in Xcode 10.</description>
     </item>
     
     <item>
       <title>Easier Scrolling With Layout Guides</title>
-      <link>https://freshswift.net/post/-ll9pmdbfszl5pamvvbk/</link>
+      <link>https://useyourloaf.com/blog/easier-scrolling-with-layout-guides/</link>
       <pubDate>Thu, 30 Aug 2018 12:36:09 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ll9pmdbfszl5pamvvbk/</guid>
-      <description></description>
+      <description>Keith Harrison from UseYourLoaf demonstrates how we can use layout guides to configure UIScrollView constraints. Swift code examples are provided.</description>
     </item>
     
     <item>
       <title>Creating a Bottom Sheet </title>
-      <link>https://freshswift.net/post/-lkwjswtnwbco98roogr/</link>
+      <link>https://skagedal.github.io/2018/08/03/bottom-sheet.html</link>
       <pubDate>Wed, 22 Aug 2018 11:09:49 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lkwjswtnwbco98roogr/</guid>
-      <description></description>
+      <description>In this post Simon Kågedal Reimer shows us how we can create a bottom sheet UI component using Swift, similar to the component used in the Apple Maps app.</description>
     </item>
     
     <item>
       <title>An iOS alert view with a text field and a “smart” OK button</title>
-      <link>https://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</link>
+      <link>https://oleb.net/2018/uialertcontroller-textfield/</link>
       <pubDate>Mon, 20 Aug 2018 08:42:40 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</guid>
-      <description></description>
+      <description>This is a very interesting post from Ole Bergmann, in which he demonstrates an approach to keeping an object alive by intentionally capturing it in a closure. Not an approach I had previously considered.</description>
     </item>
     
     <item>
       <title>Advance Generics to create reusable UI</title>
-      <link>https://freshswift.net/post/-libqgc7cuhctcrdg3o7/</link>
+      <link>https://medium.com/cocoaacademymag/advance-generics-to-create-reusable-ui-f0b8b8934895</link>
       <pubDate>Tue, 24 Jul 2018 15:14:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-libqgc7cuhctcrdg3o7/</guid>
-      <description></description>
+      <description>In this post James Rochabrun shows us how we can leverage Swift generics to create a reusable search UI component.</description>
     </item>
     
     <item>
       <title>Wormholy - iOS network debugging</title>
-      <link>https://freshswift.net/post/-li6cv_gtnj8jrotjxtd/</link>
+      <link>https://github.com/pmusolino/Wormholy</link>
       <pubDate>Mon, 23 Jul 2018 12:57:55 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-li6cv_gtnj8jrotjxtd/</guid>
-      <description></description>
+      <description>This is a cool library from Paolo Musolino which enables us to debug iOS network calls. It’s simple to set up, requiring no code, and provides an interface allowing us to see the details of executes network calls. Very nice.</description>
     </item>
     
     <item>
       <title>Subclass-free view controllers in Swift</title>
-      <link>https://freshswift.net/post/-lh87_pmgidfivrrdnpu/</link>
+      <link>https://www.swiftbysundell.com/posts/subclass-free-view-controllers-in-swift</link>
       <pubDate>Wed, 11 Jul 2018 11:38:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lh87_pmgidfivrrdnpu/</guid>
-      <description></description>
+      <description>John Sundell presents a few techniques in this post which can help us write subclass-free UIViewControllers when creating iOS apps. John explains the benefit of each technique as well as providing Swift code examples.</description>
     </item>
     
     <item>
       <title>Zhi — Swift Library for Live Reloading Auto Layout Constraints on iOS</title>
-      <link>https://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/</link>
+      <link>http://hboon.com/zhi/</link>
       <pubDate>Wed, 04 Jul 2018 06:13:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lgyv8ncxazdpwqsh9tk/</guid>
-      <description></description>
+      <description>This is an interesting iOS library which allows us to tweak auto layout constraints and observe the results without needing to rebuild. Created by Hwee-Boon Yar, it’s written in Swift and also supports tweaking properties such as fonts and colors.</description>
     </item>
     
     <item>
       <title>Swift vs. Kotlin — the differences in memory management</title>
-      <link>https://freshswift.net/post/-lfrqcxrwli4r901ocki/</link>
+      <link>https://blog.indoorway.com/swift-vs-kotlin-the-differences-in-memory-management-860828edf8</link>
       <pubDate>Mon, 25 Jun 2018 16:50:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfrqcxrwli4r901ocki/</guid>
-      <description></description>
+      <description>In this post Krzysztof Turek compares Swift with Kotlin in the context of iOS and Android development, explaining how each language and platform handles memory management.</description>
     </item>
     
     <item>
       <title>What’s new in iOS 12?</title>
-      <link>https://freshswift.net/post/-lfi6cpxpsj66nwgmcoz/</link>
+      <link>https://www.hackingwithswift.com/articles/121/whats-new-in-ios-12</link>
       <pubDate>Mon, 18 Jun 2018 13:38:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfi6cpxpsj66nwgmcoz/</guid>
-      <description></description>
+      <description>Paul Hudson walks us through the major changes coming with iOS 12, providing Swift code examples that we can try out ourselves.</description>
     </item>
     
     <item>
       <title>WhatsNewKit - Showcase your awesome new app features</title>
-      <link>https://freshswift.net/post/-lemduryki_zguhbw9t9/</link>
+      <link>https://github.com/SvenTiigi/WhatsNewKit</link>
       <pubDate>Thu, 07 Jun 2018 00:31:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lemduryki_zguhbw9t9/</guid>
-      <description></description>
+      <description>This Swift library from Sven Tiigi enables us to easily showcase new app features. It’s fully customizable and comes with predefined themes and animations.</description>
     </item>
     
     <item>
       <title>Swift Tip: Type-Safe Initialization using Storyboards</title>
-      <link>https://freshswift.net/post/-lecdtreqf_z1pvkwekw/</link>
+      <link>https://www.objc.io/blog/2018/05/22/type-safe-initialization-using-storyboards/</link>
       <pubDate>Tue, 05 Jun 2018 01:55:04 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lecdtreqf_z1pvkwekw/</guid>
-      <description></description>
+      <description>In this short post, one in a series of weekly Swift Tips, the Objc.io team demonstrate a simple way to make working with iOS storyboards safer and more robust.</description>
     </item>
     
     <item>
       <title>VisualActivityViewController - A way to represent what you’re sharing</title>
-      <link>https://freshswift.net/post/-le7psrk1b3pmfjwqnsl/</link>
+      <link>https://github.com/naturaln0va/VisualActivityViewController</link>
       <pubDate>Mon, 04 Jun 2018 01:29:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-le7psrk1b3pmfjwqnsl/</guid>
-      <description></description>
+      <description>UIActivityViewControllers provide a simple way to share data with other iOS apps. However, one limitation is that we don’t see a preview of what we are sharing. This 100% Swift library from Ryan Ackermann solves this, building on top of the standard UIActivityViewController to provide a preview of the content being shared.</description>
     </item>
     
     <item>
       <title>Netfox - A lightweight, one line setup, iOS / OSX network debugging library!</title>
-      <link>https://freshswift.net/post/-l9js4u5slsgztlifq9z/</link>
+      <link>https://github.com/kasketis/netfox</link>
       <pubDate>Tue, 10 Apr 2018 14:05:38 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9js4u5slsgztlifq9z/</guid>
-      <description></description>
+      <description>This is a pretty cool library from Christos Kasketis. It provides a quick look of all executed network requests performed by an iOS or OSX app. Definitely useful. 🦊.</description>
     </item>
     
     <item>
       <title>Custom Label Effects in Swift 4</title>
-      <link>https://freshswift.net/post/-l94oxermoiwndh4xvcy/</link>
+      <link>https://medium.com/@nimjea/custom-label-effects-in-swift-4-69ec12ba2178</link>
       <pubDate>Mon, 02 Apr 2018 10:06:04 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l94oxermoiwndh4xvcy/</guid>
-      <description></description>
+      <description>Anand Nimje shows us how to add some cool effects to our UILabel text using NSAttributedSting and Swift protocol extensions.</description>
     </item>
     
     <item>
       <title>URLSession Waiting For Connectivity</title>
-      <link>https://freshswift.net/post/-l04x56aj2omi8gme8px/</link>
+      <link>https://useyourloaf.com/blog/urlsession-waiting-for-connectivity/?utm_campaign=Revue%20newsletter&amp;utm_medium=Swift%20Weekly%20Newsletter%20Issue%2098&amp;utm_source=Swift%20Weekly</link>
       <pubDate>Mon, 11 Dec 2017 14:22:11 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l04x56aj2omi8gme8px/</guid>
-      <description></description>
+      <description>Keith Harrison from Use Your Loaf shows us how to use a new URLSession API available in iOS 11. Keith provides the relevant Swift code examples to help us implement this useful new feature.</description>
     </item>
     
     <item>
       <title>Using child view controllers as plugins in Swift</title>
-      <link>https://freshswift.net/post/-kzh9t2tjrvgrfispps0/</link>
+      <link>https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift</link>
       <pubDate>Fri, 24 Nov 2017 08:36:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kzh9t2tjrvgrfispps0/</guid>
-      <description></description>
+      <description>John Sundell shows us how to make our code more extensible and more maintainable. John uses child view controllers to structure his code as a collection of modular plugins, enabling him to mix and match functionality, while avoiding the problems associated with inheritance.</description>
     </item>
     
     <item>
       <title>Easier Swift Layout Priorities</title>
-      <link>https://freshswift.net/post/-kvvkybrcifcy63ntmfa/</link>
+      <link>https://useyourloaf.com/blog/easier-swift-layout-priorities/</link>
       <pubDate>Sun, 08 Oct 2017 11:34:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvvkybrcifcy63ntmfa/</guid>
-      <description></description>
+      <description>This short post from Use Your Loaf shows us how to make working with auto layout priorities in Swift a bit less painful. By overloading the + and - operators of UILayoutPriority, we can condense a few lines of code down to an intuitive one liner.</description>
     </item>
     
     <item>
       <title>BulletinBoard - Bottom Card Interfaces on iOS</title>
-      <link>https://freshswift.net/post/-kvksk2_byu0vjjutact/</link>
+      <link>https://github.com/alexaubry/BulletinBoard</link>
       <pubDate>Fri, 06 Oct 2017 08:52:24 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvksk2_byu0vjjutact/</guid>
-      <description></description>
+      <description>This is a cool iOS library from Alexis Aubry Radanovic which enables us to generate contextual card views and display them at the bottom of our device screen. It’s well suited for quick user interactions, and supports iPad and iPhone X out of the box.</description>
     </item>
     
     <item>
       <title>VegaScroll - Lightweight animated flowlayout for UICollectionView</title>
-      <link>https://freshswift.net/post/-kvmdemo39gbj7u2kp_f/</link>
+      <link>https://github.com/AppliKeySolutions/VegaScroll</link>
       <pubDate>Sun, 01 Oct 2017 09:18:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvmdemo39gbj7u2kp_f/</guid>
-      <description></description>
+      <description>Written in Swift 4, VegaScroll is a custom UICollectionViewFlowLayout. It provides a really nice lightweight, animated layout for your UICollectionViews, and is fully compatible with iOS 11.</description>
     </item>
     
     <item>
       <title>HGCircularSlider - Custom reusable circular slider control</title>
-      <link>https://freshswift.net/post/-kus3toe0mvakqn7seay/</link>
+      <link>https://github.com/HamzaGhazouani/HGCircularSlider/blob/master/README.md</link>
       <pubDate>Mon, 25 Sep 2017 08:08:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kus3toe0mvakqn7seay/</guid>
-      <description></description>
+      <description>This is a nice Swift library from Hamza Ghazouani which provides a customizable circular slider control for iOS. It’s similar to the control seen in the iOS Clock Bedtime feature, and can be integrated via Cococpods or Carthage.</description>
     </item>
     
     <item>
       <title>FAPanels - Swift Panel library </title>
-      <link>https://freshswift.net/post/-kruwtne_ktlaahhne10/</link>
+      <link>https://github.com/fahidattique55/FAPanels</link>
       <pubDate>Sat, 19 Aug 2017 14:42:22 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kruwtne_ktlaahhne10/</guid>
-      <description></description>
+      <description>This Swift library from Fahid Attique allows you to  compose screens from a series of panels. It’s highly configurable, and provides support for animating panels as they are displayed.</description>
     </item>
     
     <item>
       <title>Understanding Operation and OperationQueue in Swift</title>
-      <link>https://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</link>
+      <link>http://agostini.tech/2017/07/30/understanding-operation-and-operationqueue-in-swift/</link>
       <pubDate>Tue, 08 Aug 2017 07:32:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</guid>
-      <description></description>
+      <description>Dejan Agostini explains what Operations and OperationQueues are, and provides Swift examples of how we can use them. This is a good introductory article on implementing concurrency on iOS.</description>
     </item>
     
     <item>
       <title>Building a declarative animation framework in Swift - Part 2</title>
-      <link>https://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</link>
+      <link>https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-2</link>
       <pubDate>Mon, 07 Aug 2017 09:11:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</guid>
-      <description></description>
+      <description>John Sundell continues to build a declarative animation framework in Swift in this post, the second in a series. Here, he adds the ability to coordinate animations performed on multiple views. It’s a nice approach, and something which could be easily adopted when performing animations in any project.</description>
     </item>
     
     <item>
       <title>AZDialogViewController - Customizable alert dialog controller</title>
-      <link>https://freshswift.net/post/-kqi-jakbsk9nxxgtenf/</link>
+      <link>https://github.com/Minitour/AZDialogViewController</link>
       <pubDate>Sun, 30 Jul 2017 10:18:40 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqi-jakbsk9nxxgtenf/</guid>
-      <description></description>
+      <description>This is a nice Swift library from Antonio Zaitoun which provides a highly customizable alert dialog view. It mimics Snapchat’s alert dialog view and would be suitable to use in a variety of situations.</description>
     </item>
     
     <item>
       <title>Advanced UIKit Animations In Swift</title>
-      <link>https://freshswift.net/post/-kqctwwlc0hribq58b6s/</link>
+      <link>https://digitalleaves.com/advanced-uikit-animations-swift/</link>
       <pubDate>Sat, 29 Jul 2017 08:34:48 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqctwwlc0hribq58b6s/</guid>
-      <description></description>
+      <description>Another good post from Ignacio Nieto Carvajal at Digital Leaves. In this tutorial, Ignacio shows us how to implement animations in Swift. He starts with basic UIKit animations and then advances through interactive and interruptible animations. If you want to implement animations in your iOS apps using Swift, this is a great place to start.</description>
     </item>
     
     <item>
       <title>Building a declarative animation framework in Swift - Part 1</title>
-      <link>https://freshswift.net/post/-kq74w5j2vbnbn4frnjl/</link>
+      <link>https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-1</link>
       <pubDate>Fri, 28 Jul 2017 07:27:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kq74w5j2vbnbn4frnjl/</guid>
-      <description></description>
+      <description>John Sundell with the first in a series of posts on building a declarative animation framework in Swift. We have probably all written animation code using UIView’s animation API consisting of n-level nested closures, which soon becomes hard to read and even harder to tweak. The approach John presents avoids such issues, and could easily be adopted in any iOS project.</description>
     </item>
     
     <item>
       <title>What’s New In UIKit Animations In Swift 4</title>
-      <link>https://freshswift.net/post/-kpxqgymks4parugusoz/</link>
+      <link>https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/</link>
       <pubDate>Wed, 26 Jul 2017 07:42:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpxqgymks4parugusoz/</guid>
-      <description></description>
+      <description>Ignacio Nieto Carvajal shows us what’s new in animation is iOS 11 and Swift 4. He looks specifically at UIKit’s UIViewPropertyAnimator and how we can use new properties added in iOS 11 to improve our UIView-based animations.</description>
     </item>
     
     <item>
       <title>ZIPFoundation - Zip Handling in Swift</title>
-      <link>https://freshswift.net/post/-kpapwavk_b4iwo4ix-b/</link>
+      <link>https://github.com/weichsel/ZIPFoundation</link>
       <pubDate>Sun, 16 Jul 2017 12:40:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpapwavk_b4iwo4ix-b/</guid>
-      <description></description>
+      <description>This is a useful Swift library from Thomas Zoechling which provides an intuitive API for creating, modifying, and reading ZIP archive files. It’s based on Apple’s libcompression for high performance and energy efficiency.</description>
     </item>
     
     <item>
       <title>PMSuperButton - UIButton with super powers</title>
-      <link>https://freshswift.net/post/-kp0cgdrrwufjqgpvavb/</link>
+      <link>https://github.com/Codeido/PMSuperButton</link>
       <pubDate>Fri, 14 Jul 2017 13:06:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kp0cgdrrwufjqgpvavb/</guid>
-      <description></description>
+      <description>Cool Swift library from Pablo Musolino which provides a powerful UIButton type. It allows us to create complex buttons with custom attributes. Easy to integrate and lots of options for customization.</description>
     </item>
     
     <item>
       <title>YapAnimator - Fast and friendly animation system</title>
-      <link>https://freshswift.net/post/-komo6dvbqymcbwqzyvc/</link>
+      <link>https://github.com/yapstudios/YapAnimator</link>
       <pubDate>Thu, 06 Jul 2017 12:12:05 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-komo6dvbqymcbwqzyvc/</guid>
-      <description></description>
+      <description>Yap Studios have released this cool physics-based animation system written entirely in Swift. The included CALayer and UIView extensions allow us to implement animations with one line of code. Neat.</description>
     </item>
     
     <item>
       <title>Key Value Observation in iOS 11</title>
-      <link>https://freshswift.net/post/-koghe9nhofbto80ug6e/</link>
+      <link>http://skyefreeman.io/programming/2017/06/28/kvo-in-ios11.html</link>
       <pubDate>Wed, 05 Jul 2017 07:44:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koghe9nhofbto80ug6e/</guid>
-      <description></description>
+      <description>Skye Freeman with a short post reminding us that the Codable protocols are not the only exciting additions in Swift 4. Skye provides an example showcasing exactly why the new Swift syntax for key value observing is so awesome, and details some of the things we need to know when using the new syntax.</description>
     </item>
     
     <item>
       <title>Using SpriteKit to create animations in Swift</title>
-      <link>https://freshswift.net/post/-ko6aumo5ooulvhtgmrp/</link>
+      <link>https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift</link>
       <pubDate>Mon, 03 Jul 2017 08:40:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ko6aumo5ooulvhtgmrp/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how we can use SpriteKit to create image or text-based animations. Although we can’t use SpriteKit to animate our UIViews, it could be used when animating UI components such as loading or onboarding screens.</description>
     </item>
     
     <item>
       <title>LGButton - Beautiful customizable UIControl </title>
-      <link>https://freshswift.net/post/-ko1rry7eso6bjfhpqyj/</link>
+      <link>https://github.com/loregr/LGButton</link>
       <pubDate>Sun, 02 Jul 2017 10:36:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ko1rry7eso6bjfhpqyj/</guid>
-      <description></description>
+      <description>This is a really nice UIControl subclass from Lorenzo Greco written entirely in Swift. It provides a customizable UIControl which allows us to create beautiful buttons. It also includes the ability the add font icons via an integration with SwiftIconFont. Very useful.</description>
     </item>
     
     <item>
       <title>SwiftMessages - Flexible message bar for iOS</title>
-      <link>https://freshswift.net/post/-kns6fjoeoyjjtzng37q/</link>
+      <link>https://github.com/SwiftKickMobile/SwiftMessages</link>
       <pubDate>Fri, 30 Jun 2017 08:27:52 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kns6fjoeoyjjtzng37q/</guid>
-      <description></description>
+      <description>This is a cool Swift library from SwiftKickMobile. It  provides a flexible UI component for displaying messages in iOS apps which could be used in a variety of situations - e.g task completion success/failure, network status etc. It has lots of configuration options and provides several themes.</description>
     </item>
     
     <item>
       <title>CALayer And Auto Layout With Swift</title>
-      <link>https://freshswift.net/post/-knmlb8hy68-fjalrft9/</link>
+      <link>https://marcosantadev.com/calayer-auto-layout-swift/</link>
       <pubDate>Thu, 29 Jun 2017 07:33:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knmlb8hy68-fjalrft9/</guid>
-      <description></description>
+      <description>CALayers are useful when we want to manage and possibly animate visual content. However, the inability to use auto layout with CALayers can be frustrating. In this post, Marco Santarossa describes a specific scenario he encountered involving CALayer and auto layout, and provides three possible solutions to the problem he faced.</description>
     </item>
     
     <item>
       <title>Umbrella - Analytics abstraction layer for Swift</title>
-      <link>https://freshswift.net/post/-knhgdrbvvejk2kza9vk/</link>
+      <link>https://github.com/devxoul/Umbrella</link>
       <pubDate>Wed, 28 Jun 2017 07:53:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knhgdrbvvejk2kza9vk/</guid>
-      <description></description>
+      <description>It’s common to use some sort of third-party analytics in our mobile apps. This handy Swift library from Jeon Suyeol uses Swift enums and associated values to improve the process of event logging to multiple analytics providers.</description>
     </item>
     
     <item>
       <title>JTAppleCalendar - The unofficial Swift Apple calendar library</title>
-      <link>https://freshswift.net/post/-kncwgm9jywp3wqapidr/</link>
+      <link>https://github.com/patchthecode/JTAppleCalendar</link>
       <pubDate>Tue, 27 Jun 2017 07:49:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kncwgm9jywp3wqapidr/</guid>
-      <description></description>
+      <description>This is a cool Swift library which provides a calendar UI component. It is completely customizable, allowing us to use custom cells for calendar dates. It also has tons of features such as date range selection and week/month display modes. Very nice.</description>
     </item>
     
     <item>
       <title>Instructions - Customizable Coachmarks for iOS</title>
-      <link>https://freshswift.net/post/-kmv5ocfocimrpeqlxio/</link>
+      <link>https://github.com/ephread/Instructions</link>
       <pubDate>Sun, 18 Jun 2017 12:07:14 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmv5ocfocimrpeqlxio/</guid>
-      <description></description>
+      <description>As hard as we try to make our apps intuitive, we still sometimes need to provide hints as to how users can interact with our UI. Coachmarks are one way of doing this, and this Swift library by Frederic Maquin makes it easy to add them to any iOS app.</description>
     </item>
     
     <item>
       <title>NMOutlineView: Hierarchical Menu for iOS</title>
-      <link>https://freshswift.net/post/-kmqhgpn0lswkh7wwxw8/</link>
+      <link>https://github.com/gkopel/nmoutlineview</link>
       <pubDate>Mon, 12 Jun 2017 07:51:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmqhgpn0lswkh7wwxw8/</guid>
-      <description></description>
+      <description>Greg Kopel has created a neat hierarchical menu UI component for iOS. It builds on top of a UITableView and is 100% Swift. Menu items can be expanded/collapsed, and because it’s built  on top of a UITableView, we can customize it’s appearance using the standard UITableView and UITableViewCell APIs.</description>
     </item>
     
     <item>
       <title>BFKit - A collection of useful Swift classes, structs, and extensions</title>
-      <link>https://freshswift.net/post/-km6z5daiorb_ewu4yrg/</link>
+      <link>https://github.com/FabrizioBrancati/BFKit-Swift</link>
       <pubDate>Thu, 08 Jun 2017 11:56:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-km6z5daiorb_ewu4yrg/</guid>
-      <description></description>
+      <description>Fabrizio Brancati has created a cool Swift library which provides a collection of useful Swift classes, structs, and extensions. It&#39;s aim is to help developers crate apps faster. There is lots here including many extensions to Foundation, UIKit, and WatchKit classes.</description>
     </item>
     
     <item>
       <title>To Optional or Not to Optional: IBOutlet</title>
-      <link>https://freshswift.net/post/-klwprgdikgd9ccgjbkt/</link>
+      <link>https://blog.curtisherbert.com/to-optional-or-not-to-optional-iboutlet/</link>
       <pubDate>Tue, 06 Jun 2017 07:58:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klwprgdikgd9ccgjbkt/</guid>
-      <description></description>
+      <description>Official Apple documentation recommends that we use implicitly unwrapped optionals (IUOs) when declaring IBOutlets in our Swift code. It&#39;s advice most of us probably follow, but have we ever put much thought in to it? Here, Curtis Herbert explains why he will never use IUOs for his IBOutlets again, but rather will switch to using optionals.</description>
     </item>
     
     <item>
       <title>Writing better singletons in Swift</title>
-      <link>https://freshswift.net/post/-klsb0ux2onslnjbjlsc/</link>
+      <link>http://www.jessesquires.com/blog/writing-better-singletons-in-swift/</link>
       <pubDate>Mon, 05 Jun 2017 12:17:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klsb0ux2onslnjbjlsc/</guid>
-      <description></description>
+      <description>Singletons, whether loved or loathed, are a  fact of software development. This is especially evident in iOS development, where they are used in many of the frameworks. In this post, Jesse Squires looks at why singletons sometimes are the right choice, and provides some guidance on how to create singletons the right way.</description>
     </item>
     
     <item>
       <title>SRCountdownTimer - Simple circle countdown</title>
-      <link>https://freshswift.net/post/-kkbruirmwpcjv9tbdsb/</link>
+      <link>https://github.com/rsrbk/SRCountdownTimer</link>
       <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kkbruirmwpcjv9tbdsb/</guid>
-      <description></description>
+      <description>Nice countdown Swift UI component from Ruslan Serebriakov. Customizable and with a configurable timer.</description>
     </item>
     
     <item>
       <title>Back Buttons and Coordinators in Swift</title>
-      <link>https://freshswift.net/post/-kkbkndz0pdat0xa4ht-/</link>
+      <link>http://khanlou.com/2017/05/back-buttons-and-coordinators/</link>
       <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kkbkndz0pdat0xa4ht-/</guid>
-      <description></description>
+      <description>Using Coordinators can help us separate our app flow logic, and make UIViewControllers more reusable. In this post, one in a series on Coordinators, Soroush Khanlou writes about techniques for handling &#39;back&#39; navigation within a UINavigationController.</description>
     </item>
     
     <item>
       <title>Table Views in iOS with Swift - A comprehensive guide</title>
-      <link>https://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</link>
+      <link>http://matteomanferdini.com/the-correct-way-to-display-lists-in-ios-and-what-many-developers-do-wrong/</link>
       <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</guid>
-      <description></description>
+      <description>A comprehensive guide to iOS table views from Matteo Manferdini. Everything you need to correctly utilize this common iOS component is covered in detail.</description>
     </item>
     
     <item>
       <title>Highlighter - Highlight whatever you want</title>
-      <link>https://freshswift.net/post/-kk5w7mbhnqdm5w48bqw/</link>
+      <link>https://github.com/younatics/Highlighter</link>
       <pubDate>Sun, 14 May 2017 10:32:49 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kk5w7mbhnqdm5w48bqw/</guid>
-      <description></description>
+      <description>Created by Seungyoun Yi, Highlighter is a really cool Swift library that enables you to easily highlight text in UI components. UILabel, UITextView, UITexTfield, and UIButton are all supported.</description>
     </item>
     
     <item>
       <title>Symbolicating Swift iOS crash reports</title>
-      <link>https://freshswift.net/post/-kjvz1wabq5fm-hxvoff/</link>
+      <link>https://blog.bugsnag.com/symbolicating-ios-crashes/</link>
       <pubDate>Fri, 12 May 2017 07:29:42 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjvz1wabq5fm-hxvoff/</guid>
-      <description></description>
+      <description>Mike Bull from Bugsnag looks at symbolicating crash reports, describing the tools available. He also investigates what causes missing information in Swift stacktraces.</description>
     </item>
     
     <item>
       <title>Toolbar - An alternative to UIToolbar</title>
-      <link>https://freshswift.net/post/-kjtpfvbbretocbsga9e/</link>
+      <link>https://github.com/1amageek/Toolbar</link>
       <pubDate>Sat, 06 May 2017 17:35:58 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjtpfvbbretocbsga9e/</guid>
-      <description></description>
+      <description>This is a nice component from 1amageek which can be used as an alternative to UIToolbar. It behaves more dynamically than the standard UIToolbar, and is made with auto layout.</description>
     </item>
     
     <item>
       <title>Swifty Tips ⚡️</title>
-      <link>https://freshswift.net/post/-kj8sboulje-uasubblb/</link>
+      <link>https://medium.com/@gokselkoksal/swifty-tips-%EF%B8%8F-8564553ba3ec</link>
       <pubDate>Mon, 01 May 2017 11:09:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8sboulje-uasubblb/</guid>
-      <description></description>
+      <description>Sensible best practices from Göksel Köksal to improve your Swift code. One of these, avoiding AppDelegate overuse, is something I have being paying particular attention to lately.</description>
     </item>
     
     <item>
       <title>Tail Call Elimination in iOS</title>
-      <link>https://freshswift.net/post/-kj8psh0nmgv7rgussck/</link>
+      <link>https://medium.com/the-traveled-ios-developers-guide/tail-call-elimination-in-ios-7a5f491e4273</link>
       <pubDate>Tue, 25 Apr 2017 10:44:19 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8psh0nmgv7rgussck/</guid>
-      <description></description>
+      <description>Jordan Morgan with an nice explanation of the compiler optimization that is tail call elimination. I was not too familiar with this particular optimization so it was great to see it explained in Swift.</description>
     </item>
     
     <item>
       <title>Haptica - Haptic Feedback Generator</title>
-      <link>https://freshswift.net/post/-kj8ocn5j9lt_ljpffm4/</link>
+      <link>https://github.com/efremidze/Haptica</link>
       <pubDate>Wed, 19 Apr 2017 11:02:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8ocn5j9lt_ljpffm4/</guid>
-      <description></description>
+      <description>Lasha Efremidze created a useful Swift library which wraps the iOS haptic feedback generator APIs. I really like how simple yet clean the API is.</description>
     </item>
     
   </channel>

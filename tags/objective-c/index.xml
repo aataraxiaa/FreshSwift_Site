@@ -8,92 +8,82 @@
     <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/objective-c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Swift Reference Types Are Bad for App Startup Time</title>
-      <link>https://freshswift.net/post/02-04-21-141353/</link>
+      <link>https://medium.com/geekculture/why-swift-reference-types-are-bad-for-app-startup-time-90fbb25237fc</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-04-21-141353/</guid>
-      <description></description>
+      <description>When an app is launched, the operating system performs several tasks to get the app ready for use. One of these tasks is rebasing pointers in binary metadata that describe types in the app code. In this very interesting post, Noah Martin explains how Swift reference types can result in a large number of pointers that require rebasing, leading to slow app startup times.</description>
     </item>
     
     <item>
       <title>Be careful with Obj-C bridging in Swift</title>
-      <link>https://freshswift.net/post/26-03-21-130055/</link>
+      <link>https://swiftrocks.com/be-careful-with-objc-bridging-in-swift</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-03-21-130055/</guid>
-      <description></description>
+      <description>Type casting in Swift allows us to treat an instance as a different instance of a superclass or subclass from its hierarchy. It&#39;s accomplished using the as operator. However, did you know that the as operator is also the Objective-C bridging operator? In this post, Bruno Rocha explains why we need to pay extra attention when casting to make sure we are not also bridging from Swift to Objective-C types.</description>
     </item>
     
     <item>
       <title>nil-null-mess in Objective-C and Swift</title>
-      <link>https://freshswift.net/post/25-02-21-163229/</link>
+      <link>https://www.andyibanez.com/posts/nil-null-mess-objective-c-and-swift/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-02-21-163229/</guid>
-      <description></description>
+      <description>In this post, Andy Ibanez looks at the state of nullability in both Objective-C and Swift. Andy explains the different representations of nothingness in each language and points out some pitfalls which we might encounter when working with nullability.</description>
     </item>
     
     <item>
       <title>Private APIs, Objective-C runtime, and Swift</title>
-      <link>https://freshswift.net/post/11-09-20-073952/</link>
+      <link>https://medium.com/@victor.pavlychko/private-apis-objective-c-runtime-and-swift-ceaeefbb6e48</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-09-20-073952/</guid>
-      <description></description>
+      <description>Objective-C and Swift can be used together, and it&#39;s still very common for apps and projects to contain a mix of both. Calling public Objective-C APIs from Swift involves exposing the APIs via a bridging header. However, calling private, or Swift-unavailable, Objective-C APIs from our Swift code is also possible, thanks to Objective-C&#39;s dynamic nature. In this post, Victor Pavlychko focuses on accessing such APIs using the Objective-C runtime.</description>
     </item>
     
     <item>
       <title>The State of Developer Ecosystems - Swift &amp; Objective-C</title>
-      <link>https://freshswift.net/post/-lnzvkhqspro5dkfkg5g/</link>
+      <link>https://www.jetbrains.com/research/devecosystem-2018/swift-objc/</link>
       <pubDate>Thu, 04 Oct 2018 16:33:32 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lnzvkhqspro5dkfkg5g/</guid>
-      <description></description>
+      <description>JetBrains have collected data on the current state of developer ecosystems, and published this interested report on how Swift and Objective-C are being used.</description>
     </item>
     
     <item>
       <title>Migrating an Objective-C class to Swift using subclassing</title>
-      <link>https://freshswift.net/post/-lkgyow5q5ryeje1x0y_/</link>
+      <link>https://oleb.net/2018/objc-swift-subclassing/</link>
       <pubDate>Sun, 19 Aug 2018 11:39:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lkgyow5q5ryeje1x0y_/</guid>
-      <description></description>
+      <description>After first looking at using Swift extensions to migrate an Objective-C type to Swift, Ole Begemann now turns his attention to using subclassing to achieve the same goal.</description>
     </item>
     
     <item>
       <title>Migrating an Objective-C class to Swift: a piecemeal approach</title>
-      <link>https://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</link>
+      <link>https://oleb.net/2018/objc-swift-transition/</link>
       <pubDate>Sat, 11 Aug 2018 09:20:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</guid>
-      <description></description>
+      <description>Migrating legacy Objective-C code to Swift can be an arduous process, and is often done as part of general code maintenance over a long period of time. In this post, Ole Begemann presents a piecemeal approach to such a migration, and provides a solution for a particular roadblock he encountered.</description>
     </item>
     
     <item>
       <title>Circular References Between Swift and Objective-C</title>
-      <link>https://freshswift.net/post/-l6fbwme2kalyicv8vhi/</link>
+      <link>https://cjwirth.com/tech/circular-references-swift-objc</link>
       <pubDate>Sat, 03 Mar 2018 11:29:32 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l6fbwme2kalyicv8vhi/</guid>
-      <description></description>
+      <description>Caesar Wirth describes some of the challenges that arise when working in a mixed Swift and Objective-C codebase, and shows us how he deals with them. Some useful advice here. .</description>
     </item>
     
     <item>
       <title>Why many developers prefer Swift to Objective-C</title>
-      <link>https://freshswift.net/post/-kxcc1y5wi8iefkapaxr/</link>
+      <link>https://www.hackingwithswift.com/articles/29/why-many-developers-prefer-swift-to-objective-c</link>
       <pubDate>Tue, 24 Oct 2017 09:04:22 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kxcc1y5wi8iefkapaxr/</guid>
-      <description></description>
+      <description>In a previous article, Paul Hudson interviewed a number of Objective-C developers, asking them why they preferred using Objective-C over Swift. In this follow up, he hopes to balance the scale as he interviews another group of developers, this time hearing from those who prefer using Swift over Objective-C. I found myself nodding along as I read their answers.</description>
     </item>
     
     <item>
       <title>Why many developers still prefer Objective-C to Swift</title>
-      <link>https://freshswift.net/post/-kvl2vi2fzi9wryiihed/</link>
+      <link>https://www.hackingwithswift.com/articles/27/why-many-developers-still-prefer-objective-c-to-swift</link>
       <pubDate>Fri, 06 Oct 2017 09:39:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvl2vi2fzi9wryiihed/</guid>
-      <description></description>
+      <description>This is a great post from Paul Hudson in which he asks a number of current Objective-C developers why they have not made the move the Swift. There are some really interesting points made, and definitely many I agree with. As someone who did move from Objective-C to Swift, I still experience many of the issues they cite as reasons for sticking with Objective-C.</description>
     </item>
     
   </channel>

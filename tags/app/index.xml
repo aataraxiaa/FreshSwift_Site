@@ -8,47 +8,42 @@
     <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SwiftUI Kit - A SwiftUI system components and interactions demo app</title>
-      <link>https://freshswift.net/post/12-08-20-073516/</link>
+      <link>https://github.com/jordansinger/SwiftUI-Kit</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-08-20-073516/</guid>
-      <description></description>
+      <description>Jordan Singer has created SwiftUI Kit, an open-source app that demonstrates SwiftUI system components and interactions. The app can be used to see how views appear, and interactions work when using default system components, and the source code is available as a reference.</description>
     </item>
     
     <item>
       <title>Building a Multi-platform App with SwiftUI</title>
-      <link>https://freshswift.net/post/10-08-20-074736/</link>
+      <link>https://heartbeat.fritz.ai/building-a-multi-platform-app-with-swiftui-5336bce94689</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-08-20-074736/</guid>
-      <description></description>
+      <description>The Introduction to SwiftUI session at WWDC 2020 included content that focused on using SwiftUI to build multi-platform apps - i.e apps that work on both iOS and macOS. Building such apps can be done by separately building for each platform from a single codebase, or creating a Mac Catalyst app which runs an app built for iPad on macOS. In this post, Rick Wierenga looks at the former, providing a tutorial that shows us how to use a single codebase to build a HackerNews app for each platform.</description>
     </item>
     
     <item>
       <title>RedditOS - A SwiftUI Reddit client for macOS Big Sur</title>
-      <link>https://freshswift.net/post/02-08-20-071902/</link>
+      <link>https://github.com/Dimillian/RedditOS</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-08-20-071902/</guid>
-      <description></description>
+      <description>This open-source SwiftUI app created by Thomas Ricouard is a Reddit client for macOS. It&#39;s great to see apps like this being developed as open-source projects, as it provides opportunities for collaboration and learning from others in the Swift community. Note - you need macOS Big Sur to run this app.</description>
     </item>
     
     <item>
       <title>StackOv - An open-source SwiftUI Stack Overflow client for iOS, iPadOS, and MacOS</title>
-      <link>https://freshswift.net/post/22-07-20-073526/</link>
+      <link>https://github.com/surfstudio/StackOv</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-07-20-073526/</guid>
-      <description></description>
+      <description>SwiftUI is still relatively new, and so the number of pure SwiftUI apps (i.e no UIKit) in the App store is probably low. This open-source app - a Stack Overflow client for iOS, iPadOS, and MacOS - is very nearly 100% SwiftUI, with UIKit really only being used for app lifecycle management. This is a great reference if you are working on your own SwiftUI app.</description>
     </item>
     
     <item>
       <title>Swift Evolution iOS app</title>
-      <link>https://freshswift.net/post/-kj8pgra-lzmq3p894mj/</link>
+      <link>https://itunes.apple.com/ie/app/evolution-app/id1210898168?mt=8</link>
       <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8pgra-lzmq3p894mj/</guid>
-      <description></description>
+      <description>Thiago Holanda has released Evolution, a useful mobile app to follow Swift Evolution on your iOS device. It contains all the features you need to keep up to date like filtering of proposals, and information on the authors and reviewers.</description>
     </item>
     
   </channel>

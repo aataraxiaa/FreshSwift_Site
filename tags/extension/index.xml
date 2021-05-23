@@ -8,83 +8,74 @@
     <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/extension/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Protocol extensions</title>
-      <link>https://freshswift.net/post/30-09-20-063848/</link>
+      <link>https://dmtopolog.com/protocol-extensions/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/30-09-20-063848/</guid>
-      <description></description>
+      <description>Protocols can be extended to provide method implementations to conforming types, allowing us to define behavior on protocols themselves, rather than in each type&#39;s conformance. In this post, Dmitrii Ivanov looks at how protocol extensions are used to add default implementations and additional functionality.</description>
     </item>
     
     <item>
       <title>Dark side of extensions in Swift</title>
-      <link>https://freshswift.net/post/24-09-20-082930/</link>
+      <link>https://dmtopolog.com/dark-side-of-extensions/&#34;&#34;</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-09-20-082930/</guid>
-      <description></description>
+      <description>Swift Extensions add new functionality to an existing class, structure, enum, or protocol type. In this post, Dmitrii Ivanov outlines what he considers to be some of the drawbacks of using extensions. I don&#39;t fully agree with everything Dmitrii covers, but as he says, his goal is not to dissuade us from using extensions but to remind us of the nuances of using this language feature.</description>
     </item>
     
     <item>
       <title>Migrating an Objective-C class to Swift: a piecemeal approach</title>
-      <link>https://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</link>
+      <link>https://oleb.net/2018/objc-swift-transition/</link>
       <pubDate>Sat, 11 Aug 2018 09:20:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</guid>
-      <description></description>
+      <description>Migrating legacy Objective-C code to Swift can be an arduous process, and is often done as part of general code maintenance over a long period of time. In this post, Ole Begemann presents a piecemeal approach to such a migration, and provides a solution for a particular roadblock he encountered.</description>
     </item>
     
     <item>
       <title>Benchmark of Swift extensions vs methods: Swift 4.1</title>
-      <link>https://freshswift.net/post/-ldxvi0uridp1bj0wv1f/</link>
+      <link>https://medium.com/@minikin/benchmark-of-swift-extensions-vs-methods-swift-4-1-may-2018-2df3229f76fe</link>
       <pubDate>Sat, 02 Jun 2018 00:38:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ldxvi0uridp1bj0wv1f/</guid>
-      <description></description>
+      <description>Sasha Prokhorenko ran some benchmarking tests to compare the compilation time of methods defined in the main type versus methods defined in an extension of the type. Check out the results.</description>
     </item>
     
     <item>
       <title>Watch out for protocol extensions in your Swift API </title>
-      <link>https://freshswift.net/post/-lbu_h8ddopxnc2otigj/</link>
+      <link>https://medium.com/@londeix/watch-out-for-protocol-extensions-in-your-swift-api-unit-tests-trap-e28ad4ef3268</link>
       <pubDate>Mon, 07 May 2018 12:32:32 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lbu_h8ddopxnc2otigj/</guid>
-      <description></description>
+      <description>Bartosz Polaczyk looks at a potential gotcha relating to testing code defined in Swift protocol extensions. As a companion to this article, I also recommend reading the excellent article from Raizlabs which Bartosz links to, which looks in detail at method dispatching in Swift.</description>
     </item>
     
     <item>
       <title>Conditional conformances in Swift</title>
-      <link>https://freshswift.net/post/-l9uf2l5rrrtusgjwulk/</link>
+      <link>https://www.swiftbysundell.com/posts/conditional-conformances-in-swift</link>
       <pubDate>Sat, 07 Apr 2018 10:34:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9uf2l5rrrtusgjwulk/</guid>
-      <description></description>
+      <description>John Sundell looks at Conditional Conformance, a new Swift feature included in the recent Swift 4.1 release. Conditional conformance is a great addition to the language, and John demonstrates how we can use it to write code in a recursive fashion, while reducing duplication.</description>
     </item>
     
     <item>
       <title>Custom Label Effects in Swift 4</title>
-      <link>https://freshswift.net/post/-l94oxermoiwndh4xvcy/</link>
+      <link>https://medium.com/@nimjea/custom-label-effects-in-swift-4-69ec12ba2178</link>
       <pubDate>Mon, 02 Apr 2018 10:06:04 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l94oxermoiwndh4xvcy/</guid>
-      <description></description>
+      <description>Anand Nimje shows us how to add some cool effects to our UILabel text using NSAttributedSting and Swift protocol extensions.</description>
     </item>
     
     <item>
       <title>Caveats of Swift default protocol extensions</title>
-      <link>https://freshswift.net/post/-l8rrsqztl8ma2a4wuua/</link>
+      <link>http://www.marisibrothers.com/2018/03/caveats-of-swift-default-protocol.html?m=1</link>
       <pubDate>Fri, 30 Mar 2018 15:08:02 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8rrsqztl8ma2a4wuua/</guid>
-      <description></description>
+      <description>In this post, Luciano Marisi outlines two good reasons why we should be careful when adding default implementations in Swift protocol extensions.</description>
     </item>
     
     <item>
       <title>Stored Properties In Swift Extensions</title>
-      <link>https://freshswift.net/post/-kktbmogjv1zplhekblk/</link>
+      <link>https://marcosantadev.com/stored-properties-swift-extensions/</link>
       <pubDate>Wed, 24 May 2017 08:40:39 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kktbmogjv1zplhekblk/</guid>
-      <description></description>
+      <description>The ability to add stored properties to Swift extensions is something I often hear developers wish for (myself included). Although it&#39;s not something that is possible using pure Swift, it is possible using Objective-C associated objects. In this post, Marco Santarossa shows us how.</description>
     </item>
     
   </channel>

@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 07 Dec 2017 10:38:56 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/totality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Total programming in Swift</title>
-      <link>https://freshswift.net/post/-l-kyckewvnzfhqk6afu/</link>
+      <link>https://medium.com/@andre_videla/total-programming-in-swift-526508c12a74</link>
       <pubDate>Thu, 07 Dec 2017 10:38:56 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-kyckewvnzfhqk6afu/</guid>
-      <description></description>
+      <description>André Videla describes what a total program is, and examines Swift in this context. André shows us how Swift uses its type system to encourage totality - code that won’t crash or get stuck in an infinite loop.</description>
     </item>
     
   </channel>

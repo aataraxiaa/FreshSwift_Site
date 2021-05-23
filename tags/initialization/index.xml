@@ -8,29 +8,26 @@
     <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/initialization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift deinit is (sometimes) not called for throwing or failable initializers</title>
-      <link>https://freshswift.net/post/18-10-20-113224/</link>
+      <link>https://www.jessesquires.com/blog/2020/10/08/swift-deinit-is-not-called-for-failable-initializers/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-10-20-113224/</guid>
-      <description></description>
+      <description>Sometimes we may want to define a struct or class for which initialization can fail, for example in response to invalid parameter values. For this use case, Swift provides failable initializers. In this post, Jesse Squires reminds us that when initialization fails, the deinitializer is not called, and provides a short history lesson to explain why this is the case.</description>
     </item>
     
     <item>
       <title>Swift Lazy Property Initialization</title>
-      <link>https://freshswift.net/post/-ld_is_aojkumusdrga9/</link>
+      <link>https://useyourloaf.com/blog/swift-lazy-property-initialization/</link>
       <pubDate>Mon, 28 May 2018 07:52:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ld_is_aojkumusdrga9/</guid>
-      <description></description>
+      <description>We are all most likely familiar with lazy stored properties in Swift, but this post from Use Your Loaf provides a convenient overview of what they are, and how and when we should use them.</description>
     </item>
     
     <item>
       <title>Swift Initializer Problems</title>
-      <link>https://freshswift.net/post/-kqlihz-y4jmu0trbpgh/</link>
+      <link>https://github.com/apple/swift/blob/master/docs/InitializerProblems.rst</link>
       <pubDate>Sat, 05 Aug 2017 09:30:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqlihz-y4jmu0trbpgh/</guid>
-      <description></description>
+      <description>Swift initialization, particularly for class types where inheritance is involved, can sometimes feel a little complicated. This Swift document outlines 3 issues associated with Swift initialization, and proposes some possible solutions.</description>
     </item>
     
   </channel>

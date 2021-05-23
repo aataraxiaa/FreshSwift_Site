@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 18 Jun 2018 13:38:46 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ios12/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What’s new in iOS 12?</title>
-      <link>https://freshswift.net/post/-lfi6cpxpsj66nwgmcoz/</link>
+      <link>https://www.hackingwithswift.com/articles/121/whats-new-in-ios-12</link>
       <pubDate>Mon, 18 Jun 2018 13:38:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfi6cpxpsj66nwgmcoz/</guid>
-      <description></description>
+      <description>Paul Hudson walks us through the major changes coming with iOS 12, providing Swift code examples that we can try out ourselves.</description>
     </item>
     
   </channel>

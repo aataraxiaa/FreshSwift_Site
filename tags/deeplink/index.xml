@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/deeplink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handling deeplinks in iOS 14 with onOpenURL</title>
-      <link>https://freshswift.net/post/24-07-20-082118/</link>
+      <link>https://www.donnywals.com/handling-deeplinks-in-ios-14-with-onopenurl/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-07-20-082118/</guid>
-      <description></description>
+      <description>Handling deeplinks using UIKit is cumbersome, requiring developers to implement logic in their App/Scene delegate which needs to know the full app structure to manipulate its navigation state. Thankfully, handling deeplinks with SwiftUI in iOS 14 is much more powerful and flexible. In this post, Donny Wals provides a complete example of using SwiftUI&#39;s new onOpenURL view modifier, showing us how views can modify their state as needed in response to a deeplink.</description>
     </item>
     
   </channel>

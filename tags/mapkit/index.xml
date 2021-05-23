@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/mapkit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using MapKit with SwiftUI</title>
-      <link>https://freshswift.net/post/06-08-20-075648/</link>
+      <link>https://swiftwithmajid.com/2020/07/29/using-mapkit-with-swiftui/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-08-20-075648/</guid>
-      <description></description>
+      <description>Apple continues to encourage the adoption of SwiftUI by creating more SwiftUI integrations for UIKit frameworks. In this post, Majid Jabrayilov describes the functionality available in the new SwiftUI Map type, which can be used to display MapKit maps in our SwiftUI apps. It&#39;s great to see more and more SwiftUI types like this, avoiding the need to mix SwiftUI and UIKit implementations.</description>
     </item>
     
   </channel>

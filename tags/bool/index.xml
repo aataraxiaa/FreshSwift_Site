@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 11 Sep 2017 07:36:10 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/bool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clean code: The curse of a boolean parameter</title>
-      <link>https://freshswift.net/post/-ktjrnrggu-ynmnvueyk/</link>
+      <link>https://medium.com/@amlcurran/clean-code-the-curse-of-a-boolean-parameter-c237a830b7a3</link>
       <pubDate>Mon, 11 Sep 2017 07:36:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ktjrnrggu-ynmnvueyk/</guid>
-      <description></description>
+      <description>Alex Curran describes how Bools can sometimes be a source of unwanted complexity in our code. He looks at the example of a method which takes a Bool parameter, and shows us how to refactor it to reduce it’s complexity.</description>
     </item>
     
   </channel>

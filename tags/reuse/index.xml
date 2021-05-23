@@ -8,20 +8,18 @@
     <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/reuse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Designing reusable Swift libraries</title>
-      <link>https://freshswift.net/post/13-06-20/</link>
+      <link>https://www.swiftbysundell.com/articles/designing-reusable-swift-libraries/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-06-20/</guid>
-      <description></description>
+      <description>Implementing pragmatic reusable code involves striking the right balance between reducing duplication and avoiding unnecessary layers of abstraction. This post from John Sundell aims to help us achieve that balance, showing us how to package generic concepts as libraries with the help of strong types and unit testing.</description>
     </item>
     
     <item>
       <title>Advance Generics to create reusable UI</title>
-      <link>https://freshswift.net/post/-libqgc7cuhctcrdg3o7/</link>
+      <link>https://medium.com/cocoaacademymag/advance-generics-to-create-reusable-ui-f0b8b8934895</link>
       <pubDate>Tue, 24 Jul 2018 15:14:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-libqgc7cuhctcrdg3o7/</guid>
-      <description></description>
+      <description>In this post James Rochabrun shows us how we can leverage Swift generics to create a reusable search UI component.</description>
     </item>
     
   </channel>

@@ -8,83 +8,74 @@
     <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/memory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift deinit is (sometimes) not called for throwing or failable initializers</title>
-      <link>https://freshswift.net/post/18-10-20-113224/</link>
+      <link>https://www.jessesquires.com/blog/2020/10/08/swift-deinit-is-not-called-for-failable-initializers/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-10-20-113224/</guid>
-      <description></description>
+      <description>Sometimes we may want to define a struct or class for which initialization can fail, for example in response to invalid parameter values. For this use case, Swift provides failable initializers. In this post, Jesse Squires reminds us that when initialization fails, the deinitializer is not called, and provides a short history lesson to explain why this is the case.</description>
     </item>
     
     <item>
       <title>Swift vs. Kotlin — the differences in memory management</title>
-      <link>https://freshswift.net/post/-lfrqcxrwli4r901ocki/</link>
+      <link>https://blog.indoorway.com/swift-vs-kotlin-the-differences-in-memory-management-860828edf8</link>
       <pubDate>Mon, 25 Jun 2018 16:50:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfrqcxrwli4r901ocki/</guid>
-      <description></description>
+      <description>In this post Krzysztof Turek compares Swift with Kotlin in the context of iOS and Android development, explaining how each language and platform handles memory management.</description>
     </item>
     
     <item>
       <title>Memory Leaks in Swift</title>
-      <link>https://freshswift.net/post/-lctkp888jlkpjuts-yq/</link>
+      <link>https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74</link>
       <pubDate>Mon, 14 May 2018 11:09:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lctkp888jlkpjuts-yq/</guid>
-      <description></description>
+      <description>This post from Leandro Pérez looks at memory leaks in Swift. Leandro first explains what memory leaks are, and how they occur, before describing what we can do to avoid them.</description>
     </item>
     
     <item>
       <title>Memory Management and Performance of Value Types</title>
-      <link>https://freshswift.net/post/-lagtmqgglagechp8g1d/</link>
+      <link>https://swiftrocks.com/memory-management-and-performance-of-value-types.html</link>
       <pubDate>Sun, 22 Apr 2018 08:31:58 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lagtmqgglagechp8g1d/</guid>
-      <description></description>
+      <description>In this detailed post, Bruno Rocha examines the performance differences between Swift structs and classes. Bruno explains how both are stored in memory, and provides advice on how to avoid negative performance impacts.</description>
     </item>
     
     <item>
       <title>Heap Corruption Follow-up: Size, Alignment, and Crashing Collections</title>
-      <link>https://freshswift.net/post/-l9lz_jeqm18a6yvcruf/</link>
+      <link>https://topologyeyewear.github.io/engineering-blog/2018/03/19/heap_corruption_followup/</link>
       <pubDate>Thu, 05 Apr 2018 16:09:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9lz_jeqm18a6yvcruf/</guid>
-      <description></description>
+      <description>Greg Heo performs a post-mortem on a bug which was found in the Swift compiler. This is a great look at how Swift works with memory allocation. Greg explains some key concepts such as stride and alignment, before providing some tips on how we can efficiently investigate hard to find bugs.</description>
     </item>
     
     <item>
       <title>Size, Stride, Alignment</title>
-      <link>https://freshswift.net/post/-l8nze6-fbrrrnxtrth/</link>
+      <link>https://swiftunboxed.com/internals/size-stride-alignment/</link>
       <pubDate>Sat, 24 Mar 2018 15:11:56 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8nze6-fbrrrnxtrth/</guid>
-      <description></description>
+      <description>This is a fantastic look at three important properties of Swift types which relate to memory management- size, stride, and alignment. Greg Heo describes what the properties are, and when we should take them into consideration.</description>
     </item>
     
     <item>
       <title>Solving a Mysterious Heap Corruption Crash </title>
-      <link>https://freshswift.net/post/-l7cfg5ywff_uzoirtmv/</link>
+      <link>https://topologyeyewear.github.io/engineering-blog/2018/03/07/heap_corruption/</link>
       <pubDate>Thu, 15 Mar 2018 08:00:53 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l7cfg5ywff_uzoirtmv/</guid>
-      <description></description>
+      <description>This is a great post from Agnes Vasarhelyi, in which we learn how an investigation into a mysterious heap corruption crash resulted in a bug being fixed in the Swift standard library.</description>
     </item>
     
     <item>
       <title>Using unit tests to identify &amp; avoid memory leaks in Swift</title>
-      <link>https://freshswift.net/post/-l-0mkkoedprpaok5pqa/</link>
+      <link>https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift?utm_campaign=This%2BWeek%2Bin%2BSwift&amp;utm_medium=email&amp;utm_source=This_Week_in_Swift_150</link>
       <pubDate>Tue, 28 Nov 2017 08:40:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-0mkkoedprpaok5pqa/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how we can use simple unit tests to identify and avoid memory leaks. John looks at three scenarios - using delegates, observers, and closures - and describes the problem that can arise with each.</description>
     </item>
     
     <item>
       <title>Swift Arrays Holding Elements With Weak References</title>
-      <link>https://freshswift.net/post/-kjme0fit1dm6vjmnmoj/</link>
+      <link>https://marcosantadev.com/swift-arrays-holding-elements-weak-references/</link>
       <pubDate>Fri, 05 May 2017 08:09:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjme0fit1dm6vjmnmoj/</guid>
-      <description></description>
+      <description>Marco Santarossa looks at memory management in Swift, detailing how we can use NSPointerArray to store weak references to Swift classes.</description>
     </item>
     
   </channel>

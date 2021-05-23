@@ -8,29 +8,26 @@
     <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/scrollview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SwiftUI ScrollView offset</title>
-      <link>https://freshswift.net/post/03-09-20-082236/</link>
+      <link>https://fivestars.blog/swiftui/scrollview-offset.html</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-09-20-082236/</guid>
-      <description></description>
+      <description>When using scrollable view types, it&#39;s common to want to access the content offset. The content offset is the point at which the origin of the content view is offset from the origin of the scroll view. While UIKit&#39;s UIScrollView provides contentOffset, allowing us to read/write to this property, SwiftUI&#39;s ScrollView does not provide such a property. Instead, SwiftUI provides the ScrollViewReader type, which can be used in place of direct access to a content offset property. However, there might still be times when we want to directly access the content offset of a SwiftUI ScrollView, and in this post, Federico Zanetello shows us how to do that.</description>
     </item>
     
     <item>
       <title>SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture</title>
-      <link>https://freshswift.net/post/15-07-20-064138/</link>
+      <link>https://www.fivestars.blog/code/section-title-index-swiftui.html</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-07-20-064138/</guid>
-      <description></description>
+      <description>SwiftUI includes a ScrollView type, which is similar in function to its UIKit counterpart. However, until recently, SwiftUI was unable to programmatically scroll to a particular offset in the ScrollView. With iOS 14, this is now possible, and in this post, Federico Zanetello uses this new ability, together with DragGesture, to implement his own version of an index list.</description>
     </item>
     
     <item>
       <title>Easier Scrolling With Layout Guides</title>
-      <link>https://freshswift.net/post/-ll9pmdbfszl5pamvvbk/</link>
+      <link>https://useyourloaf.com/blog/easier-scrolling-with-layout-guides/</link>
       <pubDate>Thu, 30 Aug 2018 12:36:09 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ll9pmdbfszl5pamvvbk/</guid>
-      <description></description>
+      <description>Keith Harrison from UseYourLoaf demonstrates how we can use layout guides to configure UIScrollView constraints. Swift code examples are provided.</description>
     </item>
     
   </channel>

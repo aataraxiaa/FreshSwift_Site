@@ -8,38 +8,34 @@
     <lastBuildDate>Sun, 08 Apr 2018 11:16:07 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/flatmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Optionals as Collections</title>
-      <link>https://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/</link>
+      <link>http://www.figure.ink/blog/2018/3/29/optionals-as-collections</link>
       <pubDate>Sun, 08 Apr 2018 11:16:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/</guid>
-      <description></description>
+      <description>Joshua Emmons returns to a post he wrote on dealing with optionals and failable initializers. Joshua goes back to basics, looking at how flapMap applies to optionals, and comes to realise that when we think of optionals as collections, things make more sense.</description>
     </item>
     
     <item>
       <title>Optional Forward Application</title>
-      <link>https://freshswift.net/post/-l90hdsaemrfzc45ff5p/</link>
+      <link>http://www.figure.ink/blog/2018/3/27/optional-forward-application</link>
       <pubDate>Sun, 01 Apr 2018 12:57:43 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l90hdsaemrfzc45ff5p/</guid>
-      <description></description>
+      <description>This is an interesting post from Joshua Emmons in which he looks at handling optional parameters when using failable initialisers. Joshua initially described an approach using a custom free function, before amending the post to recommend using the flatMap function available in the Swift standard library.</description>
     </item>
     
     <item>
       <title>An aside about flatMap and monads</title>
-      <link>https://freshswift.net/post/-koke-tgpqfz_xmungtm/</link>
+      <link>http://www.cocoawithlove.com/blog/an-aside-about-flatmap-and-monads.html</link>
       <pubDate>Tue, 11 Jul 2017 07:58:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koke-tgpqfz_xmungtm/</guid>
-      <description></description>
+      <description>This is a very interesting article from Matt Gallagher in which he discusses monads in the context of Swift and it’s flatmap functions. If you are not too familiar with the Haskell programming language, and the concept of a monad, this is a great place to start learning.</description>
     </item>
     
     <item>
       <title>Swift Tricks: Searching for Objects by Type</title>
-      <link>https://freshswift.net/post/-kktqhvafh53smopgeqo/</link>
+      <link>https://timekl.com/blog/2017/05/14/swift-tricks-searching-for-objects-by-type/</link>
       <pubDate>Wed, 24 May 2017 07:47:54 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kktqhvafh53smopgeqo/</guid>
-      <description></description>
+      <description>Performing operations such as map or flatmap on large collections can be expensive. Luckily, Swift provides lazy collections. Using a lazy collection, all operations are delayed until we actually need to access an element. In this post, TIm Ekl uses a lazy collection together with flatmap to efficiently find a specific type in an array of types.</description>
     </item>
     
   </channel>

@@ -8,20 +8,18 @@
     <lastBuildDate>Wed, 20 Sep 2017 07:56:12 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/map/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Strange Case Of Mapping Over Optionals</title>
-      <link>https://freshswift.net/post/-kutho80upje_8z2q6dh/</link>
+      <link>https://swiftunboxed.com/lang/optionals-map-flatmap/</link>
       <pubDate>Wed, 20 Sep 2017 07:56:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kutho80upje_8z2q6dh/</guid>
-      <description></description>
+      <description>Greg Heo with a post looking at how map and flatMap work when applied to optionals. Greg first looks at how traditional map and flatMap work when applied to collections, before taking a look at optionals. He provides code snippets of their Optional implementations, and offers guidance on when to use map and flatMap based on our requirements.</description>
     </item>
     
     <item>
       <title>Why the Func</title>
-      <link>https://freshswift.net/post/-kqb1spnrtrlwgzgivx5/</link>
+      <link>https://academy.realm.io/posts/daniel-steinberg-altconf-2017-why-the-func/</link>
       <pubDate>Thu, 03 Aug 2017 07:40:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqb1spnrtrlwgzgivx5/</guid>
-      <description></description>
+      <description>Daniel Steinberg with a talk from AltConf 2017 in which he looks at what functional programming means in Swift. He takes a deep dive in to using map, and shows us what we can learn from trying to write our own map functions.</description>
     </item>
     
   </channel>

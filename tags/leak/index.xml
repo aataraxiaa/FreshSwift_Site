@@ -8,20 +8,18 @@
     <lastBuildDate>Mon, 14 May 2018 11:09:31 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/leak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memory Leaks in Swift</title>
-      <link>https://freshswift.net/post/-lctkp888jlkpjuts-yq/</link>
+      <link>https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74</link>
       <pubDate>Mon, 14 May 2018 11:09:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lctkp888jlkpjuts-yq/</guid>
-      <description></description>
+      <description>This post from Leandro Pérez looks at memory leaks in Swift. Leandro first explains what memory leaks are, and how they occur, before describing what we can do to avoid them.</description>
     </item>
     
     <item>
       <title>Using unit tests to identify &amp; avoid memory leaks in Swift</title>
-      <link>https://freshswift.net/post/-l-0mkkoedprpaok5pqa/</link>
+      <link>https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift?utm_campaign=This%2BWeek%2Bin%2BSwift&amp;utm_medium=email&amp;utm_source=This_Week_in_Swift_150</link>
       <pubDate>Tue, 28 Nov 2017 08:40:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-0mkkoedprpaok5pqa/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how we can use simple unit tests to identify and avoid memory leaks. John looks at three scenarios - using delegates, observers, and closures - and describes the problem that can arise with each.</description>
     </item>
     
   </channel>

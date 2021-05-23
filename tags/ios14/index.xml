@@ -8,218 +8,194 @@
     <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ios14/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple’s use of Swift and SwiftUI in iOS 14</title>
-      <link>https://freshswift.net/post/04-10-20-110753/</link>
+      <link>https://blog.timac.org/2020/0927-state-of-swift-ios14/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-10-20-110753/</guid>
-      <description></description>
+      <description>Since 2015, Alexandre Colucci has analyzed each iOS release to measure how many system applications were using Swift. In this post, Alexandre Colucci shows us how Apple&#39;s use of Swift has evolved with iOS 14 and also extends his analysis to measure how many built-in apps use SwiftUI.</description>
     </item>
     
     <item>
       <title>Save Custom Codable Types in AppStorage or SceneStorage</title>
-      <link>https://freshswift.net/post/08-09-20-075830/</link>
+      <link>https://lostmoa.com/blog/SaveCustomCodableTypesInAppStorageOrSceneStorage/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-09-20-075830/</guid>
-      <description></description>
+      <description>AppStorage and SceneStorage are SwiftUI property wrappers designed for data persistence. Both of these property wrappers support Swift value types such as Bool, Int, etc. However, to use these property wrappers with custom codable types, we need to add RawRepresentable conformance to the types. In this post, Natalia Panferova shows us how to do this.</description>
     </item>
     
     <item>
       <title>Make a placeholder view in SwiftUI with redacted()</title>
-      <link>https://freshswift.net/post/06-09-20-114755/</link>
+      <link>https://sarunw.com/posts/make-placeholder-view-in-swiftui-with-redacted/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-09-20-114755/</guid>
-      <description></description>
+      <description>Available in iOS 14, SwiftUI&#39;s redacted view modifier redacts or obscures the content of any view it is applied to. In this short post, Sarun Wongpatcharapakorn demonstrates how to use this API and shows us how to customize what is displayed when a view is redacted.</description>
     </item>
     
     <item>
       <title>SwiftUI GroupBox for iOS</title>
-      <link>https://freshswift.net/post/18-08-20-074551/</link>
+      <link>https://itnext.io/swiftui-groupbox-for-ios-bb16aa71469c</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-08-20-074551/</guid>
-      <description></description>
+      <description>Available in SwiftUI on macOS since Catalina, the SwiftUI Groupbox type is now available in iOS 14. A Groupbox is a view with an optional label that contains a logical grouping of views. In this short post, Luca provides examples of using Groupbox to display a variety of data.</description>
     </item>
     
     <item>
       <title>Menus in SwiftUI</title>
-      <link>https://freshswift.net/post/13-08-20-082706/</link>
+      <link>https://swiftwithmajid.com/2020/08/05/menus-in-swiftui/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-08-20-082706/</guid>
-      <description></description>
+      <description>iOS 14 introduces Menu - a new SwiftUI view type used to display popup menus from buttons. In this post, Majid Jabrayilov shows us how to use menus to provide secondary actions or selection options, and describes some of the benefits menus provide over alternative options such as action sheets.</description>
     </item>
     
     <item>
       <title>Adding a closure as a target to UIButton and other controls in Swift</title>
-      <link>https://freshswift.net/post/12-08-20-074536/</link>
+      <link>https://www.avanderlee.com/swift/uibutton-uicontrol-closure-target/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-08-20-074536/</guid>
-      <description></description>
+      <description>iOS 14 introduced new APIs that allow us to use the UIAction type when defining actions associated with UIControls. In this short post, Antoine Van Der Lee shows us how we can use these new APIs to define our actions as closures, improving the discoverability of our action definitions.</description>
     </item>
     
     <item>
       <title>Implementing Grid Layout in SwiftUI</title>
-      <link>https://freshswift.net/post/05-08-20-080217/</link>
+      <link>https://exyte.com/blog/implementing-grid-layout-in-swiftui</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-08-20-080217/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s LazyVGrid and LazyHGrid types, introduced in iOS 14, provide flexible grid layouts. In this post from the team at exyte, Denis Obukhov and Nikita Afonasov look at what a grid layout is, what features it has, and describe how their custom grid implementation differs from Apple&#39;s.</description>
     </item>
     
     <item>
       <title>Sidebar navigation in SwiftUI</title>
-      <link>https://freshswift.net/post/02-08-20-105205/</link>
+      <link>https://swiftwithmajid.com/2020/07/21/sidebar-navigation-in-swiftui/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-08-20-105205/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s NavigationView type - used for presenting a stack of views representing a navigation hierarchy - is incredibly powerful, enabling us to build complex layouts that adapt to the platform they are running on. In this post, Majid Jabrayilov shows us how to use a NavigationView to add a third sidebar column to a two-column master-detail navigation layout.</description>
     </item>
     
     <item>
       <title>SwiftUI Hierarchy List</title>
-      <link>https://freshswift.net/post/01-08-20-083143/</link>
+      <link>https://www.fivestars.blog/code/swiftui-hierarchy-list.html</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-08-20-083143/</guid>
-      <description></description>
+      <description>New in iOS 14 is the ability to easily create hierarchical lists using SwiftUI&#39;s List view type. Given a recursive data model that contains optional children of the same type as the parent, a List will display a tree-like structure with expandable rows. In this post, Federico Zanetello shows us how to implement our version of a hierarchical list, creating a custom type that is compatible with iOS 13. I like the approach Federico takes in his posts. Implementing our version of existing types and APIs is a great way of learning more about how the original versions work.</description>
     </item>
     
     <item>
       <title>Learn About SwiftUI Text and Label in iOS 14</title>
-      <link>https://freshswift.net/post/30-07-20-082423/</link>
+      <link>https://medium.com/better-programming/learn-about-swiftui-text-and-label-in-ios-14-bfee41252117</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/30-07-20-082423/</guid>
-      <description></description>
+      <description>In this short post, Anupam Chugh explores the powerful new Text APIs available in the latest version of SwiftUI. Gist with full source code is provided.</description>
     </item>
     
     <item>
       <title>Handling deeplinks in iOS 14 with onOpenURL</title>
-      <link>https://freshswift.net/post/24-07-20-082118/</link>
+      <link>https://www.donnywals.com/handling-deeplinks-in-ios-14-with-onopenurl/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-07-20-082118/</guid>
-      <description></description>
+      <description>Handling deeplinks using UIKit is cumbersome, requiring developers to implement logic in their App/Scene delegate which needs to know the full app structure to manipulate its navigation state. Thankfully, handling deeplinks with SwiftUI in iOS 14 is much more powerful and flexible. In this post, Donny Wals provides a complete example of using SwiftUI&#39;s new onOpenURL view modifier, showing us how views can modify their state as needed in response to a deeplink.</description>
     </item>
     
     <item>
       <title>Mastering toolbars in SwiftUI</title>
-      <link>https://freshswift.net/post/23-07-20-072827/</link>
+      <link>https://swiftwithmajid.com/2020/07/15/mastering-toolbars-in-swiftui/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-07-20-072827/</guid>
-      <description></description>
+      <description>SwiftUI gains a new Toolbar API in iOS 14. Using this API, we can add bar button items to our apps which automatically adapt to their environment. In this post, Majid looks at how this new API works and provides an example of its usage.</description>
     </item>
     
     <item>
       <title>Mastering grids in SwiftUI</title>
-      <link>https://freshswift.net/post/18-07-20-090524/</link>
+      <link>https://swiftwithmajid.com/2020/07/08/mastering-grids-in-swiftui/</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-07-20-090524/</guid>
-      <description></description>
+      <description>Two new container views - LazyVGrid and LazyHGrid - have been added to SwiftUI in iOS 14. These new container views arrange their child views in a grid that grows either vertically or horizontally, creating items only as needed. In this post, Majid demonstrates how we can create complex and adaptive layouts using these incredibly powerful new types.</description>
     </item>
     
     <item>
       <title>Custom navigation bar title view in SwiftUI</title>
-      <link>https://freshswift.net/post/16-07-20-075944/</link>
+      <link>https://sarunw.com/posts/custom-navigation-bar-title-view-in-swiftui/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-07-20-075944/</guid>
-      <description></description>
+      <description>SwiftUI in iOS 14 includes a new ToolbarItem type and toolbar view modifier, which can be used together to create a customized navigation bar title. In this short post, Sarun shows us how to create a navigation bar title that displays text, an image, and even a button.</description>
     </item>
     
     <item>
       <title>SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture</title>
-      <link>https://freshswift.net/post/15-07-20-064138/</link>
+      <link>https://www.fivestars.blog/code/section-title-index-swiftui.html</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-07-20-064138/</guid>
-      <description></description>
+      <description>SwiftUI includes a ScrollView type, which is similar in function to its UIKit counterpart. However, until recently, SwiftUI was unable to programmatically scroll to a particular offset in the ScrollView. With iOS 14, this is now possible, and in this post, Federico Zanetello uses this new ability, together with DragGesture, to implement his own version of an index list.</description>
     </item>
     
     <item>
       <title>SwiftUI’s New App Lifecycle and Replacements for AppDelegate and SceneDelegate in iOS 14</title>
-      <link>https://freshswift.net/post/14-07-20-075448/</link>
+      <link>https://medium.com/better-programming/swiftuis-new-app-lifecycle-and-replacements-for-appdelegate-and-scenedelegate-in-ios-14-c9cf4a2367a9</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-07-20-075448/</guid>
-      <description></description>
+      <description>With iOS 14, it is now possible to build entire apps using only SwiftUI, avoiding the need to implement UIKit lifecycle protocols such as UIApplicationDelegate. This is made possible due to the introduction of new SwiftUI features such as the App protocol and SceneBuilder function builder. Here, Anupam Chugh shows us how we can leverage these new SwiftUI features to implement a SwiftUI app lifecycle.</description>
     </item>
     
     <item>
       <title>A first look at matchedGeometryEffect</title>
-      <link>https://freshswift.net/post/12-07-20-110347/</link>
+      <link>https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-07-20-110347/</guid>
-      <description></description>
+      <description>SwiftUI provides great support for animation, allowing us to animate changes to views, or to a view&#39;s state. In the latest version of SwiftUI, included in the iOS 14 beta, we get a new method, matchedGeometryEffect, which defines a group of views with synchronized geometry. Combining this method with SwiftUI&#39;s support for animations allows us to animate a change in the position and size of two or more views in our view hierarchy. In this post, Sarun shows us how it&#39;s done.</description>
     </item>
     
     <item>
       <title>The difference between @StateObject, @EnvironmentObject, and @ObservedObject in SwiftUI</title>
-      <link>https://freshswift.net/post/12-07-20-162514/</link>
+      <link>https://swiftwithmajid.com/2020/07/02/the-difference-between-stateobject-environmentobject-and-observedobject-in-swiftui/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-07-20-162514/</guid>
-      <description></description>
+      <description>SwiftUI implements it&#39;s data flow management types, such as State, Binding, and ObservedObject, as property wrappers. In this post, Majid explains the difference between some of these property wrappers, including the new StateObject property wrapper which is available in iOS 14</description>
     </item>
     
     <item>
       <title>UICollectionView Compositional List Layout</title>
-      <link>https://freshswift.net/post/10-07-20-084455/</link>
+      <link>https://www.youtube.com/watch?v=5Q4KgyESHRA</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-07-20-084455/</guid>
-      <description></description>
+      <description>iOS 14 adds a new list layout to UICollectionView, and with Apple recommending we use this for displaying lists of data, it&#39;s likely that UITableView will be deprecated at some point in the future. In this video from Kilo Loco, we learn how to implement the new UICollectionView List Compositional Layout in Swift.</description>
     </item>
     
     <item>
       <title>iOS 14: Notable UIKit Additions</title>
-      <link>https://freshswift.net/post/08-07-20-080619/</link>
+      <link>https://www.swiftjectivec.com/ios-14-notable-uikit-additions/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-07-20-080619/</guid>
-      <description></description>
+      <description>With Apple understandably putting a lot of effort into SwiftUI, it&#39;s great to see that UIKit is not being ignored. iOS 14 includes substantial updates to UIKit, and in this post from Jordan Morgan, we get a rundown of some of the new additions, with Swift code samples for each. I really like the move away from the target-action pattern to UIActions.</description>
     </item>
     
     <item>
       <title>New property wrappers in SwiftUI</title>
-      <link>https://freshswift.net/post/06-07-20-080136/</link>
+      <link>https://swiftwithmajid.com/2020/06/29/new-property-wrappers-in-swiftui/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-07-20-080136/</guid>
-      <description></description>
+      <description>SwiftUI allows us to declaratively build our user interfaces, while also indicating data dependencies for our views. We indicate these dependencies using data management types, which are implemented in SwiftUI as property wrappers such as State and Binding. With iOS 14, SwiftUI introduces additional property wrappers to help us manage state and data flow, and in this post, Majid shows us how we can use them.</description>
     </item>
     
     <item>
       <title>How SwiftUI can now be used to build entire iOS apps</title>
-      <link>https://freshswift.net/post/05-07-20-110345/</link>
+      <link>https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-07-20-110345/</guid>
-      <description></description>
+      <description>At this year&#39;s WWDC20, SwiftUI received some very impressive updates. One of them is the ability to create an entry point for an app without needing to rely on UIKit/AppKit. What this means is that we can now build an entire app using SwiftUI. In this post, John Sundell shows us how simple it is to build such an app.</description>
     </item>
     
     <item>
       <title>Add custom SwiftUI view to View Library with LibraryContentProvider</title>
-      <link>https://freshswift.net/post/04-07-20-073001/</link>
+      <link>https://sarunw.com/posts/add-custom-swiftui-view-to-view-library/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-07-20-073001/</guid>
-      <description></description>
+      <description>Xcode&#39;s library allows us to quickly access commonly used SwiftUI system elements such as views and modifiers. New to iOS 14 and Xcode 12 is the ability to add our own custom SwiftUI views to the library. This post from Sarun shows us how to do it.</description>
     </item>
     
     <item>
       <title>Using SceneStorage for State Restoration in SwiftUI Apps</title>
-      <link>https://freshswift.net/post/30-06-20-080945/</link>
+      <link>https://lostmoa.com/blog/UsingSceneStorageForStateRestorationInSwiftUIApps/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/30-06-20-080945/</guid>
-      <description></description>
+      <description>iOS 14 introduces a new SwiftUI property wrapper, SceneStorage. In this short post, Natalia Panferova shows us how we can use it to persist tab selection in a tab-based app.</description>
     </item>
     
   </channel>

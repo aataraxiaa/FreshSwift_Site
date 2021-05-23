@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/bitwise/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Swift’s OptionSet</title>
-      <link>https://freshswift.net/post/24-08-20-085232/</link>
+      <link>https://www.donnywals.com/understanding-swifts-optionset/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-08-20-085232/</guid>
-      <description></description>
+      <description>OptionSet is a Swift type that presents a mathematical set interface to a bit set. The protocol is used to represent bitset types, where individual bits represent members of a set. Even if you have not explicitly implemented the OptionSet protocol, you have likely used OptionSet when using Apple APIs. In this post, Donny Wals provides a good overview of the OptionSet type, including a look at some of Swift&#39;s bitwise operators.</description>
     </item>
     
   </channel>

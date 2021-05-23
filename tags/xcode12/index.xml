@@ -8,29 +8,26 @@
     <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/xcode12/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using MapKit with SwiftUI</title>
-      <link>https://freshswift.net/post/06-08-20-075648/</link>
+      <link>https://swiftwithmajid.com/2020/07/29/using-mapkit-with-swiftui/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-08-20-075648/</guid>
-      <description></description>
+      <description>Apple continues to encourage the adoption of SwiftUI by creating more SwiftUI integrations for UIKit frameworks. In this post, Majid Jabrayilov describes the functionality available in the new SwiftUI Map type, which can be used to display MapKit maps in our SwiftUI apps. It&#39;s great to see more and more SwiftUI types like this, avoiding the need to mix SwiftUI and UIKit implementations.</description>
     </item>
     
     <item>
       <title>How SwiftUI can now be used to build entire iOS apps</title>
-      <link>https://freshswift.net/post/05-07-20-110345/</link>
+      <link>https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-07-20-110345/</guid>
-      <description></description>
+      <description>At this year&#39;s WWDC20, SwiftUI received some very impressive updates. One of them is the ability to create an entry point for an app without needing to rely on UIKit/AppKit. What this means is that we can now build an entire app using SwiftUI. In this post, John Sundell shows us how simple it is to build such an app.</description>
     </item>
     
     <item>
       <title>Add custom SwiftUI view to View Library with LibraryContentProvider</title>
-      <link>https://freshswift.net/post/04-07-20-073001/</link>
+      <link>https://sarunw.com/posts/add-custom-swiftui-view-to-view-library/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-07-20-073001/</guid>
-      <description></description>
+      <description>Xcode&#39;s library allows us to quickly access commonly used SwiftUI system elements such as views and modifiers. New to iOS 14 and Xcode 12 is the ability to add our own custom SwiftUI views to the library. This post from Sarun shows us how to do it.</description>
     </item>
     
   </channel>

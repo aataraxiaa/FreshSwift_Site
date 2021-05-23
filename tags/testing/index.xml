@@ -8,155 +8,138 @@
     <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The hidden cost of @testable</title>
-      <link>https://freshswift.net/post/27-04-21-153459/</link>
+      <link>https://paul-samuels.com/blog/2021/03/29/thoughts-on-testable-import/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-04-21-153459/</guid>
-      <description></description>
+      <description>Swift&#39;s @testable annotation affects how a module is imported, changing its access control to simplify testing. In this interesting post, Paul Samuels argues that there are hidden costs to using this feature. I don&#39;t entirely agree with everything Paul states, but it&#39;s always good to consider a different point of view.</description>
     </item>
     
     <item>
       <title>XCTest tips and tricks that can level up your Swift testing</title>
-      <link>https://freshswift.net/post/19-02-21-133120/</link>
+      <link>https://masilotti.com/xctest-tips-and-tricks/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-02-21-133120/</guid>
-      <description></description>
+      <description>Testing is such a critical part of the software development process that it&#39;s always great to learn some new test-related tricks. In this post, Joe Masilotti shares some of his favorite XCTest tips he picked up over the past few years. Swift code samples included.</description>
     </item>
     
     <item>
       <title>Testing the UI without UI Testing in Swift</title>
-      <link>https://freshswift.net/post/06-12-20-120615/</link>
+      <link>https://masilotti.com/testing-ui-without-ui-testing/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-12-20-120615/</guid>
-      <description></description>
+      <description>Testing the user interface is an essential part of software development. Unfortunately, UI testing frameworks such as Apple&#39;s XCUITest are often unreliable and slow. However, there are other methods of testing the user interface, and in this post, Joe Masilotti shows us how to write UI tests using XCTest, Apple&#39;s unit testing framework.</description>
     </item>
     
     <item>
       <title>Unit Testing Asynchronous Code in Swift</title>
-      <link>https://freshswift.net/post/16-11-20-083559/</link>
+      <link>https://www.vadimbulavin.com/unit-testing-async-code-in-swift/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-11-20-083559/</guid>
-      <description></description>
+      <description>Implementing unit tests for asynchronous logic presents challenges such as false-positive test results and untrustworthy or error-prone test executions. In this post, Vadim Bulavin describes four patterns that help us to deal with such challenges, enabling us to reliably test asynchronous code.</description>
     </item>
     
     <item>
       <title>Testing delegates and protocols in XCTest</title>
-      <link>https://freshswift.net/post/17-09-20-075302/</link>
+      <link>https://sarunw.com/posts/testing-delegates-and-protocols-in-xctest/</link>
       <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-09-20-075302/</guid>
-      <description></description>
+      <description>The delegate pattern uses composition to provide similar advantages to object inheritance and is a pattern commonly used when developing for Apple&#39;s platforms. In this short post, Sarun Wongpatcharapakorn demonstrates his technique for testing code which uses delegation.</description>
     </item>
     
     <item>
       <title>Unit testing retain cycles</title>
-      <link>https://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</link>
+      <link>https://paul-samuels.com/blog/2018/11/20/unit-testing-retain-cycles/</link>
       <pubDate>Tue, 27 Nov 2018 17:28:55 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</guid>
-      <description></description>
+      <description>Paul Samuels demonstrates how we can use two helper functions to easily unit test for retain cycles.</description>
     </item>
     
     <item>
       <title>Async/await in Swift unit tests</title>
-      <link>https://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</link>
+      <link>https://www.swiftbysundell.com/posts/asyncawait-in-swift-unit-tests</link>
       <pubDate>Tue, 25 Sep 2018 13:45:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</guid>
-      <description></description>
+      <description>John Sundell shows us how to use the async/await programming paradigm to write concise unit tests for asynchronous code.</description>
     </item>
     
     <item>
       <title>Refactoring Swift code for testability</title>
-      <link>https://freshswift.net/post/-li0zlih9bjn8p4sp2xr/</link>
+      <link>https://www.swiftbysundell.com/posts/refactoring-swift-code-for-testability</link>
       <pubDate>Sun, 22 Jul 2018 10:38:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-li0zlih9bjn8p4sp2xr/</guid>
-      <description></description>
+      <description>John Sundell describes pure functions and dependency injection - two techniques we can apply when refactoring Swift code to make it more testable.</description>
     </item>
     
     <item>
       <title>Swift Evolution - RFC: In-Line Tests</title>
-      <link>https://freshswift.net/post/-lb9wk3mafhpk7mtzdhg/</link>
+      <link>https://forums.swift.org/t/rfc-in-line-tests/12111</link>
       <pubDate>Sat, 28 Apr 2018 06:31:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lb9wk3mafhpk7mtzdhg/</guid>
-      <description></description>
+      <description>In this RFC, Robert Widmann suggests a very interesting Swift evolution idea. Robert comments that currently, unit testing in Swift feels like a second-class citizen, and comes with significant overhead. To improve the situation, he suggests the idea of in-line tests, enabling us to add unit tests right next to the code being tested. I really like this idea. 👍🏽.</description>
     </item>
     
     <item>
       <title>The Cake Pattern with Swinject</title>
-      <link>https://freshswift.net/post/-lardffwi2rv3sc_znqw/</link>
+      <link>https://medium.com/@pjwelcome/the-cake-pattern-with-swinject-4357c4d2bd0b</link>
       <pubDate>Tue, 24 Apr 2018 12:35:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lardffwi2rv3sc_znqw/</guid>
-      <description></description>
+      <description>Peter-John Welcome demonstrates how we can use the Swinject framework together with the cake pattern to implement dependency injection. The major benefit is decoupling of components, which in turn means easier unit testing.</description>
     </item>
     
     <item>
       <title>Unit testing asynchronous Swift code</title>
-      <link>https://freshswift.net/post/-l6fexh19q3ctzdetytr/</link>
+      <link>https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code</link>
       <pubDate>Sat, 03 Mar 2018 11:42:42 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l6fexh19q3ctzdetytr/</guid>
-      <description></description>
+      <description>John Sundell demonstrates a few techniques that can help us test asynchronous code. He first looks as expectations and dispatch queues, and then shows us how we can make our asynchronous code synchronous for the purposes of testing.</description>
     </item>
     
     <item>
       <title>Using unit tests to identify &amp; avoid memory leaks in Swift</title>
-      <link>https://freshswift.net/post/-l-0mkkoedprpaok5pqa/</link>
+      <link>https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift?utm_campaign=This%2BWeek%2Bin%2BSwift&amp;utm_medium=email&amp;utm_source=This_Week_in_Swift_150</link>
       <pubDate>Tue, 28 Nov 2017 08:40:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-0mkkoedprpaok5pqa/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how we can use simple unit tests to identify and avoid memory leaks. John looks at three scenarios - using delegates, observers, and closures - and describes the problem that can arise with each.</description>
     </item>
     
     <item>
       <title>Reducing flakiness in Swift tests</title>
-      <link>https://freshswift.net/post/-ksd-psf53dzxi0nmk5m/</link>
+      <link>https://www.swiftbysundell.com/posts/reducing-flakiness-in-swift-tests</link>
       <pubDate>Wed, 23 Aug 2017 07:34:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ksd-psf53dzxi0nmk5m/</guid>
-      <description></description>
+      <description>John Sundell shows us how to avoid three common sources of flakiness when testing - timing, async code, and UI testing delays. There are some good tips here and as John reminds us, the key to writing better tests is to always make the right assumptions.</description>
     </item>
     
     <item>
       <title>Writing end-to-end JSON mapping tests in Swift</title>
-      <link>https://freshswift.net/post/-kpesawt4wnwaggpt08p/</link>
+      <link>https://www.swiftbysundell.com/posts/writing-end-to-end-json-mapping-tests-in-swift</link>
       <pubDate>Mon, 17 Jul 2017 07:32:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpesawt4wnwaggpt08p/</guid>
-      <description></description>
+      <description>John Sundell looks at how we can ensure the integrity of JSON retrieved from an API by using end-to-end tests. To avoid performing a network request each time we want to run our tests, he uses an Swift script which is run once to day to retrieve the JSON from the API. The example uses his own Unbox library for JSON mapping, but of course we could substitute the native Swift Codable protocol for our JSON decoding.</description>
     </item>
     
     <item>
       <title>Tests that don&#39;t crash</title>
-      <link>https://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</link>
+      <link>http://ericasadun.com/2017/05/27/tests-that-dont-crash/</link>
       <pubDate>Tue, 30 May 2017 07:53:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</guid>
-      <description></description>
+      <description>Tim Vermeulen with a short post showing us how to write tests which fail gracefully when they encounter a nil optional. Marking individual tests as throwing is not something I thought of before, and it means tests that previously crashed now simply fail, allowing subsequent tests to be executed. Nice idea.</description>
     </item>
     
     <item>
       <title>Test Doubles in Swift</title>
-      <link>https://freshswift.net/post/-kj8ruqbbtncdizhrb5-/</link>
+      <link>https://marcosantadev.com/test-doubles-swift</link>
       <pubDate>Sat, 29 Apr 2017 13:40:50 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8ruqbbtncdizhrb5-/</guid>
-      <description></description>
+      <description>Unit testing components with dependencies can be complicated. Here, Marco Santarossa explains what test doubles are, and how they can help with such unit testing.</description>
     </item>
     
     <item>
       <title>Time traveling in Swift unit tests</title>
-      <link>https://freshswift.net/post/-kj8qmgko6cn3dkc2lzt/</link>
+      <link>https://medium.com/@johnsundell/time-traveling-in-swift-unit-tests-583a2c3ce85b</link>
       <pubDate>Fri, 28 Apr 2017 07:45:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8qmgko6cn3dkc2lzt/</guid>
-      <description></description>
+      <description>Writing tests against code that relies on dates can be tricky. In this short post, John Sundell looks at how we can test such code in a simple and fun way, based on what he calls &#34;time traveling&#34;.</description>
     </item>
     
   </channel>

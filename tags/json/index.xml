@@ -8,83 +8,74 @@
     <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/json/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parsing Tricky JSON With Codable in Swift</title>
-      <link>https://freshswift.net/post/18-11-20-073712/</link>
+      <link>https://www.andyibanez.com/posts/parsing-tricky-json-codable-swift/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-11-20-073712/</guid>
-      <description></description>
+      <description>Parsing JSON is sometimes not as straightforward as we would like it to be, and we might find ourselves dealing with malformed JSON payloads. In this post, Andrés Ibañez shares his tips for parsing tricky JSON using Swift&#39;s Codable protocol.</description>
     </item>
     
     <item>
       <title>Quicktype - Generate typesafe Swift JSON handling code</title>
-      <link>https://freshswift.net/post/-kvrgrg-5n41hx8b6cal/</link>
+      <link>https://swift.quicktype.io</link>
       <pubDate>Sat, 07 Oct 2017 14:38:19 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvrgrg-5n41hx8b6cal/</guid>
-      <description></description>
+      <description>This is a neat tool which generates typesafe JSON handling Swift code from whatever JSON you supply. It can generate either Swift 3 or Swift 4 code, and supports Swift 4’s Codable protocols. Swift is one of eight languages you can choose from.</description>
     </item>
     
     <item>
       <title>When JSONDecoder meets the real world, things get ugly…</title>
-      <link>https://freshswift.net/post/-kvmbjvfw9ls9fmtvd-q/</link>
+      <link>http://davelyon.net/2017/08/16/jsondecoder-in-the-real-world</link>
       <pubDate>Sun, 01 Oct 2017 09:09:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvmbjvfw9ls9fmtvd-q/</guid>
-      <description></description>
+      <description>Dave Lyon looks at decoding real-world API data using Swift 4’s Codable protocols. He explains why dealing with real-world JSON data might not be as simple as some of the examples we may have seen, and shows us how we can avoid common pitfalls.</description>
     </item>
     
     <item>
       <title>JSON to Swift with Decoder and Decodable</title>
-      <link>https://freshswift.net/post/-kpilabx5o-ow_zn1xmo/</link>
+      <link>https://swiftunboxed.com/stdlib/json-decoder-decodable/</link>
       <pubDate>Sun, 23 Jul 2017 09:26:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpilabx5o-ow_zn1xmo/</guid>
-      <description></description>
+      <description>After looking at encoding Swift to JSON in a previous post, Greg Heo turns his attention to decoding JSON to Swift using Swift 4’s Decodable and Decoder protocols. As with the previous article, Greg steps through a complete example. The simplicity of the example, together with the diagrams, really help to explain how the decoding process works.</description>
     </item>
     
     <item>
       <title>Writing end-to-end JSON mapping tests in Swift</title>
-      <link>https://freshswift.net/post/-kpesawt4wnwaggpt08p/</link>
+      <link>https://www.swiftbysundell.com/posts/writing-end-to-end-json-mapping-tests-in-swift</link>
       <pubDate>Mon, 17 Jul 2017 07:32:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpesawt4wnwaggpt08p/</guid>
-      <description></description>
+      <description>John Sundell looks at how we can ensure the integrity of JSON retrieved from an API by using end-to-end tests. To avoid performing a network request each time we want to run our tests, he uses an Swift script which is run once to day to retrieve the JSON from the API. The example uses his own Unbox library for JSON mapping, but of course we could substitute the native Swift Codable protocol for our JSON decoding.</description>
     </item>
     
     <item>
       <title>JSON with Encoder and Encodable</title>
-      <link>https://freshswift.net/post/-koby6in5cvxmwtdev_s/</link>
+      <link>https://swiftunboxed.com/stdlib/json-encoder-encodable/</link>
       <pubDate>Tue, 04 Jul 2017 07:41:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koby6in5cvxmwtdev_s/</guid>
-      <description></description>
+      <description>Great post from Greg Heo in which he looks at the magic that is JSON encoding in Swift 4. He walks through every step in the process of encoding a single Int value to JSON, and looks at  the implementation. There are some twists, with parts of the implementation probable not being what you expect. An informative and fun read.</description>
     </item>
     
     <item>
       <title>Ultimate Guide to JSON Parsing With Swift 4</title>
-      <link>https://freshswift.net/post/-knxmafzv6mvwflyredg/</link>
+      <link>http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/</link>
       <pubDate>Sat, 01 Jul 2017 10:53:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knxmafzv6mvwflyredg/</guid>
-      <description></description>
+      <description>Ben Scheirman has created this fantastic guide to JSON parsing with Swift 4. Everything from basic encoding and decoding to flattening JSON objects is covered. If you need one guide while you update your code to use the new Encodable protocols, this is the one.</description>
     </item>
     
     <item>
       <title>JSON Parsing in Swift 4</title>
-      <link>https://freshswift.net/post/-knhf6wivy2ya2ndsrra/</link>
+      <link>http://troz.net/2017/06/json-parsing-in-swift-4/</link>
       <pubDate>Wed, 28 Jun 2017 07:48:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knhf6wivy2ya2ndsrra/</guid>
-      <description></description>
+      <description>Parsing JSON with Swift 3 and below is a cumbersome task. It either means a lot of boilerplate code to convert JSON to strictly-typed Swift, or using one of the many third-party libraries to do the job for us. This all changes in Swift 4, with the introduction of the Encodable &amp; Decodable protocols. This great article by TrozWare shows us exactly what we need to know to easily parse JSON using Swift 4.</description>
     </item>
     
     <item>
       <title>Encoding and Decoding in Swift 4</title>
-      <link>https://freshswift.net/post/-km_w3y-kj1wbvguxci3/</link>
+      <link>https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862</link>
       <pubDate>Wed, 14 Jun 2017 07:32:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-km_w3y-kj1wbvguxci3/</guid>
-      <description></description>
+      <description>Swift 4 introduces the Codable protocol, a really useful protocol which enables us to easily encode and decode conforming types. In this short post, Mohammed Azam demonstrates how we can use this feature to encode/decode our custom types to/from JSON.</description>
     </item>
     
   </channel>

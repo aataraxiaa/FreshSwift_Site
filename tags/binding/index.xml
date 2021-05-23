@@ -8,20 +8,18 @@
     <lastBuildDate>Thu, 26 Apr 2018 12:33:18 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/binding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Tip: Bindings with KVO and Key Paths</title>
-      <link>https://freshswift.net/post/-lb0wnywhw8ttmm73l48/</link>
+      <link>https://www.objc.io/blog/2018/04/24/bindings-with-kvo-and-keypaths/</link>
       <pubDate>Thu, 26 Apr 2018 12:33:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lb0wnywhw8ttmm73l48/</guid>
-      <description></description>
+      <description>Taken from their soon to be published book, the objc.io team show us how to create lightweight UI bindings using Key-Value-Observing and Swift’s key paths. Very nice.</description>
     </item>
     
     <item>
       <title>View Bindings in Pure Swift</title>
-      <link>https://freshswift.net/post/-kxllubimdni_s6afplq/</link>
+      <link>https://talk.objc.io/episodes/S01E73-view-bindings-in-pure-swift</link>
       <pubDate>Tue, 31 Oct 2017 09:31:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kxllubimdni_s6afplq/</guid>
-      <description></description>
+      <description>Another good episode of Swift Talk from the guys at objc.io. In this episode, Chris and Florian experiment with reactive view bindings. They take the simple scenario of an activity indicator which needs to react to changes in state, and refactor it to bind the indicator to an observable state.</description>
     </item>
     
   </channel>

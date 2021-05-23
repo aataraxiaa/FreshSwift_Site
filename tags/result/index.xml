@@ -8,20 +8,18 @@
     <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/result/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Result in Swift: Getting started with Code Examples</title>
-      <link>https://freshswift.net/post/20-12-20-110621/</link>
+      <link>https://www.avanderlee.com/swift/result-enum-type/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-12-20-110621/</guid>
-      <description></description>
+      <description>Available since Swift 5, the Result type allows us to define a success and failure case for a failable operation. In this post, Antoine van der Lee demonstrates some of the lesser-known extensions from the Swift standard library that can be used with this type.</description>
     </item>
     
     <item>
       <title>Swift Evolution - Add Result to the Standard Library</title>
-      <link>https://freshswift.net/post/-ls-svqcau0wkqvbg06z/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md</link>
       <pubDate>Fri, 23 Nov 2018 14:05:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ls-svqcau0wkqvbg06z/</guid>
-      <description></description>
+      <description>Result is a type commonly used for manual propagation and handling of errors within the Swift community. This Swift evolution proposal seeks to add a generic Result type to the Swift standard library. It’s currently in review 🤞🏽.</description>
     </item>
     
   </channel>

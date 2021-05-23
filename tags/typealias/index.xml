@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/typealias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Variable, Tuple, Closure, and Generic Typealias in Swift</title>
-      <link>https://freshswift.net/post/04-03-21-132148/</link>
+      <link>https://www.advancedswift.com/typealias-examples/#variable-typealias</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-03-21-132148/</guid>
-      <description></description>
+      <description>A type alias declaration introduces a named alias of an existing type and is declared using the typealias keyword. In this post, Robert Pieta provides examples of creating type aliases for a variety of Swift types. Even if you are already familiar with type alias declarations, this is a useful quick refresher.</description>
     </item>
     
   </channel>

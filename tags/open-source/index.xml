@@ -8,74 +8,66 @@
     <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Swift Collections</title>
-      <link>https://freshswift.net/post/14-05-21-133658/</link>
+      <link>https://swift.org/blog/swift-collections/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-05-21-133658/</guid>
-      <description></description>
+      <description>Like the Swift Algorithms package before it, the recently released Swift Collections package is intended to incubate new functionality for the Swift Standard Library. In this post, Karoy Lorentey from the Swift Standard Library team gives us a brief tour of what the package provides.</description>
     </item>
     
     <item>
       <title>Announcing Swift Algorithms</title>
-      <link>https://freshswift.net/post/15-10-20-072607/</link>
+      <link>https://swift.org/blog/swift-algorithms/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-10-20-072607/</guid>
-      <description></description>
+      <description>Swift Algorithms is a new open-source Swift package of sequence and collection algorithms. In this post, Nate Cook from the Swift standard library team at Apple gives a brief tour of this package and describes its relation to the Swift standard library.</description>
     </item>
     
     <item>
       <title>SwiftUI Kit - A SwiftUI system components and interactions demo app</title>
-      <link>https://freshswift.net/post/12-08-20-073516/</link>
+      <link>https://github.com/jordansinger/SwiftUI-Kit</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-08-20-073516/</guid>
-      <description></description>
+      <description>Jordan Singer has created SwiftUI Kit, an open-source app that demonstrates SwiftUI system components and interactions. The app can be used to see how views appear, and interactions work when using default system components, and the source code is available as a reference.</description>
     </item>
     
     <item>
       <title>RedditOS - A SwiftUI Reddit client for macOS Big Sur</title>
-      <link>https://freshswift.net/post/02-08-20-071902/</link>
+      <link>https://github.com/Dimillian/RedditOS</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-08-20-071902/</guid>
-      <description></description>
+      <description>This open-source SwiftUI app created by Thomas Ricouard is a Reddit client for macOS. It&#39;s great to see apps like this being developed as open-source projects, as it provides opportunities for collaboration and learning from others in the Swift community. Note - you need macOS Big Sur to run this app.</description>
     </item>
     
     <item>
       <title>StackOv - An open-source SwiftUI Stack Overflow client for iOS, iPadOS, and MacOS</title>
-      <link>https://freshswift.net/post/22-07-20-073526/</link>
+      <link>https://github.com/surfstudio/StackOv</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-07-20-073526/</guid>
-      <description></description>
+      <description>SwiftUI is still relatively new, and so the number of pure SwiftUI apps (i.e no UIKit) in the App store is probably low. This open-source app - a Stack Overflow client for iOS, iPadOS, and MacOS - is very nearly 100% SwiftUI, with UIKit really only being used for app lifecycle management. This is a great reference if you are working on your own SwiftUI app.</description>
     </item>
     
     <item>
       <title>Introducing Swift Service Lifecycle</title>
-      <link>https://freshswift.net/post/19-07-20-074219/</link>
+      <link>https://swift.org/blog/swift-service-lifecycle/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-07-20-074219/</guid>
-      <description></description>
+      <description>Tom Doron from the Swift Core Team announced a new open-source project for the Swift server ecosystem. The Service Lifecycle package is designed to help server applications, i.e services, manage their startup and shutdown sequences. It&#39;s always great to see progress being made regarding Swift on the server, and in this post, Tom describes the new package and provides an example of its usage.</description>
     </item>
     
     <item>
       <title>Open Sourcing Validated</title>
-      <link>https://freshswift.net/post/-ll-ulpbxdxgsivtgfce/</link>
+      <link>https://www.pointfree.co/blog/posts/14-open-sourcing-validated</link>
       <pubDate>Tue, 28 Aug 2018 12:25:38 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ll-ulpbxdxgsivtgfce/</guid>
-      <description></description>
+      <description>The point free team are open sourcing a new Swift library for handling errors. Validated allows us to accumulate errors into a single type, useful for when we want to know all the reasons why something went wrong.</description>
     </item>
     
     <item>
       <title>Apple open sources key Xcode refactoring components</title>
-      <link>https://freshswift.net/post/-kmvqlwf2njvmoyitevh/</link>
+      <link>https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20170605/004751.html</link>
       <pubDate>Tue, 13 Jun 2017 07:49:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmvqlwf2njvmoyitevh/</guid>
-      <description></description>
+      <description>This year at WWDC 2017, Apple delivered Xcode 9 beta. This release includes a new refactoring feature that supports the refactoring of Swift. This was great news and something the community eagerly awaited. Shortly after, Ted Kremenek took to the message boards to make another announcement - Apple will be open sourcing key parts of the engine that power the Xcode file-level transformations. It’s always great to see an organization open sourcing, and even more so when it comes to tooling.</description>
     </item>
     
   </channel>

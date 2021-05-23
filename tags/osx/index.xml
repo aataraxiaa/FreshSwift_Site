@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 10 Apr 2018 14:05:38 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/osx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netfox - A lightweight, one line setup, iOS / OSX network debugging library!</title>
-      <link>https://freshswift.net/post/-l9js4u5slsgztlifq9z/</link>
+      <link>https://github.com/kasketis/netfox</link>
       <pubDate>Tue, 10 Apr 2018 14:05:38 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9js4u5slsgztlifq9z/</guid>
-      <description></description>
+      <description>This is a pretty cool library from Christos Kasketis. It provides a quick look of all executed network requests performed by an iOS or OSX app. Definitely useful. 🦊.</description>
     </item>
     
   </channel>

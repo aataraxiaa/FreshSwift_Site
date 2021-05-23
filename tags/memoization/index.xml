@@ -8,11 +8,10 @@
     <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/memoization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memoization of Swift properties</title>
-      <link>https://freshswift.net/post/08-08-20-083153/</link>
+      <link>https://forums.swift.org/t/memoization-of-swift-properties/38783</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-08-20-083153/</guid>
-      <description></description>
+      <description>Memoization is an optimization technique where the results of expensive computations (e.g function calls or computed properties) are stored, and these cached results are returned when the inputs to future computations are unchanged. In this Swift evolution pitch, Justin Reusch proposes adding keywords to Swift which tell the compiler when to synthesize boilerplate code to support the memoization of computed properties. I think this would be a good addition to the language.</description>
     </item>
     
   </channel>

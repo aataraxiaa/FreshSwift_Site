@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 10 Oct 2018 08:46:08 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/interpolation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Evolution - Fix ExpressibleByStringInterpolation</title>
-      <link>https://freshswift.net/post/-los8ty-blocivkck808/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0228-fix-expressiblebystringinterpolation.md</link>
       <pubDate>Wed, 10 Oct 2018 08:46:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-los8ty-blocivkck808/</guid>
-      <description></description>
+      <description>This is a really cool Swift language evolution proposal which proposes a new design for the ExpressibleByStringInterpolation protocol. Due to issues with the original implementation of this protocol, it was deprecated. The new design aims to address these issues, and add new capabilities to string interpolation.</description>
     </item>
     
   </channel>

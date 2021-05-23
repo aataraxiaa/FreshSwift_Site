@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 08 Mar 2018 07:22:27 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/navigation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigation in Swift</title>
-      <link>https://freshswift.net/post/-l73ukol701c_2_yq5sd/</link>
+      <link>https://www.swiftbysundell.com/posts/navigation-in-swift</link>
       <pubDate>Thu, 08 Mar 2018 07:22:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l73ukol701c_2_yq5sd/</guid>
-      <description></description>
+      <description>John Sundell looks at two approaches to handling navigation between iOS UI components. John first describes the problem caused by using the default navigation approach, before demonstrating how using Coordinator or Navigator types can help.</description>
     </item>
     
   </channel>

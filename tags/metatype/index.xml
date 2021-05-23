@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 08 Nov 2018 11:07:06 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/metatype/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What&#39;s .self, .Type and .Protocol? Understanding Swift Metatypes</title>
-      <link>https://freshswift.net/post/-lqn-gnejrcqrtvewfsk/</link>
+      <link>https://swiftrocks.com/whats-type-and-self-swift-metatypes.html</link>
       <pubDate>Thu, 08 Nov 2018 11:07:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lqn-gnejrcqrtvewfsk/</guid>
-      <description></description>
+      <description>Bruno Rocha digs in to Swift metatypes. He first explains what a metatype is, before highlighting the differences between dynamic and static metatypes.</description>
     </item>
     
   </channel>

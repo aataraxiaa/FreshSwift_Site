@@ -8,11 +8,10 @@
     <lastBuildDate>Sat, 16 Jun 2018 11:32:35 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/directive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Diagnostics: #warning and #error</title>
-      <link>https://freshswift.net/post/-lf7myk_dv-rymdwd6w2/</link>
+      <link>https://swiftunboxed.com/internals/diagnostics-warning-error/</link>
       <pubDate>Sat, 16 Jun 2018 11:32:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lf7myk_dv-rymdwd6w2/</guid>
-      <description></description>
+      <description>This is a really interesting post from Greg Heo, in which he looks at two new compiler diagnostic directives which are available in Swift 4.2. Rather than simple show us how we can use them, Greg instead digs deeper, showing us how they are implemented in C++.</description>
     </item>
     
   </channel>

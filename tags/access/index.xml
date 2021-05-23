@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 17 Nov 2017 08:46:03 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/access/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift 4 Access Levels</title>
-      <link>https://freshswift.net/post/-kz89-ikg-s4jzxylpz9/</link>
+      <link>https://useyourloaf.com/blog/swift-4-access-levels/</link>
       <pubDate>Fri, 17 Nov 2017 08:46:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kz89-ikg-s4jzxylpz9/</guid>
-      <description></description>
+      <description>Access levels changed in Swift 4. This post from Use Your Loaf gives us a recap of the five Swift access levels, shows us what changed in Swift 4, and demonstrates how we can update our code to accommodate for the changes.</description>
     </item>
     
   </channel>

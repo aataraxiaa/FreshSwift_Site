@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 06 Jun 2018 00:45:47 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/factory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Static factory methods in Swift</title>
-      <link>https://freshswift.net/post/-lehybowzjaol8bw_t-e/</link>
+      <link>https://www.swiftbysundell.com/posts/static-factory-methods-in-swift</link>
       <pubDate>Wed, 06 Jun 2018 00:45:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lehybowzjaol8bw_t-e/</guid>
-      <description></description>
+      <description>In this entry in his weekly series, John Sundell looks at an approach to writing setup code which avoids subclassing. John demonstrates how using static factory methods can be a great way to separate setup code from actual logic, while also enabling nice syntax features.</description>
     </item>
     
   </channel>

@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 03 Aug 2018 08:19:14 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/compactmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift tip: Building arrays with compactMap</title>
-      <link>https://freshswift.net/post/-liyrcum86q6z0xeemp9/</link>
+      <link>https://www.jessesquires.com/blog/swift-tip-building-arrays-with-compactmap/</link>
       <pubDate>Fri, 03 Aug 2018 08:19:14 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-liyrcum86q6z0xeemp9/</guid>
-      <description></description>
+      <description>Jesse Squires demonstrates how we can use the Swift compactMap function to build arrays of optional items, while maintaining the intended order of the items.</description>
     </item>
     
   </channel>

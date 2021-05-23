@@ -8,29 +8,26 @@
     <lastBuildDate>Mon, 25 Jun 2018 16:50:27 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift vs. Kotlin — the differences in memory management</title>
-      <link>https://freshswift.net/post/-lfrqcxrwli4r901ocki/</link>
+      <link>https://blog.indoorway.com/swift-vs-kotlin-the-differences-in-memory-management-860828edf8</link>
       <pubDate>Mon, 25 Jun 2018 16:50:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfrqcxrwli4r901ocki/</guid>
-      <description></description>
+      <description>In this post Krzysztof Turek compares Swift with Kotlin in the context of iOS and Android development, explaining how each language and platform handles memory management.</description>
     </item>
     
     <item>
       <title>Data Classes in Swift</title>
-      <link>https://freshswift.net/post/-laibj4gmh2wewhcxk4h/</link>
+      <link>https://arasthel.com/data-classes-on-swift/</link>
       <pubDate>Tue, 17 Apr 2018 10:42:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-laibj4gmh2wewhcxk4h/</guid>
-      <description></description>
+      <description>This is an interesting post from Jorge Martín in which he looks at Kotlin’s data class type, and examines how such a type could be used in Swift to easily copy and mutate state.</description>
     </item>
     
     <item>
       <title>SwiftKotlin: A tool to convert Swift code to Kotlin.</title>
-      <link>https://freshswift.net/post/-l2lp5zfrcmpjmzmzse3/</link>
+      <link>https://github.com/angelolloqui/SwiftKotlin</link>
       <pubDate>Mon, 08 Jan 2018 17:32:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l2lp5zfrcmpjmzmzse3/</guid>
-      <description></description>
+      <description>This is a cool tool to convert Swift to Kotlin. It can be used as a framework, command line tool, and a Mac app. Whenever I see Swift code translated to Kotlin, I am reminded of how similar the two languages are.</description>
     </item>
     
   </channel>

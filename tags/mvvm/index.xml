@@ -8,20 +8,18 @@
     <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/mvvm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extending UIKit with Combine, MVVM and Unit Tests</title>
-      <link>https://freshswift.net/post/27-04-21-155217/</link>
+      <link>https://hammyassassin.medium.com/extending-uikit-with-combine-mvvm-and-unit-tests-597f47c76630</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-04-21-155217/</guid>
-      <description></description>
+      <description>Apple&#39;s Combine is a powerful framework for processing values over time and is an alternative to popular frameworks such as RxSwift and ReactiveCocoa. In this short post, HammyAssassin shows us how to extend UIKit with Combine, creating a custom Publisher and Subscriber to respond to changes in a UITextField.</description>
     </item>
     
     <item>
       <title>Protocols and MVVM in Swift to avoid repetition</title>
-      <link>https://freshswift.net/post/-kkoeczuueywrzvfxrwp/</link>
+      <link>https://sudo.isl.co/swift-mvvm-protocols/</link>
       <pubDate>Tue, 23 May 2017 07:37:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kkoeczuueywrzvfxrwp/</guid>
-      <description></description>
+      <description>Thomas Degry demonstrates how we can use MVVM and protocols to avoid achieve two goals: avoiding massive view controllers (MVC!), and having as little repetitive code as possible. It&#39;s a nice simple use of a protocol to create a more generic table view, and it&#39;s something I have myself used in projects.</description>
     </item>
     
   </channel>

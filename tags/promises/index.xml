@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 29 Mar 2018 16:02:52 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/promises/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parallel programming with Swift: Promises</title>
-      <link>https://freshswift.net/post/-l8mupz-n5ip_hl9yszb/</link>
+      <link>https://medium.com/flawless-app-stories/parallel-programming-with-swift-promises-740be1a260ed</link>
       <pubDate>Thu, 29 Mar 2018 16:02:52 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8mupz-n5ip_hl9yszb/</guid>
-      <description></description>
+      <description>In this article from Jan Olbrich, we learn about Promises, and how we can use the PromiseKit library to implement asynchronous operations.</description>
     </item>
     
   </channel>

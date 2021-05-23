@@ -8,20 +8,18 @@
     <lastBuildDate>Thu, 02 Aug 2018 16:35:10 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/locking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benchmarking Swift Locking APIs</title>
-      <link>https://freshswift.net/post/-livuyurqizdjjm57zeb/</link>
+      <link>http://www.vadimbulavin.com/benchmarking-locking-apis/</link>
       <pubDate>Thu, 02 Aug 2018 16:35:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-livuyurqizdjjm57zeb/</guid>
-      <description></description>
+      <description>This is a really interesting post from Vadim Bulavin in which he benchmarks Swift locking APIs. While the results are not entirely surprising, I was surprised by how bad one particular API performed.</description>
     </item>
     
     <item>
       <title>Atomic Properties in Swift</title>
-      <link>https://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</link>
+      <link>http://www.vadimbulavin.com/atomic-properties/</link>
       <pubDate>Tue, 17 Jul 2018 13:28:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</guid>
-      <description></description>
+      <description>Vadim Bulavin demonstrates how we can use locking APIs available in Apple frameworks to implement atomic properties in Swift. Vadim first describes the core concepts relating to concurrency and atomic properties, before providing code examples of Swift atomic properties.</description>
     </item>
     
   </channel>

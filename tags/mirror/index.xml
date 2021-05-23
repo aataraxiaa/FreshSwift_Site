@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 26 Mar 2018 16:51:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/mirror/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflection and Mirror in Swift</title>
-      <link>https://freshswift.net/post/-l8ydabatvv_hnbwnnwr/</link>
+      <link>http://www.vadimbulavin.com/2018-03-09-reflection-and-mirror-in-swift/</link>
       <pubDate>Mon, 26 Mar 2018 16:51:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8ydabatvv_hnbwnnwr/</guid>
-      <description></description>
+      <description>In this post, Vadim Bulavin looks the the Reflective capabilities of Swift. Vadim first describes what Reflection is, before showing us what we can achieve using Swift’s Mirror type.</description>
     </item>
     
   </channel>

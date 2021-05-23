@@ -8,20 +8,18 @@
     <lastBuildDate>Sat, 22 Jul 2017 10:14:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/kvo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Struct References</title>
-      <link>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</link>
+      <link>http://chris.eidhof.nl/post/references/</link>
       <pubDate>Sat, 22 Jul 2017 10:14:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</guid>
-      <description></description>
+      <description>Great article from Chris Eidhof in which he looks to combine the usage of references types and value types to get the best of both worlds. He uses new Swift 4 features such as keypaths and generic subscripts together with existing Swift features to create types which are mutable and observable, while also having underlying value type data.</description>
     </item>
     
     <item>
       <title>Key Value Observation in iOS 11</title>
-      <link>https://freshswift.net/post/-koghe9nhofbto80ug6e/</link>
+      <link>http://skyefreeman.io/programming/2017/06/28/kvo-in-ios11.html</link>
       <pubDate>Wed, 05 Jul 2017 07:44:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koghe9nhofbto80ug6e/</guid>
-      <description></description>
+      <description>Skye Freeman with a short post reminding us that the Codable protocols are not the only exciting additions in Swift 4. Skye provides an example showcasing exactly why the new Swift syntax for key value observing is so awesome, and details some of the things we need to know when using the new syntax.</description>
     </item>
     
   </channel>

@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 15 Aug 2017 07:26:43 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mental models in API design</title>
-      <link>https://freshswift.net/post/-krzmolfoxvovuwrebtp/</link>
+      <link>https://oleb.net/blog/2017/07/mental-models-in-api-design/</link>
       <pubDate>Tue, 15 Aug 2017 07:26:43 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-krzmolfoxvovuwrebtp/</guid>
-      <description></description>
+      <description>Taking inspiration from Don Norman’s The Design of Everyday Things, Olg Begemann examines API design. He uses Swift standard library APIs as examples, and explains how a well designed API manages to convey the API designer’s mental model to the API user.</description>
     </item>
     
   </channel>

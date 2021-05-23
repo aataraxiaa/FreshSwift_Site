@@ -8,20 +8,18 @@
     <lastBuildDate>Tue, 27 Nov 2018 17:28:55 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/retain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit testing retain cycles</title>
-      <link>https://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</link>
+      <link>https://paul-samuels.com/blog/2018/11/20/unit-testing-retain-cycles/</link>
       <pubDate>Tue, 27 Nov 2018 17:28:55 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lslcrqe2p8qqfehjq_d/</guid>
-      <description></description>
+      <description>Paul Samuels demonstrates how we can use two helper functions to easily unit test for retain cycles.</description>
     </item>
     
     <item>
       <title>Do you often forget [weak self]? Here’s a solution</title>
-      <link>https://freshswift.net/post/-l8n3jgctk9zntxmc_qb/</link>
+      <link>https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6</link>
       <pubDate>Sat, 24 Mar 2018 12:52:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8n3jgctk9zntxmc_qb/</guid>
-      <description></description>
+      <description>In this post, Oleg Dreyman shares his approach to dealing with possible retain cycles and memory leaks. As a bonus, Oleg even provides Delegated, a tiny Swift library which encapsulates the approach described in the post.</description>
     </item>
     
   </channel>

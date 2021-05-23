@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 16 Jul 2018 15:19:51 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/boilerplate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift GYB</title>
-      <link>https://freshswift.net/post/-lhyfhnfxkmn9srq92j-/</link>
+      <link>https://nshipster.com/swift-gyb/</link>
       <pubDate>Mon, 16 Jul 2018 15:19:51 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lhyfhnfxkmn9srq92j-/</guid>
-      <description></description>
+      <description>The much loved blog NSHipster is back, and in this article, Mattt Thompson looks at a technique for generating boilerplate code in Swift. Mattt looks at GYB, a lightweight templating system that allows us to use python to generate Swift code.  Welcome back 😃!</description>
     </item>
     
   </channel>

@@ -8,38 +8,34 @@
     <lastBuildDate>Mon, 30 Apr 2018 13:45:36 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/playground/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Playground driven development in Swift</title>
-      <link>https://freshswift.net/post/-lblni-yhbkvcnwxhtmt/</link>
+      <link>https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b</link>
       <pubDate>Mon, 30 Apr 2018 13:45:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lblni-yhbkvcnwxhtmt/</guid>
-      <description></description>
+      <description>Khoa Pham shows us how to use a Swift playground to speed up our app development process. This is a detailed post that walks us through each step required to get started with this approach.</description>
     </item>
     
     <item>
       <title>Whats new in Swift 4.1?</title>
-      <link>https://freshswift.net/post/-l9zdisyqvhfq0m63pb9/</link>
+      <link>https://github.com/twostraws/whats-new-in-swift-4-1</link>
       <pubDate>Sun, 08 Apr 2018 09:47:04 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9zdisyqvhfq0m63pb9/</guid>
-      <description></description>
+      <description>To demonstrate what’s new in Swift 4.1, Paul Hudson has created this Xcode playground. The playground includes code samples for all the new Swift 4.1 features we have been looking forward to. Very handy!</description>
     </item>
     
     <item>
       <title>Adding Swift Playgrounds to Xcode Projects</title>
-      <link>https://freshswift.net/post/-kj8r0ldyet1txhhqltu/</link>
+      <link>https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects</link>
       <pubDate>Sat, 29 Apr 2017 08:06:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8r0ldyet1txhhqltu/</guid>
-      <description></description>
+      <description>Xcode Swift playgrounds are a fantastic way to try out ideas. In this how-to, Use Your Loaf shows us how to add a playground to an Xcode project and give it access to project code and resources. Really useful for quickly iterating on UI without resorting to Interface Builder.</description>
     </item>
     
     <item>
       <title>Katan - Swift playground with a micro web server</title>
-      <link>https://freshswift.net/post/-kj8pnvyz5ujprphkuu1/</link>
+      <link>https://github.com/marciok/katan</link>
       <pubDate>Wed, 26 Apr 2017 12:21:39 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8pnvyz5ujprphkuu1/</guid>
-      <description></description>
+      <description>Cool playground from Marcio Klepacz which aims to  demonstrate the basics steps required to create a web server in Swift. It&#39;s basically a micro web server which replies &#34;Hello world!&#34; to every request.</description>
     </item>
     
   </channel>

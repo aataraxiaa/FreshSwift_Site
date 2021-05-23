@@ -8,11 +8,10 @@
     <lastBuildDate>Sun, 14 Jan 2018 11:05:06 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/patternmatching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Non-Nil Values In An Array Of Optionals</title>
-      <link>https://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</link>
+      <link>https://useyourloaf.com/blog/swift-non-nil-values-in-an-array-of-optionals/?utm_campaign=Revue%20newsletter&amp;utm_medium=Newsletter&amp;utm_source=Swiftly%20Curated</link>
       <pubDate>Sun, 14 Jan 2018 11:05:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</guid>
-      <description></description>
+      <description>Good tip from Use Your Loaf on how to work with an array of Optional values. Rather than use flatMap to iterate over the non-nil values, we can use pattern matching.</description>
     </item>
     
   </channel>

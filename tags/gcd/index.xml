@@ -8,20 +8,18 @@
     <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/gcd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Operation</title>
-      <link>https://freshswift.net/post/27-02-21-151851/</link>
+      <link>https://brevans.io/index.php/2021/02/07/operation/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-02-21-151851/</guid>
-      <description></description>
+      <description>The Operation type from Apple&#39;s Foundation framework is an abstract class that represents a single task. In this post, Bruce Evens makes his case for using Operations over DispatchQueues in Swift, arguing that since we are using a high-level language, we should also use high-level constructs.</description>
     </item>
     
     <item>
       <title>A deep dive into Grand Central Dispatch in Swift</title>
-      <link>https://freshswift.net/post/-klnef9wd3vrkffxw1km/</link>
+      <link>https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift</link>
       <pubDate>Sun, 04 Jun 2017 15:11:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klnef9wd3vrkffxw1km/</guid>
-      <description></description>
+      <description>In the latest entry in his weekly blog series, John Sundell sparks our imagination regarding what we can do with Grand Central Dispatch. The examples provided really do make you think about how some of the lesser known GCD APIs could be utilised.</description>
     </item>
     
   </channel>

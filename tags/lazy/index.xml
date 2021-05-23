@@ -8,56 +8,50 @@
     <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/lazy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statically computed default property values</title>
-      <link>https://freshswift.net/post/07-12-20-122841/</link>
+      <link>https://www.swiftbysundell.com/tips/statically-computed-default-property-values/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-12-20-122841/</guid>
-      <description></description>
+      <description>As John Sundell writes in the introduction to this short post, defining default values for our API properties can improve the usability of our APIs while still enabling customization when needed. With that in mind, John shares a tip for setting a default property value while also reminding us of a crucial difference between a lazy property and a non-lazy one.</description>
     </item>
     
     <item>
       <title>Swift Lazy Property Initialization</title>
-      <link>https://freshswift.net/post/-ld_is_aojkumusdrga9/</link>
+      <link>https://useyourloaf.com/blog/swift-lazy-property-initialization/</link>
       <pubDate>Mon, 28 May 2018 07:52:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ld_is_aojkumusdrga9/</guid>
-      <description></description>
+      <description>We are all most likely familiar with lazy stored properties in Swift, but this post from Use Your Loaf provides a convenient overview of what they are, and how and when we should use them.</description>
     </item>
     
     <item>
       <title>Using Lazy to Delay Computation</title>
-      <link>https://freshswift.net/post/-l5-oz-q11pqsw8p-gw-/</link>
+      <link>https://medium.com/swift-programming/using-lazy-to-delay-computation-8aa4ea236d0a</link>
       <pubDate>Sat, 10 Feb 2018 15:49:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l5-oz-q11pqsw8p-gw-/</guid>
-      <description></description>
+      <description>Short post reminding us that Swift’s lazy modifier can be used for more than just property declarations.</description>
     </item>
     
     <item>
       <title>Lazy Collections in Swift</title>
-      <link>https://freshswift.net/post/-kztll2trnohzpqfwwp4/</link>
+      <link>https://theswiftpost.co/lightning-read-1-lazy-collections-swift/</link>
       <pubDate>Sun, 26 Nov 2017 17:23:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kztll2trnohzpqfwwp4/</guid>
-      <description></description>
+      <description>Goksel Koksal with a lightning read in which he demonstrates how we can take advantage of Swift lazy collections. Goksel shows us how to reduce the number of computations in a chain of calls using the lazy variation of Array.</description>
     </item>
     
     <item>
       <title>Injecting forEach into chained method calls</title>
-      <link>https://freshswift.net/post/-ky_cefma31sfn1erxhm/</link>
+      <link>https://oleb.net/blog/2017/10/chained-foreach/</link>
       <pubDate>Fri, 10 Nov 2017 09:15:42 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ky_cefma31sfn1erxhm/</guid>
-      <description></description>
+      <description>Ole Begemann creates his own version of Swift’s forEach method. The purpose is to create a version of the method which can be used in a sequence of chained method calls, and Ole extends the implementation to make his version compatible with lazy sequences.</description>
     </item>
     
     <item>
       <title>Using lazy properties in Swift</title>
-      <link>https://freshswift.net/post/-kkvpce91cqugfcpkppj/</link>
+      <link>https://www.swiftbysundell.com/posts/using-lazy-properties-in-swift</link>
       <pubDate>Fri, 19 May 2017 11:12:41 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kkvpce91cqugfcpkppj/</guid>
-      <description></description>
+      <description>Lazy properties are great when we want to delay expensive creation of type properties. Here, John Sundell describes the various approaches we can take when using lazy properties, from the basics of simply using the lazy keyword, to using factory methods to extract initialization code and reduce complexity.</description>
     </item>
     
   </channel>

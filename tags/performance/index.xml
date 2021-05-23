@@ -8,38 +8,34 @@
     <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enabling high-performance Metal rendering with drawingGroup()</title>
-      <link>https://freshswift.net/post/03-07-20-065520/</link>
+      <link>https://www.hackingwithswift.com/books/ios-swiftui/enabling-high-performance-metal-rendering-with-drawinggroup</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-07-20-065520/</guid>
-      <description></description>
+      <description>As many iOS devices now render at 120 frames per second, it&#39;s important we consider performance when rendering complex content. In this post from Paul Hudson, we learn how to use the drawingGroup view modifier to improve rendering when using SwiftUI.</description>
     </item>
     
     <item>
       <title>A Quick Tip For String Performance</title>
-      <link>https://freshswift.net/post/-l0e8r7kpifphifvxkzw/</link>
+      <link>https://www.objc.io/blog/2017/12/12/quick-tip-for-string-performance/</link>
       <pubDate>Mon, 18 Dec 2017 15:02:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l0e8r7kpifphifvxkzw/</guid>
-      <description></description>
+      <description>When we create Swift strings, they are backed by either the Swift String type, or the Objective-C NSString type. This quick tip shows us how to improve performance by forcing our declared strings to be back by the Swift String type.</description>
     </item>
     
     <item>
       <title>Swift Performance</title>
-      <link>https://freshswift.net/post/-kpu1mg4ramvc66e_m_k/</link>
+      <link>https://www.skilled.io/u/playgroundscon/swift-performance</link>
       <pubDate>Thu, 20 Jul 2017 08:07:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpu1mg4ramvc66e_m_k/</guid>
-      <description></description>
+      <description>Matt Gallagher talks about high performance Swift. He looks at the sort of code that might be run millions of times - i.e low level code rather than abstractions. It’s a really interesting talk, and it’s great to dive in to the low level stuff when we probably spend most of our time working with higher level abstractions.</description>
     </item>
     
     <item>
       <title>Parsing Dates: When Performance Matters</title>
-      <link>https://freshswift.net/post/-kmrhhcw0cbb6_jhpqjy/</link>
+      <link>http://jordansmith.io/performant-date-parsing/</link>
       <pubDate>Mon, 12 Jun 2017 12:32:50 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmrhhcw0cbb6_jhpqjy/</guid>
-      <description></description>
+      <description>Processing JSON and creating types is a common task which can often result in unacceptable performance metrics. In this post, Jordan Smith examines processing JSON and parsing dates, and shows us how we can improve the performance of such a task by iterating on our approach.</description>
     </item>
     
   </channel>

@@ -8,20 +8,18 @@
     <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/property/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statically computed default property values</title>
-      <link>https://freshswift.net/post/07-12-20-122841/</link>
+      <link>https://www.swiftbysundell.com/tips/statically-computed-default-property-values/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-12-20-122841/</guid>
-      <description></description>
+      <description>As John Sundell writes in the introduction to this short post, defining default values for our API properties can improve the usability of our APIs while still enabling customization when needed. With that in mind, John shares a tip for setting a default property value while also reminding us of a crucial difference between a lazy property and a non-lazy one.</description>
     </item>
     
     <item>
       <title>Swift Property Observers</title>
-      <link>https://freshswift.net/post/-ll4hpzsua1j-wvt-clz/</link>
+      <link>https://nshipster.com/swift-property-observers/</link>
       <pubDate>Wed, 29 Aug 2018 10:45:21 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ll4hpzsua1j-wvt-clz/</guid>
-      <description></description>
+      <description>Mattt Thompson focuses on Swift property observers in this NSHipster post. Mattt first explains the types of properties available in Swift, before describing some use cases for property observers.</description>
     </item>
     
   </channel>

@@ -8,29 +8,26 @@
     <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/tuples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Unwrapped #86: Tuples</title>
-      <link>https://freshswift.net/post/18-07-20-133444/</link>
+      <link>https://spec.fm/podcasts/swift-unwrapped/fxMk4ipF</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-07-20-133444/</guid>
-      <description></description>
+      <description>Tuples are a Swift compound type consisting of a comma-separated list of types, enclosed in parentheses. They are probably most often used to return multiple values from a function. In this episode of the Swift Unwrapped podcast, Jesse Squires and JP Simard use a Swift evolution proposal as a starting point for a discussion about tuples, and compare the type against named types such as structures and classes.</description>
     </item>
     
     <item>
       <title>This Swift 4 change is objectively bad</title>
-      <link>https://freshswift.net/post/-klc1x3qjd8kw9doijwq/</link>
+      <link>https://twitter.com/jckarter/status/867766410172182528</link>
       <pubDate>Fri, 02 Jun 2017 09:01:54 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klc1x3qjd8kw9doijwq/</guid>
-      <description></description>
+      <description>Interesting Twitter thread regarding what looks like an undesirable change coming in Swift 4. The change relates to how tuples are automatically expanded in closures and it&#39;s something to be mindful of as we approach the Swift 4 release.</description>
     </item>
     
     <item>
       <title>Evolving Label-Directed Tuple Assignments</title>
-      <link>https://freshswift.net/post/-kjg8ty95fs_gaqxi4ne/</link>
+      <link>http://ericasadun.com/2017/05/08/evolving-label-directed-tuple-assignments/</link>
       <pubDate>Tue, 09 May 2017 07:39:19 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjg8ty95fs_gaqxi4ne/</guid>
-      <description></description>
+      <description>Really interesting post from Erica Sadun on an undocumented feature of Swift - the use of tuple labels to mix and match tuple declarations with values. This is sometimes called a &#34;tuple shuffle&#34;. Obscure and slightly complex.</description>
     </item>
     
   </channel>

@@ -8,29 +8,26 @@
     <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swift-5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to declare Swift protocol for a specific class</title>
-      <link>https://freshswift.net/post/11-08-20-071309/</link>
+      <link>https://sarunw.com/posts/how-to-declare-swift-protocol-for-specific-class/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-08-20-071309/</guid>
-      <description></description>
+      <description>Protocols enable us to define a blueprint of methods and properties suited to a particular task. Classes, structures, and enums can then adopt protocols and provide their implementation of those methods and properties. With Swift 5, protocol definitions can constrain their conforming types to those that subclass a particular class. In this post, Sarun Wongpatcharapakorn describes how to add such a constraint and explains the benefits of doing so.</description>
     </item>
     
     <item>
       <title>Swift 5.0 Release Process</title>
-      <link>https://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</link>
+      <link>https://swift.org/blog/5-0-release-process/</link>
       <pubDate>Fri, 28 Sep 2018 13:08:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</guid>
-      <description></description>
+      <description>On the official Swift blog, Ted Kremenek outlines the goals, release process, and estimated schedule for Swift 5. The primary goal of the next major release is achieving application binary interface stability, meaning Swift code compiled against different Swift compiler versions will be able to interoperate.</description>
     </item>
     
     <item>
       <title>Swift 5: Start your engines</title>
-      <link>https://freshswift.net/post/-kra4g2kwgdokawt1jni/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/README.md</link>
       <pubDate>Thu, 10 Aug 2017 07:39:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kra4g2kwgdokawt1jni/</guid>
-      <description></description>
+      <description>With the official Swift 4 release imminent, it’s time to start planning the next evolution of the language. In this update Ted Kremenek outlines the primary goals of the the next development major versions, Swift 5. It’s not surprising to see API stability being the primary focus, as it was discussed as a goal for Swift 4. Reading this reminds me how awesome it is that Swift is being developed in the open. Start your engines! 🏎.</description>
     </item>
     
   </channel>

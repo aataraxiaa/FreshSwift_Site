@@ -8,20 +8,18 @@
     <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Context-Bound Types</title>
-      <link>https://freshswift.net/post/01-10-20-073958/</link>
+      <link>https://www.fabisevi.ch/2020/09/21/Context-Bound-Types/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-10-20-073958/</guid>
-      <description></description>
+      <description>Writing any kind of API involves trying to balance exposing the right amount of implementation details without revealing too much. In this post, Joe Fabisevich looks at this topic and walks us through the task of creating a view controller with a header view in Swift.</description>
     </item>
     
     <item>
       <title>Mental models in API design</title>
-      <link>https://freshswift.net/post/-krzmolfoxvovuwrebtp/</link>
+      <link>https://oleb.net/blog/2017/07/mental-models-in-api-design/</link>
       <pubDate>Tue, 15 Aug 2017 07:26:43 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-krzmolfoxvovuwrebtp/</guid>
-      <description></description>
+      <description>Taking inspiration from Don Norman’s The Design of Everyday Things, Olg Begemann examines API design. He uses Swift standard library APIs as examples, and explains how a well designed API manages to convey the API designer’s mental model to the API user.</description>
     </item>
     
   </channel>

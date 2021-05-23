@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 09 Jun 2017 14:12:30 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/staticanalysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift: Close to greatness in programming language design</title>
-      <link>https://freshswift.net/post/-kmcbkqz1jchgcifrmbb/</link>
+      <link>https://www.synopsys.com/blogs/software-security/swift-programming-language-design-part-1</link>
       <pubDate>Fri, 09 Jun 2017 14:12:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmcbkqz1jchgcifrmbb/</guid>
-      <description></description>
+      <description>Interesting look at how Swift rates in terms of avoiding language defect patterns. This is part 1 in a series of posts from Peter Dillinger, and it&#39;s encouraging to see Swift hold it&#39;s own when compared to other languages.</description>
     </item>
     
   </channel>

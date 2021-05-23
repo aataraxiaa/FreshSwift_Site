@@ -8,38 +8,34 @@
     <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/encapsulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encapsulating SwiftUI view styles</title>
-      <link>https://freshswift.net/post/05-10-20-075639/</link>
+      <link>https://www.swiftbysundell.com/articles/encapsulating-swiftui-view-styles/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-10-20-075639/</guid>
-      <description></description>
+      <description>When working with UI frameworks such as SwiftUI, it&#39;s desirable to separate the structure of our view components from the styles applied to them. In this post, John Sundell looks at several tools and techniques that we can use to do exactly that when creating custom SwiftUI views.</description>
     </item>
     
     <item>
       <title>Context-Bound Types</title>
-      <link>https://freshswift.net/post/01-10-20-073958/</link>
+      <link>https://www.fabisevi.ch/2020/09/21/Context-Bound-Types/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-10-20-073958/</guid>
-      <description></description>
+      <description>Writing any kind of API involves trying to balance exposing the right amount of implementation details without revealing too much. In this post, Joe Fabisevich looks at this topic and walks us through the task of creating a view controller with a header view in Swift.</description>
     </item>
     
     <item>
       <title>Hiding Implementation Details Using internal Properties</title>
-      <link>https://freshswift.net/post/-locqu6di6c9tegwesxq/</link>
+      <link>https://holko.pl/2018/10/08/internal-modifier/</link>
       <pubDate>Fri, 12 Oct 2018 15:16:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-locqu6di6c9tegwesxq/</guid>
-      <description></description>
+      <description>Arek Holko demonstrates how to provide dependency injection while hiding implementation details using internal properties.</description>
     </item>
     
     <item>
       <title>Model controllers in Swift</title>
-      <link>https://freshswift.net/post/-lkrwokxbqhigomxwvdr/</link>
+      <link>https://www.swiftbysundell.com/posts/model-controllers-in-swift</link>
       <pubDate>Tue, 21 Aug 2018 14:46:11 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lkrwokxbqhigomxwvdr/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how we can use dedicated model controllers to improve code encapsulation, giving each defined type a very distinct and clearly defined area of responsibility.</description>
     </item>
     
   </channel>

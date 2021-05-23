@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 20 Sep 2018 11:59:47 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/presenter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lightweight presenters in Swift</title>
-      <link>https://freshswift.net/post/-lmqqqm06klagh5lqib6/</link>
+      <link>https://www.swiftbysundell.com/posts/lightweight-presenters-in-swift</link>
       <pubDate>Thu, 20 Sep 2018 11:59:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lmqqqm06klagh5lqib6/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how we can use the presenter pattern to ensure separation of concerns, a core programming principle.</description>
     </item>
     
   </channel>

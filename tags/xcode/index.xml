@@ -8,119 +8,106 @@
     <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/xcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a silly WatchKit App</title>
-      <link>https://freshswift.net/post/24-06-20-084013/</link>
+      <link>https://ericasadun.com/2020/06/05/building-a-silly-watchkit-app/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-06-20-084013/</guid>
-      <description></description>
+      <description>Erica Sadun with a short post describing her efforts to build a simple WatchKit app using SwiftUI. The amount of code required to implement her app was small, about 40 lines, but Erica encountered some problems when trying to deploy her app to hardware for testing.</description>
     </item>
     
     <item>
       <title>Getting the most out of Xcode Previews for SwiftUI</title>
-      <link>https://freshswift.net/post/01-06-20/</link>
+      <link>https://swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-06-20/</guid>
-      <description></description>
+      <description>John Sundell shows us a number of techniques and abstractions to help us make the most of Xcode 11&#39;s Preview feature. As always, John provides lots of code snippets which we can immediately start using in our own code.</description>
     </item>
     
     <item>
       <title>Improving Your Build Time in Xcode 10</title>
-      <link>https://freshswift.net/post/-lm8wcfs8erimeqjpulo/</link>
+      <link>https://patrickbalestra.com/blog/2018/08/27/improving-your-build-time-in-xcode-10.html</link>
       <pubDate>Tue, 11 Sep 2018 16:46:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lm8wcfs8erimeqjpulo/</guid>
-      <description></description>
+      <description>Patrick Balestra teaches us how to improve our Swift project build times using new features available in Xcode 10.</description>
     </item>
     
     <item>
       <title>Conditional Compilation in Swift, Part 1</title>
-      <link>https://freshswift.net/post/-ljngyjm0fmnvd9h-ybr/</link>
+      <link>https://davedelong.com/blog/2018/07/25/conditional-compilation-in-swift-part-1/</link>
       <pubDate>Wed, 08 Aug 2018 08:40:58 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ljngyjm0fmnvd9h-ybr/</guid>
-      <description></description>
+      <description>Dave Delong has developed his own way of conditionalizing compilation of Swift code when using Xcode. Dave shows us how we can use configuration files settings together with certain build settings to conditionally compile code based on the platform being targeted.</description>
     </item>
     
     <item>
       <title>Code Injection In Swift</title>
-      <link>https://freshswift.net/post/-lex1bhpundzy8hyqmt_/</link>
+      <link>https://medium.com/itch-design-no/code-injection-in-swift-c49be095414c</link>
       <pubDate>Sat, 09 Jun 2018 00:53:37 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lex1bhpundzy8hyqmt_/</guid>
-      <description></description>
+      <description>Christoffer Winterkvist describes how we can use the Swift Vaccine library together with the  Injectionlll macOS app to achieve code injection, or hot reloading, in our Xcode projects. This is pretty cool, and I can definitely see this being used in my day to day development.</description>
     </item>
     
     <item>
       <title>What’s new in Swift 4.1</title>
-      <link>https://freshswift.net/post/-l3rwobiie1zmlx8repa/</link>
+      <link>https://www.hackingwithswift.com/articles/50/whats-new-in-swift-4-1</link>
       <pubDate>Sat, 27 Jan 2018 12:09:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l3rwobiie1zmlx8repa/</guid>
-      <description></description>
+      <description>Xcode 9.3 beta is now available, and with it comes the latest point release of Swift - Swift 4.1. In this post, Paul Hudson runs through what he considers to the the top three new features of Swift 4.1.</description>
     </item>
     
     <item>
       <title>iOS/macOS Developer Productivity Kit</title>
-      <link>https://freshswift.net/post/-l20esphqsgpz5vl47hi/</link>
+      <link>https://theswiftpost.co/ios-macos-developer-productivity-kit/</link>
       <pubDate>Thu, 04 Jan 2018 14:53:43 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l20esphqsgpz5vl47hi/</guid>
-      <description></description>
+      <description>This is not really a Swift language post, but it’s useful if you work in Xcode. Candost Dagdeviren from Swift Post shows us how we can be more productive by utilising Xcode shortcuts together with some third party tools.</description>
     </item>
     
     <item>
       <title>Xcode 9.1 Improves Display of Fatal Errors</title>
-      <link>https://freshswift.net/post/-kw-jenyt84_3big6bac/</link>
+      <link>https://swift.org/blog/xcode-9-1-improves-display-of-fatal-errors/</link>
       <pubDate>Mon, 09 Oct 2017 08:46:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kw-jenyt84_3big6bac/</guid>
-      <description></description>
+      <description>Xcode 9.1 significantly improves it’s user feedback when a Swift program terminates due to fatal error. Prior to Xcode 9.1, when a program terminated due to fatal error, the user was often left confused by the non-descriptive error message displayed. With the latest beta, Xcode will now display the reason for the fatal error termination. A nice improvement.</description>
     </item>
     
     <item>
       <title>Measuring Swift compile times in Xcode 9</title>
-      <link>https://freshswift.net/post/-kvwhmipwawe4dzmzze6/</link>
+      <link>https://www.jessesquires.com/blog/measuring-compile-times-xcode9/</link>
       <pubDate>Tue, 03 Oct 2017 08:10:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvwhmipwawe4dzmzze6/</guid>
-      <description></description>
+      <description>Xcode Swift compile times are still a source of frustration for developers. The Swift type-checker, although improving with every Swift release, is a bottleneck. In this short post, Jesse Squires shows us how we can use two frontend Swift compiler flags to measure Swift compile times. We can then identify functions and expressions which take a long time to type-check, and update our code with explicitly type annotations. By doing so, we reduce the amount of type inference needed, which should lead to a reduction in compile times.</description>
     </item>
     
     <item>
       <title>Speed up Swift compile time</title>
-      <link>https://freshswift.net/post/-krqvbas4yn7rij_sfrg/</link>
+      <link>https://medium.com/theappspace/speed-up-swift-compile-time-6f62d86f85e6</link>
       <pubDate>Sun, 13 Aug 2017 12:10:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-krqvbas4yn7rij_sfrg/</guid>
-      <description></description>
+      <description>Dejan Atanasov provides some tips to speed up Swift compile times. He looks at changes we can make to Xcode project configuration, together with changes to how we write our Swift code.</description>
     </item>
     
     <item>
       <title>Apple open sources key Xcode refactoring components</title>
-      <link>https://freshswift.net/post/-kmvqlwf2njvmoyitevh/</link>
+      <link>https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20170605/004751.html</link>
       <pubDate>Tue, 13 Jun 2017 07:49:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmvqlwf2njvmoyitevh/</guid>
-      <description></description>
+      <description>This year at WWDC 2017, Apple delivered Xcode 9 beta. This release includes a new refactoring feature that supports the refactoring of Swift. This was great news and something the community eagerly awaited. Shortly after, Ted Kremenek took to the message boards to make another announcement - Apple will be open sourcing key parts of the engine that power the Xcode file-level transformations. It’s always great to see an organization open sourcing, and even more so when it comes to tooling.</description>
     </item>
     
     <item>
       <title>Adding Swift Playgrounds to Xcode Projects</title>
-      <link>https://freshswift.net/post/-kj8r0ldyet1txhhqltu/</link>
+      <link>https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects</link>
       <pubDate>Sat, 29 Apr 2017 08:06:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8r0ldyet1txhhqltu/</guid>
-      <description></description>
+      <description>Xcode Swift playgrounds are a fantastic way to try out ideas. In this how-to, Use Your Loaf shows us how to add a playground to an Xcode project and give it access to project code and resources. Really useful for quickly iterating on UI without resorting to Interface Builder.</description>
     </item>
     
     <item>
       <title>Reduce Swift build times and get home faster 😃</title>
-      <link>https://freshswift.net/post/-kj8oaxsnjepzxcit94x/</link>
+      <link>https://speakerdeck.com/yuseinishiyama/reduce-build-times-and-get-home-eariler</link>
       <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8oaxsnjepzxcit94x/</guid>
-      <description></description>
+      <description>Yusei Nishiyama presented these slides at the recent Code Mobile UK conference. He provides useful tips on improving Swift&#39;s build times based on measurement, improvement, and avoiding building entirely. Included is an awesome tip on using Playgrounds to prototype as you develop.</description>
     </item>
     
   </channel>

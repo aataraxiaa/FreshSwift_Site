@@ -8,92 +8,82 @@
     <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/animation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering transitions in SwiftUI</title>
-      <link>https://freshswift.net/post/21-10-20-074642/</link>
+      <link>https://nerdyak.tech/development/2020/10/12/transitions-in-swiftui.html</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-10-20-074642/</guid>
-      <description></description>
+      <description>In this post, Pavel Zak shows us how to implement custom animation transitions in SwiftUI. As Pavel says, transitions play a vital role in the user experience of an app, and the examples he provides are great starting points for implementing our own transitions.</description>
     </item>
     
     <item>
       <title>Transactions in SwiftUI</title>
-      <link>https://freshswift.net/post/16-10-20-072939/</link>
+      <link>https://swiftwithmajid.com/2020/10/07/transactions-in-swiftui/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-10-20-072939/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s Transaction type provides the context of the current state-processing update. In this post, Majid Jabrayilov shows us how we can use the transaction that accompanies every state change to override state-related view animations.</description>
     </item>
     
     <item>
       <title>withAnimation completion callback with animatable modifiers</title>
-      <link>https://freshswift.net/post/10-09-20-075336/</link>
+      <link>https://www.avanderlee.com/swiftui/withanimation-completion-callback/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-09-20-075336/</guid>
-      <description></description>
+      <description>SwiftUI provides excellent support for animations, enabling us to implement simple animations using its withAnimation view modifier. In this post, Antoine Van Der Lee shows us how to create a custom animatable modifier which triggers a completion callback once the animation completes.</description>
     </item>
     
     <item>
       <title>The magic of Animatable values in SwiftUI</title>
-      <link>https://freshswift.net/post/29-06-20-080212/</link>
+      <link>https://swiftwithmajid.com/2020/06/17/the-magic-of-animatable-values-in-swiftui/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-06-20-080212/</guid>
-      <description></description>
+      <description>SwiftUI provides view modifiers which allow us to animate changes to a view&#39;s state. In this post, Majid demonstrates how we can build complex animations using Swift&#39;s VectorArithmetic protocol.</description>
     </item>
     
     <item>
       <title>Core Animation gems: Using replicator layers in Swift</title>
-      <link>https://freshswift.net/post/-kt6dhh1ebznisarmv3f/</link>
+      <link>https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift</link>
       <pubDate>Sun, 03 Sep 2017 12:11:21 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kt6dhh1ebznisarmv3f/</guid>
-      <description></description>
+      <description>John Sundell shows us how CAReplicatorLayer can be a great tool for certain types of renderings and animations. He walks us through an implementation of using one image to create a tiled, animated view. CAReplicatorLayer may not be something we have cause to use regularly, but it’s good to know how to use it in case the opportunity arises.</description>
     </item>
     
     <item>
       <title>Building a declarative animation framework in Swift - Part 2</title>
-      <link>https://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</link>
+      <link>https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-2</link>
       <pubDate>Mon, 07 Aug 2017 09:11:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</guid>
-      <description></description>
+      <description>John Sundell continues to build a declarative animation framework in Swift in this post, the second in a series. Here, he adds the ability to coordinate animations performed on multiple views. It’s a nice approach, and something which could be easily adopted when performing animations in any project.</description>
     </item>
     
     <item>
       <title>Advanced UIKit Animations In Swift</title>
-      <link>https://freshswift.net/post/-kqctwwlc0hribq58b6s/</link>
+      <link>https://digitalleaves.com/advanced-uikit-animations-swift/</link>
       <pubDate>Sat, 29 Jul 2017 08:34:48 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqctwwlc0hribq58b6s/</guid>
-      <description></description>
+      <description>Another good post from Ignacio Nieto Carvajal at Digital Leaves. In this tutorial, Ignacio shows us how to implement animations in Swift. He starts with basic UIKit animations and then advances through interactive and interruptible animations. If you want to implement animations in your iOS apps using Swift, this is a great place to start.</description>
     </item>
     
     <item>
       <title>Building a declarative animation framework in Swift - Part 1</title>
-      <link>https://freshswift.net/post/-kq74w5j2vbnbn4frnjl/</link>
+      <link>https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-1</link>
       <pubDate>Fri, 28 Jul 2017 07:27:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kq74w5j2vbnbn4frnjl/</guid>
-      <description></description>
+      <description>John Sundell with the first in a series of posts on building a declarative animation framework in Swift. We have probably all written animation code using UIView’s animation API consisting of n-level nested closures, which soon becomes hard to read and even harder to tweak. The approach John presents avoids such issues, and could easily be adopted in any iOS project.</description>
     </item>
     
     <item>
       <title>What’s New In UIKit Animations In Swift 4</title>
-      <link>https://freshswift.net/post/-kpxqgymks4parugusoz/</link>
+      <link>https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/</link>
       <pubDate>Wed, 26 Jul 2017 07:42:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpxqgymks4parugusoz/</guid>
-      <description></description>
+      <description>Ignacio Nieto Carvajal shows us what’s new in animation is iOS 11 and Swift 4. He looks specifically at UIKit’s UIViewPropertyAnimator and how we can use new properties added in iOS 11 to improve our UIView-based animations.</description>
     </item>
     
     <item>
       <title>Using SpriteKit to create animations in Swift</title>
-      <link>https://freshswift.net/post/-ko6aumo5ooulvhtgmrp/</link>
+      <link>https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift</link>
       <pubDate>Mon, 03 Jul 2017 08:40:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ko6aumo5ooulvhtgmrp/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how we can use SpriteKit to create image or text-based animations. Although we can’t use SpriteKit to animate our UIViews, it could be used when animating UI components such as loading or onboarding screens.</description>
     </item>
     
   </channel>

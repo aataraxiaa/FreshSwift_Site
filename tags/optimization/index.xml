@@ -8,11 +8,10 @@
     <lastBuildDate>Sun, 13 Aug 2017 12:10:35 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Speed up Swift compile time</title>
-      <link>https://freshswift.net/post/-krqvbas4yn7rij_sfrg/</link>
+      <link>https://medium.com/theappspace/speed-up-swift-compile-time-6f62d86f85e6</link>
       <pubDate>Sun, 13 Aug 2017 12:10:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-krqvbas4yn7rij_sfrg/</guid>
-      <description></description>
+      <description>Dejan Atanasov provides some tips to speed up Swift compile times. He looks at changes we can make to Xcode project configuration, together with changes to how we write our Swift code.</description>
     </item>
     
   </channel>

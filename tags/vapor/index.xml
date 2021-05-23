@@ -8,20 +8,18 @@
     <lastBuildDate>Mon, 20 Nov 2017 08:56:13 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/vapor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Server Side Swift with Vapor</title>
-      <link>https://freshswift.net/post/-kznd5gtvsemh34f-9bd/</link>
+      <link>https://www.vaporforums.io/thread/30?utm_source=newsletter_mailer&amp;utm_medium=email&amp;utm_campaign=weekly</link>
       <pubDate>Mon, 20 Nov 2017 08:56:13 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kznd5gtvsemh34f-9bd/</guid>
-      <description></description>
+      <description>This is a simple introduction to Vapor, the server side Swift framework. If you have not yet had the chance to learn about Vapor, this is where you should start. It shows you how to build a simple Swift API in about 5 minutes.</description>
     </item>
     
     <item>
       <title>Errors On The Server</title>
-      <link>https://freshswift.net/post/-koctt_bhyhrjcolrnjt/</link>
+      <link>http://khanlou.com/2017/07/errors-on-the-server/</link>
       <pubDate>Sun, 09 Jul 2017 17:51:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koctt_bhyhrjcolrnjt/</guid>
-      <description></description>
+      <description>Soroush Khanlou looks at how to best handle errors when writing server-side Swift, in this case Vapor. I really like his point about making the correct way to write code the same as the nice way the write code, therefore removing the need for trade-offs between the two.</description>
     </item>
     
   </channel>

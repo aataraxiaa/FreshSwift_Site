@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/higher-order-functions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Returning to an old hobbyhorse: Migrating higher order function names to comply with API guidelines</title>
-      <link>https://freshswift.net/post/07-07-20-081107/</link>
+      <link>https://forums.swift.org/t/returning-to-an-old-hobbyhorse-migrating-higher-order-function-names-to-comply-with-api-guidelines/37728</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-07-20-081107/</guid>
-      <description></description>
+      <description>A higher order function is a function which takes a function as an argument, or returns a function. In this post from the Swift forums, Erica Sadun pitches a proposal to rename Swift&#39;s higher order functions, such as map and filter, based on the Swift API design guidelines. It&#39;s something which can be done without causing breaking changes, and I am in favour of the proposal.</description>
     </item>
     
   </channel>

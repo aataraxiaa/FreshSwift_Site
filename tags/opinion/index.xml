@@ -8,29 +8,26 @@
     <lastBuildDate>Tue, 26 Jun 2018 12:19:31 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Apple&#39;s Love Affair With Swift</title>
-      <link>https://freshswift.net/post/-lfw1crli4pjbwwxbgyl/</link>
+      <link>https://stefan-lesser.com/2018/06/20/on-apples-love-affair-with-swift/</link>
       <pubDate>Tue, 26 Jun 2018 12:19:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfw1crli4pjbwwxbgyl/</guid>
-      <description></description>
+      <description>In response to a recent article examining Swift, in which the author questioned the decisions behind the development of the language, Stefan Lesser selects the most relevant excerpts from an interview with Chris Lattner to answer the questions.</description>
     </item>
     
     <item>
       <title>On my misalignment with Apple&#39;s love affair with Swift</title>
-      <link>https://freshswift.net/post/-lepge_b0xxeq9dhk0cw/</link>
+      <link>https://rant.monkeydom.de/posts/2018/06/10/on-my-misalignment-with-apple_s-love-affair-with-swift</link>
       <pubDate>Tue, 12 Jun 2018 18:32:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lepge_b0xxeq9dhk0cw/</guid>
-      <description></description>
+      <description>This is an interesting post from Dominik Wagner in which he explains why he is not a fan of Swift. Although I don’t share Dominik’s overall opinion of Swift, I do agree with some of the points he makes, particularly regarding the tension that exists between Swift and existing Apple frameworks. Even if you love the language, it’s good to understand the reasons why other’s don’t.</description>
     </item>
     
     <item>
       <title>10 things I like about Swift</title>
-      <link>https://freshswift.net/post/-krzuq2zh9yvityvb-yj/</link>
+      <link>https://medium.com/swift-programming/10-things-i-like-about-swift-7bbd40cabb79</link>
       <pubDate>Sun, 20 Aug 2017 13:51:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-krzuq2zh9yvityvb-yj/</guid>
-      <description></description>
+      <description>Nathan Chan lists 10 things he likes about Swift. I bet that as you read down the list you will find yourself nodding in agreement. It’s good to remind ourselves why we fell in love! 😍.</description>
     </item>
     
   </channel>

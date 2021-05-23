@@ -8,146 +8,130 @@
     <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/codable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bringing Polymorphism to Codable</title>
-      <link>https://freshswift.net/post/14-05-21-141449/</link>
+      <link>https://lostmoa.com/blog/BringingPolymorphismToCodable/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-05-21-141449/</guid>
-      <description></description>
+      <description>Polymorphism refers to the use of a single type to represent multiple different types. In this post, Matthaus Woolard shows us how to bring polymorphic behavior to Swift&#39;s Codable protocols, and provides a convenient property wrapper to avoid boilerplate code.</description>
     </item>
     
     <item>
       <title>Codable synthesis for enums with associated values</title>
-      <link>https://freshswift.net/post/08-12-20-120455/</link>
+      <link>https://github.com/apple/swift-evolution/blob/main/proposals/0295-codable-synthesis-for-enums-with-associated-values.md</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-12-20-120455/</guid>
-      <description></description>
+      <description>Swift 4 introduced support for automatically synthesizing conformance to the Encodable and Decodable protocols. It&#39;s a useful feature, most likely used by any application which handles JSON-based network requests. This Swift evolution pitch from Dario Rexin proposes extending auto-synthesis of these conformances to enums with associated values. I&#39;m sure we will see this in an upcoming Swift version.</description>
     </item>
     
     <item>
       <title>Parsing Tricky JSON With Codable in Swift</title>
-      <link>https://freshswift.net/post/18-11-20-073712/</link>
+      <link>https://www.andyibanez.com/posts/parsing-tricky-json-codable-swift/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-11-20-073712/</guid>
-      <description></description>
+      <description>Parsing JSON is sometimes not as straightforward as we would like it to be, and we might find ourselves dealing with malformed JSON payloads. In this post, Andrés Ibañez shares his tips for parsing tricky JSON using Swift&#39;s Codable protocol.</description>
     </item>
     
     <item>
       <title>Save Custom Codable Types in AppStorage or SceneStorage</title>
-      <link>https://freshswift.net/post/08-09-20-075830/</link>
+      <link>https://lostmoa.com/blog/SaveCustomCodableTypesInAppStorageOrSceneStorage/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-09-20-075830/</guid>
-      <description></description>
+      <description>AppStorage and SceneStorage are SwiftUI property wrappers designed for data persistence. Both of these property wrappers support Swift value types such as Bool, Int, etc. However, to use these property wrappers with custom codable types, we need to add RawRepresentable conformance to the types. In this post, Natalia Panferova shows us how to do this.</description>
     </item>
     
     <item>
       <title>Adding support for versioning and migration to your Codable models.</title>
-      <link>https://freshswift.net/post/16-06-20/</link>
+      <link>http://merowing.info/2020/06/adding-support-for-versioning-and-migration-to-your-codable-models./</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-06-20/</guid>
-      <description></description>
+      <description>I really like this idea from Krzysztof Zabłocki that adds support for versioning to Codable models. It&#39;s super lightweight, involving conformance to a single protocol and a custom decoder with one method, but allows us to decode any versioned model and apply all necessary migrations.</description>
     </item>
     
     <item>
       <title>Swift Tip: Codable Enums</title>
-      <link>https://freshswift.net/post/-l42_brlwpfwphzqf08f/</link>
+      <link>https://www.objc.io/blog/2018/01/23/codable-enums/?utm_campaign=Revue%20newsletter&amp;utm_medium=Swift%20Weekly%20Newsletter%20Issue%20104&amp;utm_source=Swift%20Weekly</link>
       <pubDate>Mon, 29 Jan 2018 20:23:11 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l42_brlwpfwphzqf08f/</guid>
-      <description></description>
+      <description>In this post from Objc.io, we learn how to add Codable conformance to enums which have associated types. A very useful tip.</description>
     </item>
     
     <item>
       <title>Swift Codable With Custom Dates</title>
-      <link>https://freshswift.net/post/-l0jo99fb05lti4drvej/</link>
+      <link>https://useyourloaf.com/blog/swift-codable-with-custom-dates/?utm_campaign=iOS%2BDev%2BWeekly&amp;utm_medium=email&amp;utm_source=iOS_Dev_Weekly_Issue_330</link>
       <pubDate>Thu, 14 Dec 2017 11:37:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l0jo99fb05lti4drvej/</guid>
-      <description></description>
+      <description>Another useful post from Keith Harrison of Use Your Loaf. This time Keith shows us how to use Swift 4’s Codable protocols to decode JSON which contains date values in more than one format.</description>
     </item>
     
     <item>
       <title>Why Dictionary sometimes encodes itself as an array </title>
-      <link>https://freshswift.net/post/-l-gcjr5ahe8x3zocsqq/</link>
+      <link>https://oleb.net/blog/2017/12/dictionary-codable-array/</link>
       <pubDate>Wed, 06 Dec 2017 14:22:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-gcjr5ahe8x3zocsqq/</guid>
-      <description></description>
+      <description>Oleb Begemann with a very interesting post on why Swift dictionaries sometimes encode themselves as arrays when using Swift 4’s Codable protocols. I wasn’t aware of this limitation, and as he points out, there is no clean and simple fix for it.</description>
     </item>
     
     <item>
       <title>SingleValueCodable - A simple exercise in leverage</title>
-      <link>https://freshswift.net/post/-kxr2e_ufjrmnh3xsjdg/</link>
+      <link>http://www.russbishop.net/singlevaluecodable</link>
       <pubDate>Fri, 27 Oct 2017 04:17:55 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kxr2e_ufjrmnh3xsjdg/</guid>
-      <description></description>
+      <description>A single-value wrapper type is a type which encapsulates only a single property. Dealing with such types when using Swift’s Codable protocols can lead to less than perfect representations of the type’s data. In this post, Russ Bishop works through a small exercise in extending Codable to better such types.</description>
     </item>
     
     <item>
       <title>Codable Enums</title>
-      <link>https://freshswift.net/post/-kvrebxkzsv_ygdb5ygh/</link>
+      <link>https://littlebitesofcocoa.com/318-codable-enums</link>
       <pubDate>Sat, 07 Oct 2017 14:30:21 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvrebxkzsv_ygdb5ygh/</guid>
-      <description></description>
+      <description>Swift 4’s Codable protocols make it very easy to encode and decode conforming types, even working with enums when the enums rawValue also conforms to Codable. However, things get a little bit more complicated when dealing with enums which have associated values. This post from Little Bites of Cocoa shows us how we can handle such a situation.</description>
     </item>
     
     <item>
       <title>When JSONDecoder meets the real world, things get ugly…</title>
-      <link>https://freshswift.net/post/-kvmbjvfw9ls9fmtvd-q/</link>
+      <link>http://davelyon.net/2017/08/16/jsondecoder-in-the-real-world</link>
       <pubDate>Sun, 01 Oct 2017 09:09:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvmbjvfw9ls9fmtvd-q/</guid>
-      <description></description>
+      <description>Dave Lyon looks at decoding real-world API data using Swift 4’s Codable protocols. He explains why dealing with real-world JSON data might not be as simple as some of the examples we may have seen, and shows us how we can avoid common pitfalls.</description>
     </item>
     
     <item>
       <title>Using Swift Codable With Property Lists</title>
-      <link>https://freshswift.net/post/-kswqtftfffvsz9eaxo9/</link>
+      <link>https://useyourloaf.com/blog/using-swift-codable-with-property-lists</link>
       <pubDate>Fri, 01 Sep 2017 07:55:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kswqtftfffvsz9eaxo9/</guid>
-      <description></description>
+      <description>Swift 4’s Codable protocols are a fantastic addition to the language, allowing us to easily encode/decode types to/from external formats. In this post from Use Your Loaf, we learn how to use the new Codable protocols to encode/decode data to/from Cocoa property lists.</description>
     </item>
     
     <item>
       <title>Codable Dates</title>
-      <link>https://freshswift.net/post/-ksnjz5khsezl5npqbmj/</link>
+      <link>https://littlebitesofcocoa.com/316-codable-dates</link>
       <pubDate>Fri, 25 Aug 2017 07:36:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ksnjz5khsezl5npqbmj/</guid>
-      <description></description>
+      <description>Jake Marsh learns how to easily encode/decode Dates when using Swift 4’s Codable protocols. As he says, we have all had to handle some crazy date format when working with HTTP APIs, but with Swift 4, this should become less painful. A useful little bite of Cocoa.</description>
     </item>
     
     <item>
       <title>Swift.Codable</title>
-      <link>https://freshswift.net/post/-kpoqu4cqne83gv2pykq/</link>
+      <link>https://www.mikeash.com/pyblog/friday-qa-2017-07-14-swiftcodable.html</link>
       <pubDate>Wed, 19 Jul 2017 07:59:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpoqu4cqne83gv2pykq/</guid>
-      <description></description>
+      <description>Swift 4 includes some really exciting additions, one of these being it’s Codable protocol, which allows us to easily encode/decode our custom types to data types such as JSON. In this edition of his Q&amp;A series of articles, Mike Ash looks at exactly how Swift’s new encoding systems works, and how we can implement the protocols ourselves to support a custom data format.</description>
     </item>
     
     <item>
       <title>JSON with Encoder and Encodable</title>
-      <link>https://freshswift.net/post/-koby6in5cvxmwtdev_s/</link>
+      <link>https://swiftunboxed.com/stdlib/json-encoder-encodable/</link>
       <pubDate>Tue, 04 Jul 2017 07:41:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koby6in5cvxmwtdev_s/</guid>
-      <description></description>
+      <description>Great post from Greg Heo in which he looks at the magic that is JSON encoding in Swift 4. He walks through every step in the process of encoding a single Int value to JSON, and looks at  the implementation. There are some twists, with parts of the implementation probable not being what you expect. An informative and fun read.</description>
     </item>
     
     <item>
       <title>Encoding and Decoding in Swift 4</title>
-      <link>https://freshswift.net/post/-km_w3y-kj1wbvguxci3/</link>
+      <link>https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862</link>
       <pubDate>Wed, 14 Jun 2017 07:32:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-km_w3y-kj1wbvguxci3/</guid>
-      <description></description>
+      <description>Swift 4 introduces the Codable protocol, a really useful protocol which enables us to easily encode and decode conforming types. In this short post, Mohammed Azam demonstrates how we can use this feature to encode/decode our custom types to/from JSON.</description>
     </item>
     
   </channel>

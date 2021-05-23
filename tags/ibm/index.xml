@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 03 Nov 2017 04:02:47 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ibm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Kitura 2.0</title>
-      <link>https://freshswift.net/post/-ky-1uequtisixdxfgyk/</link>
+      <link>https://developer.ibm.com/swift/2017/10/30/kitura-20/</link>
       <pubDate>Fri, 03 Nov 2017 04:02:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ky-1uequtisixdxfgyk/</guid>
-      <description></description>
+      <description>Chris Bailey from IBM with a post introducing the latest version of IBM’s popular Swift web framework. Version 2.0 has been built using the latest Swift capabilities, and includes some awesome features such as Codable Routing.</description>
     </item>
     
   </channel>

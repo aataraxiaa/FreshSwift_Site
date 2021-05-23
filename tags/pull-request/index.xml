@@ -8,11 +8,10 @@
     <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/pull-request/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Concurrency] Add `async` to the Swift type system.</title>
-      <link>https://freshswift.net/post/15-08-20-083049/</link>
+      <link>https://github.com/apple/swift/pull/33147</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-08-20-083049/</guid>
-      <description></description>
+      <description>Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.</description>
     </item>
     
   </channel>

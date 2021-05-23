@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 05 Dec 2017 09:41:47 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building an enum-based analytics system in Swift</title>
-      <link>https://freshswift.net/post/-l-a2n4db_e3wccgdggr/</link>
+      <link>https://www.swiftbysundell.com/posts/building-an-enum-based-analytics-system-in-swift?utm_campaign=Revue%20newsletter&amp;utm_medium=Swift%20Weekly%20Newsletter%20Issue%2098&amp;utm_source=Swift%20Weekly</link>
       <pubDate>Tue, 05 Dec 2017 09:41:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-a2n4db_e3wccgdggr/</guid>
-      <description></description>
+      <description>John Sundell demonstrates an approach to adding app analytics based on enums. It’s a nice idea, allowing us to add analytic events to our code without being tied to any particular analytics provider.</description>
     </item>
     
   </channel>

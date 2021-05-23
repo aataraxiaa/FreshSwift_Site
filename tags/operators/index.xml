@@ -8,20 +8,18 @@
     <lastBuildDate>Tue, 02 May 2017 15:57:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/operators/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift range containment operator</title>
-      <link>https://freshswift.net/post/-kj8slimtbokwidd2ygd/</link>
+      <link>https://medium.com/@nahive/swift-range-containment-operator-3ba838fb8487</link>
       <pubDate>Tue, 02 May 2017 15:57:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8slimtbokwidd2ygd/</guid>
-      <description></description>
+      <description>Short post describing the Swift ~= operator. Szy details what it does, when to use it, and what it does not do. Included is a small extension which aims to improve it&#39;s usability.</description>
     </item>
     
     <item>
       <title>Custom Operator Overloading in Swift</title>
-      <link>https://freshswift.net/post/-kj8rbrppnp70xyn3r0i/</link>
+      <link>https://www.raywenderlich.com/157556/overloading-custom-operators-swift</link>
       <pubDate>Sat, 29 Apr 2017 13:47:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8rbrppnp70xyn3r0i/</guid>
-      <description></description>
+      <description>Evan Dekhayser with a raywenderlich.com tutorial on operator overloading in Swift. Everything you need to know is included, from overloading existing operators to creating your own custom operators.</description>
     </item>
     
   </channel>

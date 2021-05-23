@@ -8,56 +8,50 @@
     <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/state/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A guide to SwiftUI’s state management system</title>
-      <link>https://freshswift.net/post/17-07-20-075024/</link>
+      <link>https://swiftbysundell.com/articles/swiftui-state-management-guide/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-07-20-075024/</guid>
-      <description></description>
+      <description>SwiftUI includes several property wrappers that allow us to declare exactly how data is observed and mutated by views. In this post from John Sundell, he takes a closer look at SwiftUI&#39;s overall state management system and provides concrete examples of when we might use each of the related property wrappers.</description>
     </item>
     
     <item>
       <title>The difference between @StateObject, @EnvironmentObject, and @ObservedObject in SwiftUI</title>
-      <link>https://freshswift.net/post/12-07-20-162514/</link>
+      <link>https://swiftwithmajid.com/2020/07/02/the-difference-between-stateobject-environmentobject-and-observedobject-in-swiftui/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-07-20-162514/</guid>
-      <description></description>
+      <description>SwiftUI implements it&#39;s data flow management types, such as State, Binding, and ObservedObject, as property wrappers. In this post, Majid explains the difference between some of these property wrappers, including the new StateObject property wrapper which is available in iOS 14</description>
     </item>
     
     <item>
       <title>An iOS alert view with a text field and a “smart” OK button</title>
-      <link>https://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</link>
+      <link>https://oleb.net/2018/uialertcontroller-textfield/</link>
       <pubDate>Mon, 20 Aug 2018 08:42:40 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</guid>
-      <description></description>
+      <description>This is a very interesting post from Ole Bergmann, in which he demonstrates an approach to keeping an object alive by intentionally capturing it in a closure. Not an approach I had previously considered.</description>
     </item>
     
     <item>
       <title>Design Patterns in Swift: State Pattern</title>
-      <link>https://freshswift.net/post/-ld1rpyhxrwohtpotgmb/</link>
+      <link>https://agostini.tech/2018/05/13/design-patterns-in-swift-state</link>
       <pubDate>Mon, 21 May 2018 13:22:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ld1rpyhxrwohtpotgmb/</guid>
-      <description></description>
+      <description>This post from Dejan Agostini describes what the State pattern is, and shows us how to implement it in Swift using a simple example.</description>
     </item>
     
     <item>
       <title>Reactive iOS Programming: Lightweight State Containers in Swift</title>
-      <link>https://freshswift.net/post/-kq20tkq0hki-quqr3am/</link>
+      <link>https://www.captechconsulting.com/blogs/state-containers-in-swift</link>
       <pubDate>Thu, 27 Jul 2017 07:51:40 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kq20tkq0hki-quqr3am/</guid>
-      <description></description>
+      <description>In this post, Tyler Tillage looks at an approach to managing app state using state containers. He starts by building a state container which wraps a state value, and then demonstrates how we can use this container to listen for state changes. It’s a nice approach, and something I can see myself adopting in my own projects.</description>
     </item>
     
     <item>
       <title>Modelling state in Swift</title>
-      <link>https://freshswift.net/post/-kopshctwqksrxphxnq-/</link>
+      <link>https://www.swiftbysundell.com/posts/modelling-state-in-swift</link>
       <pubDate>Wed, 12 Jul 2017 08:18:53 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kopshctwqksrxphxnq-/</guid>
-      <description></description>
+      <description>Dealing with state is hard, error prone, and unavoidable. In this post, John Sundell looks at some of the commonly used techniques we can apply when dealing with state in Swift. I think the first two points - having a single source of truth, and making states exclusive - are key.</description>
     </item>
     
   </channel>

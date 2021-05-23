@@ -8,83 +8,74 @@
     <lastBuildDate>Fri, 21 Sep 2018 10:18:54 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swift-4.2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift 4.2 Released!</title>
-      <link>https://freshswift.net/post/-lmvcvku9byh7wiebs7n/</link>
+      <link>https://swift.org/blog/swift-4-2-released/</link>
       <pubDate>Fri, 21 Sep 2018 10:18:54 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lmvcvku9byh7wiebs7n/</guid>
-      <description></description>
+      <description>Ted Kremenek writes on the official Swift blog, detailing the language changes and updates available in Swift 4.2.</description>
     </item>
     
     <item>
       <title>Enum iterations in Swift 4.2</title>
-      <link>https://freshswift.net/post/-lleaxtb8q0c-vw9-7zq/</link>
+      <link>https://www.swiftbysundell.com/posts/enum-iterations-in-swift-42</link>
       <pubDate>Fri, 31 Aug 2018 08:51:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lleaxtb8q0c-vw9-7zq/</guid>
-      <description></description>
+      <description>John Sundell looks at CaseIterable, a protocol introduced in Swift 4.2. John describes what CaseIterable means, and demonstrates how we can use it to reduce boilerplate code.</description>
     </item>
     
     <item>
       <title>Updating Strings For Swift 4.2</title>
-      <link>https://freshswift.net/post/-liqbwgpi_098spukfhl/</link>
+      <link>https://useyourloaf.com/blog/updating-strings-for-swift-4.2/</link>
       <pubDate>Fri, 27 Jul 2018 10:04:09 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-liqbwgpi_098spukfhl/</guid>
-      <description></description>
+      <description>Keith Harrison from UseYourLoaf looks at the changes to the String API which are introduced with Swift 4.2. If you have been keeping up with Swift evolution, most of what is here should make sense.</description>
     </item>
     
     <item>
       <title> Swift&#39;s new calling convention</title>
-      <link>https://freshswift.net/post/-lhicqxnt7lvvukuwnpw/</link>
+      <link>https://www.jessesquires.com/blog/swifts-new-calling-convention/</link>
       <pubDate>Fri, 13 Jul 2018 10:35:28 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lhicqxnt7lvvukuwnpw/</guid>
-      <description></description>
+      <description>Swift 4.2 introduced changes to function calling conventions. This means changes to how functions receive their arguments, the order of the arguments, and how they return a result. In this post Jesse Squires describes exactly what has changed, and how these changes can benefit us.</description>
     </item>
     
     <item>
       <title>Thoughts on @dynamicMemberLookup</title>
-      <link>https://freshswift.net/post/-lgqx7hzsozascfoglrn/</link>
+      <link>https://oleb.net/blog/2018/06/dynamic-member-lookup/</link>
       <pubDate>Mon, 02 Jul 2018 17:05:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lgqx7hzsozascfoglrn/</guid>
-      <description></description>
+      <description>Ole Begemann shares his thoughts on a controversial new feature of Swift 4.2, dynamic member lookup. Ole demonstrates some use cases for the feature, before coming to some conclusions regarding it’s usefulness.</description>
     </item>
     
     <item>
       <title>Enumerating enum cases in Swift</title>
-      <link>https://freshswift.net/post/-lfcf-yfy4ldwaxvq89m/</link>
+      <link>https://oleb.net/blog/2018/06/enumerating-enum-cases/</link>
       <pubDate>Sun, 17 Jun 2018 12:15:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfcf-yfy4ldwaxvq89m/</guid>
-      <description></description>
+      <description>New in Swift 4.2 is the ability to specify that the compiler should generate a collection of an enum’s cases. In this post, Ole Begemann first shows us how we can use the new CaseIterable protocol with enums, before looking at how we can make other types  CaseIterable.</description>
     </item>
     
     <item>
       <title>Swift Diagnostics: #warning and #error</title>
-      <link>https://freshswift.net/post/-lf7myk_dv-rymdwd6w2/</link>
+      <link>https://swiftunboxed.com/internals/diagnostics-warning-error/</link>
       <pubDate>Sat, 16 Jun 2018 11:32:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lf7myk_dv-rymdwd6w2/</guid>
-      <description></description>
+      <description>This is a really interesting post from Greg Heo, in which he looks at two new compiler diagnostic directives which are available in Swift 4.2. Rather than simple show us how we can use them, Greg instead digs deeper, showing us how they are implemented in C++.</description>
     </item>
     
     <item>
       <title>Random numbers in Swift</title>
-      <link>https://freshswift.net/post/-let1eq05are1esnlta_/</link>
+      <link>https://oleb.net/blog/2018/06/random-numbers-in-swift/</link>
       <pubDate>Wed, 13 Jun 2018 12:06:56 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-let1eq05are1esnlta_/</guid>
-      <description></description>
+      <description>Swift 4.2 introduces a native random number API in the standard library. In this post, Ole Begemann walks us through what was added, and describes how we can the new API to write correct random number related code.</description>
     </item>
     
     <item>
       <title>What’s new in Swift 4.2?</title>
-      <link>https://freshswift.net/post/-lb5jfm-hvx3rc4y29hz/</link>
+      <link>https://www.hackingwithswift.com/articles/77/whats-new-in-swift-4-2</link>
       <pubDate>Fri, 27 Apr 2018 08:56:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lb5jfm-hvx3rc4y29hz/</guid>
-      <description></description>
+      <description>Swift is evolving at an impressive pace, and the upcoming version, Swift 4.2, brings with it some great improvements. In this post, Paul Hudson describes some of these improvements, including derived enum cases and dynamic member lookup.</description>
     </item>
     
   </channel>

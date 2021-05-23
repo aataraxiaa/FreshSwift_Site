@@ -8,47 +8,42 @@
     <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting default values for NSUserDefaults</title>
-      <link>https://freshswift.net/post/08-10-20-064207/</link>
+      <link>https://sarunw.com/posts/setting-default-value-for-nsuserdefaults/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-10-20-064207/</guid>
-      <description></description>
+      <description>Apple&#39;s UserDefaults type provides an interface to the default database associated with an application. It&#39;s most commonly used to store user preferences. In this post, Sarun Wongpatcharapakorn shows us how to set default values for such stored preferences in Swift.</description>
     </item>
     
     <item>
       <title>Handling Undo &amp; Redo in SwiftUI</title>
-      <link>https://freshswift.net/post/04-10-20-112113/</link>
+      <link>https://lostmoa.com/blog/HandlingUndoAndRedoInSwiftUI/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-10-20-112113/</guid>
-      <description></description>
+      <description>The UndoManager type, available in Apple&#39;s Foundation framework, provides a general-purpose recorder of operations that enables undo and redo actions. In this post, Matthaus Woolard describes a Provider pattern he uses to improve how UndoManager integrates with SwiftUI.</description>
     </item>
     
     <item>
       <title>Building a Multi-platform App with SwiftUI</title>
-      <link>https://freshswift.net/post/10-08-20-074736/</link>
+      <link>https://heartbeat.fritz.ai/building-a-multi-platform-app-with-swiftui-5336bce94689</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-08-20-074736/</guid>
-      <description></description>
+      <description>The Introduction to SwiftUI session at WWDC 2020 included content that focused on using SwiftUI to build multi-platform apps - i.e apps that work on both iOS and macOS. Building such apps can be done by separately building for each platform from a single codebase, or creating a Mac Catalyst app which runs an app built for iPad on macOS. In this post, Rick Wierenga looks at the former, providing a tutorial that shows us how to use a single codebase to build a HackerNews app for each platform.</description>
     </item>
     
     <item>
       <title>Swift tip: marking unused required initializers as unavailable</title>
-      <link>https://freshswift.net/post/29-05-20/</link>
+      <link>https://www.jessesquires.com/blog/2020/05/20/marking-unused-required-initializers-as-unavailable/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-05-20/</guid>
-      <description></description>
+      <description>Jesse Squires shares a Swift tip to help us avoid accidentally calling an irrelevant type initializer.</description>
     </item>
     
     <item>
       <title>How do I simplify `Swift.print`?</title>
-      <link>https://freshswift.net/post/-kqg8fi3_ubbex_ijkuh/</link>
+      <link>http://ericasadun.com/2017/07/18/dear-erica-how-do-i-simplify-swift-print/</link>
       <pubDate>Fri, 04 Aug 2017 07:30:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqg8fi3_ubbex_ijkuh/</guid>
-      <description></description>
+      <description>Erica Sadun encountered a problem when trying to call Swift.print on macOS from a subclass of a type which declares it’s own print function. Fortunately this name-overlap issue is fixed in macOS High Sierra, but the solution Erica comes up with is interesting.</description>
     </item>
     
   </channel>

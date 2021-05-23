@@ -8,20 +8,18 @@
     <lastBuildDate>Tue, 15 May 2018 11:01:52 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/cache/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An elegant pattern to craft cache-efficient functions in Swift</title>
-      <link>https://freshswift.net/post/-lcyseo-uztfxmaikrz/</link>
+      <link>https://medium.com/@vin.pradeilles/an-elegant-pattern-to-craft-cache-efficient-functions-in-swift-c1a18f73e28c</link>
       <pubDate>Tue, 15 May 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lcyseo-uztfxmaikrz/</guid>
-      <description></description>
+      <description>In this post, Vincent Pradeilles describes how we can create Swift functions which cache their results, saving us valuable CPU cycles. Vincent looks at both non-recursive and recursive functions.</description>
     </item>
     
     <item>
       <title>The Flat Cache</title>
-      <link>https://freshswift.net/post/-kwirdzzxkcb1lmvlbjs/</link>
+      <link>http://khanlou.com/2017/10/the-flat-cache/</link>
       <pubDate>Wed, 18 Oct 2017 07:44:32 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwirdzzxkcb1lmvlbjs/</guid>
-      <description></description>
+      <description>Soroush Khanlou with an interesting post looking at the idea of a flat cache. As he says, the model layer of a client can be tough to implement correctly, but by using the described flat cache approach, we might be able to avoid some of the usual pain points.</description>
     </item>
     
   </channel>

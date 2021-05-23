@@ -8,101 +8,90 @@
     <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/uikit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UIKit or SwiftUI: what to use in production?</title>
-      <link>https://freshswift.net/post/13-10-20-071905/</link>
+      <link>https://nalexn.github.io/uikit-switfui/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-10-20-071905/</guid>
-      <description></description>
+      <description>How ready is SwiftUI for use in large production apps? In this post, Alexey Naumov considers this question and shows us how to structure a project with a UI layer that can be easily detached and replaced.</description>
     </item>
     
     <item>
       <title>Importing interactive UIKit views into SwiftUI</title>
-      <link>https://freshswift.net/post/12-10-20-073358/</link>
+      <link>https://www.swiftbysundell.com/tips/importing-interactive-uikit-views-into-swiftui/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-10-20-073358/</guid>
-      <description></description>
+      <description>One of SwiftUI&#39;s strengths is that it works with existing Apple UI frameworks such as UIKit. This enables us to reuse our existing UIKit components when introducing SwiftUI into a project. In this post, John Sundell shows us how to bring a UIKit-based view into a SwiftUI view hierarchy.</description>
     </item>
     
     <item>
       <title>The State of SwiftUI</title>
-      <link>https://freshswift.net/post/28-09-20-094555/</link>
+      <link>https://steipete.com/posts/state-of-swiftui/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-09-20-094555/</guid>
-      <description></description>
+      <description>Since SwiftUI&#39;s release in 2019, Apple has continued to evolve the framework, fixing many of the issues that were present in the early versions. In this post, Peter Steinberger takes a look at the current state of SwiftUI. Although Peter doesn&#39;t recommend going all-in on SwiftUI for production apps, he does recognize that it&#39;s the future at Apple, and many of the current concerns will be resolved over the coming years.</description>
     </item>
     
     <item>
       <title>Adding a closure as a target to UIButton and other controls in Swift</title>
-      <link>https://freshswift.net/post/12-08-20-074536/</link>
+      <link>https://www.avanderlee.com/swift/uibutton-uicontrol-closure-target/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-08-20-074536/</guid>
-      <description></description>
+      <description>iOS 14 introduced new APIs that allow us to use the UIAction type when defining actions associated with UIControls. In this short post, Antoine Van Der Lee shows us how we can use these new APIs to define our actions as closures, improving the discoverability of our action definitions.</description>
     </item>
     
     <item>
       <title>UICollectionView Compositional List Layout</title>
-      <link>https://freshswift.net/post/10-07-20-084455/</link>
+      <link>https://www.youtube.com/watch?v=5Q4KgyESHRA</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-07-20-084455/</guid>
-      <description></description>
+      <description>iOS 14 adds a new list layout to UICollectionView, and with Apple recommending we use this for displaying lists of data, it&#39;s likely that UITableView will be deprecated at some point in the future. In this video from Kilo Loco, we learn how to implement the new UICollectionView List Compositional Layout in Swift.</description>
     </item>
     
     <item>
       <title>iOS 14: Notable UIKit Additions</title>
-      <link>https://freshswift.net/post/08-07-20-080619/</link>
+      <link>https://www.swiftjectivec.com/ios-14-notable-uikit-additions/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-07-20-080619/</guid>
-      <description></description>
+      <description>With Apple understandably putting a lot of effort into SwiftUI, it&#39;s great to see that UIKit is not being ignored. iOS 14 includes substantial updates to UIKit, and in this post from Jordan Morgan, we get a rundown of some of the new additions, with Swift code samples for each. I really like the move away from the target-action pattern to UIActions.</description>
     </item>
     
     <item>
       <title>SwiftUI: Double-Edged Sword</title>
-      <link>https://freshswift.net/post/01-07-20-150059/</link>
+      <link>https://mohsen.dev/2020/06/21/swiftui-double-edged-sword.html</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-07-20-150059/</guid>
-      <description></description>
+      <description>I really like this short post from Mohsen Alijanpour. One of the many benefits of migrating to SwiftUI from the world of UIKit, which assumes we will build using the MVC pattern, is that SwiftUI is architecure-less. That is, SwiftUI doesn&#39;t assume what architectural pattern we will use when building. Here, Mohsen highlights this freedom, while also reminding us that such freedom comes at the cost of more responsibility.</description>
     </item>
     
     <item>
       <title>Integrating SwiftUI &amp; UI Kit</title>
-      <link>https://freshswift.net/post/28-06-20-092302/</link>
+      <link>https://www.youtube.com/watch?v=ssz02HMEoR0&amp;t</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-06-20-092302/</guid>
-      <description></description>
+      <description>In this talk from dotSwift 2020, Ishmael Shabazz discusses integrating SwiftUI and UIKit. Ishmael first looks at how we can use UIKit views in a SwiftUI hierarchy, and then switches sides to show us how to add SwiftUI views to a UIKit hierarchy.</description>
     </item>
     
     <item>
       <title>SwiftUI, UIViewRepresentable, and attributed text</title>
-      <link>https://freshswift.net/post/26-06-20-083910/</link>
+      <link>https://blog.hyperdeck.io/posts/2020-6-18-swiftui-uiviewrepresentable-and-attributed-text.html</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-06-20-083910/</guid>
-      <description></description>
+      <description>This is an interesting post from Benedikt Terhechte on the difficulty of handling rich text with SwiftUI 1.0. To support Markdown in his Hyperdeck app, Benedikt needed a SwiftUI type which supported rich text via attributed text. However, as there is no native SwiftUI 1.0 type which supports attributed text, Benedikt needed to look for other solutions.</description>
     </item>
     
     <item>
       <title>Using coordinators to manage SwiftUI view controllers</title>
-      <link>https://freshswift.net/post/06-06-20/</link>
+      <link>https://www.hackingwithswift.com/books/ios-swiftui/using-coordinators-to-manage-swiftui-view-controllers</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-06-20/</guid>
-      <description></description>
+      <description>This is an excellent post from Paul Hudson on SwiftUI coordinators. Paul takes us step by step through a complete example of using a coordinator to act as a delegate for a UIKit view controller.</description>
     </item>
     
     <item>
       <title>Swift tip: marking unused required initializers as unavailable</title>
-      <link>https://freshswift.net/post/29-05-20/</link>
+      <link>https://www.jessesquires.com/blog/2020/05/20/marking-unused-required-initializers-as-unavailable/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-05-20/</guid>
-      <description></description>
+      <description>Jesse Squires shares a Swift tip to help us avoid accidentally calling an irrelevant type initializer.</description>
     </item>
     
   </channel>

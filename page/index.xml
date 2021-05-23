@@ -7,15 +7,10 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://freshswift.net/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fresh Swift</title>
-      <link>https://freshswift.net/page/about/</link>
+      <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/page/about/</guid>
-      <description>&lt;p&gt;Stay up to date with the latest Swift blog posts, articles, evolution proposals etc.&lt;/p&gt;
-&lt;p&gt;Want to get involved and suggest a post? Awesome!! Simply tweet &lt;a href=&#34;https://twitter.com/superpeteblaze&#34;&gt;@superpeteblaze&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Fresh Swift is curated by Pete Smith, &lt;a href=&#34;https://twitter.com/superpeteblaze&#34;&gt;@superpeteblaze&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Swift is a trademark of Apple Inc.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Curated Swift Links</description>
     </item>
     
   </channel>

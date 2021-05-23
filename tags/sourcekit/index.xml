@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 29 Aug 2017 07:36:28 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/sourcekit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Local Refactoring</title>
-      <link>https://freshswift.net/post/-ksgushiun3q2esr6lds/</link>
+      <link>https://swift.org/blog/swift-local-refactoring/</link>
       <pubDate>Tue, 29 Aug 2017 07:36:28 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ksgushiun3q2esr6lds/</guid>
-      <description></description>
+      <description>Great post on the official Swift blog by Xi Ge in which he looks at the new Swift refactoring engine available in Xcode 9. This new engine can perform both local and global transformations of our code, and the logic behind local refactoring actions is implemented entirely  in the Swift compiler and SourceKit, and is open-source. This is great as it means we can contribute refactoring actions. Xi examines the kinds of local refactoring actions available and shows us how we can get started adding our own.</description>
     </item>
     
   </channel>

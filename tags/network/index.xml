@@ -8,92 +8,82 @@
     <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTTP in Swift, Part 8: Request Options</title>
-      <link>https://freshswift.net/post/21-01-21-115741/</link>
+      <link>https://davedelong.com/blog/2020/07/09/http-in-swift-part-8-request-options/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-01-21-115741/</guid>
-      <description></description>
+      <description>In part 8 of his series on building a Swift HTTP framework, Dave Delong demonstrates how we can customize individual request behavior. Dave does this by declaring type-safe request options that dynamically alter requests when applied by the request loader.</description>
     </item>
     
     <item>
       <title>HTTP in Swift, Part 7: Dynamically Modifying Requests</title>
-      <link>https://freshswift.net/post/17-12-20-101051/</link>
+      <link>https://davedelong.com/blog/2020/07/05/http-in-swift-part-7-dynamically-modifying-requests/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-12-20-101051/</guid>
-      <description></description>
+      <description>Part 7 of Dave Delong&#39;s series on building a Swift HTTP framework looks at dynamically modifying requests. Dave demonstrates how modifying requests as they pass through the framework chain is a powerful tool that can be applied in several situations.</description>
     </item>
     
     <item>
       <title>HTTP in Swift, Part 6: Chaining Loaders</title>
-      <link>https://freshswift.net/post/10-12-20-121441/</link>
+      <link>https://davedelong.com/blog/2020/07/04/http-in-swift-part-6-chaining-loaders/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-12-20-121441/</guid>
-      <description></description>
+      <description>In part 6 of his series on building a Swift HTTP framework, Dave Delong looks at adding the ability to chain HTTP loading requests. To achieve this, Dave adapts his HTTPLoading protocol, formalizing his concept of a next loader.</description>
     </item>
     
     <item>
       <title>HTTP in Swift, Part 5: Testing and Mocking</title>
-      <link>https://freshswift.net/post/03-12-20-132346/</link>
+      <link>https://davedelong.com/blog/2020/07/03/http-in-swift-part-5-testing-and-mocking/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-12-20-132346/</guid>
-      <description></description>
+      <description>Dave Delong&#39;s blog series on building a Swift HTTP framework is full of useful tips, and this particular entry is no different. In this part, Dave looks at testing and mocking and shows us how using an interface rather than a concretion enhances the utility and testability of his code.</description>
     </item>
     
     <item>
       <title>HTTP in Swift, Part 4: Loading Requests</title>
-      <link>https://freshswift.net/post/24-11-20-102948/</link>
+      <link>https://davedelong.com/blog/2020/07/02/http-in-swift-part-4-loading-requests/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-11-20-102948/</guid>
-      <description></description>
+      <description>Part 4 of Dave Delong&#39;s series on building a Swift HTTP framework looks at how to send requests and receive responses. It&#39;s another excellent entry in the series, and Dave succeeds in demonstrating how simplicity is the ultimate sophistication.</description>
     </item>
     
     <item>
       <title>HTTP in Swift, Part 3: Request Bodies</title>
-      <link>https://freshswift.net/post/11-11-20-083652/</link>
+      <link>https://davedelong.com/blog/2020/06/30/http-in-swift-part-3-request-bodies/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-11-20-083652/</guid>
-      <description></description>
+      <description>In part 3 in his series on building a Swift HTTP framework, Dave Delong takes a look at the body property of HTTP requests. Dave shows us how to implement a generalized body type in Swift, providing lots of code samples.</description>
     </item>
     
     <item>
       <title>HTTP in Swift, Part 2: Basic Structures</title>
-      <link>https://freshswift.net/post/28-10-20-082500/</link>
+      <link>https://davedelong.com/blog/2020/06/28/http-in-swift-part-2-basic-structures/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-10-20-082500/</guid>
-      <description></description>
+      <description>Dave Delong continues his series of posts on HTTP in Swift. In this second part, Dave shows us how to transform the HTTP request and response structures from part one into the types we need to model them in Swift.</description>
     </item>
     
     <item>
       <title>HTTP in Swift, Part 1: An Intro to HTTP </title>
-      <link>https://freshswift.net/post/19-10-20-072933/</link>
+      <link>https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-10-20-072933/</guid>
-      <description></description>
+      <description>In this first post in a series on building a Swift HTTP framework, Dave Delong provides an introduction to HTTP. This looks like it is going to be a great series, and as Dave says, knowing the details of how HTTP works is one of the most valuable things a software engineer can know.</description>
     </item>
     
     <item>
       <title>Working with an Internet Connection on iOS with Swift: Best Practices</title>
-      <link>https://freshswift.net/post/22-08-20-073206/</link>
+      <link>https://www.vadimbulavin.com/network-connectivity-on-ios-with-swift/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-08-20-073206/</guid>
-      <description></description>
+      <description>The Network and System Configuration frameworks contain several APIs for performing network-related tasks such as checking connectivity or constraining network operations. In this post, Vadim Bulavin provides a list of best practices when using these APIs in Swift.</description>
     </item>
     
     <item>
       <title>URLSession Waiting For Connectivity</title>
-      <link>https://freshswift.net/post/-l04x56aj2omi8gme8px/</link>
+      <link>https://useyourloaf.com/blog/urlsession-waiting-for-connectivity/?utm_campaign=Revue%20newsletter&amp;utm_medium=Swift%20Weekly%20Newsletter%20Issue%2098&amp;utm_source=Swift%20Weekly</link>
       <pubDate>Mon, 11 Dec 2017 14:22:11 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l04x56aj2omi8gme8px/</guid>
-      <description></description>
+      <description>Keith Harrison from Use Your Loaf shows us how to use a new URLSession API available in iOS 11. Keith provides the relevant Swift code examples to help us implement this useful new feature.</description>
     </item>
     
   </channel>

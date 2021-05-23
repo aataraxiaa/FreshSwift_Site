@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/runtime/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Private APIs, Objective-C runtime, and Swift</title>
-      <link>https://freshswift.net/post/11-09-20-073952/</link>
+      <link>https://medium.com/@victor.pavlychko/private-apis-objective-c-runtime-and-swift-ceaeefbb6e48</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-09-20-073952/</guid>
-      <description></description>
+      <description>Objective-C and Swift can be used together, and it&#39;s still very common for apps and projects to contain a mix of both. Calling public Objective-C APIs from Swift involves exposing the APIs via a bridging header. However, calling private, or Swift-unavailable, Objective-C APIs from our Swift code is also possible, thanks to Objective-C&#39;s dynamic nature. In this post, Victor Pavlychko focuses on accessing such APIs using the Objective-C runtime.</description>
     </item>
     
   </channel>

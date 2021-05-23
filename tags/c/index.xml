@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 05 Sep 2017 07:43:49 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Friday Q&amp;A - Swift.Unmanaged</title>
-      <link>https://freshswift.net/post/-ktfzdqoo0aa0z5exvwh/</link>
+      <link>https://mikeash.com/pyblog/friday-qa-2017-08-11-swiftunmanaged.html</link>
       <pubDate>Tue, 05 Sep 2017 07:43:49 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ktfzdqoo0aa0z5exvwh/</guid>
-      <description></description>
+      <description>One of Swift’s great strengths is how well it interoperates with C code. In one of his regular Friday Q&amp;A posts, Mike Ash looks at a key component of this interoperability - Swift’s Unmanaged struct. As Mike shows us, the Unmanaged struct is the API we need when we want to convert Swift object references to and from raw C pointers.</description>
     </item>
     
   </channel>

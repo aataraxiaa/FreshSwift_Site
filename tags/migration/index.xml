@@ -8,20 +8,18 @@
     <lastBuildDate>Sun, 19 Aug 2018 11:39:07 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/migration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating an Objective-C class to Swift using subclassing</title>
-      <link>https://freshswift.net/post/-lkgyow5q5ryeje1x0y_/</link>
+      <link>https://oleb.net/2018/objc-swift-subclassing/</link>
       <pubDate>Sun, 19 Aug 2018 11:39:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lkgyow5q5ryeje1x0y_/</guid>
-      <description></description>
+      <description>After first looking at using Swift extensions to migrate an Objective-C type to Swift, Ole Begemann now turns his attention to using subclassing to achieve the same goal.</description>
     </item>
     
     <item>
       <title>Migrating an Objective-C class to Swift: a piecemeal approach</title>
-      <link>https://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</link>
+      <link>https://oleb.net/2018/objc-swift-transition/</link>
       <pubDate>Sat, 11 Aug 2018 09:20:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ljchjpa7_fhh7kaw9xk/</guid>
-      <description></description>
+      <description>Migrating legacy Objective-C code to Swift can be an arduous process, and is often done as part of general code maintenance over a long period of time. In this post, Ole Begemann presents a piecemeal approach to such a migration, and provides a solution for a particular roadblock he encountered.</description>
     </item>
     
   </channel>

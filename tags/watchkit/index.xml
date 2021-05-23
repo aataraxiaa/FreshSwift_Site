@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/watchkit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a silly WatchKit App</title>
-      <link>https://freshswift.net/post/24-06-20-084013/</link>
+      <link>https://ericasadun.com/2020/06/05/building-a-silly-watchkit-app/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-06-20-084013/</guid>
-      <description></description>
+      <description>Erica Sadun with a short post describing her efforts to build a simple WatchKit app using SwiftUI. The amount of code required to implement her app was small, about 40 lines, but Erica encountered some problems when trying to deploy her app to hardware for testing.</description>
     </item>
     
   </channel>

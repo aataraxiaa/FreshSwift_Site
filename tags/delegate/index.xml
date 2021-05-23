@@ -8,20 +8,18 @@
     <lastBuildDate>Sun, 03 Jun 2018 07:35:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/delegate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multicast Delegate and Delegates Composition</title>
-      <link>https://freshswift.net/post/-le3zx9fmgf6wq6efzpi/</link>
+      <link>http://www.vadimbulavin.com/multicast-delegate/</link>
       <pubDate>Sun, 03 Jun 2018 07:35:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-le3zx9fmgf6wq6efzpi/</guid>
-      <description></description>
+      <description>The delegate pattern is familiar to most iOS developers, and is used heavily by Apple to achieve object composition without inheritance. In this post, Vadim Bulavin looks at a variation of this pattern, which he calls multicast delegation. Vadim provides Swift code example throughout to aid understanding.</description>
     </item>
     
     <item>
       <title>Using Channels for Data Flow in Swift 📻</title>
-      <link>https://freshswift.net/post/-l8aeaw3910yntwddeuh/</link>
+      <link>https://medium.com/developermind/using-channels-for-data-flow-in-swift-14bbdf27b471</link>
       <pubDate>Tue, 27 Mar 2018 06:56:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8aeaw3910yntwddeuh/</guid>
-      <description></description>
+      <description>Göksel Köksal looks at how we usually pass information around using the delegation and observer patterns, and then suggests an alternative approach. His approach is a lightweight observer pattern implementation which uses Channels.</description>
     </item>
     
   </channel>

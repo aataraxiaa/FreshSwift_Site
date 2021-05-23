@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 24 Nov 2017 08:36:16 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using child view controllers as plugins in Swift</title>
-      <link>https://freshswift.net/post/-kzh9t2tjrvgrfispps0/</link>
+      <link>https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift</link>
       <pubDate>Fri, 24 Nov 2017 08:36:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kzh9t2tjrvgrfispps0/</guid>
-      <description></description>
+      <description>John Sundell shows us how to make our code more extensible and more maintainable. John uses child view controllers to structure his code as a collection of modular plugins, enabling him to mix and match functionality, while avoiding the problems associated with inheritance.</description>
     </item>
     
   </channel>

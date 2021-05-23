@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 09 Apr 2018 16:15:38 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expanding Swift&#39;s Reach</title>
-      <link>https://freshswift.net/post/-l9fbf9fzuiiarxkxk1d/</link>
+      <link>http://appventure.me/2018/05/03/expanding-swifts-reach/</link>
       <pubDate>Mon, 09 Apr 2018 16:15:38 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9fbf9fzuiiarxkxk1d/</guid>
-      <description></description>
+      <description>This is an interesting article from Benedikt Terhechte, in which he examines the issues preventing Swift from broader adoption in domains such as system programming. Benedikt first looks at language competitors in the systems programming space, before outlining how Swift can start to make inroads.</description>
     </item>
     
   </channel>

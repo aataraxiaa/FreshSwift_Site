@@ -8,47 +8,42 @@
     <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/spm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distributing closed-source frameworks with SPM</title>
-      <link>https://freshswift.net/post/05-03-21-135252/</link>
+      <link>https://danielsaidi.com/blog/2021/02/15/distributing-closed-source-frameworks-with-spm</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-03-21-135252/</guid>
-      <description></description>
+      <description>The Swift Package Manager is a tool for managing the distribution of Swift code. It&#39;s incredibly easy to use and is quickly becoming one of the main methods of distributing Swift libraries. In this post, Daniel Saidi looks at how to distribute closed-source XCFrameworks using the Swift Package Manager.</description>
     </item>
     
     <item>
       <title>Launching Language and Platform Package Compatibility</title>
-      <link>https://freshswift.net/post/26-08-20-082343/</link>
+      <link>https://blog.swiftpackageindex.com</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-08-20-082343/</guid>
-      <description></description>
+      <description>The Swift Package Index, created by Dave Verwer and Sven A. Schmidt, is a search engine for packages that support the Swift Package Manager. It aims to help developers make informed decisions about the dependencies for their projects. In this blog post, the Package Index team announce the launch of language and platform package compatibility, which provides even more relevant information about each package in the index. The Package Index really is a fantastic resource, and it&#39;s great to see continued improvements like this.</description>
     </item>
     
     <item>
       <title>Package Manager Source Archive Dependencies</title>
-      <link>https://freshswift.net/post/13-08-20-073155/</link>
+      <link>https://forums.swift.org/t/package-manager-source-archive-dependencies/38626</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-08-20-073155/</guid>
-      <description></description>
+      <description>In this Swift evolution pitch, Mattt proposes extending the Swift Package Manager to add support for non-binary source dependencies. As Mattt outlines, this proposal is part of the necessary groundwork required to achieve the overall goal of creating a Swift package registry service.</description>
     </item>
     
     <item>
       <title>Importing Web-based SwiftPM packages to your Xcode Playground</title>
-      <link>https://freshswift.net/post/13-07-20-124410/</link>
+      <link>https://ericasadun.com/2020/07/03/importing-web-based-swiftpm-packages-to-your-xcode-playground/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-07-20-124410/</guid>
-      <description></description>
+      <description>I really enjoy the variety of Swift-related topics that Erica Sadun writes about. In this short post, Erica shows us how she overcame a limitation in Xcode playgrounds which currently only allows us to import Swift packages that are either already downloaded or developed locally.</description>
     </item>
     
     <item>
       <title>Building a command line tool using the Swift Package Manager </title>
-      <link>https://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</link>
+      <link>https://medium.com/@johnsundell/building-a-command-line-tool-using-the-swift-package-manager-3dd96ce360b1</link>
       <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</guid>
-      <description></description>
+      <description>John Sundell with a tutorial on how to create a command line tool using the Swift Package Manager. He uses his own open-source tool Marathon as an example. Everything you need to create your own command line tool is explained.</description>
     </item>
     
   </channel>

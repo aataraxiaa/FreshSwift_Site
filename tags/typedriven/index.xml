@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 31 May 2017 07:40:32 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/typedriven/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Type-Driven Development with Swift </title>
-      <link>https://freshswift.net/post/-klsrinxvlmcoxhnn27n/</link>
+      <link>http://matt.diephouse.com/2017/05/type-driven-development-with-swift/</link>
       <pubDate>Wed, 31 May 2017 07:40:32 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klsrinxvlmcoxhnn27n/</guid>
-      <description></description>
+      <description>Type-driven development as described here means we focus on the types of our functions before fully implementing them. This allows us to build a proven foundation for our code. Then, once we have types that we compiling, we can finish implementing them. In this short post, Matt Diephouse shows us how he uses this approach with Swift. He first figures out his types, before later returning to fill in the implementation.</description>
     </item>
     
   </channel>

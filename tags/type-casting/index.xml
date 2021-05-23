@@ -8,20 +8,18 @@
     <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/type-casting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Be careful with Obj-C bridging in Swift</title>
-      <link>https://freshswift.net/post/26-03-21-130055/</link>
+      <link>https://swiftrocks.com/be-careful-with-objc-bridging-in-swift</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-03-21-130055/</guid>
-      <description></description>
+      <description>Type casting in Swift allows us to treat an instance as a different instance of a superclass or subclass from its hierarchy. It&#39;s accomplished using the as operator. However, did you know that the as operator is also the Objective-C bridging operator? In this post, Bruno Rocha explains why we need to pay extra attention when casting to make sure we are not also bridging from Swift to Objective-C types.</description>
     </item>
     
     <item>
       <title>as, as?, and as!</title>
-      <link>https://freshswift.net/post/13-07-20-082255/</link>
+      <link>https://oleb.net/2020/as/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-07-20-082255/</guid>
-      <description></description>
+      <description>This is a really interesting post from Ole Begemann. Swift&#39;s type casting operators, is and as, are powerful but complex operators, with a whole list of functions. Here, Ole presents an unexpected fatal error encountered when using one of these operators, and uses it to explain the difference between downcasting at runtime, and type coercion at compile time.</description>
     </item>
     
   </channel>

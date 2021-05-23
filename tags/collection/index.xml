@@ -5,95 +5,93 @@
     <link>https://freshswift.net/tags/collection/</link>
     <description>Recent content in collection on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/collection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How OrderedSet works</title>
+      <link>https://oleb.net/2021/ordered-set/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <description>The recently released Swift Collections package provides additional data structures such as Deque and OrderedSet. In this short post, Ole Begemann explains how OrderedSet works and points out an importing difference between hash tables and dictionaries.</description>
+    </item>
+    
     <item>
       <title>Introducing Swift Collections</title>
-      <link>https://freshswift.net/post/14-05-21-133658/</link>
+      <link>https://swift.org/blog/swift-collections/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-05-21-133658/</guid>
-      <description></description>
+      <description>Like the Swift Algorithms package before it, the recently released Swift Collections package is intended to incubate new functionality for the Swift Standard Library. In this post, Karoy Lorentey from the Swift Standard Library team gives us a brief tour of what the package provides.</description>
     </item>
     
     <item>
       <title>Announcing Swift Algorithms</title>
-      <link>https://freshswift.net/post/15-10-20-072607/</link>
+      <link>https://swift.org/blog/swift-algorithms/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-10-20-072607/</guid>
-      <description></description>
+      <description>Swift Algorithms is a new open-source Swift package of sequence and collection algorithms. In this post, Nate Cook from the Swift standard library team at Apple gives a brief tour of this package and describes its relation to the Swift standard library.</description>
     </item>
     
     <item>
       <title>Standard library behavior change for LazyMapCollection prefix to act as a Sequence</title>
-      <link>https://freshswift.net/post/16-09-20-073734/</link>
+      <link>https://forums.swift.org/t/standard-library-behavior-change-for-lazymapcollection-prefix-to-act-as-a-sequence/39954</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-09-20-073734/</guid>
-      <description></description>
+      <description>The Swift standard library provides lazy variations of its Sequence and Collection types, on which operations such as map and filter are implemented lazily. This means that the actual computations will only occur when the results are needed. In this Swift evolution pitch, Greg Titus proposes an addition to the standard library that improves the behavior of the LazyMapCollection type.</description>
     </item>
     
     <item>
       <title>Swiftʼs Collection Types</title>
-      <link>https://freshswift.net/post/05-09-20-085735/</link>
+      <link>https://harshil.net/blog/swift-sequence-collection-array</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-09-20-085735/</guid>
-      <description></description>
+      <description>The Swift standard library provides a whole suite of Sequence and Collection protocols, together with a large number of concrete types conforming to these protocols such as Array, Set, Dictionary, etc. In this detailed post, Harshil Shah covers all of the public types which make up Swift&#39;s Collection protocol hierarchy, examining Sequence, Collection, Array, and everything in between. An excellent post, and one to bookmark for future reference.</description>
     </item>
     
     <item>
       <title>Bloom Filters and Swift 4.2</title>
-      <link>https://freshswift.net/post/-lo2qek9de5vvvoacpqn/</link>
+      <link>http://khanlou.com/2018/09/bloom-filters/</link>
       <pubDate>Fri, 05 Oct 2018 10:49:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lo2qek9de5vvvoacpqn/</guid>
-      <description></description>
+      <description>This is a really interesting post from Soroush Khanlou. Soroush explains how a data structure called a Bloom filter works, and describes how we can implement such a data structure using Swift 4.2 features.</description>
     </item>
     
     <item>
       <title>It’s wrappers all the way down</title>
-      <link>https://freshswift.net/post/-lneij-ehcoysznog_pm/</link>
+      <link>https://oleb.net/2018/lastindex-reversed/</link>
       <pubDate>Sun, 30 Sep 2018 11:46:37 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lneij-ehcoysznog_pm/</guid>
-      <description></description>
+      <description>Ole Begemann uses the example of splitting a string to teach us about the design of collection types and protocol hierarchy in the Swift standard library.</description>
     </item>
     
     <item>
       <title>The power of sets in Swift</title>
-      <link>https://freshswift.net/post/-l86ue2zahy_13qgtztl/</link>
+      <link>https://www.swiftbysundell.com/posts/the-power-of-sets-in-swift?utm_campaign=iOS%2BDev%2BWeekly&amp;utm_medium=email&amp;utm_source=iOS%2BDev%2BWeekly%2BIssue%2B342</link>
       <pubDate>Wed, 21 Mar 2018 07:36:33 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l86ue2zahy_13qgtztl/</guid>
-      <description></description>
+      <description>Swift provides three primary collection types - Array, Set, and Dictionary. When choosing one to work with, we often default to using Array. In this post, John Sundell shows us why we should consider using Set, providing examples of it’s advantages over the other types.</description>
     </item>
     
     <item>
       <title>Transforming collections in Swift</title>
-      <link>https://freshswift.net/post/-l5dlfobxoizadjjti8x/</link>
+      <link>https://www.swiftbysundell.com/posts/transforming-collections-in-swift</link>
       <pubDate>Tue, 13 Feb 2018 08:47:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l5dlfobxoizadjjti8x/</guid>
-      <description></description>
+      <description>In this entry of his regular Swift blog series, John Sundell looks at how we can transform collections using standard library APIs. No doubt most of us are familiar with map, flatMap etc., but it’s good to refresh our knowledge. Also, I tend to forget about the zip function, so I was happy to be reminded of it’s usefulness.</description>
     </item>
     
     <item>
       <title>Lazy Collections in Swift</title>
-      <link>https://freshswift.net/post/-kztll2trnohzpqfwwp4/</link>
+      <link>https://theswiftpost.co/lightning-read-1-lazy-collections-swift/</link>
       <pubDate>Sun, 26 Nov 2017 17:23:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kztll2trnohzpqfwwp4/</guid>
-      <description></description>
+      <description>Goksel Koksal with a lightning read in which he demonstrates how we can take advantage of Swift lazy collections. Goksel shows us how to reduce the number of computations in a chain of calls using the lazy variation of Array.</description>
     </item>
     
     <item>
       <title>Creating custom collections in Swift</title>
-      <link>https://freshswift.net/post/-kvfs7bhkyshpl1axfuf/</link>
+      <link>https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift</link>
       <pubDate>Thu, 05 Oct 2017 07:33:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvfs7bhkyshpl1axfuf/</guid>
-      <description></description>
+      <description>Swift collection data structures such as Array and Dictionary are extremely useful, and they most likely provide all the functionality we need in 99% of cases. However, when they don’t exactly meet our requirements, we can roll our own custom collections. In this post, John Sundell shows us how we can do this by walking through the implementation of a custom dictionary data structure.</description>
     </item>
     
   </channel>

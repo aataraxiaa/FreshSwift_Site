@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 15 May 2017 17:36:35 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/value-types/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Simple Undo/Redo Implementation in Swift</title>
-      <link>https://freshswift.net/post/-kkcaidmjzf5yiackwuj/</link>
+      <link>http://blog.benjamin-encz.de/post/simple-undo-redo-swift</link>
       <pubDate>Mon, 15 May 2017 17:36:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kkcaidmjzf5yiackwuj/</guid>
-      <description></description>
+      <description>Benjamin Encz demonstrates how to implement an Undo/Redo feature using Swift value types and pattern matching.</description>
     </item>
     
   </channel>

@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 27 Apr 2017 07:56:41 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/cheat-sheet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift String Cheat Sheet</title>
-      <link>https://freshswift.net/post/-kj8pxg0mf2yyllch9qe/</link>
+      <link>https://useyourloaf.com/blog/swift-string-cheat-sheet</link>
       <pubDate>Thu, 27 Apr 2017 07:56:41 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8pxg0mf2yyllch9qe/</guid>
-      <description></description>
+      <description>Useful String cheat sheet from Use You Loaf. The ever-evolving Swift String API if fully documented here with examples.</description>
     </item>
     
   </channel>

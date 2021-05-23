@@ -8,11 +8,10 @@
     <lastBuildDate>Sun, 14 May 2017 10:50:33 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Table Views in iOS with Swift - A comprehensive guide</title>
-      <link>https://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</link>
+      <link>http://matteomanferdini.com/the-correct-way-to-display-lists-in-ios-and-what-many-developers-do-wrong/</link>
       <pubDate>Sun, 14 May 2017 10:50:33 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kk5_bhwrtdxjk7ou-os/</guid>
-      <description></description>
+      <description>A comprehensive guide to iOS table views from Matteo Manferdini. Everything you need to correctly utilize this common iOS component is covered in detail.</description>
     </item>
     
   </channel>

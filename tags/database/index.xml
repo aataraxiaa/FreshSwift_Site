@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting default values for NSUserDefaults</title>
-      <link>https://freshswift.net/post/08-10-20-064207/</link>
+      <link>https://sarunw.com/posts/setting-default-value-for-nsuserdefaults/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-10-20-064207/</guid>
-      <description></description>
+      <description>Apple&#39;s UserDefaults type provides an interface to the default database associated with an application. It&#39;s most commonly used to store user preferences. In this post, Sarun Wongpatcharapakorn shows us how to set default values for such stored preferences in Swift.</description>
     </item>
     
   </channel>

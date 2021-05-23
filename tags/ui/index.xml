@@ -8,20 +8,18 @@
     <lastBuildDate>Wed, 22 Aug 2018 11:09:49 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Bottom Sheet </title>
-      <link>https://freshswift.net/post/-lkwjswtnwbco98roogr/</link>
+      <link>https://skagedal.github.io/2018/08/03/bottom-sheet.html</link>
       <pubDate>Wed, 22 Aug 2018 11:09:49 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lkwjswtnwbco98roogr/</guid>
-      <description></description>
+      <description>In this post Simon Kågedal Reimer shows us how we can create a bottom sheet UI component using Swift, similar to the component used in the Apple Maps app.</description>
     </item>
     
     <item>
       <title>Custom Label Effects in Swift 4</title>
-      <link>https://freshswift.net/post/-l94oxermoiwndh4xvcy/</link>
+      <link>https://medium.com/@nimjea/custom-label-effects-in-swift-4-69ec12ba2178</link>
       <pubDate>Mon, 02 Apr 2018 10:06:04 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l94oxermoiwndh4xvcy/</guid>
-      <description></description>
+      <description>Anand Nimje shows us how to add some cool effects to our UILabel text using NSAttributedSting and Swift protocol extensions.</description>
     </item>
     
   </channel>

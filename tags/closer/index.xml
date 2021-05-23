@@ -8,11 +8,10 @@
     <lastBuildDate>Sat, 07 Apr 2018 15:35:59 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/closer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Tip: Capture Lists</title>
-      <link>https://freshswift.net/post/-l9vjzieakwj7bfc_vtw/</link>
+      <link>https://www.objc.io/blog/2018/04/03/caputure-lists/</link>
       <pubDate>Sat, 07 Apr 2018 15:35:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9vjzieakwj7bfc_vtw/</guid>
-      <description></description>
+      <description>Weakly capturing self in Swift closures is a common approach to avoiding reference cycles. In this post from the objc.io blog, we learn of an alternative approach to referencing objects on self in closures, while also avoiding reference cycles.</description>
     </item>
     
   </channel>

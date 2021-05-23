@@ -8,83 +8,74 @@
     <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meridian</title>
-      <link>https://freshswift.net/post/12-02-21-122316/</link>
+      <link>https://khanlou.com/2021/01/meridian/</link>
       <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-02-21-122316/</guid>
-      <description></description>
+      <description>Meridian is a Swift web server created by Soroush Khanlou that lets you declaratively express endpoints. In this post, Soroush explains why he created Meridian and describes its benefits. Note that Meridian is in active development and is currently available as a Swift package.</description>
     </item>
     
     <item>
       <title>Introducing Swift Service Discovery</title>
-      <link>https://freshswift.net/post/26-10-20-084153/</link>
+      <link>https://swift.org/blog/swift-service-discovery/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-10-20-084153/</guid>
-      <description></description>
+      <description>The Swift team at Apple announced several open-source projects recently, such as Swift Atomics and Swift Algorithms, and in this blog post, Yim Lee announces yet another one. Swift Service Discovery is an open-source Swift project for the Swift Server ecosystem. It&#39;s designed to establish a standard API that can be implemented by various service discovery backends.</description>
     </item>
     
     <item>
       <title>Introducing Swift Service Lifecycle</title>
-      <link>https://freshswift.net/post/19-07-20-074219/</link>
+      <link>https://swift.org/blog/swift-service-lifecycle/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-07-20-074219/</guid>
-      <description></description>
+      <description>Tom Doron from the Swift Core Team announced a new open-source project for the Swift server ecosystem. The Service Lifecycle package is designed to help server applications, i.e services, manage their startup and shutdown sequences. It&#39;s always great to see progress being made regarding Swift on the server, and in this post, Tom describes the new package and provides an example of its usage.</description>
     </item>
     
     <item>
       <title>The Future of Swift on the Server</title>
-      <link>https://freshswift.net/post/25-05-20/</link>
+      <link>https://www.timc.dev/posts/future-of-server-side-swift/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-05-20/</guid>
-      <description></description>
+      <description>This is a really interesting piece from Tim Condon on the future of server-side Swift. Tim first writes about IBM&#39;s decision to step away from Swift, something which was obviously disappointing for the community. However, Tim then makes a solid argument for why he thinks the future is looking bright for Swift on the server, considering the planned roadmap for Swift 6 and numerous server-related non-Apple projects. I really like the reminder of how young Swift is, particularly when compared to languages such as Go and Rust.</description>
     </item>
     
     <item>
       <title>Introduction to Server Side Swift with Vapor</title>
-      <link>https://freshswift.net/post/-kznd5gtvsemh34f-9bd/</link>
+      <link>https://www.vaporforums.io/thread/30?utm_source=newsletter_mailer&amp;utm_medium=email&amp;utm_campaign=weekly</link>
       <pubDate>Mon, 20 Nov 2017 08:56:13 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kznd5gtvsemh34f-9bd/</guid>
-      <description></description>
+      <description>This is a simple introduction to Vapor, the server side Swift framework. If you have not yet had the chance to learn about Vapor, this is where you should start. It shows you how to build a simple Swift API in about 5 minutes.</description>
     </item>
     
     <item>
       <title>Errors On The Server</title>
-      <link>https://freshswift.net/post/-koctt_bhyhrjcolrnjt/</link>
+      <link>http://khanlou.com/2017/07/errors-on-the-server/</link>
       <pubDate>Sun, 09 Jul 2017 17:51:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koctt_bhyhrjcolrnjt/</guid>
-      <description></description>
+      <description>Soroush Khanlou looks at how to best handle errors when writing server-side Swift, in this case Vapor. I really like his point about making the correct way to write code the same as the nice way the write code, therefore removing the need for trade-offs between the two.</description>
     </item>
     
     <item>
       <title>Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js</title>
-      <link>https://freshswift.net/post/-kk5da6kidgbvd00ae5_/</link>
+      <link>https://medium.com/@rymcol/benchmarks-for-the-top-server-side-swift-frameworks-vs-node-js-24460cfe0beb</link>
       <pubDate>Sun, 14 May 2017 11:09:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kk5da6kidgbvd00ae5_/</guid>
-      <description></description>
+      <description>Really interesting post from Ryan Collins in which he compares the top Swift server-side frameworks and Node.js. Great to see Swift holding it&#39;s own against the established Node.js.</description>
     </item>
     
     <item>
       <title>Experimental Swift</title>
-      <link>https://freshswift.net/post/-kjxi6yg_jtzldl2ckl7/</link>
+      <link>https://medium.com/@piotr.gorzelany/experimental-swift-8c9131b62a9d</link>
       <pubDate>Sun, 07 May 2017 09:45:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjxi6yg_jtzldl2ckl7/</guid>
-      <description></description>
+      <description>This is a really cool post from Piotr Gorzelany in which he describes how he was able to use Swift to control a Raspberry Pi via an iOS app. iOS + Vapor + Raspberry Pi = Madness.</description>
     </item>
     
     <item>
       <title>Katan - Swift playground with a micro web server</title>
-      <link>https://freshswift.net/post/-kj8pnvyz5ujprphkuu1/</link>
+      <link>https://github.com/marciok/katan</link>
       <pubDate>Wed, 26 Apr 2017 12:21:39 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8pnvyz5ujprphkuu1/</guid>
-      <description></description>
+      <description>Cool playground from Marcio Klepacz which aims to  demonstrate the basics steps required to create a web server in Swift. It&#39;s basically a micro web server which replies &#34;Hello world!&#34; to every request.</description>
     </item>
     
   </channel>

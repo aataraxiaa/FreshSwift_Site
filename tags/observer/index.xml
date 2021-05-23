@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 27 Mar 2018 06:56:30 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/observer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Channels for Data Flow in Swift 📻</title>
-      <link>https://freshswift.net/post/-l8aeaw3910yntwddeuh/</link>
+      <link>https://medium.com/developermind/using-channels-for-data-flow-in-swift-14bbdf27b471</link>
       <pubDate>Tue, 27 Mar 2018 06:56:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8aeaw3910yntwddeuh/</guid>
-      <description></description>
+      <description>Göksel Köksal looks at how we usually pass information around using the delegation and observer patterns, and then suggests an alternative approach. His approach is a lightweight observer pattern implementation which uses Channels.</description>
     </item>
     
   </channel>

@@ -8,29 +8,26 @@
     <lastBuildDate>Sat, 09 Jun 2018 00:53:37 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/injection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Injection In Swift</title>
-      <link>https://freshswift.net/post/-lex1bhpundzy8hyqmt_/</link>
+      <link>https://medium.com/itch-design-no/code-injection-in-swift-c49be095414c</link>
       <pubDate>Sat, 09 Jun 2018 00:53:37 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lex1bhpundzy8hyqmt_/</guid>
-      <description></description>
+      <description>Christoffer Winterkvist describes how we can use the Swift Vaccine library together with the  Injectionlll macOS app to achieve code injection, or hot reloading, in our Xcode projects. This is pretty cool, and I can definitely see this being used in my day to day development.</description>
     </item>
     
     <item>
       <title>The Cake Pattern with Swinject</title>
-      <link>https://freshswift.net/post/-lardffwi2rv3sc_znqw/</link>
+      <link>https://medium.com/@pjwelcome/the-cake-pattern-with-swinject-4357c4d2bd0b</link>
       <pubDate>Tue, 24 Apr 2018 12:35:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lardffwi2rv3sc_znqw/</guid>
-      <description></description>
+      <description>Peter-John Welcome demonstrates how we can use the Swinject framework together with the cake pattern to implement dependency injection. The major benefit is decoupling of components, which in turn means easier unit testing.</description>
     </item>
     
     <item>
       <title>Different flavors of dependency injection in Swift</title>
-      <link>https://freshswift.net/post/-l0hyw1gifpzzgckqklr/</link>
+      <link>https://www.swiftbysundell.com/posts/different-flavors-of-dependency-injection-in-swift</link>
       <pubDate>Tue, 19 Dec 2017 08:55:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l0hyw1gifpzzgckqklr/</guid>
-      <description></description>
+      <description>John Sundell shows us three flavors of dependency injection. No matter your favorite flavor of DI, it’s always good to be reminded of the alternatives. Each is suited to a slightly different scenario.</description>
     </item>
     
   </channel>

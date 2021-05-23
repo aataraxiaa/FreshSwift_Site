@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 17 Aug 2018 14:21:35 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/if/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Missing The Else</title>
-      <link>https://freshswift.net/post/-lk7fp0pezijc-gq3qsb/</link>
+      <link>http://khanlou.com/2018/08/missing-the-else/</link>
       <pubDate>Fri, 17 Aug 2018 14:21:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lk7fp0pezijc-gq3qsb/</guid>
-      <description></description>
+      <description>In this post Soroush Knanlou explains why a Swift if statement without a matching else statement indicates a possible bug. A good tip to help us identify potential code smells.</description>
     </item>
     
   </channel>

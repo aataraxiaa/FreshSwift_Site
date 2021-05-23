@@ -8,11 +8,10 @@
     <lastBuildDate>Sun, 07 May 2017 09:45:15 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experimental Swift</title>
-      <link>https://freshswift.net/post/-kjxi6yg_jtzldl2ckl7/</link>
+      <link>https://medium.com/@piotr.gorzelany/experimental-swift-8c9131b62a9d</link>
       <pubDate>Sun, 07 May 2017 09:45:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjxi6yg_jtzldl2ckl7/</guid>
-      <description></description>
+      <description>This is a really cool post from Piotr Gorzelany in which he describes how he was able to use Swift to control a Raspberry Pi via an iOS app. iOS + Vapor + Raspberry Pi = Madness.</description>
     </item>
     
   </channel>

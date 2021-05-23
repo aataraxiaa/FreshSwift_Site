@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 23 Mar 2018 10:20:34 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/view/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preventing views from being model aware in Swift</title>
-      <link>https://freshswift.net/post/-l8hmx6lxvt0iuhj_z12/</link>
+      <link>https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift</link>
       <pubDate>Fri, 23 Mar 2018 10:20:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8hmx6lxvt0iuhj_z12/</guid>
-      <description></description>
+      <description>In this edition of Swift by Sundell, John presents a few different approaches which can be used to decouple our UI code from our model code.</description>
     </item>
     
   </channel>

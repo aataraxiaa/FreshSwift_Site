@@ -8,20 +8,18 @@
     <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/micro-interaction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Micro-interactions: Async Button</title>
-      <link>https://freshswift.net/post/14-09-20-080212/</link>
+      <link>https://trailingclosure.com/micro-interactions-async-button/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-09-20-080212/</guid>
-      <description></description>
+      <description>This tutorial from Jean-Marc Boullianne shows us how to create an asynchronous button micro-interaction for an app. This is part of a series of tutorials Jean-Marc has written on micro-interactions, and this particular post is a great example of a simple micro-interaction that adds polish to an app.</description>
     </item>
     
     <item>
       <title>Micro-interactions: Alignment Control</title>
-      <link>https://freshswift.net/post/07-09-20-080234/</link>
+      <link>https://trailingclosure.com/micro-interactions-alignment-control/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-09-20-080234/</guid>
-      <description></description>
+      <description>Micro-interactions are events that communicate status and provide feedback to a user when they interact with a UI element in an app. In this post, Jean-Marc Boullianne provides a tutorial on creating a micro-interaction for an alignment control, which he thinks will help to make an app feel polished and simple to use.</description>
     </item>
     
   </channel>

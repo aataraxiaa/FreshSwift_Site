@@ -8,29 +8,26 @@
     <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Announcing Swift Algorithms</title>
-      <link>https://freshswift.net/post/15-10-20-072607/</link>
+      <link>https://swift.org/blog/swift-algorithms/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-10-20-072607/</guid>
-      <description></description>
+      <description>Swift Algorithms is a new open-source Swift package of sequence and collection algorithms. In this post, Nate Cook from the Swift standard library team at Apple gives a brief tour of this package and describes its relation to the Swift standard library.</description>
     </item>
     
     <item>
       <title>Swift techniques to filter duplicates out of large JSON arrays</title>
-      <link>https://freshswift.net/post/-lfaramn7af4iijlxpik/</link>
+      <link>http://aplus.rs/2018/swift-techniques-remove-duplicates-array/</link>
       <pubDate>Fri, 22 Jun 2018 09:41:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfaramn7af4iijlxpik/</guid>
-      <description></description>
+      <description>This post from Aleksandar Vacić demonstrates how the standard library reduce function can be used to gain vast performance improvements when writing code which filters values.</description>
     </item>
     
     <item>
       <title>Dijkstra’s Algorithm In Swift</title>
-      <link>https://freshswift.net/post/-ktapozsfeyxjod7foco/</link>
+      <link>https://medium.com/swiftly-swift/dijkstras-algorithm-in-swift-15dce3ed0e22</link>
       <pubDate>Mon, 04 Sep 2017 07:42:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ktapozsfeyxjod7foco/</guid>
-      <description></description>
+      <description>Dijkstra’s Algorithm is a well known algorithm used to find the shortest path between nodes in a graph. In this post, Federico Zanetello explains the algorithm and shows us how to implement it in Swift.</description>
     </item>
     
   </channel>

@@ -8,29 +8,26 @@
     <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/hashable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reduce boilerplate code with an automatic synthesis of Equatable and Hashable conformance</title>
-      <link>https://freshswift.net/post/14-10-20-073942/</link>
+      <link>https://sarunw.com/posts/reduce-boilerplate-code-with-automatic-synthesis-of-equatable-and-hashable-conformance/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-10-20-073942/</guid>
-      <description></description>
+      <description>In this post, Sarun Wongpatcharapakorn takes us back to Swift 4.1 to look at the automatic synthesis of the Equatable and Hashable protocols. Even if you are already familiar with this feature, it&#39;s helpful to be reminded of how it can be used.</description>
     </item>
     
     <item>
       <title>Bloom Filters and Swift 4.2</title>
-      <link>https://freshswift.net/post/-lo2qek9de5vvvoacpqn/</link>
+      <link>http://khanlou.com/2018/09/bloom-filters/</link>
       <pubDate>Fri, 05 Oct 2018 10:49:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lo2qek9de5vvvoacpqn/</guid>
-      <description></description>
+      <description>This is a really interesting post from Soroush Khanlou. Soroush explains how a data structure called a Bloom filter works, and describes how we can implement such a data structure using Swift 4.2 features.</description>
     </item>
     
     <item>
       <title>Synthesizing Equatable and Hashable conformance</title>
-      <link>https://freshswift.net/post/-kwvricbmwa2tfhdidlb/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0185-synthesize-equatable-hashable.md</link>
       <pubDate>Sun, 15 Oct 2017 14:32:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwvricbmwa2tfhdidlb/</guid>
-      <description></description>
+      <description>Following in the footsteps of the well received Swift 4 Codable protocols, this Swift evolution proposal outlines the motivation for, and proposed implementation of, synthesized conformance to the Equatable and Hashable protocols. This is a really good proposal which would reduce the need for common boilerplate code. The idea is that if a types members all conform to Equatable or Hashable, then the entire type can simply opt-in to automatic synthesis by declaring itself as conforming.</description>
     </item>
     
   </channel>

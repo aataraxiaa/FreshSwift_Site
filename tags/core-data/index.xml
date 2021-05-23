@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/core-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Core Store</title>
-      <link>https://freshswift.net/post/08-03-21-134256/</link>
+      <link>https://dimsumthinking.com/Blog/2021/03/04-CoreStore.html</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-03-21-134256/</guid>
-      <description></description>
+      <description>Core Data is an object graph and persistence framework provided by Apple. Introduced in iOS 3.0, it&#39;s still relevant but is also generally acknowledged as not being particularly Swift friendly. In this post, the excellent Daniel Steinberg makes an early prediction for a Swift replacement of Core Data which he thinks might be unveiled at this year&#39;s WWDC.</description>
     </item>
     
   </channel>

@@ -8,200 +8,178 @@
     <lastBuildDate>Fri, 17 Nov 2017 08:46:03 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swift-4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift 4 Access Levels</title>
-      <link>https://freshswift.net/post/-kz89-ikg-s4jzxylpz9/</link>
+      <link>https://useyourloaf.com/blog/swift-4-access-levels/</link>
       <pubDate>Fri, 17 Nov 2017 08:46:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kz89-ikg-s4jzxylpz9/</guid>
-      <description></description>
+      <description>Access levels changed in Swift 4. This post from Use Your Loaf gives us a recap of the five Swift access levels, shows us what changed in Swift 4, and demonstrates how we can update our code to accommodate for the changes.</description>
     </item>
     
     <item>
       <title>Using generic type constraints in Swift 4</title>
-      <link>https://freshswift.net/post/-kwz9lyhd17v3ijtwdzx/</link>
+      <link>https://www.swiftbysundell.com/posts/using-generic-type-constraints-in-swift-4</link>
       <pubDate>Mon, 16 Oct 2017 07:50:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwz9lyhd17v3ijtwdzx/</guid>
-      <description></description>
+      <description>John Sundell shows us how to get the most out of generic type constraints. He presents code examples, together with explanations, of some common techniques and patterns that are made possible due to type constraints.</description>
     </item>
     
     <item>
       <title>Updaing Strings For Swift 4</title>
-      <link>https://freshswift.net/post/-kwez2fctskskyfgjac9/</link>
+      <link>https://useyourloaf.com/blog/updating-strings-for-swift-4/</link>
       <pubDate>Thu, 12 Oct 2017 07:50:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwez2fctskskyfgjac9/</guid>
-      <description></description>
+      <description>Useful post from Use Your Loaf which outlines the major changes to the Swift String API introduced with Swift 4. Even if you are already familiar with most of the changes introduced, a refresh is always a good thing.</description>
     </item>
     
     <item>
       <title>Dictionary and Set Improvements in Swift 4.0</title>
-      <link>https://freshswift.net/post/-kw4hfaq6ij-cks0epfs/</link>
+      <link>https://swift.org/blog/dictionary-and-set-improvements/</link>
       <pubDate>Tue, 10 Oct 2017 07:56:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kw4hfaq6ij-cks0epfs/</guid>
-      <description></description>
+      <description>Swift 4 added a lot of really awesome Dictionary and Set APIs. Operations like grouping, filtering, and transforming values are easier than ever, and can be performed in a single step. In this post on the official Swift blog, Nate Cook explores these new APIs. It’s also worth noting that most of the changes mentioned are available in Swift 3.2, so even if you have not yet moved to Swift 4, there is something here for you.</description>
     </item>
     
     <item>
       <title>Codable Enums</title>
-      <link>https://freshswift.net/post/-kvrebxkzsv_ygdb5ygh/</link>
+      <link>https://littlebitesofcocoa.com/318-codable-enums</link>
       <pubDate>Sat, 07 Oct 2017 14:30:21 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvrebxkzsv_ygdb5ygh/</guid>
-      <description></description>
+      <description>Swift 4’s Codable protocols make it very easy to encode and decode conforming types, even working with enums when the enums rawValue also conforms to Codable. However, things get a little bit more complicated when dealing with enums which have associated values. This post from Little Bites of Cocoa shows us how we can handle such a situation.</description>
     </item>
     
     <item>
       <title>When JSONDecoder meets the real world, things get ugly…</title>
-      <link>https://freshswift.net/post/-kvmbjvfw9ls9fmtvd-q/</link>
+      <link>http://davelyon.net/2017/08/16/jsondecoder-in-the-real-world</link>
       <pubDate>Sun, 01 Oct 2017 09:09:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvmbjvfw9ls9fmtvd-q/</guid>
-      <description></description>
+      <description>Dave Lyon looks at decoding real-world API data using Swift 4’s Codable protocols. He explains why dealing with real-world JSON data might not be as simple as some of the examples we may have seen, and shows us how we can avoid common pitfalls.</description>
     </item>
     
     <item>
       <title>The Best New Features in Swift 4</title>
-      <link>https://freshswift.net/post/-kv1qhu4ponlsxaqx34p/</link>
+      <link>https://plausible.coop/blog/2017/09/13/best-new-features-in-swift-4</link>
       <pubDate>Wed, 27 Sep 2017 08:21:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kv1qhu4ponlsxaqx34p/</guid>
-      <description></description>
+      <description>Swift 4 was officially released last week, and most of us have probably been keeping up to date with changes by following evolution proposals. However, now that it’s officially out in the wild, it’s good to get a recap on the new features. This post from Mike Ash provides just that.</description>
     </item>
     
     <item>
       <title>Using Swift Codable With Property Lists</title>
-      <link>https://freshswift.net/post/-kswqtftfffvsz9eaxo9/</link>
+      <link>https://useyourloaf.com/blog/using-swift-codable-with-property-lists</link>
       <pubDate>Fri, 01 Sep 2017 07:55:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kswqtftfffvsz9eaxo9/</guid>
-      <description></description>
+      <description>Swift 4’s Codable protocols are a fantastic addition to the language, allowing us to easily encode/decode types to/from external formats. In this post from Use Your Loaf, we learn how to use the new Codable protocols to encode/decode data to/from Cocoa property lists.</description>
     </item>
     
     <item>
       <title>Codable Dates</title>
-      <link>https://freshswift.net/post/-ksnjz5khsezl5npqbmj/</link>
+      <link>https://littlebitesofcocoa.com/316-codable-dates</link>
       <pubDate>Fri, 25 Aug 2017 07:36:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ksnjz5khsezl5npqbmj/</guid>
-      <description></description>
+      <description>Jake Marsh learns how to easily encode/decode Dates when using Swift 4’s Codable protocols. As he says, we have all had to handle some crazy date format when working with HTTP APIs, but with Swift 4, this should become less painful. A useful little bite of Cocoa.</description>
     </item>
     
     <item>
       <title>What’s New In UIKit Animations In Swift 4</title>
-      <link>https://freshswift.net/post/-kpxqgymks4parugusoz/</link>
+      <link>https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/</link>
       <pubDate>Wed, 26 Jul 2017 07:42:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpxqgymks4parugusoz/</guid>
-      <description></description>
+      <description>Ignacio Nieto Carvajal shows us what’s new in animation is iOS 11 and Swift 4. He looks specifically at UIKit’s UIViewPropertyAnimator and how we can use new properties added in iOS 11 to improve our UIView-based animations.</description>
     </item>
     
     <item>
       <title>JSON to Swift with Decoder and Decodable</title>
-      <link>https://freshswift.net/post/-kpilabx5o-ow_zn1xmo/</link>
+      <link>https://swiftunboxed.com/stdlib/json-decoder-decodable/</link>
       <pubDate>Sun, 23 Jul 2017 09:26:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpilabx5o-ow_zn1xmo/</guid>
-      <description></description>
+      <description>After looking at encoding Swift to JSON in a previous post, Greg Heo turns his attention to decoding JSON to Swift using Swift 4’s Decodable and Decoder protocols. As with the previous article, Greg steps through a complete example. The simplicity of the example, together with the diagrams, really help to explain how the decoding process works.</description>
     </item>
     
     <item>
       <title>Struct References</title>
-      <link>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</link>
+      <link>http://chris.eidhof.nl/post/references/</link>
       <pubDate>Sat, 22 Jul 2017 10:14:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</guid>
-      <description></description>
+      <description>Great article from Chris Eidhof in which he looks to combine the usage of references types and value types to get the best of both worlds. He uses new Swift 4 features such as keypaths and generic subscripts together with existing Swift features to create types which are mutable and observable, while also having underlying value type data.</description>
     </item>
     
     <item>
       <title>Swift.Codable</title>
-      <link>https://freshswift.net/post/-kpoqu4cqne83gv2pykq/</link>
+      <link>https://www.mikeash.com/pyblog/friday-qa-2017-07-14-swiftcodable.html</link>
       <pubDate>Wed, 19 Jul 2017 07:59:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpoqu4cqne83gv2pykq/</guid>
-      <description></description>
+      <description>Swift 4 includes some really exciting additions, one of these being it’s Codable protocol, which allows us to easily encode/decode our custom types to data types such as JSON. In this edition of his Q&amp;A series of articles, Mike Ash looks at exactly how Swift’s new encoding systems works, and how we can implement the protocols ourselves to support a custom data format.</description>
     </item>
     
     <item>
       <title>JSON with Encoder and Encodable</title>
-      <link>https://freshswift.net/post/-koby6in5cvxmwtdev_s/</link>
+      <link>https://swiftunboxed.com/stdlib/json-encoder-encodable/</link>
       <pubDate>Tue, 04 Jul 2017 07:41:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koby6in5cvxmwtdev_s/</guid>
-      <description></description>
+      <description>Great post from Greg Heo in which he looks at the magic that is JSON encoding in Swift 4. He walks through every step in the process of encoding a single Int value to JSON, and looks at  the implementation. There are some twists, with parts of the implementation probable not being what you expect. An informative and fun read.</description>
     </item>
     
     <item>
       <title>Ultimate Guide to JSON Parsing With Swift 4</title>
-      <link>https://freshswift.net/post/-knxmafzv6mvwflyredg/</link>
+      <link>http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/</link>
       <pubDate>Sat, 01 Jul 2017 10:53:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knxmafzv6mvwflyredg/</guid>
-      <description></description>
+      <description>Ben Scheirman has created this fantastic guide to JSON parsing with Swift 4. Everything from basic encoding and decoding to flattening JSON objects is covered. If you need one guide while you update your code to use the new Encodable protocols, this is the one.</description>
     </item>
     
     <item>
       <title>JSON Parsing in Swift 4</title>
-      <link>https://freshswift.net/post/-knhf6wivy2ya2ndsrra/</link>
+      <link>http://troz.net/2017/06/json-parsing-in-swift-4/</link>
       <pubDate>Wed, 28 Jun 2017 07:48:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knhf6wivy2ya2ndsrra/</guid>
-      <description></description>
+      <description>Parsing JSON with Swift 3 and below is a cumbersome task. It either means a lot of boilerplate code to convert JSON to strictly-typed Swift, or using one of the many third-party libraries to do the job for us. This all changes in Swift 4, with the introduction of the Encodable &amp; Decodable protocols. This great article by TrozWare shows us exactly what we need to know to easily parse JSON using Swift 4.</description>
     </item>
     
     <item>
       <title>The startling uniquing of Swift 4 dictionaries</title>
-      <link>https://freshswift.net/post/-kndozikh_lykb5lqgbt/</link>
+      <link>http://ericasadun.com/2017/06/19/the-startling-uniquing-of-swift-4-dictionaries/</link>
       <pubDate>Tue, 27 Jun 2017 13:53:22 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kndozikh_lykb5lqgbt/</guid>
-      <description></description>
+      <description>Another great post from Erica Sadun. Here Erica shows us how we can use the new uniquing feature which has been added to the Dictionary type in Swift 4. This feature allows us to create a Dictionary of unique keys, while applying a function to each key&#39;s value each time a duplicate key is added. In one example, Erica uses this to find out which word appears the most in a large String.</description>
     </item>
     
     <item>
       <title>The surprising awesomeness of Grouped Dictionaries</title>
-      <link>https://freshswift.net/post/-kmznvjehqax3ynryisv/</link>
+      <link>http://ericasadun.com/2017/06/14/the-surprising-awesomeness-of-grouped-dictionaries/</link>
       <pubDate>Mon, 19 Jun 2017 08:06:42 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmznvjehqax3ynryisv/</guid>
-      <description></description>
+      <description>Swift 4 includes some great new APIs, including some very useful additions to the Dictionary type. In this post, Erica Sadun demonstrates the awesomeness of a new Dictionary type initializer which allows us to convert any sequence to a Dictionary of grouped elements.</description>
     </item>
     
     <item>
       <title>Exploring the new String API in Swift 4</title>
-      <link>https://freshswift.net/post/-kmv3xidmjwpdp1ikxp7/</link>
+      <link>https://www.swiftbysundell.com/posts/exploring-the-new-string-api-in-swift-4</link>
       <pubDate>Sun, 18 Jun 2017 11:59:09 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmv3xidmjwpdp1ikxp7/</guid>
-      <description></description>
+      <description>Swift 4 includes a new more powerful and user-friendly String API. In this post, John Sundell explores this new API, sharing examples of some of the new ways we can use and manipulate Strings.</description>
     </item>
     
     <item>
       <title>What&#39;s new in Swift 4.0</title>
-      <link>https://freshswift.net/post/-kmkvt8kms5itk3lunhu/</link>
+      <link>https://www.hackingwithswift.com/swift4</link>
       <pubDate>Fri, 16 Jun 2017 12:45:09 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmkvt8kms5itk3lunhu/</guid>
-      <description></description>
+      <description>Paul Hudson looks at what&#39;s new in Swift 4, providing descriptions and code examples of it&#39;s latest and greatest features. As usual with Paul&#39;s posts, this is a very readable and concise overview of what we need to know.</description>
     </item>
     
     <item>
       <title>Breaking changes in Swift 4</title>
-      <link>https://freshswift.net/post/-kmegssjco9vanonwxu2/</link>
+      <link>http://blog.xebia.com/breaking-changes-swift-4/</link>
       <pubDate>Thu, 15 Jun 2017 07:40:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmegssjco9vanonwxu2/</guid>
-      <description></description>
+      <description>Even if we have been eagerly following Swift evolution, and trying out Swift 4’s new features, it’s good to be reminded of the changes that will break our existing Swift 3 codebases. Here, Bart den Hollander runs through some Swift 4 breaking changes, and provides code examples of how to fix them.</description>
     </item>
     
     <item>
       <title>Building Swift Projects In Source Compatibility Mode</title>
-      <link>https://freshswift.net/post/-kldpzhntbdqerj1cnbz/</link>
+      <link>http://dduan.net/2017/05/22/build-in-swift-compatibility-mode/</link>
       <pubDate>Sun, 28 May 2017 11:34:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kldpzhntbdqerj1cnbz/</guid>
-      <description></description>
+      <description>Source compatibility mode is a compilation mode available with Swift 4 which when enabled should compile the vast majority of Swift 3 sources. In this post, Daniel Duan shows us how we can try it out using the current Swift 4 snapshot.</description>
     </item>
     
   </channel>

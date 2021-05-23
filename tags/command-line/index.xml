@@ -8,20 +8,18 @@
     <lastBuildDate>Wed, 30 May 2018 04:25:02 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/command-line/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Launch arguments in Swift</title>
-      <link>https://freshswift.net/post/-ldjhgbigenvlhpkexgl/</link>
+      <link>https://www.swiftbysundell.com/posts/launch-arguments-in-swift</link>
       <pubDate>Wed, 30 May 2018 04:25:02 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ldjhgbigenvlhpkexgl/</guid>
-      <description></description>
+      <description>John Sundell looks at launch arguments in the context of iOS apps. While traditionally used as input to command line tools, launch arguments can be incorporated into our iOS development process, helping us to debug and test our app.</description>
     </item>
     
     <item>
       <title>Building a command line tool using the Swift Package Manager </title>
-      <link>https://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</link>
+      <link>https://medium.com/@johnsundell/building-a-command-line-tool-using-the-swift-package-manager-3dd96ce360b1</link>
       <pubDate>Wed, 10 May 2017 07:36:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjlhnkyod7yf7g5mooi/</guid>
-      <description></description>
+      <description>John Sundell with a tutorial on how to create a command line tool using the Swift Package Manager. He uses his own open-source tool Marathon as an example. Everything you need to create your own command line tool is explained.</description>
     </item>
     
   </channel>

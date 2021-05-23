@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Without Screens - Powering Connected Devices</title>
-      <link>https://freshswift.net/post/09-06-20/</link>
+      <link>https://www.youtube.com/watch?v=VILUaec-sCs</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-06-20/</guid>
-      <description></description>
+      <description>After a long run of SwiftUI-related posts 😅, it&#39;s time for something completely different. In this video from the try! Swift NYC 2019 conference, Marc Aupont shows us how Swift can be used to drive applications running on embedded systems such as the Raspberry Pi. Very cool.</description>
     </item>
     
   </channel>

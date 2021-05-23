@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 08 May 2017 07:25:17 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/formatting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Swiftlint to avoid conflict </title>
-      <link>https://freshswift.net/post/-kjawewo6t8tu8co1yq7/</link>
+      <link>http://williamboles.me/swiftlint-eases-conflict/</link>
       <pubDate>Mon, 08 May 2017 07:25:17 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjawewo6t8tu8co1yq7/</guid>
-      <description></description>
+      <description>As we know, there is no such thing as one true way of formatting code. This is especially evident when working on a team and submitting PRs. Luckily, SwiftLint can help us. William Boles describes his experience using it, and how it helped keep his team happy.</description>
     </item>
     
   </channel>

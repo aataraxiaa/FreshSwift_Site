@@ -8,20 +8,18 @@
     <lastBuildDate>Sat, 30 Sep 2017 17:45:03 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/queue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DispatchGroup vs. OperationQueue in Swift</title>
-      <link>https://freshswift.net/post/-kvit2sh5-62ka5yqoio/</link>
+      <link>http://agostini.tech/2017/08/20/dispatchgroup-vs-operationqueue-in-swift</link>
       <pubDate>Sat, 30 Sep 2017 17:45:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvit2sh5-62ka5yqoio/</guid>
-      <description></description>
+      <description>Dejan Agostini covers both DispatchGroups and OperationQueues as he demonstrates how to perform numerous asynchronous tasks and be notified when they all finish.</description>
     </item>
     
     <item>
       <title>Swift Dispatch - 5 Easy Tricks</title>
-      <link>https://freshswift.net/post/-kl2ke0xfq9cnlnvl0rf/</link>
+      <link>http://ericasadun.com/2017/05/23/5-easy-dispatch-tricks/</link>
       <pubDate>Fri, 26 May 2017 07:57:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kl2ke0xfq9cnlnvl0rf/</guid>
-      <description></description>
+      <description>Swift Dispatch enables us to easily execute code concurrently on multicore systems. Using DispatchTime, which represents a point in time relative to the default clock time, we can schedule our concurrent tasks to happen at some point in the future. In this post, Erica Sadun looks at Dispatch and shows us five easy ways we can improve our Dispatch experience.</description>
     </item>
     
   </channel>

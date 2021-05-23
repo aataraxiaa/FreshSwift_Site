@@ -8,20 +8,18 @@
     <lastBuildDate>Sat, 03 Mar 2018 11:29:32 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/interoperability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Circular References Between Swift and Objective-C</title>
-      <link>https://freshswift.net/post/-l6fbwme2kalyicv8vhi/</link>
+      <link>https://cjwirth.com/tech/circular-references-swift-objc</link>
       <pubDate>Sat, 03 Mar 2018 11:29:32 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l6fbwme2kalyicv8vhi/</guid>
-      <description></description>
+      <description>Caesar Wirth describes some of the challenges that arise when working in a mixed Swift and Objective-C codebase, and shows us how he deals with them. Some useful advice here. .</description>
     </item>
     
     <item>
       <title>Friday Q&amp;A - Swift.Unmanaged</title>
-      <link>https://freshswift.net/post/-ktfzdqoo0aa0z5exvwh/</link>
+      <link>https://mikeash.com/pyblog/friday-qa-2017-08-11-swiftunmanaged.html</link>
       <pubDate>Tue, 05 Sep 2017 07:43:49 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ktfzdqoo0aa0z5exvwh/</guid>
-      <description></description>
+      <description>One of Swift’s great strengths is how well it interoperates with C code. In one of his regular Friday Q&amp;A posts, Mike Ash looks at a key component of this interoperability - Swift’s Unmanaged struct. As Mike shows us, the Unmanaged struct is the API we need when we want to convert Swift object references to and from raw C pointers.</description>
     </item>
     
   </channel>

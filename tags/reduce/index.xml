@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 22 Jun 2018 09:41:06 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/reduce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift techniques to filter duplicates out of large JSON arrays</title>
-      <link>https://freshswift.net/post/-lfaramn7af4iijlxpik/</link>
+      <link>http://aplus.rs/2018/swift-techniques-remove-duplicates-array/</link>
       <pubDate>Fri, 22 Jun 2018 09:41:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfaramn7af4iijlxpik/</guid>
-      <description></description>
+      <description>This post from Aleksandar Vacić demonstrates how the standard library reduce function can be used to gain vast performance improvements when writing code which filters values.</description>
     </item>
     
   </channel>

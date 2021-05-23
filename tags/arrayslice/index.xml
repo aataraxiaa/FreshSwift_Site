@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 13 Oct 2017 10:06:05 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/arrayslice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ArraySlice In Swift</title>
-      <link>https://freshswift.net/post/-kwkbg0sp_qw5dz1kjhj/</link>
+      <link>https://marcosantadev.com/arrayslice-in-swift/</link>
       <pubDate>Fri, 13 Oct 2017 10:06:05 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwkbg0sp_qw5dz1kjhj/</guid>
-      <description></description>
+      <description>Marco Santarossa with a post about the Swift ArraySlice type. He shows us how to create them, describes the relationship between ArraySlice and Array, and demonstrates how ArraySlice indices work.</description>
     </item>
     
   </channel>

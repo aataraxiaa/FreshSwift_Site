@@ -8,110 +8,98 @@
     <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/closure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Swift closures are not Equatable</title>
-      <link>https://freshswift.net/post/09-04-21-142422/</link>
+      <link>https://www.jessesquires.com/blog/2021/04/05/why-swift-closures-are-not-equatable</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-04-21-142422/</guid>
-      <description></description>
+      <description>Closures in Swift are reference types, and as such, we might assume that they are Equatable. However, that is not the case, and in this post, Jesse Squires digs into some old forum posts to help explain why.</description>
     </item>
     
     <item>
       <title>What type is self in a Swift self-executing anonymous closure used to initialize a stored property?</title>
-      <link>https://freshswift.net/post/19-01-21-104618/</link>
+      <link>https://www.jessesquires.com/blog/2020/12/22/swift-self-executing-anonymous-closures/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-01-21-104618/</guid>
-      <description></description>
+      <description>We have likely all (perhaps unknowingly) used a self-executing anonymous closure in our Swift code. Indeed, one use is when initializing stored properties for a type. In this post, Jesse Squires describes a situation he encountered when using such a closure that led to the discovery of unexpected behavior in Swift.</description>
     </item>
     
     <item>
       <title>Adding a closure as a target to UIButton and other controls in Swift</title>
-      <link>https://freshswift.net/post/12-08-20-074536/</link>
+      <link>https://www.avanderlee.com/swift/uibutton-uicontrol-closure-target/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-08-20-074536/</guid>
-      <description></description>
+      <description>iOS 14 introduced new APIs that allow us to use the UIAction type when defining actions associated with UIControls. In this short post, Antoine Van Der Lee shows us how we can use these new APIs to define our actions as closures, improving the discoverability of our action definitions.</description>
     </item>
     
     <item>
       <title>Forward scan matching for trailing closures</title>
-      <link>https://freshswift.net/post/21-07-20-075250/</link>
+      <link>Forward scan matching for trailing closures</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-07-20-075250/</guid>
-      <description></description>
+      <description>Swift 5.3 extended trailing closure syntax, allowing additional labeled trailing closures to follow an initial un-labeled trailing closure. In this Swift evolution pitch, Doug Gregor from the Swift Core Team proposes an improvement to how the Swift compiler scans and matches trailing closure arguments to parameters. This is a source-breaking change, but Doug believes that it&#39;s worth doing now to get an improved scanning model sooner.</description>
     </item>
     
     <item>
       <title>An iOS alert view with a text field and a “smart” OK button</title>
-      <link>https://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</link>
+      <link>https://oleb.net/2018/uialertcontroller-textfield/</link>
       <pubDate>Mon, 20 Aug 2018 08:42:40 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lklv0_2r6dgp-tw-ovx/</guid>
-      <description></description>
+      <description>This is a very interesting post from Ole Bergmann, in which he demonstrates an approach to keeping an object alive by intentionally capturing it in a closure. Not an approach I had previously considered.</description>
     </item>
     
     <item>
       <title>Why optional closures in Swift are escaping</title>
-      <link>https://freshswift.net/post/-lf2b03m6xgz4fopoaqw/</link>
+      <link>https://www.jessesquires.com/blog/why-optional-swift-closures-are-escaping/</link>
       <pubDate>Fri, 15 Jun 2018 13:21:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lf2b03m6xgz4fopoaqw/</guid>
-      <description></description>
+      <description>In this short post, Jesse Squires explains why optional closure function parameters are always implicitly escaping. Once you read why, it makes total sense.</description>
     </item>
     
     <item>
       <title>Code Challenge: Understanding Swift Closure Syntax</title>
-      <link>https://freshswift.net/post/-l9fo3wjhuxlzgqwl0-l/</link>
+      <link>https://extras.waynewbishop.com/swift/swift-closure-syntax</link>
       <pubDate>Wed, 04 Apr 2018 13:19:53 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9fo3wjhuxlzgqwl0-l/</guid>
-      <description></description>
+      <description>Wayne Bishop with a short post explaining how to understand some basic Swift closure syntax. We are all most likely familiar with what is included, but it can’t hurt to be reminded.</description>
     </item>
     
     <item>
       <title>Capturing objects in Swift closures</title>
-      <link>https://freshswift.net/post/-kx_goijfjifefe_ob3q/</link>
+      <link>https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures</link>
       <pubDate>Sun, 29 Oct 2017 01:14:17 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kx_goijfjifefe_ob3q/</guid>
-      <description></description>
+      <description>Swift closures can capture and store references to any variables and constants from the context in which they are defined. This is a great feature, making closures easy to work with and extremely versatile. However, capturing references can be problematic. Closures which are stored, and which capture references, can result in retain cycles. A common solution to this is to weakly capture references. While this is a valid approach, alternative solutions are available which provide their own benefits. In this post, John Sundell looks are some of these solutions.</description>
     </item>
     
     <item>
       <title>Exploring Swift Closures</title>
-      <link>https://freshswift.net/post/-kr4wdxbejaciaplznkn/</link>
+      <link>http://kfarst.github.io/ios/2017/08/02/exploring-swift-closures/</link>
       <pubDate>Wed, 09 Aug 2017 07:43:17 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kr4wdxbejaciaplznkn/</guid>
-      <description></description>
+      <description>Kevin Farst explores an invaluable part of the Swift language - closures. Kevin provides some tips such as using typealias to define commonly used closures, and provides examples of using closures to improve our code. Even if we are overly familiar with closures, it’s good to remind ourselves how we can best use them to make our life a little easier.</description>
     </item>
     
     <item>
       <title>Capturing Values In Swift Closures</title>
-      <link>https://freshswift.net/post/-kn8aee2jg240iomsra1/</link>
+      <link>https://marcosantadev.com/capturing-values-swift-closures/</link>
       <pubDate>Wed, 21 Jun 2017 07:41:05 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kn8aee2jg240iomsra1/</guid>
-      <description></description>
+      <description>Closures are a very powerful feature of Swift, and most of us will be very familiar with their usage. However, it’s always good to remind ourselves exactly how they work. In this post, Marco Santarossa looks at how we capture values in Swift closures, and in particular how to correctly use closure capture lists.</description>
     </item>
     
     <item>
       <title>Why is it called a Closure anyway?</title>
-      <link>https://freshswift.net/post/-km_uh_cw0vobwme3v9r/</link>
+      <link>https://www.andrewcbancroft.com/2017/06/05/why-is-it-called-a-closure-anyway-a-swift-conceptual-look/</link>
       <pubDate>Wed, 14 Jun 2017 07:26:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-km_uh_cw0vobwme3v9r/</guid>
-      <description></description>
+      <description>Closures are a super-useful feature of Swift (and many other programming languages) which allow us to capture variables and pass functionality around in our code. In this short post, Andrew Bancroft offers his own take on why a closure is called a closure. For me, knowing that it closes over variables was always enough to justify the naming, but it’s fun to see someone search for their own reasoning.</description>
     </item>
     
     <item>
       <title>Why Do We Need to Annotate Escaping Closures in Swift?</title>
-      <link>https://freshswift.net/post/-kk-wsxgkjzmmrfgfxmv/</link>
+      <link>https://medium.com/@andrewcbancroft/why-do-we-need-to-annotate-escaping-closures-in-swift-d9985172cad8</link>
       <pubDate>Sat, 13 May 2017 08:36:19 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kk-wsxgkjzmmrfgfxmv/</guid>
-      <description></description>
+      <description>Andrew Bancroft looks at why we need to annotate Swift escaping closures. Quotes from Chris Lattner help him come to a conclusion on the motivations of the Swift compiler when it warns us to annotate our closures as escaping.</description>
     </item>
     
   </channel>

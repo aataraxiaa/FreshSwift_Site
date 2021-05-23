@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 01 Dec 2017 08:58:36 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/substring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Substrings</title>
-      <link>https://freshswift.net/post/-l-gi7bcfszlm0pbnixp/</link>
+      <link>https://swiftunboxed.com/stdlib/substrings/</link>
       <pubDate>Fri, 01 Dec 2017 08:58:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-gi7bcfszlm0pbnixp/</guid>
-      <description></description>
+      <description>Greg Heo looks at Swift Substrings, showing us how they are implemented, and why Swift’s StringProtocol is a great example of protocol-oriented programming.</description>
     </item>
     
   </channel>

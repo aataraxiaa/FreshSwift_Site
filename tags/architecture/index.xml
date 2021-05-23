@@ -8,29 +8,26 @@
     <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SwiftUI: Double-Edged Sword</title>
-      <link>https://freshswift.net/post/01-07-20-150059/</link>
+      <link>https://mohsen.dev/2020/06/21/swiftui-double-edged-sword.html</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-07-20-150059/</guid>
-      <description></description>
+      <description>I really like this short post from Mohsen Alijanpour. One of the many benefits of migrating to SwiftUI from the world of UIKit, which assumes we will build using the MVC pattern, is that SwiftUI is architecure-less. That is, SwiftUI doesn&#39;t assume what architectural pattern we will use when building. Here, Mohsen highlights this freedom, while also reminding us that such freedom comes at the cost of more responsibility.</description>
     </item>
     
     <item>
       <title>So Swift, So Clean Architecture for iOS</title>
-      <link>https://freshswift.net/post/-lbrkmr2sm3ybepda3dy/</link>
+      <link>http://basememara.com/swift-clean-architecture/</link>
       <pubDate>Tue, 01 May 2018 17:30:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lbrkmr2sm3ybepda3dy/</guid>
-      <description></description>
+      <description>This is an interesting article from Basem Emara in which he presents his version of a clean app architecture. Basem bases his architecture on an idea by the well known software engineer Robert Martin.</description>
     </item>
     
     <item>
       <title>Blurring the Lines Between MVVM and VIPER</title>
-      <link>https://freshswift.net/post/-lbm1f8t0ovyqal2h1ky/</link>
+      <link>https://theswiftpost.co/blurring-the-lines-between-mvvm-and-viper/</link>
       <pubDate>Mon, 30 Apr 2018 14:52:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lbm1f8t0ovyqal2h1ky/</guid>
-      <description></description>
+      <description>Göksel Köksal explains why he thinks MVVM and VIPER are not so different. Göksel starts by explaining the components of each software architecture, before showing us why using one doesn’t necessarily mean abandoning the other. Swift code examples are of course included 😃.</description>
     </item>
     
   </channel>

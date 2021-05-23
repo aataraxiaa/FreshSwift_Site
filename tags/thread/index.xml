@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 22 Nov 2017 08:39:27 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/thread/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Friday Q&amp;A: Locks, Thread Safety, and Swift: 2017 Edition</title>
-      <link>https://freshswift.net/post/-kzxsra1wxfp9_duywup/</link>
+      <link>https://www.mikeash.com/pyblog/friday-qa-2017-10-27-locks-thread-safety-and-swift-2017-edition.html?utm_source=Swift_Developments&amp;utm_medium=email&amp;utm_campaign=Swift_Developments_Issue_111</link>
       <pubDate>Wed, 22 Nov 2017 08:39:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kzxsra1wxfp9_duywup/</guid>
-      <description></description>
+      <description>Mike Ash with a great rundown of the various APIs available relating to locks and thread safety. Mike describes each of the available APIs, and gives his recommendation on which API we should choose first.</description>
     </item>
     
   </channel>

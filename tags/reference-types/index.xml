@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/reference-types/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Swift Reference Types Are Bad for App Startup Time</title>
-      <link>https://freshswift.net/post/02-04-21-141353/</link>
+      <link>https://medium.com/geekculture/why-swift-reference-types-are-bad-for-app-startup-time-90fbb25237fc</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-04-21-141353/</guid>
-      <description></description>
+      <description>When an app is launched, the operating system performs several tasks to get the app ready for use. One of these tasks is rebasing pointers in binary metadata that describe types in the app code. In this very interesting post, Noah Martin explains how Swift reference types can result in a large number of pointers that require rebasing, leading to slow app startup times.</description>
     </item>
     
   </channel>

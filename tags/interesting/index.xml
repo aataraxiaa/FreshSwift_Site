@@ -8,11 +8,10 @@
     <lastBuildDate>Sun, 25 Mar 2018 08:57:44 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Collection of Interesting Swift Features</title>
-      <link>https://freshswift.net/post/-l8rnag_znomyjudyzs4/</link>
+      <link>http://jordansmith.io/a-collection-of-interesting-swift-features/?utm_source=newsletter_mailer&amp;utm_medium=email&amp;utm_campaign=weekly</link>
       <pubDate>Sun, 25 Mar 2018 08:57:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8rnag_znomyjudyzs4/</guid>
-      <description></description>
+      <description>Jordan Smith presents a collection of 15 interesting Swift features. It’s likely that you are aware of many of these, but it’s a nice succinct rundown of some of the lesser talked about features of Swift.</description>
     </item>
     
   </channel>

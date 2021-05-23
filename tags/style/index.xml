@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 08 May 2017 19:44:08 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/style/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Readable Swift: The Curious Case of Not</title>
-      <link>https://freshswift.net/post/-kjd_mbc2l-l9h9jc8pj/</link>
+      <link>http://www.figure.ink/blog/2017/5/7/readable-swift-the-curious-case-of-not</link>
       <pubDate>Mon, 08 May 2017 19:44:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjd_mbc2l-l9h9jc8pj/</guid>
-      <description></description>
+      <description>Joshua Emmons considers the Swift not (!) operator, offering his thoughts on it&#39;s readability. Included are some ...interesting alternatives.</description>
     </item>
     
   </channel>

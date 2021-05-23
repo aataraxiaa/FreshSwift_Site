@@ -8,29 +8,26 @@
     <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/singleton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What’s the difference between a singleton and a shared instance in Swift?</title>
-      <link>https://freshswift.net/post/07-05-21-163541/</link>
+      <link>https://www.donnywals.com/whats-the-difference-between-a-singleton-and-a-shared-instance-in-swift/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-05-21-163541/</guid>
-      <description></description>
+      <description>The Singleton pattern is a well-known design pattern that aims to allow exactly one single instantiation of a type. A similar pattern often used in iOS development is to create a shared instance of an object that can be accessed from anywhere in a project. In this short post, Donny Wals explains the subtle difference between the two.</description>
     </item>
     
     <item>
       <title>Avoiding singletons in Swift</title>
-      <link>https://freshswift.net/post/-kwnxpcn5bqtyqewvyd-/</link>
+      <link>https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift</link>
       <pubDate>Thu, 19 Oct 2017 07:29:39 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwnxpcn5bqtyqewvyd-/</guid>
-      <description></description>
+      <description>John Sundell makes his case for why we should avoid using singletons. John first describes why singletons are bad, and then demonstrates some techniques to help us avoid them. Although I do agree that singletons sometimes present their own set of problems, I am not on the side of avoiding them completely. When used with care, they sometimes can be a valid solution.</description>
     </item>
     
     <item>
       <title>Writing better singletons in Swift</title>
-      <link>https://freshswift.net/post/-klsb0ux2onslnjbjlsc/</link>
+      <link>http://www.jessesquires.com/blog/writing-better-singletons-in-swift/</link>
       <pubDate>Mon, 05 Jun 2017 12:17:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klsb0ux2onslnjbjlsc/</guid>
-      <description></description>
+      <description>Singletons, whether loved or loathed, are a  fact of software development. This is especially evident in iOS development, where they are used in many of the frameworks. In this post, Jesse Squires looks at why singletons sometimes are the right choice, and provides some guidance on how to create singletons the right way.</description>
     </item>
     
   </channel>

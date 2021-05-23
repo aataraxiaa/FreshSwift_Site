@@ -8,11 +8,10 @@
     <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/operation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Operation</title>
-      <link>https://freshswift.net/post/27-02-21-151851/</link>
+      <link>https://brevans.io/index.php/2021/02/07/operation/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-02-21-151851/</guid>
-      <description></description>
+      <description>The Operation type from Apple&#39;s Foundation framework is an abstract class that represents a single task. In this post, Bruce Evens makes his case for using Operations over DispatchQueues in Swift, arguing that since we are using a high-level language, we should also use high-level constructs.</description>
     </item>
     
   </channel>

@@ -8,11 +8,10 @@
     <lastBuildDate>Sat, 01 Jul 2017 13:14:24 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/fundamentals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statements, messages and reducers</title>
-      <link>https://freshswift.net/post/-knyhqrsbezvhjlsqpp9/</link>
+      <link>https://www.cocoawithlove.com/blog/statements-messages-reducers.html</link>
       <pubDate>Sat, 01 Jul 2017 13:14:24 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knyhqrsbezvhjlsqpp9/</guid>
-      <description></description>
+      <description>Matt Gallagher shows us how to break code into isolated units of functionality using statements, messages, and reducers. It’s good to be reminded of some basic computational theory, and as the Swift example is evolved we begin to see the benefits of using this approach.</description>
     </item>
     
   </channel>

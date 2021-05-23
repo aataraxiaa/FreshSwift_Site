@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 04 May 2018 09:53:03 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/unowned/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unowned Properties in Swift</title>
-      <link>https://freshswift.net/post/-lbezq_9pnzsjwfmdmhq/</link>
+      <link>https://swiftrocks.com/unowned-properties-in-swift.html</link>
       <pubDate>Fri, 04 May 2018 09:53:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lbezq_9pnzsjwfmdmhq/</guid>
-      <description></description>
+      <description>This short post from Bruno Rocha explains why we should consider using the unowned keyword rather than the weak keyword when preventing reference cycles.</description>
     </item>
     
   </channel>

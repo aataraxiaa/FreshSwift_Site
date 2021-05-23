@@ -8,569 +8,506 @@
     <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Swift Collections</title>
-      <link>https://freshswift.net/post/14-05-21-133658/</link>
+      <link>https://swift.org/blog/swift-collections/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-05-21-133658/</guid>
-      <description></description>
+      <description>Like the Swift Algorithms package before it, the recently released Swift Collections package is intended to incubate new functionality for the Swift Standard Library. In this post, Karoy Lorentey from the Swift Standard Library team gives us a brief tour of what the package provides.</description>
     </item>
     
     <item>
       <title>Actors are reference types, but why classes?</title>
-      <link>https://freshswift.net/post/16-12-20-104855/</link>
+      <link>https://docs.google.com/document/d/14e3p6yBt1kPrakLcEHV4C9mqNBkNibXIZsozdZ6E71c/edit#</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-12-20-104855/</guid>
-      <description></description>
+      <description>The recently announced Swift Concurrency Roadmap includes the proposal of an Actor reference type, similar to a class type. In this whitepaper, Chris Lattner explores the behavior and requirements of actors and proposes that Actor types be modeled as a new kind of nominal reference type in Swift.</description>
     </item>
     
     <item>
       <title>Codable synthesis for enums with associated values</title>
-      <link>https://freshswift.net/post/08-12-20-120455/</link>
+      <link>https://github.com/apple/swift-evolution/blob/main/proposals/0295-codable-synthesis-for-enums-with-associated-values.md</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-12-20-120455/</guid>
-      <description></description>
+      <description>Swift 4 introduced support for automatically synthesizing conformance to the Encodable and Decodable protocols. It&#39;s a useful feature, most likely used by any application which handles JSON-based network requests. This Swift evolution pitch from Dario Rexin proposes extending auto-synthesis of these conformances to enums with associated values. I&#39;m sure we will see this in an upcoming Swift version.</description>
     </item>
     
     <item>
       <title>Availability checking for protocol conformances</title>
-      <link>https://freshswift.net/post/30-11-20-125624/</link>
+      <link>https://forums.swift.org/t/availability-checking-for-protocol-conformances/42066</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/30-11-20-125624/</guid>
-      <description></description>
+      <description>Swift&#39;s availability checking feature currently allows us to check if a referenced declaration is available at runtime. In this post from the official Swift forums, Slava Pestov details an extension to this feature which provides the ability to check the availability of protocol conformances.</description>
     </item>
     
     <item>
       <title>[Proposal] Static member lookup on protocol metatypes</title>
-      <link>https://freshswift.net/post/22-11-20-112326/</link>
+      <link>https://forums.swift.org/t/proposal-static-member-lookup-on-protocol-metatypes/41946</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-11-20-112326/</guid>
-      <description></description>
+      <description>Swift currently supports static member lookup on concrete types. This improves call-site legibility by enabling us to use leading dot syntax when accessing static values. In this Swift evolution pitch, Sam Lazarus proposes extending static member lookup to protocol metatypes. This would be a nice addition, and would not have any effect of source of API stability.</description>
     </item>
     
     <item>
       <title>Swift Concurrency Roadmap</title>
-      <link>https://freshswift.net/post/09-11-20-123224/</link>
+      <link>https://forums.swift.org/t/swift-concurrency-roadmap/41611</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-11-20-123224/</guid>
-      <description></description>
+      <description>This post from the official Swift forums outlines the Swift Concurrency Roadmap. The goal of this roadmap is to make concurrent programming in Swift convenient, efficient, and safe. There is a lot to unpack in this post, but it&#39;s definitely worth reading, and there are some great language features planned for the first phase of the roadmap.</description>
     </item>
     
     <item>
       <title>Placeholder types</title>
-      <link>https://freshswift.net/post/04-11-20-082404/</link>
+      <link>https://forums.swift.org/t/placeholder-types/41329</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-11-20-082404/</guid>
-      <description></description>
+      <description>Building on a previous Swift evolution thread, Frederick Kellison-Linn pitches a proposal to add what he calls placeholder types to Swift. These placeholder types could be used when we want to explicitly provide some type information but also want the compiler to infer some type information.</description>
     </item>
     
     <item>
       <title>Unlock Existential Types for All Protocols</title>
-      <link>https://freshswift.net/post/22-10-20-071420/</link>
+      <link>https://forums.swift.org/t/unlock-existential-types-for-all-protocols/40665/3</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-10-20-071420/</guid>
-      <description></description>
+      <description>Swift currently allows protocols that meet certain criteria to be used as types. Using a protocol in such a way essentially creates an existential type. However, protocols with associated type or self requirements cannot currently be used to create such existential types. This Swift evolution pitch proposes removing this restriction.</description>
     </item>
     
     <item>
       <title>Result builders</title>
-      <link>https://freshswift.net/post/18-10-20-111833/</link>
+      <link>https://github.com/apple/swift-evolution/blob/main/proposals/0289-result-builders.md</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-10-20-111833/</guid>
-      <description></description>
+      <description>This Swift evolution proposal outlines the motivation and design for Result Builders, the Swift language feature previously known as Function Builders. Result Builders have been an available feature since Swift 5.1, albeit slightly hidden, and its implementation and capabilities have evolved since then.</description>
     </item>
     
     <item>
       <title>Announcing Swift Algorithms</title>
-      <link>https://freshswift.net/post/15-10-20-072607/</link>
+      <link>https://swift.org/blog/swift-algorithms/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-10-20-072607/</guid>
-      <description></description>
+      <description>Swift Algorithms is a new open-source Swift package of sequence and collection algorithms. In this post, Nate Cook from the Swift standard library team at Apple gives a brief tour of this package and describes its relation to the Swift standard library.</description>
     </item>
     
     <item>
       <title>Standard library behavior change for LazyMapCollection prefix to act as a Sequence</title>
-      <link>https://freshswift.net/post/16-09-20-073734/</link>
+      <link>https://forums.swift.org/t/standard-library-behavior-change-for-lazymapcollection-prefix-to-act-as-a-sequence/39954</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-09-20-073734/</guid>
-      <description></description>
+      <description>The Swift standard library provides lazy variations of its Sequence and Collection types, on which operations such as map and filter are implemented lazily. This means that the actual computations will only occur when the results are needed. In this Swift evolution pitch, Greg Titus proposes an addition to the standard library that improves the behavior of the LazyMapCollection type.</description>
     </item>
     
     <item>
       <title>Support Negative Availability Literals</title>
-      <link>https://freshswift.net/post/13-09-20-072845/</link>
+      <link>https://forums.swift.org/t/support-negative-availability-literals/39946</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-09-20-072845/</guid>
-      <description></description>
+      <description>The availability condition #available is used to execute code conditionally based on the required platform and version conditions. Currently, it&#39;s only possible to check if conditions are positively satisfied. In this Swift evolution pitch, Bruno Rocha proposes extending #available to support checking if conditions are not satisfied.</description>
     </item>
     
     <item>
       <title>Typed throws</title>
-      <link>https://freshswift.net/post/01-09-20-163456/</link>
+      <link>https://forums.swift.org/t/typed-throws/39660</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-09-20-163456/</guid>
-      <description></description>
+      <description>Swift provides support for throwing, catching, propagating, and manipulating recoverable errors. To indicate that a function or method can throw an error, we add the throws keyword to the declaration. In this very detailed Swift evolution pitch, Jorge proposes adding the ability to specify the type of an error that a function will throw.</description>
     </item>
     
     <item>
       <title>Extend implicit member syntax to cover chains of member references</title>
-      <link>https://freshswift.net/post/30-08-20-083559/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0287-implicit-member-chains.md</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/30-08-20-083559/</guid>
-      <description></description>
+      <description>This Swift evolution proposal suggests an expansion of implicit member syntax to more complex expressions than just a single static member or function. What this means is that when the type of an expression is implied by the context, developers would be able to use leading dot syntax, even when the expression consists of chains of member references. This is a very logical language evolution in my opinion.</description>
     </item>
     
     <item>
       <title>[Concurrency] Add `async` to the Swift type system.</title>
-      <link>https://freshswift.net/post/15-08-20-083049/</link>
+      <link>https://github.com/apple/swift/pull/33147</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-08-20-083049/</guid>
-      <description></description>
+      <description>Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.</description>
     </item>
     
     <item>
       <title>Package Manager Source Archive Dependencies</title>
-      <link>https://freshswift.net/post/13-08-20-073155/</link>
+      <link>https://forums.swift.org/t/package-manager-source-archive-dependencies/38626</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-08-20-073155/</guid>
-      <description></description>
+      <description>In this Swift evolution pitch, Mattt proposes extending the Swift Package Manager to add support for non-binary source dependencies. As Mattt outlines, this proposal is part of the necessary groundwork required to achieve the overall goal of creating a Swift package registry service.</description>
     </item>
     
     <item>
       <title>Memoization of Swift properties</title>
-      <link>https://freshswift.net/post/08-08-20-083153/</link>
+      <link>https://forums.swift.org/t/memoization-of-swift-properties/38783</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-08-20-083153/</guid>
-      <description></description>
+      <description>Memoization is an optimization technique where the results of expensive computations (e.g function calls or computed properties) are stored, and these cached results are returned when the inputs to future computations are unchanged. In this Swift evolution pitch, Justin Reusch proposes adding keywords to Swift which tell the compiler when to synthesize boilerplate code to support the memoization of computed properties. I think this would be a good addition to the language.</description>
     </item>
     
     <item>
       <title>Allow Property Wrappers with Multiple Arguments to Defer Initialization when wrappedValue is not Specified</title>
-      <link>https://freshswift.net/post/28-07-20-134247/</link>
+      <link>https://forums.swift.org/t/allow-property-wrappers-with-multiple-arguments-to-defer-initialization-when-wrappedvalue-is-not-specified/38319</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-07-20-134247/</guid>
-      <description></description>
+      <description>Swift Property Wrappers without arguments can defer specifying the wrapped value until the initialization of the containing type. In this Swift evolution pitch, Andrew Arnopoulos proposes making this feature available to Property Wrappers which have multiple arguments. Seems like a reasonable proposal to me.</description>
     </item>
     
     <item>
       <title>Proposing to expand `available` to introduce `discouraged`</title>
-      <link>https://freshswift.net/post/24-07-20-105834/</link>
+      <link>https://forums.swift.org/t/proposing-to-expand-available-to-introduce-discouraged/38197</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-07-20-105834/</guid>
-      <description></description>
+      <description>Swift&#39;s available attribute documents characteristics of a declaration&#39;s lifecycle. This Swift evolution pitch from Erica Sadun and Chris Lattner proposes extending the available attribute, introducing discouraged, an argument that can be used to describe why using the associated declaration is discouraged. A small but useful addition to the language.</description>
     </item>
     
     <item>
       <title>Forward scan matching for trailing closures</title>
-      <link>https://freshswift.net/post/21-07-20-075250/</link>
+      <link>Forward scan matching for trailing closures</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-07-20-075250/</guid>
-      <description></description>
+      <description>Swift 5.3 extended trailing closure syntax, allowing additional labeled trailing closures to follow an initial un-labeled trailing closure. In this Swift evolution pitch, Doug Gregor from the Swift Core Team proposes an improvement to how the Swift compiler scans and matches trailing closure arguments to parameters. This is a source-breaking change, but Doug believes that it&#39;s worth doing now to get an improved scanning model sooner.</description>
     </item>
     
     <item>
       <title>Invert guard let scoping</title>
-      <link>https://freshswift.net/post/18-07-20-092544/</link>
+      <link>https://forums.swift.org/t/invert-guard-let-scoping/38401</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-07-20-092544/</guid>
-      <description></description>
+      <description>In this Swift evolution pitch, Danny Sung proposes the introduction of an inverted scope guard let pattern. Danny explains that this would solve the problem of guarding against a condition, while also making an optional value associated with the condition available inside the body of the guard statement. Although I understand the problem, I am not sure if adding negated versions of such keywords is the right solution.</description>
     </item>
     
     <item>
       <title>Introduce AnonymousKeyPath</title>
-      <link>https://freshswift.net/post/09-07-20-084545/</link>
+      <link>https://forums.swift.org/t/introduce-anonymouskeypath/38080</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-07-20-084545/</guid>
-      <description></description>
+      <description>In this evolution pitch from the Swift forums, Shai Mishali suggests the introduction of a new kind of KeyPath - AnonymousKeyPath. The idea here is that the key path can be used without knowing the Root of the KeyPath, but rather only the Value constrained to it. Although it&#39;s an interesting suggestion, the discussion that follows the pitch indicates that the problem it solves can be solved in other, more effective ways.</description>
     </item>
     
     <item>
       <title>Returning to an old hobbyhorse: Migrating higher order function names to comply with API guidelines</title>
-      <link>https://freshswift.net/post/07-07-20-081107/</link>
+      <link>https://forums.swift.org/t/returning-to-an-old-hobbyhorse-migrating-higher-order-function-names-to-comply-with-api-guidelines/37728</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-07-20-081107/</guid>
-      <description></description>
+      <description>A higher order function is a function which takes a function as an argument, or returns a function. In this post from the Swift forums, Erica Sadun pitches a proposal to rename Swift&#39;s higher order functions, such as map and filter, based on the Swift API design guidelines. It&#39;s something which can be done without causing breaking changes, and I am in favour of the proposal.</description>
     </item>
     
     <item>
       <title>Static Thread Safety</title>
-      <link>https://freshswift.net/post/20-06-20-124450/</link>
+      <link>https://forums.swift.org/t/static-thread-safety/37542</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-06-20-124450/</guid>
-      <description></description>
+      <description>This is an interesting Swift evolution draft proposal. In it, Guy Brooker proposes some small language changes which would allow the Swift compiler to spot basic concurrent programming errors. I like the syntax Guy proposes for specifying execution context.</description>
     </item>
     
     <item>
       <title>Swift Evolution - Add Result to the Standard Library</title>
-      <link>https://freshswift.net/post/-ls-svqcau0wkqvbg06z/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md</link>
       <pubDate>Fri, 23 Nov 2018 14:05:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ls-svqcau0wkqvbg06z/</guid>
-      <description></description>
+      <description>Result is a type commonly used for manual propagation and handling of errors within the Swift community. This Swift evolution proposal seeks to add a generic Result type to the Swift standard library. It’s currently in review 🤞🏽.</description>
     </item>
     
     <item>
       <title>New LSP language service supporting Swift and C-family languages for any editor and platform</title>
-      <link>https://freshswift.net/post/-lp0vpryos9kjfquhyor/</link>
+      <link>https://forums.swift.org/t/new-lsp-language-service-supporting-swift-and-c-family-languages-for-any-editor-and-platform/17024</link>
       <pubDate>Wed, 17 Oct 2018 12:10:40 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lp0vpryos9kjfquhyor/</guid>
-      <description></description>
+      <description>On the official Swift forums, Argyrios Kyrtzidis announces that Apple are going to start a new open-source project for a Swift and C-family language service based on the Language Server Protocol. What this means is that they will focus on building common infrastructure that can be shared by Xcode and other editors such as Atom or Sublime Text.</description>
     </item>
     
     <item>
       <title>Swift Evolution - Fix ExpressibleByStringInterpolation</title>
-      <link>https://freshswift.net/post/-los8ty-blocivkck808/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0228-fix-expressiblebystringinterpolation.md</link>
       <pubDate>Wed, 10 Oct 2018 08:46:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-los8ty-blocivkck808/</guid>
-      <description></description>
+      <description>This is a really cool Swift language evolution proposal which proposes a new design for the ExpressibleByStringInterpolation protocol. Due to issues with the original implementation of this protocol, it was deprecated. The new design aims to address these issues, and add new capabilities to string interpolation.</description>
     </item>
     
     <item>
       <title>Swift 5.0 Release Process</title>
-      <link>https://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</link>
+      <link>https://swift.org/blog/5-0-release-process/</link>
       <pubDate>Fri, 28 Sep 2018 13:08:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lnvhkv4ltmqmc4_hqyp/</guid>
-      <description></description>
+      <description>On the official Swift blog, Ted Kremenek outlines the goals, release process, and estimated schedule for Swift 5. The primary goal of the next major release is achieving application binary interface stability, meaning Swift code compiled against different Swift compiler versions will be able to interoperate.</description>
     </item>
     
     <item>
       <title>Evolution- Default Implementation In Protocols</title>
-      <link>https://freshswift.net/post/-llxughaskvejhgfvcs5/</link>
+      <link>https://forums.swift.org/t/default-implementation-in-protocols/15794/8</link>
       <pubDate>Sun, 09 Sep 2018 08:40:17 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-llxughaskvejhgfvcs5/</guid>
-      <description></description>
+      <description>Alejandro Alonso has been working on a Swift language change to allow default method implementations in protocol definitions. This thread is a discussion among community members of the pros and cons of this proposal.</description>
     </item>
     
     <item>
       <title>Kickstarting new official Docker support for Swift</title>
-      <link>https://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</link>
+      <link>https://forums.swift.org/t/kickstarting-new-official-docker-support-for-swift/15487</link>
       <pubDate>Mon, 27 Aug 2018 11:37:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</guid>
-      <description></description>
+      <description>Haris Amin has started a thread on the official Swift forum outlining a plan to support an official Swift Docker image. Docket is software which allows people to get started and experiment with container-based software. Great to see.</description>
     </item>
     
     <item>
       <title>Swift Evolution - Plan for module stability</title>
-      <link>https://freshswift.net/post/-liwl-qeisvliv4nhcm/</link>
+      <link>https://forums.swift.org/t/plan-for-module-stability/14551</link>
       <pubDate>Sat, 28 Jul 2018 14:43:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-liwl-qeisvliv4nhcm/</guid>
-      <description></description>
+      <description>In this post on the official Swift forum, Jordan Rose outlines the proposed solution for ABI stability, which is something we should get when Swift 5 arrives. This is something a lot of people in the community are looking forward to, and it’s really interesting to see how it might be achieved.</description>
     </item>
     
     <item>
       <title>Retroactive Conformances vs. Swift-in-the-OS</title>
-      <link>https://freshswift.net/post/-lhxrj-jqryhfsby7mqq/</link>
+      <link>https://forums.swift.org/t/retroactive-conformances-vs-swift-in-the-os/14393</link>
       <pubDate>Sat, 21 Jul 2018 15:24:33 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lhxrj-jqryhfsby7mqq/</guid>
-      <description></description>
+      <description>This is an interesting Swift evolution discussion started by Jordan Rose which looks at problems encountered when retroactively conforming a type to a protocol. Jordan first describes the problems before proposing a rule which might help to avoid them.</description>
     </item>
     
     <item>
       <title>Swift Evolution - Introduce compactMapValues to Dictionary</title>
-      <link>https://freshswift.net/post/-lhej9w3dtkwwx_w47jm/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0218-introduce-compact-map-values.md</link>
       <pubDate>Thu, 12 Jul 2018 16:26:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lhej9w3dtkwwx_w47jm/</guid>
-      <description></description>
+      <description>This Swift evolution proposal adds a combined filter/map operation to Dictionary. This new operation corresponds to the compactMap operation available for Sequences.</description>
     </item>
     
     <item>
       <title>Introducing the !! Unwrap or Die operator to the Swift Standard Library</title>
-      <link>https://freshswift.net/post/-lgttllzu6zdjpbteirl/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0217-bangbang.md</link>
       <pubDate>Sun, 08 Jul 2018 12:39:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lgttllzu6zdjpbteirl/</guid>
-      <description></description>
+      <description>Although I don’t think this Swift evolution proposal is completely useless, I agree with Chris Lattner’s opinion that the motivation for its inclusion is not very strong. Still, it’s always great to see the community proposing changes.</description>
     </item>
     
     <item>
       <title>On Apple&#39;s Love Affair With Swift</title>
-      <link>https://freshswift.net/post/-lfw1crli4pjbwwxbgyl/</link>
+      <link>https://stefan-lesser.com/2018/06/20/on-apples-love-affair-with-swift/</link>
       <pubDate>Tue, 26 Jun 2018 12:19:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfw1crli4pjbwwxbgyl/</guid>
-      <description></description>
+      <description>In response to a recent article examining Swift, in which the author questioned the decisions behind the development of the language, Stefan Lesser selects the most relevant excerpts from an interview with Chris Lattner to answer the questions.</description>
     </item>
     
     <item>
       <title>Random numbers in Swift</title>
-      <link>https://freshswift.net/post/-let1eq05are1esnlta_/</link>
+      <link>https://oleb.net/blog/2018/06/random-numbers-in-swift/</link>
       <pubDate>Wed, 13 Jun 2018 12:06:56 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-let1eq05are1esnlta_/</guid>
-      <description></description>
+      <description>Swift 4.2 introduces a native random number API in the standard library. In this post, Ole Begemann walks us through what was added, and describes how we can the new API to write correct random number related code.</description>
     </item>
     
     <item>
       <title>SE-0155 Status Update</title>
-      <link>https://freshswift.net/post/-les-vz8d0vr8cmkjauu/</link>
+      <link>https://forums.swift.org/t/se-0155-status-update/13154</link>
       <pubDate>Fri, 08 Jun 2018 01:28:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-les-vz8d0vr8cmkjauu/</guid>
-      <description></description>
+      <description>The Swift evolution proposal to Normalize Enum Case Representation is partly implemented, and this Swift Forums post lists the status for each goal of the proposal. This is a worthwhile proposal, with some nice improvements to the language, so it’s great to see progress being made.</description>
     </item>
     
     <item>
       <title>Date.now() and other calendar thoughts</title>
-      <link>https://freshswift.net/post/-ldnswsmmoah75jsdtci/</link>
+      <link>https://forums.swift.org/t/date-now-and-other-calendar-thoughts/12853/2</link>
       <pubDate>Thu, 31 May 2018 01:48:51 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ldnswsmmoah75jsdtci/</guid>
-      <description></description>
+      <description>Dave Delong started this interesting discussion on the Swift Forums. In Dave’s opinion, the current date/time APIs of Foundation are lacking,  and adding a suggested Date.now() function will only make things worse. Dave then proposes a related addition to Foundation, Clock, which would tell us the date and time of day.</description>
     </item>
     
     <item>
       <title>Introducing Related Projects to Swift Forums</title>
-      <link>https://freshswift.net/post/-lcd2k87ikowxhhbxy87/</link>
+      <link>https://swift.org/blog/related-projects/</link>
       <pubDate>Wed, 16 May 2018 13:04:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lcd2k87ikowxhhbxy87/</guid>
-      <description></description>
+      <description>As always, it’s great to see the core Swift team recognize the Swift community and it’s efforts, and in this official Swift blog post Ted kremenek announces an expansion to the Swift Forums. A new top-level category, Related Projects, is being added to the Swift Forum, creating a space for discussions relating to Swift projects developed by the community. Great stuff!</description>
     </item>
     
     <item>
       <title>Behind-the scenes improvements in Swift 4.1</title>
-      <link>https://freshswift.net/post/-lbpwwdkfott5_kcevec/</link>
+      <link>https://medium.com/@slavapestov/behind-the-scenes-improvements-in-swift-4-1-269dd56e30c2</link>
       <pubDate>Sun, 06 May 2018 14:54:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lbpwwdkfott5_kcevec/</guid>
-      <description></description>
+      <description>In the article Slava Pestov from the Swift compiler team focuses on some of the less visible improvements introduce in Swift 4. Slava dives into the technical details of these improvements, describing why they were introduced and how they work.</description>
     </item>
     
     <item>
       <title>What&#39;s new in Swift?</title>
-      <link>https://freshswift.net/post/-lbawub8-dh8mwieyxfg/</link>
+      <link>https://www.whatsnewinswift.com</link>
       <pubDate>Thu, 03 May 2018 15:01:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lbawub8-dh8mwieyxfg/</guid>
-      <description></description>
+      <description>Paul Hudson has created this fantastic resource which allows us to learn what’s new in each version of Swift, with included code examples. A definite bookmark!</description>
     </item>
     
     <item>
       <title>What’s new in Swift 4.2?</title>
-      <link>https://freshswift.net/post/-lb5jfm-hvx3rc4y29hz/</link>
+      <link>https://www.hackingwithswift.com/articles/77/whats-new-in-swift-4-2</link>
       <pubDate>Fri, 27 Apr 2018 08:56:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lb5jfm-hvx3rc4y29hz/</guid>
-      <description></description>
+      <description>Swift is evolving at an impressive pace, and the upcoming version, Swift 4.2, brings with it some great improvements. In this post, Paul Hudson describes some of these improvements, including derived enum cases and dynamic member lookup.</description>
     </item>
     
     <item>
       <title>Swift Evolution - Hashable Enhancements</title>
-      <link>https://freshswift.net/post/-l9jrnchebu0puhjvl8m/</link>
+      <link>https://github.com/apple/swift-evolution/blob/78332d211d00abac286c47609ce1a88a03c6e9bf/proposals/0206-hashable-enhancements.md</link>
       <pubDate>Tue, 10 Apr 2018 14:02:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9jrnchebu0puhjvl8m/</guid>
-      <description></description>
+      <description>This is an interesting Swift evolution proposal from Karoy Lorentey and Vincent Esche. They propose enhancements to the Hashable protocol, which should make it easier for types to manually conform to the protocol.</description>
     </item>
     
     <item>
       <title>Swift 4.1 Released!</title>
-      <link>https://freshswift.net/post/-l8vx_63i3ufvqwhrvri/</link>
+      <link>https://swift.org/blog/swift-4-1-released/</link>
       <pubDate>Sat, 31 Mar 2018 10:11:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8vx_63i3ufvqwhrvri/</guid>
-      <description></description>
+      <description>Ted Kremenek with a post announcing the official release of Swift 4.1 🚀. Although this is only a minor language release, there are some really nice updates included. Onwards and upwards!</description>
     </item>
     
     <item>
       <title>Swift Evolution - Introducing `Unwrappable`, a biased unwrapping protocol</title>
-      <link>https://freshswift.net/post/-l8yajdjk94dyimjafdf/</link>
+      <link>https://forums.swift.org/t/introducing-unwrappable-a-biased-unwrapping-protocol/11232</link>
       <pubDate>Mon, 26 Mar 2018 16:40:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8yajdjk94dyimjafdf/</guid>
-      <description></description>
+      <description>I really like this Swift evolution proposal from Erica Sadun and Chris Lattner. They propose an Unwrappable protocol, which introduces Optional-like behavior for any biased wrapped  type. The major benefit here is that this would extend Optional syntactic sugar to any associated-type enumeration.</description>
     </item>
     
     <item>
       <title>Swift Evolution - &#39;Raw&#39; mode string literals</title>
-      <link>https://freshswift.net/post/-l7ynhuphzxsd3obzdww/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0200-raw-string-escaping.md</link>
       <pubDate>Mon, 19 Mar 2018 15:07:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l7ynhuphzxsd3obzdww/</guid>
-      <description></description>
+      <description>I like this Swift evolution proposal from John Holdsworth. John proposes adding a feature which allows us to use &#39;raw-mode&#39; when creating string literals. This would enable us to create strings containing backslashes which are not interpreted as escaping introducers. This could be useful for regular expressions.</description>
     </item>
     
     <item>
       <title>Conditional Conformance in the Standard Library</title>
-      <link>https://freshswift.net/post/-l53ddrx-typvx7o161v/</link>
+      <link>https://swift.org/blog/conditional-conformance/?utm_source=newsletter_mailer&amp;utm_medium=email&amp;utm_campaign=weekly</link>
       <pubDate>Sun, 11 Feb 2018 09:38:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l53ddrx-typvx7o161v/</guid>
-      <description></description>
+      <description>This post by Ben Cohen on the official Swift blog describes how Swift 4.1’s conditional protocol conformance feature has been utilised in the Swift standard library.</description>
     </item>
     
     <item>
       <title>Swift Evolution moves to Discourse</title>
-      <link>https://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</link>
+      <link>https://forums.swift.org/top/all</link>
       <pubDate>Sun, 17 Dec 2017 10:47:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</guid>
-      <description></description>
+      <description>Swift Evolution has up until now used mailing lists for all community discussions. While mailing lists served the purpose adequately, they were not ideal. Now, the move to Discourse is under way. Discourse provides a more modern, forum-based solution, and it’s where all Swift community discussions will now happen.</description>
     </item>
     
     <item>
       <title>JSONEncoder: Key strategies</title>
-      <link>https://freshswift.net/post/-kzjhnogth3-0uk5jymx/</link>
+      <link>https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171106/040959.html</link>
       <pubDate>Sun, 19 Nov 2017 12:38:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kzjhnogth3-0uk5jymx/</guid>
-      <description></description>
+      <description>This is an interesting Swift Evolution thread in which Tony Parker from Apple shares a evolution proposal regarding key strategies for Swift 4’s Codable protocols. The proposal seeks to change Foundation code, making it possible to automatically convert between JSON snake_case_keys and camelCaseKeys.</description>
     </item>
     
     <item>
       <title>Swift for Data Science / ML / Big Data analytics</title>
-      <link>https://freshswift.net/post/-kz3btpwuqnromuhfnfo/</link>
+      <link>https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171023/040733.html</link>
       <pubDate>Thu, 16 Nov 2017 09:38:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kz3btpwuqnromuhfnfo/</guid>
-      <description></description>
+      <description>Interesting Swift Evolution discussion in which Chris Lattner shares his thoughts on the possibility of Swift-Python interoperability. This would mean that the majority of the Python ecosystem would be directly usable in Swift, something the data science and big data communities might find particularly useful.</description>
     </item>
     
     <item>
       <title>Swift 4.1 Release Process</title>
-      <link>https://freshswift.net/post/-kx18f-qdb_notx6tye2/</link>
+      <link>https://swift.org/blog/swift-4-1-release-process/</link>
       <pubDate>Sun, 22 Oct 2017 03:34:02 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kx18f-qdb_notx6tye2/</guid>
-      <description></description>
+      <description>It’s so great to see the plans for Swift 4.1 being published already, considering the recent release of Swift 4. Here, on the official Swift blog, Ted Kremenek describes the goals, release process, and estimated schedule for Swift 4.1.</description>
     </item>
     
     <item>
       <title>Synthesizing Equatable and Hashable conformance</title>
-      <link>https://freshswift.net/post/-kwvricbmwa2tfhdidlb/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0185-synthesize-equatable-hashable.md</link>
       <pubDate>Sun, 15 Oct 2017 14:32:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwvricbmwa2tfhdidlb/</guid>
-      <description></description>
+      <description>Following in the footsteps of the well received Swift 4 Codable protocols, this Swift evolution proposal outlines the motivation for, and proposed implementation of, synthesized conformance to the Equatable and Hashable protocols. This is a really good proposal which would reduce the need for common boilerplate code. The idea is that if a types members all conform to Equatable or Hashable, then the entire type can simply opt-in to automatic synthesis by declaring itself as conforming.</description>
     </item>
     
     <item>
       <title>Swift evolution - Non-Exhaustive Enums</title>
-      <link>https://freshswift.net/post/-kuytiag_laktpbbqhik/</link>
+      <link>https://github.com/jrose-apple/swift-evolution/blob/non-exhaustive-enums/proposals/nnnn-non-exhaustive-enums.md</link>
       <pubDate>Tue, 26 Sep 2017 13:56:09 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kuytiag_laktpbbqhik/</guid>
-      <description></description>
+      <description>I really like this Swift evolution proposal from Jordan Rose. It aims to distinguish between enums which are exhaustive (they will never get new cases), and enums which are non-exhaustive, and to ensure that clients handle any future cases when dealing with the latter.</description>
     </item>
     
     <item>
       <title>Synthesizing Equatable and Hashable conformance</title>
-      <link>https://freshswift.net/post/-krdqy4fhok_k7okcf4w/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0185-synthesize-equatable-hashable.md</link>
       <pubDate>Wed, 16 Aug 2017 07:04:49 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-krdqy4fhok_k7okcf4w/</guid>
-      <description></description>
+      <description>This Swift evolution proposal from Tony Allevato looks to reduce the amount of boilerplate code we need to write to conform to the Equatable and Hashable protocols. He proposes that the Swift compiler synthesize conformance to Equatable/Hashable for a type when all of it’s members are Equatable/Hashable. Considering how the Swift compiler currently synthesizes the Swift 4 Codable protocols under similar circumstances, this really makes sense, and would be a great addition to the language.</description>
     </item>
     
     <item>
       <title>Swift 5: Start your engines</title>
-      <link>https://freshswift.net/post/-kra4g2kwgdokawt1jni/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/README.md</link>
       <pubDate>Thu, 10 Aug 2017 07:39:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kra4g2kwgdokawt1jni/</guid>
-      <description></description>
+      <description>With the official Swift 4 release imminent, it’s time to start planning the next evolution of the language. In this update Ted Kremenek outlines the primary goals of the the next development major versions, Swift 5. It’s not surprising to see API stability being the primary focus, as it was discussed as a goal for Swift 4. Reading this reminds me how awesome it is that Swift is being developed in the open. Start your engines! 🏎.</description>
     </item>
     
     <item>
       <title>The Swift Evolution Process</title>
-      <link>https://freshswift.net/post/-kq8fh2wfxntyq2e-ndo/</link>
+      <link>https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170717/038180.html</link>
       <pubDate>Fri, 28 Jul 2017 12:54:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kq8fh2wfxntyq2e-ndo/</guid>
-      <description></description>
+      <description>With Swift being open-source, it is inevitable that people will have differing opinions on the language evolution process. In response to a discussion around the process, Chris Lattner offered his opinions on why the process works the way it does. It&#39;s a genuine and empathetic response, and some of the thoughts expressed can be applied to software engineering in general, particular around making perfect decisions up front when working in imperfect information.</description>
     </item>
     
     <item>
       <title>Introducing Guard-Catch</title>
-      <link>https://freshswift.net/post/-kobgoavuwxieqnvajyv/</link>
+      <link>https://gist.github.com/khanlou/8bd9c6f46e2b3d94f0e9f037c775f5b9</link>
       <pubDate>Sun, 09 Jul 2017 12:16:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kobgoavuwxieqnvajyv/</guid>
-      <description></description>
+      <description>Interesting draft Swift evolution proposal from Soroush Khanlou and Erica Sadun. It proposes a new guard / catch statement, which is congruent to the existing guard / else statement. Using the proposed guard / catch statement, we could attempt a throwing operation, and handle the error if thrown inside our guard catch block. The benefit here is that any value that we get when the throwing operation does not throw is then available the guard statement. There is no need to nest all our code in the do block of a do / catch statement.</description>
     </item>
     
     <item>
       <title>Introducing the !! operator to the Swift Standard Library</title>
-      <link>https://freshswift.net/post/-knxqmai5aetyzisizhb/</link>
+      <link>https://gist.github.com/erica/423e4b1c63b95c4c90338cdff4939a9b</link>
       <pubDate>Sat, 01 Jul 2017 09:15:38 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knxqmai5aetyzisizhb/</guid>
-      <description></description>
+      <description>I really like this draft Swift evolution proposal from Erica Sadun. It proposes an annotated forced unwrapping operator, !!, which attempts to forcefully unwrap an optional. If the forced unwrapping fails, it then documents the failure using the String specified at the callsite. Internally, the operator uses fatalError to document the specified message. I would love to see this make it in to the language.</description>
     </item>
     
     <item>
       <title>Swift phases and mis-timed proposals</title>
-      <link>https://freshswift.net/post/-kmk0j4jnynsh5idhepc/</link>
+      <link>https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20170605/004751.html</link>
       <pubDate>Fri, 16 Jun 2017 08:31:04 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmk0j4jnynsh5idhepc/</guid>
-      <description></description>
+      <description>The Swift evolution mailing list has been invaluable in providing a place when the wider Swift community can discuss Swift and it’s evolution proposals. However, ideas which don’t fit in to the scope of the upcoming Swift release can sometimes get lost. Here, as part of a thread discussing this, Ted Kremenek offers his opinion.</description>
     </item>
     
     <item>
       <title>Swift’s Evolution</title>
-      <link>https://freshswift.net/post/-kmnnlk-ydfjtoclk_od/</link>
+      <link>https://carpeaqua.com/2017/06/02/swifts-evolution/</link>
       <pubDate>Sun, 11 Jun 2017 18:20:51 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmnnlk-ydfjtoclk_od/</guid>
-      <description></description>
+      <description>Interest post from Justin Williams in which he shares his thoughts on the evolution of Swift. Justin takes a rather dim view of how Swift is evolving, but he does raise some valid points. It can be frustrating to adopt a language and then see changes being made to it which we don’t agree with. However, I think in general, the core Swift team and the community do a pretty good job of deciding what should be addressed in each Swift release.</description>
     </item>
     
     <item>
       <title>SE-0165: Dictionary &amp; Set Enhancements</title>
-      <link>https://freshswift.net/post/-kj8rlb8moaqr9ecldt6/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md</link>
       <pubDate>Sun, 30 Apr 2017 13:56:38 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8rlb8moaqr9ecldt6/</guid>
-      <description></description>
+      <description>Great to see this Swift proposal accepted, as it comprises  a variety of useful improvements to the standard Dictionary type, as well as corresponding changes to Set. I really like the key-based subscript with default value addition.</description>
     </item>
     
     <item>
       <title>Swift Evolution iOS app</title>
-      <link>https://freshswift.net/post/-kj8pgra-lzmq3p894mj/</link>
+      <link>https://itunes.apple.com/ie/app/evolution-app/id1210898168?mt=8</link>
       <pubDate>Mon, 24 Apr 2017 15:59:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8pgra-lzmq3p894mj/</guid>
-      <description></description>
+      <description>Thiago Holanda has released Evolution, a useful mobile app to follow Swift Evolution on your iOS device. It contains all the features you need to keep up to date like filtering of proposals, and information on the authors and reviewers.</description>
     </item>
     
     <item>
       <title>SE-1069: Improve interactions between private declarations and extensions</title>
-      <link>https://freshswift.net/post/-kj8opmi09kbkqj6x6qg/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0169-improve-interaction-between-private-declarations-and-extensions.md</link>
       <pubDate>Sun, 23 Apr 2017 09:54:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8opmi09kbkqj6x6qg/</guid>
-      <description></description>
+      <description>I&#39;m very happy to see this Swift evolution proposal accepted. The private access modifier in Swift 4 will have a slightly wider scope, and become more usable. With this, extensions to a type declared within the same file will have access to private members. It&#39;s a change which further supports the idea that type extensions should be used as  a code-organization tool.</description>
     </item>
     
   </channel>

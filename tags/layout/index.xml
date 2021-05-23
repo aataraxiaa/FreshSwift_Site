@@ -8,47 +8,42 @@
     <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/layout/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SwiftUI’s Grid Views</title>
-      <link>https://freshswift.net/post/01-12-20-130657/</link>
+      <link>https://www.objc.io/blog/2020/11/23/grid-layout/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-12-20-130657/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s grid views arrange their child views in a horizontal or vertical grid. However, how they layout their child views can be surprising, and in this post, Florian Kugler from Objc.io examines three particular grid view layout scenarios and explains how the layout algorithm works.</description>
     </item>
     
     <item>
       <title>How an Hstack Lays out Its Children</title>
-      <link>https://freshswift.net/post/23-11-20-085214/</link>
+      <link>https://www.objc.io/blog/2020/11/09/hstacks-child-ordering/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-11-20-085214/</guid>
-      <description></description>
+      <description>As Chris Eidhof states in the introduction to this post, SwiftUI&#39;s layout system is, for the most part, intuitive to use. However, there are times when we encounter puzzling layout behaviors, and here Chris provides a detailed explanation of how one particular container view, an HStack, lays out its child views.</description>
     </item>
     
     <item>
       <title>Working with Stacks in SwiftUI</title>
-      <link>https://freshswift.net/post/02-09-20-073257/</link>
+      <link>https://learnappmaking.com/stacks-vstack-hstack-swiftui-how-to/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-09-20-073257/</guid>
-      <description></description>
+      <description>SwiftUI provides several stack view types that can be used to combine views to create complex interfaces. In this post, Reinder de Vries looks at the VStack, HStack, and ZStack types, showing us how to position views within these stacks using alignment and spacing. Even if you are familiar with SwiftUI stack views, this is a good, quick refresher tutorial.</description>
     </item>
     
     <item>
       <title>Sharing layout information in SwiftUI</title>
-      <link>https://freshswift.net/post/20-08-20-073920/</link>
+      <link>https://fivestars.blog/swiftui/swiftui-share-layout-information.html</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-08-20-073920/</guid>
-      <description></description>
+      <description>SwiftUI provides container views such as stacks and lists, which we use to lay out the views in our user interface. However, when such container views are not enough to help us get our layout just right, SwiftUI also provides the GeometryReader type, which defines its content as a function of its own size and coordinate space. In this post, Federico Zanetello shows us how we can use GeometryReader, together with PreferenceKey, to share layout information from child views to ancestor views.</description>
     </item>
     
     <item>
       <title>Easier Scrolling With Layout Guides</title>
-      <link>https://freshswift.net/post/-ll9pmdbfszl5pamvvbk/</link>
+      <link>https://useyourloaf.com/blog/easier-scrolling-with-layout-guides/</link>
       <pubDate>Thu, 30 Aug 2018 12:36:09 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ll9pmdbfszl5pamvvbk/</guid>
-      <description></description>
+      <description>Keith Harrison from UseYourLoaf demonstrates how we can use layout guides to configure UIScrollView constraints. Swift code examples are provided.</description>
     </item>
     
   </channel>

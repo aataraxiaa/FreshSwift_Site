@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 05 Apr 2018 16:09:57 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/heap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heap Corruption Follow-up: Size, Alignment, and Crashing Collections</title>
-      <link>https://freshswift.net/post/-l9lz_jeqm18a6yvcruf/</link>
+      <link>https://topologyeyewear.github.io/engineering-blog/2018/03/19/heap_corruption_followup/</link>
       <pubDate>Thu, 05 Apr 2018 16:09:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9lz_jeqm18a6yvcruf/</guid>
-      <description></description>
+      <description>Greg Heo performs a post-mortem on a bug which was found in the Swift compiler. This is a great look at how Swift works with memory allocation. Greg explains some key concepts such as stride and alignment, before providing some tips on how we can efficiently investigate hard to find bugs.</description>
     </item>
     
   </channel>

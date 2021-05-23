@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 11 Jan 2018 09:07:12 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/interop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>@objc and dynamic</title>
-      <link>https://freshswift.net/post/-l2zthleehmamfcr1tt_/</link>
+      <link>https://swiftunboxed.com/interop/objc-dynamic/</link>
       <pubDate>Thu, 11 Jan 2018 09:07:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l2zthleehmamfcr1tt_/</guid>
-      <description></description>
+      <description>This post from Greg Heo examines Objective-C runtime visibility and dynamic dispatch. Greg does a great job of explaining how these work, and provides lots of Swift Intermediate Language examples to help us understand.</description>
     </item>
     
   </channel>

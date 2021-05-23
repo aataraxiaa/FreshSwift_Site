@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 08 Nov 2017 09:03:55 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/import/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Imports</title>
-      <link>https://freshswift.net/post/-kyprmdbyw1ic-vlnkfr/</link>
+      <link>https://robots.thoughtbot.com/swift-imports</link>
       <pubDate>Wed, 08 Nov 2017 09:03:55 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kyprmdbyw1ic-vlnkfr/</guid>
-      <description></description>
+      <description>We are all familiar with import declarations and it’s common to import one or more modules when writing Swift code. In this post, Patrick Montalto provides some background on how import actually works, and shows us how we can gain some advantages by using some lesser known variations of import.</description>
     </item>
     
   </channel>

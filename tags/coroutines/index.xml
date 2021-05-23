@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 21 Sep 2017 07:28:34 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/coroutines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Coroutines</title>
-      <link>https://freshswift.net/post/-kuykspyeayx0rm9704k/</link>
+      <link>http://www.figure.ink/blog/2017/9/4/expressive-coroutines</link>
       <pubDate>Thu, 21 Sep 2017 07:28:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kuykspyeayx0rm9704k/</guid>
-      <description></description>
+      <description>Coroutines are a general form of subroutine (function) that don’t follow normal subroutine rules. Coroutines can exit (return) whenever they call other coroutines, and can pick up where they left off when called again. In this post, Joshua Emmons explains why coroutines are becoming extremely relevant in Swift, particularly so when we consider the async/await proposal being discussed in Swift evolution. This is a great explanation for anyone unsure of what a coroutine is and how they might be used in Swift.</description>
     </item>
     
   </channel>

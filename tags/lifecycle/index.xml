@@ -8,47 +8,42 @@
     <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/lifecycle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SwiftUI View Lifecycle</title>
-      <link>https://freshswift.net/post/25-11-20-073131/</link>
+      <link>https://www.vadimbulavin.com/swiftui-view-lifecycle/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-11-20-073131/</guid>
-      <description></description>
+      <description>When working with UI frameworks, it&#39;s helpful to understand the lifecycle of the views which make up our interface. Knowing what and when events will occur enables us to perform our actions at the right time. In this post, Vadim Bulavin explores the three phases of the SwiftUI view lifecycle, describing the series of events that happen from the creation of a view to its destruction.</description>
     </item>
     
     <item>
       <title>Managing scenes in SwiftUI</title>
-      <link>https://freshswift.net/post/28-08-20-084125/</link>
+      <link>https://swiftwithmajid.com/2020/08/26/managing-scenes-in-swiftui/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-08-20-084125/</guid>
-      <description></description>
+      <description>On Apple platforms, a scene represents a part of an app&#39;s user interface, with a life cycle managed by the system. A single app may consist of multiple scenes, all of which can be running concurrently. With SwiftUI, we can use primitive scenes it provides, such as WindowGroup, together with custom scenes we create based on the Scene protocol. In this post, Majid Jabrayilov shows us how we can create custom scenes in SwiftUI, and how we can respond to app life cycle events.</description>
     </item>
     
     <item>
       <title>Managing app in SwiftUI</title>
-      <link>https://freshswift.net/post/21-08-20-084336/</link>
+      <link>https://swiftwithmajid.com/2020/08/19/managing-app-in-swiftui/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-08-20-084336/</guid>
-      <description></description>
+      <description>Swift 5.3 introduces the @main attribute, used to designate a type as the entry point for program execution. Combining this feature with the new App and Scene protocols from SwiftUI allows us to manage an app&#39;s lifecycle with minimal code, without needing to rely on UIKit types such as UIApplicationDelegate. In this post, Majid Jabrayilov shows us how to implement common app lifecycle events using these new features.</description>
     </item>
     
     <item>
       <title>Introducing Swift Service Lifecycle</title>
-      <link>https://freshswift.net/post/19-07-20-074219/</link>
+      <link>https://swift.org/blog/swift-service-lifecycle/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-07-20-074219/</guid>
-      <description></description>
+      <description>Tom Doron from the Swift Core Team announced a new open-source project for the Swift server ecosystem. The Service Lifecycle package is designed to help server applications, i.e services, manage their startup and shutdown sequences. It&#39;s always great to see progress being made regarding Swift on the server, and in this post, Tom describes the new package and provides an example of its usage.</description>
     </item>
     
     <item>
       <title>SwiftUI’s New App Lifecycle and Replacements for AppDelegate and SceneDelegate in iOS 14</title>
-      <link>https://freshswift.net/post/14-07-20-075448/</link>
+      <link>https://medium.com/better-programming/swiftuis-new-app-lifecycle-and-replacements-for-appdelegate-and-scenedelegate-in-ios-14-c9cf4a2367a9</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-07-20-075448/</guid>
-      <description></description>
+      <description>With iOS 14, it is now possible to build entire apps using only SwiftUI, avoiding the need to implement UIKit lifecycle protocols such as UIApplicationDelegate. This is made possible due to the introduction of new SwiftUI features such as the App protocol and SceneBuilder function builder. Here, Anupam Chugh shows us how we can leverage these new SwiftUI features to implement a SwiftUI app lifecycle.</description>
     </item>
     
   </channel>

@@ -8,65 +8,58 @@
     <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/property-wrapper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Custom Property Wrappers for SwiftUI</title>
-      <link>https://freshswift.net/post/12-04-21-142148/</link>
+      <link>https://davedelong.com/blog/2021/04/02/custom-property-wrappers-for-swiftui/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-04-21-142148/</guid>
-      <description></description>
+      <description>A Swift property wrapper adds a layer of separation between code that defines a property and code that managers how a property is stored. By creating custom property wrappers, we write the management code once when we define the wrapper, and then reuse this code when we apply the wrapper to properties. In this post, Dave Delong shares some useful property wrappers that he has come up with while working on SwiftUI.</description>
     </item>
     
     <item>
       <title>Swift types with @AppStorage and @SceneStorage</title>
-      <link>https://freshswift.net/post/16-08-20-082312/</link>
+      <link>https://www.fivestars.blog/swiftui/app-scene-storage.html</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-08-20-082312/</guid>
-      <description></description>
+      <description>Introduced this year, AppStorage is a SwiftUI property wrapper that reflects a value from UserDefaults which allows for easy storage and observation of app data. Similarly, SceneStorage is a property wrapper that reads and writes to persisted, per-scene storage. They are both super useful, but as they are backed by plists, they are limited in the types of data they support. In this post, Federico Zanetello shows us how we can extend the Published SwiftUI property wrapper to provide similar storage functionality for Codable types.</description>
     </item>
     
     <item>
       <title>Dependency Injection via Property Wrappers</title>
-      <link>https://freshswift.net/post/07-08-20-082648/</link>
+      <link>https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-08-20-082648/</guid>
-      <description></description>
+      <description>Property Wrappers in Swift allow us to add a layer of separation between code that manages how a property is stored and the code that defines a property. It&#39;s a powerful feature with a lot of potential use cases. Dependency injection is a software engineering technique used to supply dependencies to an object or value type. In this post, Kilo Loco demonstrates how we can use Swift property wrappers to pass dependencies to a SwiftUI view. It&#39;s a cool idea.</description>
     </item>
     
     <item>
       <title>Allow Property Wrappers with Multiple Arguments to Defer Initialization when wrappedValue is not Specified</title>
-      <link>https://freshswift.net/post/28-07-20-134247/</link>
+      <link>https://forums.swift.org/t/allow-property-wrappers-with-multiple-arguments-to-defer-initialization-when-wrappedvalue-is-not-specified/38319</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-07-20-134247/</guid>
-      <description></description>
+      <description>Swift Property Wrappers without arguments can defer specifying the wrapped value until the initialization of the containing type. In this Swift evolution pitch, Andrew Arnopoulos proposes making this feature available to Property Wrappers which have multiple arguments. Seems like a reasonable proposal to me.</description>
     </item>
     
     <item>
       <title>SwiftUI Property Wrappers</title>
-      <link>https://freshswift.net/post/20-07-20-080103/</link>
+      <link>https://swiftuipropertywrappers.com</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-07-20-080103/</guid>
-      <description></description>
+      <description>SwiftUI provides a variety of property wrappers that we can leverage to manage state and data flow in our applications. Deciding which property wrapper to use depends on several factors, such as the type of data being wrapped, how the data is used, and how the SwiftUI view receives the data. This site, created by Donny Wals, is a quick reference when making such a decision. Definitely one to bookmark.</description>
     </item>
     
     <item>
       <title>How to use @ObservedObject to manage state from external objects</title>
-      <link>https://freshswift.net/post/02-06-20/</link>
+      <link>https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-06-20/</guid>
-      <description></description>
+      <description>At this point, most of us are likely familiar with how observed objects can be used with SwiftUI to manage state. However, a quick refresh is often helpful, and this post from Paul Hudson provides exactly that.</description>
     </item>
     
     <item>
       <title>How to Define a Protocol With @Published Property Wrapper Type</title>
-      <link>https://freshswift.net/post/24-05-20/</link>
+      <link>https://swiftsenpai.com/swift/define-protocol-with-published-property-wrapper/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-05-20/</guid>
-      <description></description>
+      <description>One current limitation of Swift&#39;s property wrapper feature is that we cannot apply a property wrapper to a property defined in a protocol. Here, Lee demonstrates a workaround to this limitation, showing us how we can apply the @Published property wrapper to a protocol property.</description>
     </item>
     
   </channel>

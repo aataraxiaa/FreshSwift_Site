@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 10 Aug 2018 09:26:36 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/where/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Where usage in Swift</title>
-      <link>https://freshswift.net/post/-ljy9aeri5xpqm4bj1hp/</link>
+      <link>https://www.avanderlee.com/swift/where-using-swift/</link>
       <pubDate>Fri, 10 Aug 2018 09:26:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ljy9aeri5xpqm4bj1hp/</guid>
-      <description></description>
+      <description>Antoine van der Lee presents examples of how and when we can use the where clause in Swift to easily filter values.</description>
     </item>
     
   </channel>

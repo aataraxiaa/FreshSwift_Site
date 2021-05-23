@@ -8,29 +8,26 @@
     <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/type-erasure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding type erasure in Swift</title>
-      <link>https://freshswift.net/post/22-05-20/</link>
+      <link>https://www.donnywals.com/understanding-type-erasure-in-swift/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-05-20/</guid>
-      <description></description>
+      <description>In this post Donny Wals explains type erasure. Donny first describes why type erasure is useful, and then shows us how we can apply it in our code. This is a great post, and explains a complicated topic in a very accessible manner.</description>
     </item>
     
     <item>
       <title>Type Erasure in Swift</title>
-      <link>https://freshswift.net/post/-l1rqktatb1egphjx5cb/</link>
+      <link>https://mikeash.com/pyblog/friday-qa-2017-12-08-type-erasure-in-swift.html?utm_source=Swift_Developments&amp;utm_medium=email&amp;utm_campaign=Swift_Developments_Issue_118</link>
       <pubDate>Tue, 02 Jan 2018 15:11:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l1rqktatb1egphjx5cb/</guid>
-      <description></description>
+      <description>Type Erasure is a phase you might have heard of, but you may not be sure exactly what it means. In this post from his Q&amp;A series, Mike Ash describes what Type Erasure is, and why we might want to use it.</description>
     </item>
     
     <item>
       <title>Type Erasure in Swift</title>
-      <link>https://freshswift.net/post/-kruj04oi5rnc-z52y47/</link>
+      <link>https://www.slacktime.org/type-erasure/</link>
       <pubDate>Mon, 14 Aug 2017 07:53:53 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kruj04oi5rnc-z52y47/</guid>
-      <description></description>
+      <description>When using Swift protocols, it is sometimes useful to declare associated types as part of their  definition. This allows us to give placeholder names to types that are used as part of the protocol. However, one issue we encounter when doing this is that the protocol cannot be used as a concrete type. Type erasure is one way to get around this limitation, and in this post Chris shows us how.</description>
     </item>
     
   </channel>

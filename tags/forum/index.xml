@@ -8,29 +8,26 @@
     <lastBuildDate>Mon, 27 Aug 2018 11:37:20 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/forum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kickstarting new official Docker support for Swift</title>
-      <link>https://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</link>
+      <link>https://forums.swift.org/t/kickstarting-new-official-docker-support-for-swift/15487</link>
       <pubDate>Mon, 27 Aug 2018 11:37:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lkva7l1lwwsmraxdtzg/</guid>
-      <description></description>
+      <description>Haris Amin has started a thread on the official Swift forum outlining a plan to support an official Swift Docker image. Docket is software which allows people to get started and experiment with container-based software. Great to see.</description>
     </item>
     
     <item>
       <title>RFC: making Swift.org a more valuable resource for the Swift community</title>
-      <link>https://freshswift.net/post/-lkc8ofqaphnkscdfvqf/</link>
+      <link>https://forums.swift.org/t/rfc-making-swift-org-a-more-valuable-resource-for-the-swift-community/15303</link>
       <pubDate>Sat, 18 Aug 2018 13:07:13 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lkc8ofqaphnkscdfvqf/</guid>
-      <description></description>
+      <description>On the Swift forum Ted Kremenek has written a request for comment regarding making Swift.org a more valuable resource for the Swift community. Ted suggests that Swift.org could be improved, and is asking the community what changes they would like to see. It’s great to see the core team interacting with the community like this.</description>
     </item>
     
     <item>
       <title>Swift Evolution moves to Discourse</title>
-      <link>https://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</link>
+      <link>https://forums.swift.org/top/all</link>
       <pubDate>Sun, 17 Dec 2017 10:47:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l0z4ngdat43c6eq0xhm/</guid>
-      <description></description>
+      <description>Swift Evolution has up until now used mailing lists for all community discussions. While mailing lists served the purpose adequately, they were not ideal. Now, the move to Discourse is under way. Discourse provides a more modern, forum-based solution, and it’s where all Swift community discussions will now happen.</description>
     </item>
     
   </channel>

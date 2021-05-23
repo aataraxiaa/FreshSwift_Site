@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 01 May 2017 08:53:46 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/error-handling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Picking the right way of failing in Swift</title>
-      <link>https://freshswift.net/post/-kj8s-idi0_0jqjk-bay/</link>
+      <link>https://medium.com/@johnsundell/picking-the-right-way-of-failing-in-swift-e89125a6b5b5</link>
       <pubDate>Mon, 01 May 2017 08:53:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8s-idi0_0jqjk-bay/</guid>
-      <description></description>
+      <description>John Sundell looks at the different ways errors can be handled in Swift. He lists the available techniques, split in to recoverable and non-recoverable techniques, and provides examples of usage. Also, remember, print(error) is not error handling 😉.</description>
     </item>
     
   </channel>

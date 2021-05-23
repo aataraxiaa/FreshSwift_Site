@@ -8,29 +8,26 @@
     <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/attribute/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>@warn_unqualified_access</title>
-      <link>https://freshswift.net/post/20-10-20-073243/</link>
+      <link>https://fivestars.blog/swift/warn_unqualified_access.html</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-10-20-073243/</guid>
-      <description></description>
+      <description>Introduced in Swift 2, @warn_unqualified_access triggers a warning when the function or method it is applied to is used without a preceding qualifier, such as a module or type name. In this post, Federico Zanetello shows us how to use this attribute to discourage ambiguity between functions with the same signature.</description>
     </item>
     
     <item>
       <title>How Swift API Availability Works Internally</title>
-      <link>https://freshswift.net/post/11-10-20-073039/</link>
+      <link>https://swiftrocks.com/how-availability-works-internally-in-swift</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-10-20-073039/</guid>
-      <description></description>
+      <description>Swift&#39;s @available attribute allows us to specify the availability of a declaration on different platforms and different versions of Swift. In this post, Bruno Rocha takes a deep dive into how Swift API availability works internally, showing us how the Swift compiler treats availability attributes.</description>
     </item>
     
     <item>
       <title>The Forbidden @inline Attribute in Swift</title>
-      <link>https://freshswift.net/post/-lgvwtc1gkt6uukflyqn/</link>
+      <link>https://swiftrocks.com/the-forbidden-inline-attribute-in-swift.html</link>
       <pubDate>Tue, 03 Jul 2018 16:22:14 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lgvwtc1gkt6uukflyqn/</guid>
-      <description></description>
+      <description>Bruno Rocha looks at an obscure Swift attribute - the @inline attribute. This attribute can be used in Swift to specify if we want the compiler to perform function inlining, a common compiler optimization technique. Note that although this attribute is currently available for use, it’s not something which is officially documented, and so usage is generally discouraged.</description>
     </item>
     
   </channel>

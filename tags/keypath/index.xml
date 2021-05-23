@@ -8,56 +8,50 @@
     <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/keypath/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift KeyPaths under a different optic</title>
-      <link>https://freshswift.net/post/02-11-20-075117/</link>
+      <link>https://www.47deg.com/blog/keypaths-optics/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-11-20-075117/</guid>
-      <description></description>
+      <description>Bow is a library for typed functional programming in Swift. The optics module in Bow provides several utilities to work with immutable data structures. In this post, Tomás Ruiz López compares Swift KeyPaths to features available in the Bow optics module.</description>
     </item>
     
     <item>
       <title>Introduce AnonymousKeyPath</title>
-      <link>https://freshswift.net/post/09-07-20-084545/</link>
+      <link>https://forums.swift.org/t/introduce-anonymouskeypath/38080</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-07-20-084545/</guid>
-      <description></description>
+      <description>In this evolution pitch from the Swift forums, Shai Mishali suggests the introduction of a new kind of KeyPath - AnonymousKeyPath. The idea here is that the key path can be used without knowing the Root of the KeyPath, but rather only the Value constrained to it. Although it&#39;s an interesting suggestion, the discussion that follows the pitch indicates that the problem it solves can be solved in other, more effective ways.</description>
     </item>
     
     <item>
       <title>The power of key paths in Swift</title>
-      <link>https://freshswift.net/post/-lqus8qf27jin2tprdmo/</link>
+      <link>https://www.swiftbysundell.com/posts/the-power-of-key-paths-in-swift</link>
       <pubDate>Sun, 04 Nov 2018 16:00:53 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lqus8qf27jin2tprdmo/</guid>
-      <description></description>
+      <description>In this entry of his regular series on Swift, John Sundell demonstrates the power of Swift key paths, a dynamic feature introduced with Swift 4. I particularly like the section on converting key paths to functions, allowing them to be used in place of completion closures.</description>
     </item>
     
     <item>
       <title>How Swift keypaths let us write more natural code</title>
-      <link>https://freshswift.net/post/-l822nyopuykbodxclul/</link>
+      <link>https://www.hackingwithswift.com/articles/57/how-swift-keypaths-let-us-write-more-natural-code</link>
       <pubDate>Tue, 20 Mar 2018 10:58:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l822nyopuykbodxclul/</guid>
-      <description></description>
+      <description>Paul Hudson demonstrates how we can use Swift 4’s key-path expressions to write more natural Swift code, without constraining the types we create.</description>
     </item>
     
     <item>
       <title>Auto Layout with Key Paths</title>
-      <link>https://freshswift.net/post/-kyouzgeglierlfemymo/</link>
+      <link>https://talk.objc.io/episodes/S01E75-auto-layout-with-key-paths</link>
       <pubDate>Mon, 13 Nov 2017 10:26:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kyouzgeglierlfemymo/</guid>
-      <description></description>
+      <description>In episode 75 of their Swift Talk series, the guys from objc.io show us how we can clean up our layout code by introducing helper functions based on Swift key paths. This is a really cool usage of key paths, and I can definitely see myself adopting this approach.</description>
     </item>
     
     <item>
       <title>Struct References</title>
-      <link>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</link>
+      <link>http://chris.eidhof.nl/post/references/</link>
       <pubDate>Sat, 22 Jul 2017 10:14:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</guid>
-      <description></description>
+      <description>Great article from Chris Eidhof in which he looks to combine the usage of references types and value types to get the best of both worlds. He uses new Swift 4 features such as keypaths and generic subscripts together with existing Swift features to create types which are mutable and observable, while also having underlying value type data.</description>
     </item>
     
   </channel>

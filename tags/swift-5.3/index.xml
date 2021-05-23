@@ -8,83 +8,74 @@
     <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swift-5.3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What does @main do in Swift 5.3?</title>
-      <link>https://freshswift.net/post/06-10-20-073516/</link>
+      <link>https://useyourloaf.com/blog/what-does-main-do-in-swift-5.3/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-10-20-073516/</guid>
-      <description></description>
+      <description>Swift 5.3 introduced the @main attribute, providing a way to designate a type as the entry point of a Swift program. In this post, Keith Harrison shares what he learned when he investigated how iOS and Swift programs start when using this attribute.</description>
     </item>
     
     <item>
       <title>How Swift 5.3 enhances SwiftUI’s DSL</title>
-      <link>https://freshswift.net/post/21-09-20-074812/</link>
+      <link>https://swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-09-20-074812/</guid>
-      <description></description>
+      <description>Swift 5.3 was officially released last week, and although it&#39;s technically only a minor release, it includes several very useful language enhancements. In this post, John Sundell takes a look at some of these enhancements and shows how they collectively improve the SwiftUI development experience.</description>
     </item>
     
     <item>
       <title>Swift 5.3 released!</title>
-      <link>https://freshswift.net/post/19-09-20-080256/</link>
+      <link>https://swift.org/blog/swift-5-3-released/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-09-20-080256/</guid>
-      <description></description>
+      <description>With the release of Xcode 12 this week, we also got the official release of Swift 5.3. The focus of this release is language refinements, developer experience, and expanding the Swift ecosystem. In this post, Holly Borla from the Swift compiler team at Apple provides an overview of the release.</description>
     </item>
     
     <item>
       <title>Building SwiftUI debugging utilities</title>
-      <link>https://freshswift.net/post/25-08-20-074510/</link>
+      <link>https://swiftbysundell.com/articles/building-swiftui-debugging-utilities/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-08-20-074510/</guid>
-      <description></description>
+      <description>Debugging - the process of identifying and removing bugs - is almost guaranteed to be part of any software development lifecycle. Xcode includes a suite of tools to help us debug, and although these are comprehensive, sometimes building our own set of debugging utilities can be useful. In this post, John Sundell shows us examples of such custom utilities used to debug SwiftUI-based views.</description>
     </item>
     
     <item>
       <title>Managing app in SwiftUI</title>
-      <link>https://freshswift.net/post/21-08-20-084336/</link>
+      <link>https://swiftwithmajid.com/2020/08/19/managing-app-in-swiftui/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-08-20-084336/</guid>
-      <description></description>
+      <description>Swift 5.3 introduces the @main attribute, used to designate a type as the entry point for program execution. Combining this feature with the new App and Scene protocols from SwiftUI allows us to manage an app&#39;s lifecycle with minimal code, without needing to rely on UIKit types such as UIApplicationDelegate. In this post, Majid Jabrayilov shows us how to implement common app lifecycle events using these new features.</description>
     </item>
     
     <item>
       <title>A deep dive into Swift’s function builders</title>
-      <link>https://freshswift.net/post/17-08-20-074551/</link>
+      <link>https://www.swiftbysundell.com/articles/deep-dive-into-swift-function-builders/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-08-20-074551/</guid>
-      <description></description>
+      <description>Despite not yet being an officially released language feature, Swift&#39;s function builders power SwiftUI&#39;s DSL-like API and is one of the more interesting recent additions to the language. In this deep dive, John Sundell takes a closer look at function builders, providing insights into the feature by implementing a function builder for a settings API. Like John, I hope the function builders feature goes through the Swift Evolution process sooner rather than later.</description>
     </item>
     
     <item>
       <title>Entry Points in Swift: How @main and @UIApplicationMain work internally</title>
-      <link>https://freshswift.net/post/31-07-20-074228/</link>
+      <link>https://swiftrocks.com/entry-points-swift-uiapplicationmain-main</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/31-07-20-074228/</guid>
-      <description></description>
+      <description>When creating Swift command-line programs, the Swift compiler automatically generates the main C function, which is used as the program&#39;s entry point. On iOS, where the entry point needs to be more tightly controlled, Swift provides attributes that can be used to designate an app&#39;s entry point. In this post, Bruno Rocha looks at how Swift determines the entry point of an app and explains how the attributes available in iOS work internally.</description>
     </item>
     
     <item>
       <title>Generating automatic placeholders for SwiftUI views</title>
-      <link>https://freshswift.net/post/28-07-20-074401/</link>
+      <link>https://www.swiftbysundell.com/tips/swiftui-automatic-placeholders/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-07-20-074401/</guid>
-      <description></description>
+      <description>SwiftUI now includes a new modifier, redacted, which can be used to automatically generate placeholders for views. In this post, John Sundell provides an example of using this new modifier, and also shows us how we can use the redactionReasons environment variable to implement custom behaviour.</description>
     </item>
     
     <item>
       <title>What&#39;s new in Swift 5.3?</title>
-      <link>https://freshswift.net/post/27-05-20/</link>
+      <link>https://theswiftdev.com/whats-new-in-swift-5-3/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-05-20/</guid>
-      <description></description>
+      <description>Tibor Bödecs with a post that showcases some of the latest language features coming in Swift 5.3. All of the improvements Tibor describes are really cool, but my favourite is the implementation of SE-0268, which improves didSet semantics. It&#39;s a subtle, low-profile change which improves the performance of the language.</description>
     </item>
     
   </channel>

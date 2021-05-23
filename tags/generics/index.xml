@@ -8,65 +8,58 @@
     <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/generics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phantom types in Swift</title>
-      <link>https://freshswift.net/post/26-02-21-134938/</link>
+      <link>https://swiftwithmajid.com/2021/02/18/phantom-types-in-swift/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-02-21-134938/</guid>
-      <description></description>
+      <description>A phantom type in Swift is a generic type that is declared but not used inside the type where it is declared. In this post, Majid Jabrayilov demonstrates how to use phantom types to create type-safe and robust APIs.</description>
     </item>
     
     <item>
       <title>Opaque return types in Swift</title>
-      <link>https://freshswift.net/post/25-07-20-074625/</link>
+      <link>https://www.swiftbysundell.com/articles/opaque-return-types-in-swift/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-07-20-074625/</guid>
-      <description></description>
+      <description>Swift&#39;s opaque return types allow us to hide type information for a returned value. While this language feature is likely most familiar from its usage in SwiftUI, it&#39;s a general-purpose feature that can be used in many different contexts. In this post, John Sundell takes a closer look at opaque return types, providing concrete examples of how they can be used.</description>
     </item>
     
     <item>
       <title>Designing reusable Swift libraries</title>
-      <link>https://freshswift.net/post/13-06-20/</link>
+      <link>https://www.swiftbysundell.com/articles/designing-reusable-swift-libraries/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-06-20/</guid>
-      <description></description>
+      <description>Implementing pragmatic reusable code involves striking the right balance between reducing duplication and avoiding unnecessary layers of abstraction. This post from John Sundell aims to help us achieve that balance, showing us how to package generic concepts as libraries with the help of strong types and unit testing.</description>
     </item>
     
     <item>
       <title>Understanding protocol associated types and their constraints</title>
-      <link>https://freshswift.net/post/-l9oaal94xx9ggeop4zs/</link>
+      <link>https://www.hackingwithswift.com/articles/74/understanding-protocol-associated-types-and-their-constraints</link>
       <pubDate>Wed, 11 Apr 2018 12:07:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9oaal94xx9ggeop4zs/</guid>
-      <description></description>
+      <description>Paul Hudson dives into Swift protocols and associated types. Paul explains why protocol associated types are so powerful, before showing us how best control their complexity using constraints.</description>
     </item>
     
     <item>
       <title>Understanding Swift 4 generics and applying them in your code</title>
-      <link>https://freshswift.net/post/-l2ykea7n-vj4prohvfp/</link>
+      <link>http://iosbrain.com/blog/2018/01/02/understanding-swift-4-generics-and-applying-them-to-your-code</link>
       <pubDate>Tue, 16 Jan 2018 11:37:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l2ykea7n-vj4prohvfp/</guid>
-      <description></description>
+      <description>In this post, Andrew Jaffee uses some simple examples to help us understand Swift 4 Generics, and shows us how to apply what we learn to our own code. Even if you are familiar with Swift Generics, this is a good, quick refresher.</description>
     </item>
     
     <item>
       <title>Using generic type constraints in Swift 4</title>
-      <link>https://freshswift.net/post/-kwz9lyhd17v3ijtwdzx/</link>
+      <link>https://www.swiftbysundell.com/posts/using-generic-type-constraints-in-swift-4</link>
       <pubDate>Mon, 16 Oct 2017 07:50:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwz9lyhd17v3ijtwdzx/</guid>
-      <description></description>
+      <description>John Sundell shows us how to get the most out of generic type constraints. He presents code examples, together with explanations, of some common techniques and patterns that are made possible due to type constraints.</description>
     </item>
     
     <item>
       <title>Struct References</title>
-      <link>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</link>
+      <link>http://chris.eidhof.nl/post/references/</link>
       <pubDate>Sat, 22 Jul 2017 10:14:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpdmbc2o2n5rdq2ejir/</guid>
-      <description></description>
+      <description>Great article from Chris Eidhof in which he looks to combine the usage of references types and value types to get the best of both worlds. He uses new Swift 4 features such as keypaths and generic subscripts together with existing Swift features to create types which are mutable and observable, while also having underlying value type data.</description>
     </item>
     
   </channel>

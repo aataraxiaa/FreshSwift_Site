@@ -8,101 +8,90 @@
     <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc20/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with WidgetKit</title>
-      <link>https://freshswift.net/post/22-07-20-083925/</link>
+      <link>https://wwdcbysundell.com/2020/getting-started-with-widgetkit/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-07-20-083925/</guid>
-      <description></description>
+      <description>Apple introduced WidgetKit at WWDC20, a new framework that enables us to build widgets that can be displayed on users&#39; home screens. These widgets are built exclusively using SwiftUI. In this post, John Sundell takes a first look at WidgetKit, and shows us how to get started by building a simple widget.</description>
     </item>
     
     <item>
       <title>SwiftUI’s New App Lifecycle and Replacements for AppDelegate and SceneDelegate in iOS 14</title>
-      <link>https://freshswift.net/post/14-07-20-075448/</link>
+      <link>https://medium.com/better-programming/swiftuis-new-app-lifecycle-and-replacements-for-appdelegate-and-scenedelegate-in-ios-14-c9cf4a2367a9</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-07-20-075448/</guid>
-      <description></description>
+      <description>With iOS 14, it is now possible to build entire apps using only SwiftUI, avoiding the need to implement UIKit lifecycle protocols such as UIApplicationDelegate. This is made possible due to the introduction of new SwiftUI features such as the App protocol and SceneBuilder function builder. Here, Anupam Chugh shows us how we can leverage these new SwiftUI features to implement a SwiftUI app lifecycle.</description>
     </item>
     
     <item>
       <title>A first look at matchedGeometryEffect</title>
-      <link>https://freshswift.net/post/12-07-20-110347/</link>
+      <link>https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-07-20-110347/</guid>
-      <description></description>
+      <description>SwiftUI provides great support for animation, allowing us to animate changes to views, or to a view&#39;s state. In the latest version of SwiftUI, included in the iOS 14 beta, we get a new method, matchedGeometryEffect, which defines a group of views with synchronized geometry. Combining this method with SwiftUI&#39;s support for animations allows us to animate a change in the position and size of two or more views in our view hierarchy. In this post, Sarun shows us how it&#39;s done.</description>
     </item>
     
     <item>
       <title>Adding optional @Bindings to SwiftUI views</title>
-      <link>https://freshswift.net/post/11-07-20-083958/</link>
+      <link>https://www.fivestars.blog/code/optional-binding.html</link>
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-07-20-083958/</guid>
-      <description></description>
+      <description>SwiftUI gained a number of new view types at WWDC this year, one of them being DisclosureGroup. DisclosureGroup acts like an expandable cell, showing or hiding it&#39;s content based on it&#39;s disclosure state. One interesting aspect of this view is that it provides a number of initializers, some of which require an isExpanded binding, some of which don&#39;t. In other words, this isExpanded binding is optionally passed in when the view is initialized. In this post, Federico Zanetello shows us how we can add optional bindings to SwiftUI views, by creating his own version of the DisclosureGroup view.</description>
     </item>
     
     <item>
       <title>New property wrappers in SwiftUI</title>
-      <link>https://freshswift.net/post/06-07-20-080136/</link>
+      <link>https://swiftwithmajid.com/2020/06/29/new-property-wrappers-in-swiftui/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-07-20-080136/</guid>
-      <description></description>
+      <description>SwiftUI allows us to declaratively build our user interfaces, while also indicating data dependencies for our views. We indicate these dependencies using data management types, which are implemented in SwiftUI as property wrappers such as State and Binding. With iOS 14, SwiftUI introduces additional property wrappers to help us manage state and data flow, and in this post, Majid shows us how we can use them.</description>
     </item>
     
     <item>
       <title>How SwiftUI can now be used to build entire iOS apps</title>
-      <link>https://freshswift.net/post/05-07-20-110345/</link>
+      <link>https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-07-20-110345/</guid>
-      <description></description>
+      <description>At this year&#39;s WWDC20, SwiftUI received some very impressive updates. One of them is the ability to create an entry point for an app without needing to rely on UIKit/AppKit. What this means is that we can now build an entire app using SwiftUI. In this post, John Sundell shows us how simple it is to build such an app.</description>
     </item>
     
     <item>
       <title>Use PinnedScrollableViews to make sticky headers</title>
-      <link>https://freshswift.net/post/05-07-20-123355/</link>
+      <link>https://yoswift.dev/swiftui/pinnedScrollableViews/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-07-20-123355/</guid>
-      <description></description>
+      <description>In this short post from Yo! Swift, we learn how to use the new SwiftUI PinnedScrollableViews type to implement sticky headers in a scrollable view.</description>
     </item>
     
     <item>
       <title>What&#39;s new in SwiftUI</title>
-      <link>https://freshswift.net/post/25-06-20-085506/</link>
+      <link>https://swiftwithmajid.com/2020/06/23/what-is-new-in-swiftui/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-06-20-085506/</guid>
-      <description></description>
+      <description>It&#39;s WWDC20, and all new SwiftUI features are here! In this post, Majid takes a peek at some of these new features. There are some really cool additions in this iteration of SwiftUI, and I particularly like the new way of defining an app&#39;s entry point using the new App and Scene protocols.</description>
     </item>
     
     <item>
       <title>What’s new in SwiftUI for iOS 14</title>
-      <link>https://freshswift.net/post/23-06-20-113932/</link>
+      <link>https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-06-20-113932/</guid>
-      <description></description>
+      <description>It&#39;s a big week, with lots of awesome new things to learn and try out. SwiftUI was always going to see big improvements this year, and luckily we have people like Paul Hudson to help us keep up with all the changes. This evolving post from Paul summarises the SwiftUI changes as Paul works through them, and he includes code samples for all. Bookmark and check back in daily.</description>
     </item>
     
     <item>
       <title>Why TextView is my SwiftUI canary</title>
-      <link>https://freshswift.net/post/19-06-20-081701/</link>
+      <link>https://appdecentral.com/2020/06/07/why-textview-is-my-swiftui-canary/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-06-20-081701/</guid>
-      <description></description>
+      <description>This is a very interesting post from Drew McCormack. Ahead of WWDC20, Drew writes about how SwiftUI&#39;s declarative style currently presents performance challenges when working with large volumes of changing model data. Drew then explains why he will be looking at how SwiftUI handles text as the framework evolves, as it&#39;s a good indication of whether SwiftUI is ready to replace UIKit/AppKit.</description>
     </item>
     
     <item>
       <title>SwiftUI wishlist for WWDC20</title>
-      <link>https://freshswift.net/post/18-06-20/</link>
+      <link>https://swiftwithmajid.com/2020/06/10/swiftui-wishlist-for-wwdc20/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-06-20/</guid>
-      <description></description>
+      <description>With WWDC20 just around the corner, Majid shares his wishlist of SwiftUI features and updates which he hopes Apple will announce next week. I would be surprised if Apple didn&#39;t announce at least a couple of these, particularly a SwiftUI version of CompositionalLayout and additional views such as SearchBar and TextView.</description>
     </item>
     
   </channel>

@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 13 Nov 2018 09:21:55 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/editor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Language Server Protocol</title>
-      <link>https://freshswift.net/post/-lrbn8pnht6fdnrz7wt9/</link>
+      <link>https://nshipster.com/language-server-protocol/</link>
       <pubDate>Tue, 13 Nov 2018 09:21:55 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lrbn8pnht6fdnrz7wt9/</guid>
-      <description></description>
+      <description>Apple recently announced that it was starting work to adopt the Language Server Protocol for Swift. In this post, Mattt Thompson from NSHipster explains why this is one of the most important decisions Apple has made for Swift since releasing the language as open-source in 2014.</description>
     </item>
     
   </channel>

@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 04 Aug 2017 07:30:06 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/print/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How do I simplify `Swift.print`?</title>
-      <link>https://freshswift.net/post/-kqg8fi3_ubbex_ijkuh/</link>
+      <link>http://ericasadun.com/2017/07/18/dear-erica-how-do-i-simplify-swift-print/</link>
       <pubDate>Fri, 04 Aug 2017 07:30:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqg8fi3_ubbex_ijkuh/</guid>
-      <description></description>
+      <description>Erica Sadun encountered a problem when trying to call Swift.print on macOS from a subclass of a type which declares it’s own print function. Fortunately this name-overlap issue is fixed in macOS High Sierra, but the solution Erica comes up with is interesting.</description>
     </item>
     
   </channel>

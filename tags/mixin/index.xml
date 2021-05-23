@@ -8,20 +8,18 @@
     <lastBuildDate>Sun, 01 Apr 2018 13:11:05 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/mixin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dependency Mixins in Swift using Protocol-Oriented-Programming</title>
-      <link>https://freshswift.net/post/-l90khp1d7op-bkveazv/</link>
+      <link>https://chickenwing.software/scratches/programming/swift-programming/swift-dependency-mixin?utm_source=newsletter_mailer&amp;utm_medium=email&amp;utm_campaign=weekly</link>
       <pubDate>Sun, 01 Apr 2018 13:11:05 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l90khp1d7op-bkveazv/</guid>
-      <description></description>
+      <description>Eddie Sullivan describes an approach to handling dependencies between types. Eddie looks at the idea of using protocol-based mixins to reduce coupling. Although this is not exactly the approach I would take, it’s always worth learning about how others approach a common problem.</description>
     </item>
     
     <item>
       <title>Swift Protocols as UI Mixins</title>
-      <link>https://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</link>
+      <link>http://cleancocoa.com/posts/2017/04/protocol-ui-mixin/</link>
       <pubDate>Tue, 02 May 2017 16:51:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj93n5s7zi9yi6ydzkf/</guid>
-      <description></description>
+      <description>Christian Tietze comments on a GitHub gist which adds pull to refresh to a UITableView. The gist is a nice example of using a Swift protocol with a default implementation to add functionality to a UI element.</description>
     </item>
     
   </channel>

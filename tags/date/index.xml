@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 14 Dec 2017 11:37:27 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/date/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Codable With Custom Dates</title>
-      <link>https://freshswift.net/post/-l0jo99fb05lti4drvej/</link>
+      <link>https://useyourloaf.com/blog/swift-codable-with-custom-dates/?utm_campaign=iOS%2BDev%2BWeekly&amp;utm_medium=email&amp;utm_source=iOS_Dev_Weekly_Issue_330</link>
       <pubDate>Thu, 14 Dec 2017 11:37:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l0jo99fb05lti4drvej/</guid>
-      <description></description>
+      <description>Another useful post from Keith Harrison of Use Your Loaf. This time Keith shows us how to use Swift 4’s Codable protocols to decode JSON which contains date values in more than one format.</description>
     </item>
     
   </channel>

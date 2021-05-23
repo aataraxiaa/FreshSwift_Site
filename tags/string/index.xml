@@ -8,92 +8,82 @@
     <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/string/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploiting String Interpolation For Fun And For Profit</title>
-      <link>https://freshswift.net/post/12-03-21-142012/</link>
+      <link>https://davedelong.com/blog/2021/03/04/exploiting-string-interpolation-for-fun-and-for-profit/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-03-21-142012/</guid>
-      <description></description>
+      <description>String interpolation allows us to construct a Swift String value from a mix of constants, variables, literals, and expressions. In this post, Dave Delong gets creative with interpolation, creating what he describes as a solution in search of a problem.</description>
     </item>
     
     <item>
       <title>Swift Evolution - Fix ExpressibleByStringInterpolation</title>
-      <link>https://freshswift.net/post/-los8ty-blocivkck808/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0228-fix-expressiblebystringinterpolation.md</link>
       <pubDate>Wed, 10 Oct 2018 08:46:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-los8ty-blocivkck808/</guid>
-      <description></description>
+      <description>This is a really cool Swift language evolution proposal which proposes a new design for the ExpressibleByStringInterpolation protocol. Due to issues with the original implementation of this protocol, it was deprecated. The new design aims to address these issues, and add new capabilities to string interpolation.</description>
     </item>
     
     <item>
       <title>Swift Evolution - &#39;Raw&#39; mode string literals</title>
-      <link>https://freshswift.net/post/-l7ynhuphzxsd3obzdww/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0200-raw-string-escaping.md</link>
       <pubDate>Mon, 19 Mar 2018 15:07:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l7ynhuphzxsd3obzdww/</guid>
-      <description></description>
+      <description>I like this Swift evolution proposal from John Holdsworth. John proposes adding a feature which allows us to use &#39;raw-mode&#39; when creating string literals. This would enable us to create strings containing backslashes which are not interpreted as escaping introducers. This could be useful for regular expressions.</description>
     </item>
     
     <item>
       <title>A Quick Tip For String Performance</title>
-      <link>https://freshswift.net/post/-l0e8r7kpifphifvxkzw/</link>
+      <link>https://www.objc.io/blog/2017/12/12/quick-tip-for-string-performance/</link>
       <pubDate>Mon, 18 Dec 2017 15:02:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l0e8r7kpifphifvxkzw/</guid>
-      <description></description>
+      <description>When we create Swift strings, they are backed by either the Swift String type, or the Objective-C NSString type. This quick tip shows us how to improve performance by forcing our declared strings to be back by the Swift String type.</description>
     </item>
     
     <item>
       <title>Swift Substrings</title>
-      <link>https://freshswift.net/post/-l-gi7bcfszlm0pbnixp/</link>
+      <link>https://swiftunboxed.com/stdlib/substrings/</link>
       <pubDate>Fri, 01 Dec 2017 08:58:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-gi7bcfszlm0pbnixp/</guid>
-      <description></description>
+      <description>Greg Heo looks at Swift Substrings, showing us how they are implemented, and why Swift’s StringProtocol is a great example of protocol-oriented programming.</description>
     </item>
     
     <item>
       <title>Updaing Strings For Swift 4</title>
-      <link>https://freshswift.net/post/-kwez2fctskskyfgjac9/</link>
+      <link>https://useyourloaf.com/blog/updating-strings-for-swift-4/</link>
       <pubDate>Thu, 12 Oct 2017 07:50:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwez2fctskskyfgjac9/</guid>
-      <description></description>
+      <description>Useful post from Use Your Loaf which outlines the major changes to the Swift String API introduced with Swift 4. Even if you are already familiar with most of the changes introduced, a refresh is always a good thing.</description>
     </item>
     
     <item>
       <title>Handling empty optional strings in Swift</title>
-      <link>https://freshswift.net/post/-ktgysknd0qxtwv4jqdp/</link>
+      <link>https://medium.com/ios-os-x-development/handling-empty-optional-strings-in-swift-ba77ef627d74</link>
       <pubDate>Sun, 10 Sep 2017 16:09:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ktgysknd0qxtwv4jqdp/</guid>
-      <description></description>
+      <description>When does an Optional String have a value? In most cases, it is when it is both non-nil and non-empty. However, checking that both of these are true for Optional Strings can be cumbersome in Swift. This post from Nathan Chan provides a handy Swift extension to make things a bit easier.</description>
     </item>
     
     <item>
       <title>Strongly typed identifiers in Swift</title>
-      <link>https://freshswift.net/post/-kpjct1cnhqzj_bjgenf/</link>
+      <link>http://tom.lokhorst.eu/2017/07/strongly-typed-identifiers-in-swift</link>
       <pubDate>Tue, 18 Jul 2017 07:39:52 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpjct1cnhqzj_bjgenf/</guid>
-      <description></description>
+      <description>Strings as identifiers are always a bit dangerous, leaving the door open to typos and resulting bugs. However, as Tom Lokhorst describes in this post, we can do better. Tom looks at a few options to transform our String identifiers into strongly typed identifiers. Of the ideas presented, I prefer the second alternative.</description>
     </item>
     
     <item>
       <title>Exploring the new String API in Swift 4</title>
-      <link>https://freshswift.net/post/-kmv3xidmjwpdp1ikxp7/</link>
+      <link>https://www.swiftbysundell.com/posts/exploring-the-new-string-api-in-swift-4</link>
       <pubDate>Sun, 18 Jun 2017 11:59:09 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmv3xidmjwpdp1ikxp7/</guid>
-      <description></description>
+      <description>Swift 4 includes a new more powerful and user-friendly String API. In this post, John Sundell explores this new API, sharing examples of some of the new ways we can use and manipulate Strings.</description>
     </item>
     
     <item>
       <title>Mixing Constant and Literal Strings</title>
-      <link>https://freshswift.net/post/-klctr8w61mlloyqpg1_/</link>
+      <link>http://www.figure.ink/blog/2017/5/29/mixing-constant-and-literal-strings</link>
       <pubDate>Fri, 02 Jun 2017 11:03:49 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klctr8w61mlloyqpg1_/</guid>
-      <description></description>
+      <description>Joshua Emmons shows us how to avoid implementing a stringly-typed interface. Using an enum with an associated type, we can enforce the use of constants, while also allowing for unexpected and unknowable string values.</description>
     </item>
     
   </channel>

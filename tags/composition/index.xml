@@ -8,20 +8,18 @@
     <lastBuildDate>Tue, 13 Mar 2018 07:26:14 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/composition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Tip: Extensible Libraries with Protocols</title>
-      <link>https://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</link>
+      <link>https://www.objc.io/blog/2018/02/27/extensible-libraries-with-protocols</link>
       <pubDate>Tue, 13 Mar 2018 07:26:14 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</guid>
-      <description></description>
+      <description>This post from the Objc.io team demonstrates how we can build extensible, type-safe Swift libraries using protocol composition.</description>
     </item>
     
     <item>
       <title>Composing types in Swift</title>
-      <link>https://freshswift.net/post/-l5nfb03s4qr-67nl3j4/</link>
+      <link>https://www.swiftbysundell.com/posts/composing-types-in-swift</link>
       <pubDate>Tue, 20 Feb 2018 14:44:58 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l5nfb03s4qr-67nl3j4/</guid>
-      <description></description>
+      <description>John Sundell looks at functionality composition, showing us a few situations that are better suited to composition, as opposed to inheritance. John demonstrates using composition with strives, enums, and classes in Swift.</description>
     </item>
     
   </channel>

@@ -8,38 +8,34 @@
     <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/autoclosure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to use @autoclosure in Swift to improve performance</title>
-      <link>https://freshswift.net/post/17-03-21-170820/</link>
+      <link>https://www.avanderlee.com/swift/autoclosure/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-03-21-170820/</guid>
-      <description></description>
+      <description>An autoclosure is a Swift closure that is automatically created to wrap an expression passed as a function argument. In this post, Antoine Van Der Lee demonstrates how we can use autoclosures and provides examples of Swift APIs which use this feature.</description>
     </item>
     
     <item>
       <title>@autoclosure what, why and when</title>
-      <link>https://freshswift.net/post/-lgyqkwecpapbvemlpfe/</link>
+      <link>https://medium.com/ios-os-x-development/https-medium-com-pavelgnatyuk-autoclosure-what-why-and-when-swift-641dba585ece</link>
       <pubDate>Mon, 09 Jul 2018 09:44:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lgyqkwecpapbvemlpfe/</guid>
-      <description></description>
+      <description>In this short post, Pavel Gnatyuk explains what the Swift autoclosure attribute is, why it’s useful, and when we can use it.</description>
     </item>
     
     <item>
       <title>Replacing @autoclosure in Swift</title>
-      <link>https://freshswift.net/post/-knsb-apyrhyhefnrxyi/</link>
+      <link>https://hashnode.com/post/replacing-autoclosure-in-swift-cj4frocx700wlz5k95763ucev</link>
       <pubDate>Fri, 30 Jun 2017 08:48:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knsb-apyrhyhefnrxyi/</guid>
-      <description></description>
+      <description>Benjamin Herzog takes inspiration from Scala and looks at how we might replace the use of @autoclosure in Swift. It’s an interesting idea, and even if you don’t agree it still provides food for thought.</description>
     </item>
     
     <item>
       <title>Using @autoclosure when designing Swift APIs</title>
-      <link>https://freshswift.net/post/-kli7-bvgn__pee7xspr/</link>
+      <link>https://www.swiftbysundell.com/posts/using-autoclosure-when-designing-swift-apis</link>
       <pubDate>Mon, 29 May 2017 07:33:48 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kli7-bvgn__pee7xspr/</guid>
-      <description></description>
+      <description>The @autoclosure attribute enables us to define function arguments which can be expressed as a simple expression at the call site, but which are then automatically wrapped in a closure. This has the benefit of delaying execution, as with an explicit closure, while also reducing the verbosity of our code. In this post John Sundell provides 3 quick examples of using @autoclosure when designing our APIs. While reading this it&#39;s also worth keeping in mind a note from Apple&#39;s official Swift programming guide which points out that overusing autoclosures can make our code hard to understand. Use wisely.</description>
     </item>
     
   </channel>

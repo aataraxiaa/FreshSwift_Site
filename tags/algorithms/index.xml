@@ -8,11 +8,10 @@
     <lastBuildDate>Sat, 29 Apr 2017 13:04:13 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Algorithms - Sum of First N Natural Numbers</title>
-      <link>https://freshswift.net/post/-kj8rgdnz_lwattlfu7n/</link>
+      <link>https://youtu.be/yVkfogw9hgA</link>
       <pubDate>Sat, 29 Apr 2017 13:04:13 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8rgdnz_lwattlfu7n/</guid>
-      <description></description>
+      <description>Károly Nyisztor with a short video comparing two Swift algorithms for calculating the sum of the first N natural numbers. One algorithm executes in linear time, while the other executes in constant time.</description>
     </item>
     
   </channel>

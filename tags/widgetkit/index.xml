@@ -8,29 +8,26 @@
     <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/widgetkit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building widgets in SwiftUI</title>
-      <link>https://freshswift.net/post/22-09-20-073654/</link>
+      <link>https://swiftwithmajid.com/2020/09/09/building-widgets-in-swiftui/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-09-20-073654/</guid>
-      <description></description>
+      <description>Apple&#39;s WidgetKit framework, available in Xcode 12, enables us to build widgets that show relevant, glanceable content from an app on the iOS Home screen or macOS Notification Center. Widget views are built exclusively using SwiftUI, and in this post, Majid Jabrayilov shares his experience of building and updating widgets.</description>
     </item>
     
     <item>
       <title>SwiftUI features in WidgetKit</title>
-      <link>https://freshswift.net/post/04-08-20-090040/</link>
+      <link>https://www.fivestars.blog/code/swiftui-widgetkit.html</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-08-20-090040/</guid>
-      <description></description>
+      <description>Apple&#39;s WidgetKit framework allows us to display relevant content from an app on the iOS Home screen or in Notification Center on macOS. SwiftUI is used to build widgets, and it has gained new features designed specifically for the task. In this post, Federico Zanetello explores some of these new features and includes examples of how they might be used in more general contexts.</description>
     </item>
     
     <item>
       <title>Getting started with WidgetKit</title>
-      <link>https://freshswift.net/post/22-07-20-083925/</link>
+      <link>https://wwdcbysundell.com/2020/getting-started-with-widgetkit/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-07-20-083925/</guid>
-      <description></description>
+      <description>Apple introduced WidgetKit at WWDC20, a new framework that enables us to build widgets that can be displayed on users&#39; home screens. These widgets are built exclusively using SwiftUI. In this post, John Sundell takes a first look at WidgetKit, and shows us how to get started by building a simple widget.</description>
     </item>
     
   </channel>

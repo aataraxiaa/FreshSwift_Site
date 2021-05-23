@@ -8,83 +8,74 @@
     <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/asynchronous/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit Testing Asynchronous Code in Swift</title>
-      <link>https://freshswift.net/post/16-11-20-083559/</link>
+      <link>https://www.vadimbulavin.com/unit-testing-async-code-in-swift/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-11-20-083559/</guid>
-      <description></description>
+      <description>Implementing unit tests for asynchronous logic presents challenges such as false-positive test results and untrustworthy or error-prone test executions. In this post, Vadim Bulavin describes four patterns that help us to deal with such challenges, enabling us to reliably test asynchronous code.</description>
     </item>
     
     <item>
       <title>[Concurrency] Add `async` to the Swift type system.</title>
-      <link>https://freshswift.net/post/15-08-20-083049/</link>
+      <link>https://github.com/apple/swift/pull/33147</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-08-20-083049/</guid>
-      <description></description>
+      <description>Modern development involves a lot of asynchronous programming, implemented in Swift using closures and completion handlers. However, implementing asynchronous operations using closures can quickly become problematic, and tasks such as error handling and conditional execution become harder to do correctly. Coroutines are a specialized type of subroutine/function which allows for execution to be suspended and resumed, and the coroutine model has long been proposed as a Swift language extension to make asynchronous programming more natural and less error-prone. In this pull request, Doug Gregor begins the introduction of coroutines to Swift, adding async to the Swift type system. A good first step towards a better asynchronous future.</description>
     </item>
     
     <item>
       <title>Async/await in Swift unit tests</title>
-      <link>https://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</link>
+      <link>https://www.swiftbysundell.com/posts/asyncawait-in-swift-unit-tests</link>
       <pubDate>Tue, 25 Sep 2018 13:45:36 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lnfya2ypuhpi1mrygjl/</guid>
-      <description></description>
+      <description>John Sundell shows us how to use the async/await programming paradigm to write concise unit tests for asynchronous code.</description>
     </item>
     
     <item>
       <title>Benchmarking Swift Locking APIs</title>
-      <link>https://freshswift.net/post/-livuyurqizdjjm57zeb/</link>
+      <link>http://www.vadimbulavin.com/benchmarking-locking-apis/</link>
       <pubDate>Thu, 02 Aug 2018 16:35:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-livuyurqizdjjm57zeb/</guid>
-      <description></description>
+      <description>This is a really interesting post from Vadim Bulavin in which he benchmarks Swift locking APIs. While the results are not entirely surprising, I was surprised by how bad one particular API performed.</description>
     </item>
     
     <item>
       <title>Unit testing asynchronous Swift code</title>
-      <link>https://freshswift.net/post/-l6fexh19q3ctzdetytr/</link>
+      <link>https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code</link>
       <pubDate>Sat, 03 Mar 2018 11:42:42 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l6fexh19q3ctzdetytr/</guid>
-      <description></description>
+      <description>John Sundell demonstrates a few techniques that can help us test asynchronous code. He first looks as expectations and dispatch queues, and then shows us how we can make our asynchronous code synchronous for the purposes of testing.</description>
     </item>
     
     <item>
       <title>Using tokens to handle async Swift code</title>
-      <link>https://freshswift.net/post/-kykduiljtdggrwnmrw6/</link>
+      <link>https://www.swiftbysundell.com/posts/using-tokens-to-handle-async-swift-code</link>
       <pubDate>Tue, 07 Nov 2017 08:45:14 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kykduiljtdggrwnmrw6/</guid>
-      <description></description>
+      <description>John Sundell shows us how we can use request tokens to improve our asynchronous APIs. As John points out, most codebases will include some sort of asynchronous method calls, and having the ability to cancel such calls can be useful. Using request tokens is one way we can provide such an ability.</description>
     </item>
     
     <item>
       <title>DispatchGroup vs. OperationQueue in Swift</title>
-      <link>https://freshswift.net/post/-kvit2sh5-62ka5yqoio/</link>
+      <link>http://agostini.tech/2017/08/20/dispatchgroup-vs-operationqueue-in-swift</link>
       <pubDate>Sat, 30 Sep 2017 17:45:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvit2sh5-62ka5yqoio/</guid>
-      <description></description>
+      <description>Dejan Agostini covers both DispatchGroups and OperationQueues as he demonstrates how to perform numerous asynchronous tasks and be notified when they all finish.</description>
     </item>
     
     <item>
       <title>Why Coroutines</title>
-      <link>https://freshswift.net/post/-kuykspyeayx0rm9704k/</link>
+      <link>http://www.figure.ink/blog/2017/9/4/expressive-coroutines</link>
       <pubDate>Thu, 21 Sep 2017 07:28:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kuykspyeayx0rm9704k/</guid>
-      <description></description>
+      <description>Coroutines are a general form of subroutine (function) that don’t follow normal subroutine rules. Coroutines can exit (return) whenever they call other coroutines, and can pick up where they left off when called again. In this post, Joshua Emmons explains why coroutines are becoming extremely relevant in Swift, particularly so when we consider the async/await proposal being discussed in Swift evolution. This is a great explanation for anyone unsure of what a coroutine is and how they might be used in Swift.</description>
     </item>
     
     <item>
       <title>Under the hood of Futures &amp; Promises in Swift</title>
-      <link>https://freshswift.net/post/-ksbn4fbmglr2flkafas/</link>
+      <link>https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift</link>
       <pubDate>Mon, 28 Aug 2017 07:44:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ksbn4fbmglr2flkafas/</guid>
-      <description></description>
+      <description>Asynchronous code can be difficult to implement correctly. In this post, John Sundell looks at one abstraction which aims to make asynchronous programming easier - Futures and Promises. This is a good look at what futures and promises are, and John provides a sample implementation to help us understand how they work.</description>
     </item>
     
   </channel>

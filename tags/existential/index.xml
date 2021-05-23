@@ -8,11 +8,10 @@
     <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/existential/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlock Existential Types for All Protocols</title>
-      <link>https://freshswift.net/post/22-10-20-071420/</link>
+      <link>https://forums.swift.org/t/unlock-existential-types-for-all-protocols/40665/3</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-10-20-071420/</guid>
-      <description></description>
+      <description>Swift currently allows protocols that meet certain criteria to be used as types. Using a protocol in such a way essentially creates an existential type. However, protocols with associated type or self requirements cannot currently be used to create such existential types. This Swift evolution pitch proposes removing this restriction.</description>
     </item>
     
   </channel>

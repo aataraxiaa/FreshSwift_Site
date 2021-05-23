@@ -8,11 +8,10 @@
     <lastBuildDate>Sun, 08 Apr 2018 09:53:01 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/cocoapods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CocoaPods 1.5.0 — Swift Static Libraries</title>
-      <link>https://freshswift.net/post/-l9zf4dmxzhghurlta_8/</link>
+      <link>http://blog.cocoapods.org/CocoaPods-1.5.0/</link>
       <pubDate>Sun, 08 Apr 2018 09:53:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9zf4dmxzhghurlta_8/</guid>
-      <description></description>
+      <description>Coming just a few months after the release of Cocoapods 1.4, this latest release of the popular dependency manager adds support for building Swift pods as static libraries. This is something that will please a lot a developers, especially those building command line tools.</description>
     </item>
     
   </channel>

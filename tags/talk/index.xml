@@ -8,38 +8,34 @@
     <lastBuildDate>Tue, 31 Oct 2017 09:31:59 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>View Bindings in Pure Swift</title>
-      <link>https://freshswift.net/post/-kxllubimdni_s6afplq/</link>
+      <link>https://talk.objc.io/episodes/S01E73-view-bindings-in-pure-swift</link>
       <pubDate>Tue, 31 Oct 2017 09:31:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kxllubimdni_s6afplq/</guid>
-      <description></description>
+      <description>Another good episode of Swift Talk from the guys at objc.io. In this episode, Chris and Florian experiment with reactive view bindings. They take the simple scenario of an activity indicator which needs to react to changes in state, and refactor it to bind the indicator to an observable state.</description>
     </item>
     
     <item>
       <title>Why the Func</title>
-      <link>https://freshswift.net/post/-kqb1spnrtrlwgzgivx5/</link>
+      <link>https://academy.realm.io/posts/daniel-steinberg-altconf-2017-why-the-func/</link>
       <pubDate>Thu, 03 Aug 2017 07:40:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqb1spnrtrlwgzgivx5/</guid>
-      <description></description>
+      <description>Daniel Steinberg with a talk from AltConf 2017 in which he looks at what functional programming means in Swift. He takes a deep dive in to using map, and shows us what we can learn from trying to write our own map functions.</description>
     </item>
     
     <item>
       <title>Swift Performance</title>
-      <link>https://freshswift.net/post/-kpu1mg4ramvc66e_m_k/</link>
+      <link>https://www.skilled.io/u/playgroundscon/swift-performance</link>
       <pubDate>Thu, 20 Jul 2017 08:07:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpu1mg4ramvc66e_m_k/</guid>
-      <description></description>
+      <description>Matt Gallagher talks about high performance Swift. He looks at the sort of code that might be run millions of times - i.e low level code rather than abstractions. It’s a really interesting talk, and it’s great to dive in to the low level stuff when we probably spend most of our time working with higher level abstractions.</description>
     </item>
     
     <item>
       <title>Swift with a hundred engineers</title>
-      <link>https://freshswift.net/post/-kjhqkwkftvzimgmbr2p/</link>
+      <link>https://www.skilled.io/u/swiftsummit/swift-with-a-hundred-engineers</link>
       <pubDate>Thu, 04 May 2017 07:47:17 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjhqkwkftvzimgmbr2p/</guid>
-      <description></description>
+      <description>Uber recently undertook a complete rewrite of their main app entirely in Swift. Tuomas Artman talks about their motivations for choosing Swift, and the learnings from using Swift for such a big rewrite. Both the good and the bad a discussed, and it&#39;s unsurprising to see tooling and compile times being included as drawbacks. Very interesting.</description>
     </item>
     
   </channel>

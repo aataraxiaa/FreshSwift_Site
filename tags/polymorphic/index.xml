@@ -8,20 +8,18 @@
     <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/polymorphic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bringing Polymorphism to Codable</title>
-      <link>https://freshswift.net/post/14-05-21-141449/</link>
+      <link>https://lostmoa.com/blog/BringingPolymorphismToCodable/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-05-21-141449/</guid>
-      <description></description>
+      <description>Polymorphism refers to the use of a single type to represent multiple different types. In this post, Matthaus Woolard shows us how to bring polymorphic behavior to Swift&#39;s Codable protocols, and provides a convenient property wrapper to avoid boilerplate code.</description>
     </item>
     
     <item>
       <title>Polymorphic methods in enums</title>
-      <link>https://freshswift.net/post/-ljntqelom08zus1wdp2/</link>
+      <link>https://forums.swift.org/t/polymorphic-methods-in-enums/15093/3</link>
       <pubDate>Mon, 13 Aug 2018 13:28:58 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ljntqelom08zus1wdp2/</guid>
-      <description></description>
+      <description>This is an interesting discussion on the official Swift forums. It was started by Pablo Bendersky who would like to be able to add extensions on enums constrained by the enum case. I can see the value in this.</description>
     </item>
     
   </channel>

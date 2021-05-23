@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/actor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Actors are reference types, but why classes?</title>
-      <link>https://freshswift.net/post/16-12-20-104855/</link>
+      <link>https://docs.google.com/document/d/14e3p6yBt1kPrakLcEHV4C9mqNBkNibXIZsozdZ6E71c/edit#</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-12-20-104855/</guid>
-      <description></description>
+      <description>The recently announced Swift Concurrency Roadmap includes the proposal of an Actor reference type, similar to a class type. In this whitepaper, Chris Lattner explores the behavior and requirements of actors and proposes that Actor types be modeled as a new kind of nominal reference type in Swift.</description>
     </item>
     
   </channel>

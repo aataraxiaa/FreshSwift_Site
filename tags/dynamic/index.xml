@@ -8,47 +8,42 @@
     <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/dynamic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Private APIs, Objective-C runtime, and Swift</title>
-      <link>https://freshswift.net/post/11-09-20-073952/</link>
+      <link>https://medium.com/@victor.pavlychko/private-apis-objective-c-runtime-and-swift-ceaeefbb6e48</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-09-20-073952/</guid>
-      <description></description>
+      <description>Objective-C and Swift can be used together, and it&#39;s still very common for apps and projects to contain a mix of both. Calling public Objective-C APIs from Swift involves exposing the APIs via a bridging header. However, calling private, or Swift-unavailable, Objective-C APIs from our Swift code is also possible, thanks to Objective-C&#39;s dynamic nature. In this post, Victor Pavlychko focuses on accessing such APIs using the Objective-C runtime.</description>
     </item>
     
     <item>
       <title>The power of key paths in Swift</title>
-      <link>https://freshswift.net/post/-lqus8qf27jin2tprdmo/</link>
+      <link>https://www.swiftbysundell.com/posts/the-power-of-key-paths-in-swift</link>
       <pubDate>Sun, 04 Nov 2018 16:00:53 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lqus8qf27jin2tprdmo/</guid>
-      <description></description>
+      <description>In this entry of his regular series on Swift, John Sundell demonstrates the power of Swift key paths, a dynamic feature introduced with Swift 4. I particularly like the section on converting key paths to functions, allowing them to be used in place of completion closures.</description>
     </item>
     
     <item>
       <title>Thoughts on @dynamicMemberLookup</title>
-      <link>https://freshswift.net/post/-lgqx7hzsozascfoglrn/</link>
+      <link>https://oleb.net/blog/2018/06/dynamic-member-lookup/</link>
       <pubDate>Mon, 02 Jul 2018 17:05:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lgqx7hzsozascfoglrn/</guid>
-      <description></description>
+      <description>Ole Begemann shares his thoughts on a controversial new feature of Swift 4.2, dynamic member lookup. Ole demonstrates some use cases for the feature, before coming to some conclusions regarding it’s usefulness.</description>
     </item>
     
     <item>
       <title>How to use Dynamic Member Lookup in Swift</title>
-      <link>https://freshswift.net/post/-l6r9ta5ysguhj73l4_o/</link>
+      <link>https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift</link>
       <pubDate>Mon, 05 Mar 2018 17:16:14 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l6r9ta5ysguhj73l4_o/</guid>
-      <description></description>
+      <description>Paul Hudson shows us how to use an upcoming feature of Swift - dynamic member lookup. This is something which will allow us to use Swift in a similar way to languages such as PHP and Python.</description>
     </item>
     
     <item>
       <title>@objc and dynamic</title>
-      <link>https://freshswift.net/post/-l2zthleehmamfcr1tt_/</link>
+      <link>https://swiftunboxed.com/interop/objc-dynamic/</link>
       <pubDate>Thu, 11 Jan 2018 09:07:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l2zthleehmamfcr1tt_/</guid>
-      <description></description>
+      <description>This post from Greg Heo examines Objective-C runtime visibility and dynamic dispatch. Greg does a great job of explaining how these work, and provides lots of Swift Intermediate Language examples to help us understand.</description>
     </item>
     
   </channel>

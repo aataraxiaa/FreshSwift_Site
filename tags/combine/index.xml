@@ -8,65 +8,58 @@
     <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/combine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extending UIKit with Combine, MVVM and Unit Tests</title>
-      <link>https://freshswift.net/post/27-04-21-155217/</link>
+      <link>https://hammyassassin.medium.com/extending-uikit-with-combine-mvvm-and-unit-tests-597f47c76630</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-04-21-155217/</guid>
-      <description></description>
+      <description>Apple&#39;s Combine is a powerful framework for processing values over time and is an alternative to popular frameworks such as RxSwift and ReactiveCocoa. In this short post, HammyAssassin shows us how to extend UIKit with Combine, creating a custom Publisher and Subscriber to respond to changes in a UITextField.</description>
     </item>
     
     <item>
       <title>Using Combine’s futures and subjects</title>
-      <link>https://freshswift.net/post/23-04-21-125123/</link>
+      <link>https://swiftbysundell.com/articles/using-combine-futures-and-subjects/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-04-21-125123/</guid>
-      <description></description>
+      <description>Apple&#39;s Combine framework provides a declarative Swift API for processing asynchronous values over time. In this post, John Sundell demonstrates how some of Combine&#39;s convenience APIs can be used to wrap existing asynchronous APIs.</description>
     </item>
     
     <item>
       <title>Combine and Swift Concurrency</title>
-      <link>https://freshswift.net/post/26-11-20-064625/</link>
+      <link>https://rhonabwy.com/2020/11/08/combine-and-swift-concurrency/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-11-20-064625/</guid>
-      <description></description>
+      <description>The Swift Core Team recently provided an excellent roadmap and series of language proposals outlining the future of concurrent programming in Swift. In this post, Joseph Heck looks at what the roadmap means for the Combine framework and how it might gain from the proposed concurrency concepts.</description>
     </item>
     
     <item>
       <title>SwiftUI &#43; Combine = ❤️</title>
-      <link>https://freshswift.net/post/01-09-20-084826/</link>
+      <link>https://peterfriese.dev/swift-combine-love/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-09-20-084826/</guid>
-      <description></description>
+      <description>Apple announced both SwiftUI and Combine at WWDC 2019, introducing two frameworks that will completely change how apps for their platforms are built. In this post, Peter Friese demonstrates why using these two frameworks together will help us to build better apps, resulting in cleaner, more modular code.</description>
     </item>
     
     <item>
       <title>Loading Network Data in SwiftUI</title>
-      <link>https://freshswift.net/post/27-07-20-073157/</link>
+      <link>https://blog.timroesner.com/swiftui-network-data-loading</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-07-20-073157/</guid>
-      <description></description>
+      <description>The Combine framework provides a declarative API for processing asynchronous events over time. This makes it ideal for asynchronously loading data from a network. In this post, Tim Roesner shows us how we can use Combine together with SwiftUI to request data and display it in a view.</description>
     </item>
     
     <item>
       <title>Infinite List Scroll with SwiftUI and Combine</title>
-      <link>https://freshswift.net/post/17-06-20/</link>
+      <link>https://www.vadimbulavin.com/infinite-list-scroll-swiftui-combine/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-06-20/</guid>
-      <description></description>
+      <description>Vadim Bulavin demonstrates how we can implement infinite scroll on iOS using SwiftUI and the Combine framework. It&#39;s a really nice, simple approach, implemented using the MVVM iOS app architecture.</description>
     </item>
     
     <item>
       <title>Combine and SwiftUI views</title>
-      <link>https://freshswift.net/post/31-05-20/</link>
+      <link>https://swiftwithmajid.com/2019/11/27/combine-and-swiftui-views/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/31-05-20/</guid>
-      <description></description>
+      <description>In this post, Majid demonstrates how we can use SwiftUI&#39;s onReceive view modifier to react to values emitted from a Combine publisher. I really like the approach of wrapping the publisher creation and onReceive logic into a custom view modifier to make it reusable.</description>
     </item>
     
   </channel>

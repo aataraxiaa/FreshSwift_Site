@@ -8,20 +8,18 @@
     <lastBuildDate>Tue, 29 May 2018 02:20:50 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Quick Swift Tips</title>
-      <link>https://freshswift.net/post/-lddgeyd-jk_rzyuizjd/</link>
+      <link>https://www.hackingwithswift.com/articles/106/10-quick-swift-tips</link>
       <pubDate>Tue, 29 May 2018 02:20:50 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lddgeyd-jk_rzyuizjd/</guid>
-      <description></description>
+      <description>This is an enjoyable list of 10 Swift tips from Paul Hudson. As Paul says, Swift is a huge language with lots of interesting syntax and features. Paul looks at 10 such features, providing code examples for all.</description>
     </item>
     
     <item>
       <title>Swift tips and tricks</title>
-      <link>https://freshswift.net/post/-l7ymx6sxvvm5bp-dpn0/</link>
+      <link>https://github.com/Luur/SwiftTips</link>
       <pubDate>Mon, 19 Mar 2018 15:04:17 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l7ymx6sxvvm5bp-dpn0/</guid>
-      <description></description>
+      <description>This Github page is a list of Swift tips and tricks, compiled by Svyat Zubyak. Something to bookmark and scan through while you wait for projects to build.</description>
     </item>
     
   </channel>

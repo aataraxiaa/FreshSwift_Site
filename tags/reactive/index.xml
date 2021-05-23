@@ -8,29 +8,26 @@
     <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/reactive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SwiftUI &#43; Combine = ❤️</title>
-      <link>https://freshswift.net/post/01-09-20-084826/</link>
+      <link>https://peterfriese.dev/swift-combine-love/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-09-20-084826/</guid>
-      <description></description>
+      <description>Apple announced both SwiftUI and Combine at WWDC 2019, introducing two frameworks that will completely change how apps for their platforms are built. In this post, Peter Friese demonstrates why using these two frameworks together will help us to build better apps, resulting in cleaner, more modular code.</description>
     </item>
     
     <item>
       <title>Swift Tip: Bindings with KVO and Key Paths</title>
-      <link>https://freshswift.net/post/-lb0wnywhw8ttmm73l48/</link>
+      <link>https://www.objc.io/blog/2018/04/24/bindings-with-kvo-and-keypaths/</link>
       <pubDate>Thu, 26 Apr 2018 12:33:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lb0wnywhw8ttmm73l48/</guid>
-      <description></description>
+      <description>Taken from their soon to be published book, the objc.io team show us how to create lightweight UI bindings using Key-Value-Observing and Swift’s key paths. Very nice.</description>
     </item>
     
     <item>
       <title>Receiver: Swift µframework implementing the Observer pattern 📡</title>
-      <link>https://freshswift.net/post/-kz4usfzjllvimlznft0/</link>
+      <link>https://github.com/RuiAAPeres/Receiver</link>
       <pubDate>Thu, 16 Nov 2017 17:41:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kz4usfzjllvimlznft0/</guid>
-      <description></description>
+      <description>This is a nice micro framework from Rui Peres which allows us to use the Reactive Observer pattern without the need to pull in larger, more complete Reactive libraries.</description>
     </item>
     
   </channel>

@@ -8,38 +8,34 @@
     <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/equatable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Swift closures are not Equatable</title>
-      <link>https://freshswift.net/post/09-04-21-142422/</link>
+      <link>https://www.jessesquires.com/blog/2021/04/05/why-swift-closures-are-not-equatable</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-04-21-142422/</guid>
-      <description></description>
+      <description>Closures in Swift are reference types, and as such, we might assume that they are Equatable. However, that is not the case, and in this post, Jesse Squires digs into some old forum posts to help explain why.</description>
     </item>
     
     <item>
       <title>Reduce boilerplate code with an automatic synthesis of Equatable and Hashable conformance</title>
-      <link>https://freshswift.net/post/14-10-20-073942/</link>
+      <link>https://sarunw.com/posts/reduce-boilerplate-code-with-automatic-synthesis-of-equatable-and-hashable-conformance/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-10-20-073942/</guid>
-      <description></description>
+      <description>In this post, Sarun Wongpatcharapakorn takes us back to Swift 4.1 to look at the automatic synthesis of the Equatable and Hashable protocols. Even if you are already familiar with this feature, it&#39;s helpful to be reminded of how it can be used.</description>
     </item>
     
     <item>
       <title>Synthesized Conformance to Equatable</title>
-      <link>https://freshswift.net/post/-ljttzasvuubarb_grxr/</link>
+      <link>https://swiftunboxed.com/internals/synthesized-equatable-conformance/</link>
       <pubDate>Thu, 09 Aug 2018 11:39:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ljttzasvuubarb_grxr/</guid>
-      <description></description>
+      <description>Greg Heo looks behind the curtain to show us how the Swift compiler automatically synthesizes conformance to the Equatable protocol. Greg starts by describing how the compiler decides is conformance is possible, before looking at how it generates the code.</description>
     </item>
     
     <item>
       <title>Synthesizing Equatable and Hashable conformance</title>
-      <link>https://freshswift.net/post/-kwvricbmwa2tfhdidlb/</link>
+      <link>https://github.com/apple/swift-evolution/blob/master/proposals/0185-synthesize-equatable-hashable.md</link>
       <pubDate>Sun, 15 Oct 2017 14:32:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwvricbmwa2tfhdidlb/</guid>
-      <description></description>
+      <description>Following in the footsteps of the well received Swift 4 Codable protocols, this Swift evolution proposal outlines the motivation for, and proposed implementation of, synthesized conformance to the Equatable and Hashable protocols. This is a really good proposal which would reduce the need for common boilerplate code. The idea is that if a types members all conform to Equatable or Hashable, then the entire type can simply opt-in to automatic synthesis by declaring itself as conforming.</description>
     </item>
     
   </channel>

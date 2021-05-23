@@ -8,11 +8,10 @@
     <lastBuildDate>Sat, 29 Apr 2017 06:47:07 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/terminology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Terms: arguments, parameters, and labels</title>
-      <link>https://freshswift.net/post/-kj8qp08kitkwxc7wfvj/</link>
+      <link>http://ericasadun.com/2017/04/28/swift-terms-arguments-parameters-and-labels</link>
       <pubDate>Sat, 29 Apr 2017 06:47:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8qp08kitkwxc7wfvj/</guid>
-      <description></description>
+      <description>Erica Sadun attempts to refine Swift function terminology. She looks at the arguments and labels used at function call sites, and the parameters used in function declarations.</description>
     </item>
     
   </channel>

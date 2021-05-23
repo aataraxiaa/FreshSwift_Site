@@ -8,20 +8,18 @@
     <lastBuildDate>Sat, 28 Jul 2018 14:43:18 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/abi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Evolution - Plan for module stability</title>
-      <link>https://freshswift.net/post/-liwl-qeisvliv4nhcm/</link>
+      <link>https://forums.swift.org/t/plan-for-module-stability/14551</link>
       <pubDate>Sat, 28 Jul 2018 14:43:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-liwl-qeisvliv4nhcm/</guid>
-      <description></description>
+      <description>In this post on the official Swift forum, Jordan Rose outlines the proposed solution for ABI stability, which is something we should get when Swift 5 arrives. This is something a lot of people in the community are looking forward to, and it’s really interesting to see how it might be achieved.</description>
     </item>
     
     <item>
       <title>Binary Frameworks in Swift</title>
-      <link>https://freshswift.net/post/-l5jhlernnjpeeanobxh/</link>
+      <link>https://pspdfkit.com/blog/2018/binary-frameworks-swift/</link>
       <pubDate>Mon, 19 Feb 2018 18:17:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l5jhlernnjpeeanobxh/</guid>
-      <description></description>
+      <description>Peter Steinberger explores what Application Binary Interface means in the context of Swift, and when it matters.</description>
     </item>
     
   </channel>

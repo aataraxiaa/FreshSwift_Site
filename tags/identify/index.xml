@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 24 Jul 2017 07:46:28 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/identify/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identifying objects in Swift</title>
-      <link>https://freshswift.net/post/-kpnyw36mfnzfuskt_t2/</link>
+      <link>https://www.swiftbysundell.com/posts/identifying-objects-in-swift</link>
       <pubDate>Mon, 24 Jul 2017 07:46:28 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpnyw36mfnzfuskt_t2/</guid>
-      <description></description>
+      <description>John Sundell looks at some of the common concepts of identify available in Swift. He provides simple examples to demonstrate how we can define identify when dealing with both value types and reference types. I was not familiar with Swift’s ObjectIdentifier type, but it’s something I could definitely see myself using at some point.</description>
     </item>
     
   </channel>

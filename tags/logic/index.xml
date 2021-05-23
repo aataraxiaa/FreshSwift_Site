@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/logic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Context And The Logic</title>
-      <link>https://freshswift.net/post/07-04-21-153206/</link>
+      <link>https://khanlou.com/2021/02/the-context-and-the-logic/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-04-21-153206/</guid>
-      <description></description>
+      <description>This is a great post by Soroush Khanlou in which he writes about the two main types of tasks professional programmers work on. Soroush frames these two types of tasks as the context and the logic, arguing that most of a professional programmer&#39;s time is spent on the context. This framing allows Soroush to illustrate two important points - that his job is not primarily about programming logic, and that by minimizing the context, he can spend more time on the good stuff.</description>
     </item>
     
   </channel>

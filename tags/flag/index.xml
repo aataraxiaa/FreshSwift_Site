@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 02 Apr 2018 11:22:28 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/flag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feature flags in Swift</title>
-      <link>https://freshswift.net/post/-l9550wb2x1qda3cdq1s/</link>
+      <link>https://www.swiftbysundell.com/posts/feature-flags-in-swift</link>
       <pubDate>Mon, 02 Apr 2018 11:22:28 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9550wb2x1qda3cdq1s/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how to implement feature flags in Swift. John looks at three types of flags - compilation flags, static flags, and runtime flags.</description>
     </item>
     
   </channel>

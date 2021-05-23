@@ -8,20 +8,18 @@
     <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ipados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sidebar navigation in SwiftUI</title>
-      <link>https://freshswift.net/post/02-08-20-105205/</link>
+      <link>https://swiftwithmajid.com/2020/07/21/sidebar-navigation-in-swiftui/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-08-20-105205/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s NavigationView type - used for presenting a stack of views representing a navigation hierarchy - is incredibly powerful, enabling us to build complex layouts that adapt to the platform they are running on. In this post, Majid Jabrayilov shows us how to use a NavigationView to add a third sidebar column to a two-column master-detail navigation layout.</description>
     </item>
     
     <item>
       <title>Building Glyph: A Year With SwiftUI</title>
-      <link>https://freshswift.net/post/17-07-20-161201/</link>
+      <link>https://www.getglyph.app/blog/3-building-glyph-a-year-with-swiftui</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-07-20-161201/</guid>
-      <description></description>
+      <description>With so many posts written about what is possible with SwiftUI, it&#39;s interesting to read about a real-world experience of using it in a production app. In this post, Roshan Choxi shares his experience of building the Glyph iPad app entirely in SwiftUI.</description>
     </item>
     
   </channel>

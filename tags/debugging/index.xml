@@ -8,38 +8,34 @@
     <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debugging SwiftUI: Trials and Tribulations</title>
-      <link>https://freshswift.net/post/15-11-20-114741/</link>
+      <link>https://redalemeden.com/blog/2020/debugging-swiftui-trials-and-tribulations</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-11-20-114741/</guid>
-      <description></description>
+      <description>Working with relatively new frameworks such as SwiftUI means sometimes dealing with subpar debugging tools and seemingly unsolvable bugs. In this post, Reda Lemeden describes the frustration and anxiety he experienced when trying to resolve an issue without much help from the Swift compiler.</description>
     </item>
     
     <item>
       <title>Building SwiftUI debugging utilities</title>
-      <link>https://freshswift.net/post/25-08-20-074510/</link>
+      <link>https://swiftbysundell.com/articles/building-swiftui-debugging-utilities/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-08-20-074510/</guid>
-      <description></description>
+      <description>Debugging - the process of identifying and removing bugs - is almost guaranteed to be part of any software development lifecycle. Xcode includes a suite of tools to help us debug, and although these are comprehensive, sometimes building our own set of debugging utilities can be useful. In this post, John Sundell shows us examples of such custom utilities used to debug SwiftUI-based views.</description>
     </item>
     
     <item>
       <title>Debugging Swift code with LLDB</title>
-      <link>https://freshswift.net/post/-l1vl7fmc-hvwpbrj0ne/</link>
+      <link>https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49</link>
       <pubDate>Wed, 03 Jan 2018 09:27:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l1vl7fmc-hvwpbrj0ne/</guid>
-      <description></description>
+      <description>Ahmed Sulaiman shows us how to debug Swift code using LLDB. LLDB is an enormous tool, providing lots of debugging commands. Integrating even a few of these commands in to our daily debugging sessions is a great idea.</description>
     </item>
     
     <item>
       <title>Symbolicating Swift iOS crash reports</title>
-      <link>https://freshswift.net/post/-kjvz1wabq5fm-hxvoff/</link>
+      <link>https://blog.bugsnag.com/symbolicating-ios-crashes/</link>
       <pubDate>Fri, 12 May 2017 07:29:42 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjvz1wabq5fm-hxvoff/</guid>
-      <description></description>
+      <description>Mike Bull from Bugsnag looks at symbolicating crash reports, describing the tools available. He also investigates what causes missing information in Swift stacktraces.</description>
     </item>
     
   </channel>

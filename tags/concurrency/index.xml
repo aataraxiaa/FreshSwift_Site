@@ -8,128 +8,114 @@
     <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concurrency Done Right</title>
-      <link>https://freshswift.net/post/04-05-21-132740/</link>
+      <link>https://kean.blog/post/concurrency#fn:7</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-05-21-132740/</guid>
-      <description></description>
+      <description>The Swift Concurrency Roadmap details future Swift language features which plan to make concurrent programming in Swift convenient and safe. However, there are already several ways we can add concurrency to our projects, and in this post, Alex Grebenyuk shows us how to do it right.</description>
     </item>
     
     <item>
       <title>Actors are reference types, but why classes?</title>
-      <link>https://freshswift.net/post/16-12-20-104855/</link>
+      <link>https://docs.google.com/document/d/14e3p6yBt1kPrakLcEHV4C9mqNBkNibXIZsozdZ6E71c/edit#</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-12-20-104855/</guid>
-      <description></description>
+      <description>The recently announced Swift Concurrency Roadmap includes the proposal of an Actor reference type, similar to a class type. In this whitepaper, Chris Lattner explores the behavior and requirements of actors and proposes that Actor types be modeled as a new kind of nominal reference type in Swift.</description>
     </item>
     
     <item>
       <title>Swift Concurrency Proposal Dependencies</title>
-      <link>https://freshswift.net/post/09-12-20-132035/</link>
+      <link>https://gist.github.com/DougGregor/444575ac67cbd25bfc4b1d4fd241ae93</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-12-20-132035/</guid>
-      <description></description>
+      <description>The Swift Concurrency Roadmap was recently published, which outlined proposed additions and changes to the language to support concurrent programming. It&#39;s a great read, and very informative. However, if you are looking for a quick overview of the dependencies relating to the concurrency roadmap, this diagram from Doug Gregor is a good place to start.</description>
     </item>
     
     <item>
       <title>What went wrong with the libdispatch. A tale of caution for the future of concurrency.</title>
-      <link>https://freshswift.net/post/02-12-20-145517/</link>
+      <link>https://tclementdev.com/posts/what_went_wrong_with_the_libdispatch.html</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-12-20-145517/</guid>
-      <description></description>
+      <description>Apple&#39;s Grand Central Dispatch (GCD or libdispatch) provides support for concurrent code execution on multicore hardware. It aims to remove the need for developers to directly manage threads, enabling them to instead think in terms of queues of work. In this very interesting post, Thomas examines some of the problems of using libdispatch, offering words of caution for the future of concurrency in Swift.</description>
     </item>
     
     <item>
       <title>Combine and Swift Concurrency</title>
-      <link>https://freshswift.net/post/26-11-20-064625/</link>
+      <link>https://rhonabwy.com/2020/11/08/combine-and-swift-concurrency/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-11-20-064625/</guid>
-      <description></description>
+      <description>The Swift Core Team recently provided an excellent roadmap and series of language proposals outlining the future of concurrent programming in Swift. In this post, Joseph Heck looks at what the roadmap means for the Combine framework and how it might gain from the proposed concurrency concepts.</description>
     </item>
     
     <item>
       <title>Swift Concurrency Roadmap</title>
-      <link>https://freshswift.net/post/09-11-20-123224/</link>
+      <link>https://forums.swift.org/t/swift-concurrency-roadmap/41611</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-11-20-123224/</guid>
-      <description></description>
+      <description>This post from the official Swift forums outlines the Swift Concurrency Roadmap. The goal of this roadmap is to make concurrent programming in Swift convenient, efficient, and safe. There is a lot to unpack in this post, but it&#39;s definitely worth reading, and there are some great language features planned for the first phase of the roadmap.</description>
     </item>
     
     <item>
       <title>Introducing Swift Atomics</title>
-      <link>https://freshswift.net/post/09-10-20-071718/</link>
+      <link>https://swift.org/blog/swift-atomics/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-10-20-071718/</guid>
-      <description></description>
+      <description>Atomic operations are operations that run completely independently of other processes and will be fully executed without interruption. In this post on the official Swift blog, Karoy Lorentey from the Swift team announces Swift Atomics, a new open-source Swift package that enables low-level atomic Swift operations.</description>
     </item>
     
     <item>
       <title>Swift globals and static members are atomic and lazily computed</title>
-      <link>https://freshswift.net/post/26-07-20-110413/</link>
+      <link>https://www.jessesquires.com/blog/2020/07/16/swift-globals-and-static-members-are-atomic-and-lazily-computed/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-07-20-110413/</guid>
-      <description></description>
+      <description>A lazy stored property in Swift is a property whose initial value is not calculated until the first time it used. This is useful as it allows us to delay the initialization of a property that requires a computationally expensive setup until that property is actually needed. In this post, Jesse Squires reminds us that Swift globals and static members are also lazily initialized, and he explains how the concept of atomicity is distinct from the concept of thread-safety.</description>
     </item>
     
     <item>
       <title>Static Thread Safety</title>
-      <link>https://freshswift.net/post/20-06-20-124450/</link>
+      <link>https://forums.swift.org/t/static-thread-safety/37542</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-06-20-124450/</guid>
-      <description></description>
+      <description>This is an interesting Swift evolution draft proposal. In it, Guy Brooker proposes some small language changes which would allow the Swift compiler to spot basic concurrent programming errors. I like the syntax Guy proposes for specifying execution context.</description>
     </item>
     
     <item>
       <title>Atomic Properties in Swift</title>
-      <link>https://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</link>
+      <link>http://www.vadimbulavin.com/atomic-properties/</link>
       <pubDate>Tue, 17 Jul 2018 13:28:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</guid>
-      <description></description>
+      <description>Vadim Bulavin demonstrates how we can use locking APIs available in Apple frameworks to implement atomic properties in Swift. Vadim first describes the core concepts relating to concurrency and atomic properties, before providing code examples of Swift atomic properties.</description>
     </item>
     
     <item>
       <title>Basics of parallel programming with Swift</title>
-      <link>https://freshswift.net/post/-l3wzqfw4qlr6xlohfjv/</link>
+      <link>https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287</link>
       <pubDate>Sun, 28 Jan 2018 11:42:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l3wzqfw4qlr6xlohfjv/</guid>
-      <description></description>
+      <description>This is a great post from Jan Olbrich in which he covers the basics of concurrency and parallel programming in Swift. Jan starts by describing the difference between concurrency and parallelism, and then walks us through the various mechanisms available to us in Swift.</description>
     </item>
     
     <item>
       <title>Concurrency in Swift: One approach</title>
-      <link>https://freshswift.net/post/-kuerrnnojt1tea68pur/</link>
+      <link>https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782</link>
       <pubDate>Sun, 17 Sep 2017 10:46:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kuerrnnojt1tea68pur/</guid>
-      <description></description>
+      <description>This is a great detailed post by Chris Lattner in which he describes one approach to concurrency in Swift. Chris looks at the current state of concurrency in Swift, outlines his vision of where we want to get to, and then presents how we can get there using an async/await model.</description>
     </item>
     
     <item>
       <title>Understanding Operation and OperationQueue in Swift</title>
-      <link>https://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</link>
+      <link>http://agostini.tech/2017/07/30/understanding-operation-and-operationqueue-in-swift/</link>
       <pubDate>Tue, 08 Aug 2017 07:32:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kr-ksyzcmyubib2xqwv/</guid>
-      <description></description>
+      <description>Dejan Agostini explains what Operations and OperationQueues are, and provides Swift examples of how we can use them. This is a good introductory article on implementing concurrency on iOS.</description>
     </item>
     
     <item>
       <title>All about Concurrency in Swift - Part 1: The Present</title>
-      <link>https://freshswift.net/post/-kk75x8hexm-cfpqierv/</link>
+      <link>https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/</link>
       <pubDate>Sun, 14 May 2017 17:57:39 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kk75x8hexm-cfpqierv/</guid>
-      <description></description>
+      <description>Umberto Raimondi with the first in a series of articles on concurrency in Swift. This is an excellently detailed look at what we have at our disposal, covering everything from locks and threads, to Grand Central Dispatch.</description>
     </item>
     
   </channel>

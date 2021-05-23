@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 26 Sep 2017 07:45:57 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/class/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Structures vs Classes in Swift</title>
-      <link>https://freshswift.net/post/-kux8lqgt1w_v_0itk9x/</link>
+      <link>http://agostini.tech/2017/09/03/structures-vs-classes-in-swift/</link>
       <pubDate>Tue, 26 Sep 2017 07:45:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kux8lqgt1w_v_0itk9x/</guid>
-      <description></description>
+      <description>Dejan Agostini with a post explaining the difference between Swift Classes and Structures. He uses code examples to highlight the differences between the two, and advises on when we should use one over the other. We are probably all very familiar with most of the information in this post, but it’s good to be reminded of how things work.</description>
     </item>
     
   </channel>

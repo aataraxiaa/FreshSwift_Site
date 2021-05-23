@@ -8,29 +8,26 @@
     <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/design-pattern/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using the builder pattern in Swift</title>
-      <link>https://freshswift.net/post/20-06-20-084605/</link>
+      <link>https://swiftbysundell.com/articles/using-the-builder-pattern-in-swift/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-06-20-084605/</guid>
-      <description></description>
+      <description>In this post from John Sundell we take a look at the builder pattern. John describes how the design pattern works, looks at the problems it aims to solve, and shows us how we can implement and use it in Swift.</description>
     </item>
     
     <item>
       <title>Design Patterns in Swift: State Pattern</title>
-      <link>https://freshswift.net/post/-ld1rpyhxrwohtpotgmb/</link>
+      <link>https://agostini.tech/2018/05/13/design-patterns-in-swift-state</link>
       <pubDate>Mon, 21 May 2018 13:22:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ld1rpyhxrwohtpotgmb/</guid>
-      <description></description>
+      <description>This post from Dejan Agostini describes what the State pattern is, and shows us how to implement it in Swift using a simple example.</description>
     </item>
     
     <item>
       <title>Swifty MVVM Part 1</title>
-      <link>https://freshswift.net/post/-kka3lossjca4s7a3ra-/</link>
+      <link>https://sudo.isl.co/swift-mvvm-intro/</link>
       <pubDate>Mon, 15 May 2017 07:47:01 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kka3lossjca4s7a3ra-/</guid>
-      <description></description>
+      <description>Short post from Taylor Guidon which is the first in a series on MVVM (Model-View-ViewModel). It covers the basics and is a good introduction for anyone new to MVVM.</description>
     </item>
     
   </channel>

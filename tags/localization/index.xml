@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/localization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Safer Localization in SwiftUI</title>
-      <link>https://freshswift.net/post/29-07-20-082732/</link>
+      <link>https://dev.to/jeehut/safer-localization-in-swiftui-4gn8</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-07-20-082732/</guid>
-      <description></description>
+      <description>SwiftUI provides support for localization through its LocalisedStringKey struct. In this post, Cihat Gündüz digs into how this struct enables localization and describes how he implemented improvements to the localization process.</description>
     </item>
     
   </channel>

@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 07 Aug 2017 09:11:45 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/declarative/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a declarative animation framework in Swift - Part 2</title>
-      <link>https://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</link>
+      <link>https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-2</link>
       <pubDate>Mon, 07 Aug 2017 09:11:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqvxhdlbmo1k9wg2f6v/</guid>
-      <description></description>
+      <description>John Sundell continues to build a declarative animation framework in Swift in this post, the second in a series. Here, he adds the ability to coordinate animations performed on multiple views. It’s a nice approach, and something which could be easily adopted when performing animations in any project.</description>
     </item>
     
   </channel>

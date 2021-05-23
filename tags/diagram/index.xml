@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/diagram/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Concurrency Proposal Dependencies</title>
-      <link>https://freshswift.net/post/09-12-20-132035/</link>
+      <link>https://gist.github.com/DougGregor/444575ac67cbd25bfc4b1d4fd241ae93</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-12-20-132035/</guid>
-      <description></description>
+      <description>The Swift Concurrency Roadmap was recently published, which outlined proposed additions and changes to the language to support concurrent programming. It&#39;s a great read, and very informative. However, if you are looking for a quick overview of the dependencies relating to the concurrency roadmap, this diagram from Doug Gregor is a good place to start.</description>
     </item>
     
   </channel>

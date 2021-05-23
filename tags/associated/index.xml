@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 10 Sep 2018 11:50:30 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/associated/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Switching with Associated Values</title>
-      <link>https://freshswift.net/post/-lm2jouxfcmce1bjblvt/</link>
+      <link>https://www.objc.io/blog/2018/09/04/switching-with-associated-values/</link>
       <pubDate>Mon, 10 Sep 2018 11:50:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lm2jouxfcmce1bjblvt/</guid>
-      <description></description>
+      <description>In this post the objc.io, we learn how to use a computed property to reduce the complexity of switching on enums with associated values. Nice tip!</description>
     </item>
     
   </channel>

@@ -8,344 +8,306 @@
     <lastBuildDate>Fri, 26 Oct 2018 15:40:34 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/library/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DropdownTitleView - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.</title>
-      <link>https://freshswift.net/post/-lpl1bqiyirp_puyqgoj/</link>
+      <link>https://github.com/GitHawkApp/DropdownTitleView</link>
       <pubDate>Fri, 26 Oct 2018 15:40:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lpl1bqiyirp_puyqgoj/</guid>
-      <description></description>
+      <description>This is a nice Swift component which provides a simple and configurable dropdown view which can be substituted for a UINavigationItem titleView.</description>
     </item>
     
     <item>
       <title>Sizes - View your app on different device and font sizes</title>
-      <link>https://freshswift.net/post/-lp5insv2ox4iyks3tp4/</link>
+      <link>https://github.com/marcosgriselli/Sizes</link>
       <pubDate>Thu, 18 Oct 2018 08:31:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lp5insv2ox4iyks3tp4/</guid>
-      <description></description>
+      <description>This is a really cool Swift library from Marcos Griselli. It enables us to evaluate how our app layout behaves across all possible device sizes, orientations, and font combinations while running on a single simulator configuration. Very useful.</description>
     </item>
     
     <item>
       <title>Smoke Framework</title>
-      <link>https://freshswift.net/post/-locmibh19xqzt2rcxxa/</link>
+      <link>https://github.com/amzn/smoke-framework</link>
       <pubDate>Fri, 12 Oct 2018 14:58:28 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-locmibh19xqzt2rcxxa/</guid>
-      <description></description>
+      <description>Amazon engineering have released a light-weight server-side service framework written in Swift. It uses SwiftNIO for it’s networking layer, and can even be used with model code generators such as Swagger.</description>
     </item>
     
     <item>
       <title>SwiftSyntax - Swift bindings for the libSyntax library</title>
-      <link>https://freshswift.net/post/-llxt7zt2m68visnsdqy/</link>
+      <link>https://github.com/apple/swift-syntax</link>
       <pubDate>Sun, 09 Sep 2018 08:35:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-llxt7zt2m68visnsdqy/</guid>
-      <description></description>
+      <description>SwiftSyntax is a Swift package which enables us to build tools to parse, inspect, generate, and transform Swift source code.</description>
     </item>
     
     <item>
       <title>Wormholy - iOS network debugging</title>
-      <link>https://freshswift.net/post/-li6cv_gtnj8jrotjxtd/</link>
+      <link>https://github.com/pmusolino/Wormholy</link>
       <pubDate>Mon, 23 Jul 2018 12:57:55 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-li6cv_gtnj8jrotjxtd/</guid>
-      <description></description>
+      <description>This is a cool library from Paolo Musolino which enables us to debug iOS network calls. It’s simple to set up, requiring no code, and provides an interface allowing us to see the details of executes network calls. Very nice.</description>
     </item>
     
     <item>
       <title>WhatsNewKit - Showcase your awesome new app features</title>
-      <link>https://freshswift.net/post/-lemduryki_zguhbw9t9/</link>
+      <link>https://github.com/SvenTiigi/WhatsNewKit</link>
       <pubDate>Thu, 07 Jun 2018 00:31:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lemduryki_zguhbw9t9/</guid>
-      <description></description>
+      <description>This Swift library from Sven Tiigi enables us to easily showcase new app features. It’s fully customizable and comes with predefined themes and animations.</description>
     </item>
     
     <item>
       <title>VisualActivityViewController - A way to represent what you’re sharing</title>
-      <link>https://freshswift.net/post/-le7psrk1b3pmfjwqnsl/</link>
+      <link>https://github.com/naturaln0va/VisualActivityViewController</link>
       <pubDate>Mon, 04 Jun 2018 01:29:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-le7psrk1b3pmfjwqnsl/</guid>
-      <description></description>
+      <description>UIActivityViewControllers provide a simple way to share data with other iOS apps. However, one limitation is that we don’t see a preview of what we are sharing. This 100% Swift library from Ryan Ackermann solves this, building on top of the standard UIActivityViewController to provide a preview of the content being shared.</description>
     </item>
     
     <item>
       <title>CardParts - Reactive, card-based UI framework</title>
-      <link>https://freshswift.net/post/-ldui5_dmjmys8zlzshp/</link>
+      <link>https://github.com/intuit/CardParts</link>
       <pubDate>Sun, 27 May 2018 03:50:53 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ldui5_dmjmys8zlzshp/</guid>
-      <description></description>
+      <description>This Swift library from Intuit provides a card-style UI framework. It is used in the Mint app, and uses MVVM and data binding built on RxSwift.</description>
     </item>
     
     <item>
       <title>Overture - A library for function composition</title>
-      <link>https://freshswift.net/post/-la2flv882igrl3rrufn/</link>
+      <link>https://github.com/pointfreeco/swift-overture/blob/master/README.md</link>
       <pubDate>Sat, 14 Apr 2018 08:26:17 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-la2flv882igrl3rrufn/</guid>
-      <description></description>
+      <description>This Swift library from Point-Free provides APIs which make it easy for us to produce new functions from a combination of existing functions.</description>
     </item>
     
     <item>
       <title>Netfox - A lightweight, one line setup, iOS / OSX network debugging library!</title>
-      <link>https://freshswift.net/post/-l9js4u5slsgztlifq9z/</link>
+      <link>https://github.com/kasketis/netfox</link>
       <pubDate>Tue, 10 Apr 2018 14:05:38 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9js4u5slsgztlifq9z/</guid>
-      <description></description>
+      <description>This is a pretty cool library from Christos Kasketis. It provides a quick look of all executed network requests performed by an iOS or OSX app. Definitely useful. 🦊.</description>
     </item>
     
     <item>
       <title>Tempura: A holistic approach to iOS development, inspired by Redux and MVVM</title>
-      <link>https://freshswift.net/post/-l6zp2htixledpl_nqwz/</link>
+      <link>https://github.com/BendingSpoons/tempura-swift</link>
       <pubDate>Wed, 07 Mar 2018 09:39:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l6zp2htixledpl_nqwz/</guid>
-      <description></description>
+      <description>Tempura is a Swift library developed by the Bending Spoons team. It aims to provide a holistic approach to iOS development. It’s inspired by Redux and MVVM.</description>
     </item>
     
     <item>
       <title>Alerts-Pickers: Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.</title>
-      <link>https://freshswift.net/post/-l3tqx-qb4nwh9qtuvi7/</link>
+      <link>https://github.com/dillidon/Alerts-Pickers?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&amp;utm_medium=email&amp;utm_source=Indie_iOS_Focus_Weekly_156</link>
       <pubDate>Mon, 22 Jan 2018 15:14:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l3tqx-qb4nwh9qtuvi7/</guid>
-      <description></description>
+      <description>This 100% Swift library from dillidon provides a range of custom UIAlertControllers, which give end-users the choice of responding in a variety of ways. Very useful.</description>
     </item>
     
     <item>
       <title>Highway: Automate development tasks using Swift.</title>
-      <link>https://freshswift.net/post/-l-b6vybvscun6wjjcaw/</link>
+      <link>https://github.com/ChristianKienle/highway?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&amp;utm_medium=email&amp;utm_source=Indie_iOS_Focus_Weekly_148</link>
       <pubDate>Thu, 30 Nov 2017 08:51:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-b6vybvscun6wjjcaw/</guid>
-      <description></description>
+      <description>Christian Kienle has created a tool which allows us to automate development tasks using Swift. Highway is similar to Fastlane, a popular set of automation tools for iOS. Highway allows us to automate development tasks such as building, testing, and releasing.</description>
     </item>
     
     <item>
       <title>Windless - makes it easy to implement invisible layout loading view.</title>
-      <link>https://freshswift.net/post/-kzsua0q1ahfdkdd027s/</link>
+      <link>https://github.com/Interactive-Studio/Windless</link>
       <pubDate>Tue, 21 Nov 2017 09:30:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kzsua0q1ahfdkdd027s/</guid>
-      <description></description>
+      <description>Windless is a cool Swift library which makes it easy to implement loading views. It allows you to turn any UIView in to a loading view, which can be displayed as you perform your asynchronous code.</description>
     </item>
     
     <item>
       <title>Receiver: Swift µframework implementing the Observer pattern 📡</title>
-      <link>https://freshswift.net/post/-kz4usfzjllvimlznft0/</link>
+      <link>https://github.com/RuiAAPeres/Receiver</link>
       <pubDate>Thu, 16 Nov 2017 17:41:08 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kz4usfzjllvimlznft0/</guid>
-      <description></description>
+      <description>This is a nice micro framework from Rui Peres which allows us to use the Reactive Observer pattern without the need to pull in larger, more complete Reactive libraries.</description>
     </item>
     
     <item>
       <title>BulletinBoard - Bottom Card Interfaces on iOS</title>
-      <link>https://freshswift.net/post/-kvksk2_byu0vjjutact/</link>
+      <link>https://github.com/alexaubry/BulletinBoard</link>
       <pubDate>Fri, 06 Oct 2017 08:52:24 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvksk2_byu0vjjutact/</guid>
-      <description></description>
+      <description>This is a cool iOS library from Alexis Aubry Radanovic which enables us to generate contextual card views and display them at the bottom of our device screen. It’s well suited for quick user interactions, and supports iPad and iPhone X out of the box.</description>
     </item>
     
     <item>
       <title>VegaScroll - Lightweight animated flowlayout for UICollectionView</title>
-      <link>https://freshswift.net/post/-kvmdemo39gbj7u2kp_f/</link>
+      <link>https://github.com/AppliKeySolutions/VegaScroll</link>
       <pubDate>Sun, 01 Oct 2017 09:18:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvmdemo39gbj7u2kp_f/</guid>
-      <description></description>
+      <description>Written in Swift 4, VegaScroll is a custom UICollectionViewFlowLayout. It provides a really nice lightweight, animated layout for your UICollectionViews, and is fully compatible with iOS 11.</description>
     </item>
     
     <item>
       <title>HGCircularSlider - Custom reusable circular slider control</title>
-      <link>https://freshswift.net/post/-kus3toe0mvakqn7seay/</link>
+      <link>https://github.com/HamzaGhazouani/HGCircularSlider/blob/master/README.md</link>
       <pubDate>Mon, 25 Sep 2017 08:08:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kus3toe0mvakqn7seay/</guid>
-      <description></description>
+      <description>This is a nice Swift library from Hamza Ghazouani which provides a customizable circular slider control for iOS. It’s similar to the control seen in the iOS Clock Bedtime feature, and can be integrated via Cococpods or Carthage.</description>
     </item>
     
     <item>
       <title>FAPanels - Swift Panel library </title>
-      <link>https://freshswift.net/post/-kruwtne_ktlaahhne10/</link>
+      <link>https://github.com/fahidattique55/FAPanels</link>
       <pubDate>Sat, 19 Aug 2017 14:42:22 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kruwtne_ktlaahhne10/</guid>
-      <description></description>
+      <description>This Swift library from Fahid Attique allows you to  compose screens from a series of panels. It’s highly configurable, and provides support for animating panels as they are displayed.</description>
     </item>
     
     <item>
       <title>Commander - Compose beautiful command line interfaces in Swift</title>
-      <link>https://freshswift.net/post/-krf7mfmzdiduk2tn309/</link>
+      <link>https://github.com/kylef/Commander</link>
       <pubDate>Fri, 11 Aug 2017 07:12:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-krf7mfmzdiduk2tn309/</guid>
-      <description></description>
+      <description>Commander is a small Swift framework from Kyle Fuller. It allows you to create command line interfaces by composing collections of commands written in Swift. Definitely something which is useful for tooling.</description>
     </item>
     
     <item>
       <title>AZDialogViewController - Customizable alert dialog controller</title>
-      <link>https://freshswift.net/post/-kqi-jakbsk9nxxgtenf/</link>
+      <link>https://github.com/Minitour/AZDialogViewController</link>
       <pubDate>Sun, 30 Jul 2017 10:18:40 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqi-jakbsk9nxxgtenf/</guid>
-      <description></description>
+      <description>This is a nice Swift library from Antonio Zaitoun which provides a highly customizable alert dialog view. It mimics Snapchat’s alert dialog view and would be suitable to use in a variety of situations.</description>
     </item>
     
     <item>
       <title>ZIPFoundation - Zip Handling in Swift</title>
-      <link>https://freshswift.net/post/-kpapwavk_b4iwo4ix-b/</link>
+      <link>https://github.com/weichsel/ZIPFoundation</link>
       <pubDate>Sun, 16 Jul 2017 12:40:29 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpapwavk_b4iwo4ix-b/</guid>
-      <description></description>
+      <description>This is a useful Swift library from Thomas Zoechling which provides an intuitive API for creating, modifying, and reading ZIP archive files. It’s based on Apple’s libcompression for high performance and energy efficiency.</description>
     </item>
     
     <item>
       <title>PMSuperButton - UIButton with super powers</title>
-      <link>https://freshswift.net/post/-kp0cgdrrwufjqgpvavb/</link>
+      <link>https://github.com/Codeido/PMSuperButton</link>
       <pubDate>Fri, 14 Jul 2017 13:06:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kp0cgdrrwufjqgpvavb/</guid>
-      <description></description>
+      <description>Cool Swift library from Pablo Musolino which provides a powerful UIButton type. It allows us to create complex buttons with custom attributes. Easy to integrate and lots of options for customization.</description>
     </item>
     
     <item>
       <title>YapAnimator - Fast and friendly animation system</title>
-      <link>https://freshswift.net/post/-komo6dvbqymcbwqzyvc/</link>
+      <link>https://github.com/yapstudios/YapAnimator</link>
       <pubDate>Thu, 06 Jul 2017 12:12:05 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-komo6dvbqymcbwqzyvc/</guid>
-      <description></description>
+      <description>Yap Studios have released this cool physics-based animation system written entirely in Swift. The included CALayer and UIView extensions allow us to implement animations with one line of code. Neat.</description>
     </item>
     
     <item>
       <title>LGButton - Beautiful customizable UIControl </title>
-      <link>https://freshswift.net/post/-ko1rry7eso6bjfhpqyj/</link>
+      <link>https://github.com/loregr/LGButton</link>
       <pubDate>Sun, 02 Jul 2017 10:36:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ko1rry7eso6bjfhpqyj/</guid>
-      <description></description>
+      <description>This is a really nice UIControl subclass from Lorenzo Greco written entirely in Swift. It provides a customizable UIControl which allows us to create beautiful buttons. It also includes the ability the add font icons via an integration with SwiftIconFont. Very useful.</description>
     </item>
     
     <item>
       <title>SwiftMessages - Flexible message bar for iOS</title>
-      <link>https://freshswift.net/post/-kns6fjoeoyjjtzng37q/</link>
+      <link>https://github.com/SwiftKickMobile/SwiftMessages</link>
       <pubDate>Fri, 30 Jun 2017 08:27:52 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kns6fjoeoyjjtzng37q/</guid>
-      <description></description>
+      <description>This is a cool Swift library from SwiftKickMobile. It  provides a flexible UI component for displaying messages in iOS apps which could be used in a variety of situations - e.g task completion success/failure, network status etc. It has lots of configuration options and provides several themes.</description>
     </item>
     
     <item>
       <title>Umbrella - Analytics abstraction layer for Swift</title>
-      <link>https://freshswift.net/post/-knhgdrbvvejk2kza9vk/</link>
+      <link>https://github.com/devxoul/Umbrella</link>
       <pubDate>Wed, 28 Jun 2017 07:53:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knhgdrbvvejk2kza9vk/</guid>
-      <description></description>
+      <description>It’s common to use some sort of third-party analytics in our mobile apps. This handy Swift library from Jeon Suyeol uses Swift enums and associated values to improve the process of event logging to multiple analytics providers.</description>
     </item>
     
     <item>
       <title>JTAppleCalendar - The unofficial Swift Apple calendar library</title>
-      <link>https://freshswift.net/post/-kncwgm9jywp3wqapidr/</link>
+      <link>https://github.com/patchthecode/JTAppleCalendar</link>
       <pubDate>Tue, 27 Jun 2017 07:49:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kncwgm9jywp3wqapidr/</guid>
-      <description></description>
+      <description>This is a cool Swift library which provides a calendar UI component. It is completely customizable, allowing us to use custom cells for calendar dates. It also has tons of features such as date range selection and week/month display modes. Very nice.</description>
     </item>
     
     <item>
       <title>FanMenu - Circular layout menu</title>
-      <link>https://freshswift.net/post/-knda6swrfnvgxrjnoec/</link>
+      <link>https://github.com/exyte/fan-menu</link>
       <pubDate>Thu, 22 Jun 2017 06:58:39 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knda6swrfnvgxrjnoec/</guid>
-      <description></description>
+      <description>This is a UI component created by the exyte company. It is based Macaw, which is a vector graphics Swift library. The library consists of only one file, making it easy to extend should you want to customize it.</description>
     </item>
     
     <item>
       <title>Instructions - Customizable Coachmarks for iOS</title>
-      <link>https://freshswift.net/post/-kmv5ocfocimrpeqlxio/</link>
+      <link>https://github.com/ephread/Instructions</link>
       <pubDate>Sun, 18 Jun 2017 12:07:14 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmv5ocfocimrpeqlxio/</guid>
-      <description></description>
+      <description>As hard as we try to make our apps intuitive, we still sometimes need to provide hints as to how users can interact with our UI. Coachmarks are one way of doing this, and this Swift library by Frederic Maquin makes it easy to add them to any iOS app.</description>
     </item>
     
     <item>
       <title>NMOutlineView: Hierarchical Menu for iOS</title>
-      <link>https://freshswift.net/post/-kmqhgpn0lswkh7wwxw8/</link>
+      <link>https://github.com/gkopel/nmoutlineview</link>
       <pubDate>Mon, 12 Jun 2017 07:51:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kmqhgpn0lswkh7wwxw8/</guid>
-      <description></description>
+      <description>Greg Kopel has created a neat hierarchical menu UI component for iOS. It builds on top of a UITableView and is 100% Swift. Menu items can be expanded/collapsed, and because it’s built  on top of a UITableView, we can customize it’s appearance using the standard UITableView and UITableViewCell APIs.</description>
     </item>
     
     <item>
       <title>BFKit - A collection of useful Swift classes, structs, and extensions</title>
-      <link>https://freshswift.net/post/-km6z5daiorb_ewu4yrg/</link>
+      <link>https://github.com/FabrizioBrancati/BFKit-Swift</link>
       <pubDate>Thu, 08 Jun 2017 11:56:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-km6z5daiorb_ewu4yrg/</guid>
-      <description></description>
+      <description>Fabrizio Brancati has created a cool Swift library which provides a collection of useful Swift classes, structs, and extensions. It&#39;s aim is to help developers crate apps faster. There is lots here including many extensions to Foundation, UIKit, and WatchKit classes.</description>
     </item>
     
     <item>
       <title>SRCountdownTimer - Simple circle countdown</title>
-      <link>https://freshswift.net/post/-kkbruirmwpcjv9tbdsb/</link>
+      <link>https://github.com/rsrbk/SRCountdownTimer</link>
       <pubDate>Mon, 15 May 2017 14:12:04 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kkbruirmwpcjv9tbdsb/</guid>
-      <description></description>
+      <description>Nice countdown Swift UI component from Ruslan Serebriakov. Customizable and with a configurable timer.</description>
     </item>
     
     <item>
       <title>Highlighter - Highlight whatever you want</title>
-      <link>https://freshswift.net/post/-kk5w7mbhnqdm5w48bqw/</link>
+      <link>https://github.com/younatics/Highlighter</link>
       <pubDate>Sun, 14 May 2017 10:32:49 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kk5w7mbhnqdm5w48bqw/</guid>
-      <description></description>
+      <description>Created by Seungyoun Yi, Highlighter is a really cool Swift library that enables you to easily highlight text in UI components. UILabel, UITextView, UITexTfield, and UIButton are all supported.</description>
     </item>
     
     <item>
       <title>Toolbar - An alternative to UIToolbar</title>
-      <link>https://freshswift.net/post/-kjtpfvbbretocbsga9e/</link>
+      <link>https://github.com/1amageek/Toolbar</link>
       <pubDate>Sat, 06 May 2017 17:35:58 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kjtpfvbbretocbsga9e/</guid>
-      <description></description>
+      <description>This is a nice component from 1amageek which can be used as an alternative to UIToolbar. It behaves more dynamically than the standard UIToolbar, and is made with auto layout.</description>
     </item>
     
     <item>
       <title>SwiftShield - Swift Code Obfuscator</title>
-      <link>https://freshswift.net/post/-kj8qwg3kop4yr4z1xsg/</link>
+      <link>https://github.com/rockbruno/swiftshield</link>
       <pubDate>Fri, 28 Apr 2017 19:03:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8qwg3kop4yr4z1xsg/</guid>
-      <description></description>
+      <description>Bruno Rocha has released SwiftShield, an interesting tool which generates irreversible, encrypted names for your iOS project&#39;s objects. The goal here is to protect your app from tools that reverse engineer iOS apps.</description>
     </item>
     
     <item>
       <title>Stopping the Swift weak-strong closure dance</title>
-      <link>https://freshswift.net/post/-kj8ozvnxo7xkolb2dxt/</link>
+      <link>http://merowing.info/2017/04/stop-weak-strong-dance</link>
       <pubDate>Sun, 23 Apr 2017 11:40:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8ozvnxo7xkolb2dxt/</guid>
-      <description></description>
+      <description>Short article from Krzysztof Zablocki detailing a nice way to avoid the common weak-strong boilerplate code that accompanies using object references in closures. Included is a 1-file µframework (microframework) which accomplishes this.</description>
     </item>
     
     <item>
       <title>Haptica - Haptic Feedback Generator</title>
-      <link>https://freshswift.net/post/-kj8ocn5j9lt_ljpffm4/</link>
+      <link>https://github.com/efremidze/Haptica</link>
       <pubDate>Wed, 19 Apr 2017 11:02:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8ocn5j9lt_ljpffm4/</guid>
-      <description></description>
+      <description>Lasha Efremidze created a useful Swift library which wraps the iOS haptic feedback generator APIs. I really like how simple yet clean the API is.</description>
     </item>
     
   </channel>

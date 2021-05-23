@@ -8,1019 +8,906 @@
     <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Custom Property Wrappers for SwiftUI</title>
-      <link>https://freshswift.net/post/12-04-21-142148/</link>
+      <link>https://davedelong.com/blog/2021/04/02/custom-property-wrappers-for-swiftui/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-04-21-142148/</guid>
-      <description></description>
+      <description>A Swift property wrapper adds a layer of separation between code that defines a property and code that managers how a property is stored. By creating custom property wrappers, we write the management code once when we define the wrapper, and then reuse this code when we apply the wrapper to properties. In this post, Dave Delong shares some useful property wrappers that he has come up with while working on SwiftUI.</description>
     </item>
     
     <item>
       <title>SwiftOnTap - Complete SwiftUI Docs with Examples</title>
-      <link>https://freshswift.net/post/06-04-21-155635/</link>
+      <link>https://swiftontap.com</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-04-21-155635/</guid>
-      <description></description>
+      <description>This is a cool resource created by members of the Swift community. Its aim, as they put it, is to fill Apple&#39;s documentation hole by providing complete SwiftUI documentation with examples. One to bookmark.</description>
     </item>
     
     <item>
       <title>SwiftUI’s Grid Views</title>
-      <link>https://freshswift.net/post/01-12-20-130657/</link>
+      <link>https://www.objc.io/blog/2020/11/23/grid-layout/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-12-20-130657/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s grid views arrange their child views in a horizontal or vertical grid. However, how they layout their child views can be surprising, and in this post, Florian Kugler from Objc.io examines three particular grid view layout scenarios and explains how the layout algorithm works.</description>
     </item>
     
     <item>
       <title>SwiftUI View Lifecycle</title>
-      <link>https://freshswift.net/post/25-11-20-073131/</link>
+      <link>https://www.vadimbulavin.com/swiftui-view-lifecycle/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-11-20-073131/</guid>
-      <description></description>
+      <description>When working with UI frameworks, it&#39;s helpful to understand the lifecycle of the views which make up our interface. Knowing what and when events will occur enables us to perform our actions at the right time. In this post, Vadim Bulavin explores the three phases of the SwiftUI view lifecycle, describing the series of events that happen from the creation of a view to its destruction.</description>
     </item>
     
     <item>
       <title>How an Hstack Lays out Its Children</title>
-      <link>https://freshswift.net/post/23-11-20-085214/</link>
+      <link>https://www.objc.io/blog/2020/11/09/hstacks-child-ordering/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-11-20-085214/</guid>
-      <description></description>
+      <description>As Chris Eidhof states in the introduction to this post, SwiftUI&#39;s layout system is, for the most part, intuitive to use. However, there are times when we encounter puzzling layout behaviors, and here Chris provides a detailed explanation of how one particular container view, an HStack, lays out its child views.</description>
     </item>
     
     <item>
       <title>Debugging SwiftUI: Trials and Tribulations</title>
-      <link>https://freshswift.net/post/15-11-20-114741/</link>
+      <link>https://redalemeden.com/blog/2020/debugging-swiftui-trials-and-tribulations</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-11-20-114741/</guid>
-      <description></description>
+      <description>Working with relatively new frameworks such as SwiftUI means sometimes dealing with subpar debugging tools and seemingly unsolvable bugs. In this post, Reda Lemeden describes the frustration and anxiety he experienced when trying to resolve an issue without much help from the Swift compiler.</description>
     </item>
     
     <item>
       <title>Hashable SwiftUI bindings</title>
-      <link>https://freshswift.net/post/30-10-20-081250/</link>
+      <link>https://fivestars.blog/swiftui/hashable-bindings.html</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/30-10-20-081250/</guid>
-      <description></description>
+      <description>A SwiftUI DisclosureGroup is a view that shows or hides content based on the state of a disclosure control. In this post, Federico Zanetello shows us how to extend DisclosureGroup with a new initializer to provide a similar API to that of the NavigationLink type.</description>
     </item>
     
     <item>
       <title>Mastering GroupBox in SwiftUI</title>
-      <link>https://freshswift.net/post/23-10-20-073700/</link>
+      <link>https://swiftwithmajid.com/2020/10/15/mastering-groupbox-in-swiftui/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-10-20-073700/</guid>
-      <description></description>
+      <description>A Groupbox is a stylized SwiftUI view with an optional label that is associated with a logical grouping of content. In this post, Majid Jabrayilov runs through the basics of using this view type and shows us how we can apply custom styles.</description>
     </item>
     
     <item>
       <title>Mastering transitions in SwiftUI</title>
-      <link>https://freshswift.net/post/21-10-20-074642/</link>
+      <link>https://nerdyak.tech/development/2020/10/12/transitions-in-swiftui.html</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-10-20-074642/</guid>
-      <description></description>
+      <description>In this post, Pavel Zak shows us how to implement custom animation transitions in SwiftUI. As Pavel says, transitions play a vital role in the user experience of an app, and the examples he provides are great starting points for implementing our own transitions.</description>
     </item>
     
     <item>
       <title>Transactions in SwiftUI</title>
-      <link>https://freshswift.net/post/16-10-20-072939/</link>
+      <link>https://swiftwithmajid.com/2020/10/07/transactions-in-swiftui/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-10-20-072939/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s Transaction type provides the context of the current state-processing update. In this post, Majid Jabrayilov shows us how we can use the transaction that accompanies every state change to override state-related view animations.</description>
     </item>
     
     <item>
       <title>UIKit or SwiftUI: what to use in production?</title>
-      <link>https://freshswift.net/post/13-10-20-071905/</link>
+      <link>https://nalexn.github.io/uikit-switfui/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-10-20-071905/</guid>
-      <description></description>
+      <description>How ready is SwiftUI for use in large production apps? In this post, Alexey Naumov considers this question and shows us how to structure a project with a UI layer that can be easily detached and replaced.</description>
     </item>
     
     <item>
       <title>Importing interactive UIKit views into SwiftUI</title>
-      <link>https://freshswift.net/post/12-10-20-073358/</link>
+      <link>https://www.swiftbysundell.com/tips/importing-interactive-uikit-views-into-swiftui/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-10-20-073358/</guid>
-      <description></description>
+      <description>One of SwiftUI&#39;s strengths is that it works with existing Apple UI frameworks such as UIKit. This enables us to reuse our existing UIKit components when introducing SwiftUI into a project. In this post, John Sundell shows us how to bring a UIKit-based view into a SwiftUI view hierarchy.</description>
     </item>
     
     <item>
       <title>Encapsulating SwiftUI view styles</title>
-      <link>https://freshswift.net/post/05-10-20-075639/</link>
+      <link>https://www.swiftbysundell.com/articles/encapsulating-swiftui-view-styles/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-10-20-075639/</guid>
-      <description></description>
+      <description>When working with UI frameworks such as SwiftUI, it&#39;s desirable to separate the structure of our view components from the styles applied to them. In this post, John Sundell looks at several tools and techniques that we can use to do exactly that when creating custom SwiftUI views.</description>
     </item>
     
     <item>
       <title>Apple’s use of Swift and SwiftUI in iOS 14</title>
-      <link>https://freshswift.net/post/04-10-20-110753/</link>
+      <link>https://blog.timac.org/2020/0927-state-of-swift-ios14/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-10-20-110753/</guid>
-      <description></description>
+      <description>Since 2015, Alexandre Colucci has analyzed each iOS release to measure how many system applications were using Swift. In this post, Alexandre Colucci shows us how Apple&#39;s use of Swift has evolved with iOS 14 and also extends his analysis to measure how many built-in apps use SwiftUI.</description>
     </item>
     
     <item>
       <title>Handling Undo &amp; Redo in SwiftUI</title>
-      <link>https://freshswift.net/post/04-10-20-112113/</link>
+      <link>https://lostmoa.com/blog/HandlingUndoAndRedoInSwiftUI/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-10-20-112113/</guid>
-      <description></description>
+      <description>The UndoManager type, available in Apple&#39;s Foundation framework, provides a general-purpose recorder of operations that enables undo and redo actions. In this post, Matthaus Woolard describes a Provider pattern he uses to improve how UndoManager integrates with SwiftUI.</description>
     </item>
     
     <item>
       <title>SwiftUI View Modifiers and if #available</title>
-      <link>https://freshswift.net/post/02-10-20-065624/</link>
+      <link>https://blog.overdesigned.net/posts/2020-09-23-swiftui-availability/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-10-20-065624/</guid>
-      <description></description>
+      <description>When applied to a SwiftUI View, a ViewModifier produces a different version of the original value. In this post, Adam Overholtzer provides an extension on the View type, combining view modifiers with platform availability checks to conditionally apply the modifier.</description>
     </item>
     
     <item>
       <title>Tabs and pages in SwiftUI</title>
-      <link>https://freshswift.net/post/29-09-20-074416/</link>
+      <link>https://swiftwithmajid.com/2020/09/16/tabs-and-pages-in-swiftui/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-09-20-074416/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s TabView is a view that switches between child views using interactive user interface elements. In this short post, Majid Jabrayilov demonstrates the basics of using TabView, and also shows us how to configure it to behave as a paging view.</description>
     </item>
     
     <item>
       <title>The State of SwiftUI</title>
-      <link>https://freshswift.net/post/28-09-20-094555/</link>
+      <link>https://steipete.com/posts/state-of-swiftui/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-09-20-094555/</guid>
-      <description></description>
+      <description>Since SwiftUI&#39;s release in 2019, Apple has continued to evolve the framework, fixing many of the issues that were present in the early versions. In this post, Peter Steinberger takes a look at the current state of SwiftUI. Although Peter doesn&#39;t recommend going all-in on SwiftUI for production apps, he does recognize that it&#39;s the future at Apple, and many of the current concerns will be resolved over the coming years.</description>
     </item>
     
     <item>
       <title>Impossible SwiftUI views</title>
-      <link>https://freshswift.net/post/27-09-20-121551/</link>
+      <link>https://fivestars.blog/swiftui/impossible-swiftui-views.html</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-09-20-121551/</guid>
-      <description></description>
+      <description>Swift&#39;s Never is an enum that represents a type with no values. It&#39;s commonly used as the return type of closures, functions, or methods that do not return normally. SwiftUI also makes use of Never, by extending it to conform to its View protocol. In this post, Federico Zanetello explores SwiftUI&#39;s inner workings to show us why.</description>
     </item>
     
     <item>
       <title>Building widgets in SwiftUI</title>
-      <link>https://freshswift.net/post/22-09-20-073654/</link>
+      <link>https://swiftwithmajid.com/2020/09/09/building-widgets-in-swiftui/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-09-20-073654/</guid>
-      <description></description>
+      <description>Apple&#39;s WidgetKit framework, available in Xcode 12, enables us to build widgets that show relevant, glanceable content from an app on the iOS Home screen or macOS Notification Center. Widget views are built exclusively using SwiftUI, and in this post, Majid Jabrayilov shares his experience of building and updating widgets.</description>
     </item>
     
     <item>
       <title>How Swift 5.3 enhances SwiftUI’s DSL</title>
-      <link>https://freshswift.net/post/21-09-20-074812/</link>
+      <link>https://swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-09-20-074812/</guid>
-      <description></description>
+      <description>Swift 5.3 was officially released last week, and although it&#39;s technically only a minor release, it includes several very useful language enhancements. In this post, John Sundell takes a look at some of these enhancements and shows how they collectively improve the SwiftUI development experience.</description>
     </item>
     
     <item>
       <title>NSUserActivity with SwiftUI</title>
-      <link>https://freshswift.net/post/20-09-20-113828/</link>
+      <link>https://swiftui-lab.com/nsuseractivity-with-swiftui/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-09-20-113828/</guid>
-      <description></description>
+      <description>Available on all of Apple&#39;s platforms, the NSUserActivity type provides a way to capture the state of an app and use it at a later point in time. It powers several capabilities such as Universal Links, Handoff, and SiriKit. In this post, Javier presents a series of examples demonstrating the methods SwiftUI provides to work with NSUserActivity.</description>
     </item>
     
     <item>
       <title>SwiftUI 2.0: The Future is Declarative</title>
-      <link>https://freshswift.net/post/18-09-20-072858/</link>
+      <link>https://infinum.com/the-capsized-eight/swiftUI-2</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-09-20-072858/</guid>
-      <description></description>
+      <description>In this post, Goran Brias takes a detailed look at the state of SwiftUI - what it promised, what it delivered, and where it&#39;s going. Goran&#39;s main point here is that SwiftUI is not just an alternative, it is the future of UI development on Apple platforms. A very interesting read.</description>
     </item>
     
     <item>
       <title>Porting @AppStorage to iOS 13</title>
-      <link>https://freshswift.net/post/15-09-20-073727/</link>
+      <link>https://xavierlowmiller.github.io/blog/2020/09/04/iOS-13-AppStorage</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-09-20-073727/</guid>
-      <description></description>
+      <description>The SwiftUI AppStorage property wrapper, available in iOS 14, is a type that reflects a value from UserDefaults and invalidates a view when the value changes. In this post, Xavier Lowmiller builds his version of AppStorage, creating a new type that provides the same functionality and can be used in iOS 13.</description>
     </item>
     
     <item>
       <title>Micro-interactions: Async Button</title>
-      <link>https://freshswift.net/post/14-09-20-080212/</link>
+      <link>https://trailingclosure.com/micro-interactions-async-button/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-09-20-080212/</guid>
-      <description></description>
+      <description>This tutorial from Jean-Marc Boullianne shows us how to create an asynchronous button micro-interaction for an app. This is part of a series of tutorials Jean-Marc has written on micro-interactions, and this particular post is a great example of a simple micro-interaction that adds polish to an app.</description>
     </item>
     
     <item>
       <title>Conditional view modifiers</title>
-      <link>https://freshswift.net/post/12-09-20-080017/</link>
+      <link>https://fivestars.blog/swiftui/conditional-modifiers.html</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-09-20-080017/</guid>
-      <description></description>
+      <description>SwiftUI provides a wide range of view modifiers which produce a new version of the original value when applied to a view or another view modifier. It&#39;s possible that when working with SwiftUI views, we may want to conditionally apply a view modifier based on certain conditions. In this post, Federico Zanetello shows us how we can use view extensions to handle such cases.</description>
     </item>
     
     <item>
       <title>withAnimation completion callback with animatable modifiers</title>
-      <link>https://freshswift.net/post/10-09-20-075336/</link>
+      <link>https://www.avanderlee.com/swiftui/withanimation-completion-callback/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-09-20-075336/</guid>
-      <description></description>
+      <description>SwiftUI provides excellent support for animations, enabling us to implement simple animations using its withAnimation view modifier. In this post, Antoine Van Der Lee shows us how to create a custom animatable modifier which triggers a completion callback once the animation completes.</description>
     </item>
     
     <item>
       <title>Displaying recursive data using OutlineGroup in SwiftUI</title>
-      <link>https://freshswift.net/post/09-09-20-073545/</link>
+      <link>https://swiftwithmajid.com/2020/09/02/displaying-recursive-data-using-outlinegroup-in-swiftui/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-09-20-073545/</guid>
-      <description></description>
+      <description>OutlineGroup is a SwiftUI structure that computes views on demand from an underlying collection of tree-structured data. In this post, Majid Jabrayilov shows us how to use OutlineGroup, as well as demonstrating how it can be used with SwiftUI&#39;s List type to display styled lists of tree-structured data.</description>
     </item>
     
     <item>
       <title>Save Custom Codable Types in AppStorage or SceneStorage</title>
-      <link>https://freshswift.net/post/08-09-20-075830/</link>
+      <link>https://lostmoa.com/blog/SaveCustomCodableTypesInAppStorageOrSceneStorage/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-09-20-075830/</guid>
-      <description></description>
+      <description>AppStorage and SceneStorage are SwiftUI property wrappers designed for data persistence. Both of these property wrappers support Swift value types such as Bool, Int, etc. However, to use these property wrappers with custom codable types, we need to add RawRepresentable conformance to the types. In this post, Natalia Panferova shows us how to do this.</description>
     </item>
     
     <item>
       <title>Micro-interactions: Alignment Control</title>
-      <link>https://freshswift.net/post/07-09-20-080234/</link>
+      <link>https://trailingclosure.com/micro-interactions-alignment-control/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-09-20-080234/</guid>
-      <description></description>
+      <description>Micro-interactions are events that communicate status and provide feedback to a user when they interact with a UI element in an app. In this post, Jean-Marc Boullianne provides a tutorial on creating a micro-interaction for an alignment control, which he thinks will help to make an app feel polished and simple to use.</description>
     </item>
     
     <item>
       <title>Make a placeholder view in SwiftUI with redacted()</title>
-      <link>https://freshswift.net/post/06-09-20-114755/</link>
+      <link>https://sarunw.com/posts/make-placeholder-view-in-swiftui-with-redacted/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-09-20-114755/</guid>
-      <description></description>
+      <description>Available in iOS 14, SwiftUI&#39;s redacted view modifier redacts or obscures the content of any view it is applied to. In this short post, Sarun Wongpatcharapakorn demonstrates how to use this API and shows us how to customize what is displayed when a view is redacted.</description>
     </item>
     
     <item>
       <title>Custom SwiftUI Toggle Styles</title>
-      <link>https://freshswift.net/post/04-09-20-085548/</link>
+      <link>https://trailingclosure.com/custom-swiftui-toggles/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-09-20-085548/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s Toggle type is a UI control used to toggle between on and off states. We can customize the appearance of toggles by creating and applying styles that conform to the ToggleStyle protocol. In this short post, Jean-Marc Boullianne shows us how to create a custom toggle style, providing several examples of styles he has created.</description>
     </item>
     
     <item>
       <title>SwiftUI ScrollView offset</title>
-      <link>https://freshswift.net/post/03-09-20-082236/</link>
+      <link>https://fivestars.blog/swiftui/scrollview-offset.html</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-09-20-082236/</guid>
-      <description></description>
+      <description>When using scrollable view types, it&#39;s common to want to access the content offset. The content offset is the point at which the origin of the content view is offset from the origin of the scroll view. While UIKit&#39;s UIScrollView provides contentOffset, allowing us to read/write to this property, SwiftUI&#39;s ScrollView does not provide such a property. Instead, SwiftUI provides the ScrollViewReader type, which can be used in place of direct access to a content offset property. However, there might still be times when we want to directly access the content offset of a SwiftUI ScrollView, and in this post, Federico Zanetello shows us how to do that.</description>
     </item>
     
     <item>
       <title>Working with Stacks in SwiftUI</title>
-      <link>https://freshswift.net/post/02-09-20-073257/</link>
+      <link>https://learnappmaking.com/stacks-vstack-hstack-swiftui-how-to/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-09-20-073257/</guid>
-      <description></description>
+      <description>SwiftUI provides several stack view types that can be used to combine views to create complex interfaces. In this post, Reinder de Vries looks at the VStack, HStack, and ZStack types, showing us how to position views within these stacks using alignment and spacing. Even if you are familiar with SwiftUI stack views, this is a good, quick refresher tutorial.</description>
     </item>
     
     <item>
       <title>SwiftUI &#43; Combine = ❤️</title>
-      <link>https://freshswift.net/post/01-09-20-084826/</link>
+      <link>https://peterfriese.dev/swift-combine-love/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-09-20-084826/</guid>
-      <description></description>
+      <description>Apple announced both SwiftUI and Combine at WWDC 2019, introducing two frameworks that will completely change how apps for their platforms are built. In this post, Peter Friese demonstrates why using these two frameworks together will help us to build better apps, resulting in cleaner, more modular code.</description>
     </item>
     
     <item>
       <title>SwiftUI betas - what changed before 1.0</title>
-      <link>https://freshswift.net/post/31-08-20-080416/</link>
+      <link>https://mackuba.eu/2020/08/17/swiftui-beta/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/31-08-20-080416/</guid>
-      <description></description>
+      <description>SwiftUI continues to evolve, with lots of regular changes to the original APIs that debuted at WWDC 2019. In this post, Kuba Suder presents a list of all the API changes that took place between the original beta from June 2019 and the final version from September of that year. This is especially useful if you are trying to recreate examples from WWDC 2019 videos, but are wondering why the code won&#39;t compile.</description>
     </item>
     
     <item>
       <title>How to Get Users’ Swipe Direction in SwiftUI</title>
-      <link>https://freshswift.net/post/29-08-20-074258/</link>
+      <link>https://medium.com/better-programming/how-to-get-users-swipe-direction-in-swiftui-b482a6a8771b</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-08-20-074258/</guid>
-      <description></description>
+      <description>SwiftUI provides the DragGesture type, which represents a dragging motion that invokes an action as the drag-event sequence changes. In this short post, Sarah shows us how we can capture the direction of a user&#39;s swipe using DragGesture.</description>
     </item>
     
     <item>
       <title>Managing scenes in SwiftUI</title>
-      <link>https://freshswift.net/post/28-08-20-084125/</link>
+      <link>https://swiftwithmajid.com/2020/08/26/managing-scenes-in-swiftui/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-08-20-084125/</guid>
-      <description></description>
+      <description>On Apple platforms, a scene represents a part of an app&#39;s user interface, with a life cycle managed by the system. A single app may consist of multiple scenes, all of which can be running concurrently. With SwiftUI, we can use primitive scenes it provides, such as WindowGroup, together with custom scenes we create based on the Scene protocol. In this post, Majid Jabrayilov shows us how we can create custom scenes in SwiftUI, and how we can respond to app life cycle events.</description>
     </item>
     
     <item>
       <title>Flexible layouts in SwiftUI</title>
-      <link>https://freshswift.net/post/27-08-20-074337/</link>
+      <link>https://fivestars.blog/swiftui/flexible-swiftui.html</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-08-20-074337/</guid>
-      <description></description>
+      <description>This year SwiftUI gained two new container view types - LazyVGrid and LazyHGrid - which provide grid-style layouts with a reasonable amount of flexibility. In this post, Federico Zanetello shows us how we can build a custom grid-style view, aiming to provide an even more powerful API than is available in these native SwiftUI types.</description>
     </item>
     
     <item>
       <title>Building SwiftUI debugging utilities</title>
-      <link>https://freshswift.net/post/25-08-20-074510/</link>
+      <link>https://swiftbysundell.com/articles/building-swiftui-debugging-utilities/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-08-20-074510/</guid>
-      <description></description>
+      <description>Debugging - the process of identifying and removing bugs - is almost guaranteed to be part of any software development lifecycle. Xcode includes a suite of tools to help us debug, and although these are comprehensive, sometimes building our own set of debugging utilities can be useful. In this post, John Sundell shows us examples of such custom utilities used to debug SwiftUI-based views.</description>
     </item>
     
     <item>
       <title>Managing app in SwiftUI</title>
-      <link>https://freshswift.net/post/21-08-20-084336/</link>
+      <link>https://swiftwithmajid.com/2020/08/19/managing-app-in-swiftui/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/21-08-20-084336/</guid>
-      <description></description>
+      <description>Swift 5.3 introduces the @main attribute, used to designate a type as the entry point for program execution. Combining this feature with the new App and Scene protocols from SwiftUI allows us to manage an app&#39;s lifecycle with minimal code, without needing to rely on UIKit types such as UIApplicationDelegate. In this post, Majid Jabrayilov shows us how to implement common app lifecycle events using these new features.</description>
     </item>
     
     <item>
       <title>Sharing layout information in SwiftUI</title>
-      <link>https://freshswift.net/post/20-08-20-073920/</link>
+      <link>https://fivestars.blog/swiftui/swiftui-share-layout-information.html</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-08-20-073920/</guid>
-      <description></description>
+      <description>SwiftUI provides container views such as stacks and lists, which we use to lay out the views in our user interface. However, when such container views are not enough to help us get our layout just right, SwiftUI also provides the GeometryReader type, which defines its content as a function of its own size and coordinate space. In this post, Federico Zanetello shows us how we can use GeometryReader, together with PreferenceKey, to share layout information from child views to ancestor views.</description>
     </item>
     
     <item>
       <title>How to manage multiple sheets in SwiftUI</title>
-      <link>https://freshswift.net/post/19-08-20-071400/</link>
+      <link>https://masilotti.com/multiple-sheets-swiftui/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-08-20-071400/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s sheet modifier enables us to modally present a sheet view when a given condition is true. It&#39;s a simple way of modally presenting content and works great when presenting a single sheet from a view. However, things get slightly more complicated when presenting multiple sheets based on different conditions. In his first SwiftUI post, Joe Masilotti describes how he solved the problem of presenting multiple sheets, showing us how he went from an initial solution to a final, more reusable implementation.</description>
     </item>
     
     <item>
       <title>SwiftUI GroupBox for iOS</title>
-      <link>https://freshswift.net/post/18-08-20-074551/</link>
+      <link>https://itnext.io/swiftui-groupbox-for-ios-bb16aa71469c</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-08-20-074551/</guid>
-      <description></description>
+      <description>Available in SwiftUI on macOS since Catalina, the SwiftUI Groupbox type is now available in iOS 14. A Groupbox is a view with an optional label that contains a logical grouping of views. In this short post, Luca provides examples of using Groupbox to display a variety of data.</description>
     </item>
     
     <item>
       <title>A deep dive into Swift’s function builders</title>
-      <link>https://freshswift.net/post/17-08-20-074551/</link>
+      <link>https://www.swiftbysundell.com/articles/deep-dive-into-swift-function-builders/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-08-20-074551/</guid>
-      <description></description>
+      <description>Despite not yet being an officially released language feature, Swift&#39;s function builders power SwiftUI&#39;s DSL-like API and is one of the more interesting recent additions to the language. In this deep dive, John Sundell takes a closer look at function builders, providing insights into the feature by implementing a function builder for a settings API. Like John, I hope the function builders feature goes through the Swift Evolution process sooner rather than later.</description>
     </item>
     
     <item>
       <title>Swift types with @AppStorage and @SceneStorage</title>
-      <link>https://freshswift.net/post/16-08-20-082312/</link>
+      <link>https://www.fivestars.blog/swiftui/app-scene-storage.html</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-08-20-082312/</guid>
-      <description></description>
+      <description>Introduced this year, AppStorage is a SwiftUI property wrapper that reflects a value from UserDefaults which allows for easy storage and observation of app data. Similarly, SceneStorage is a property wrapper that reads and writes to persisted, per-scene storage. They are both super useful, but as they are backed by plists, they are limited in the types of data they support. In this post, Federico Zanetello shows us how we can extend the Published SwiftUI property wrapper to provide similar storage functionality for Codable types.</description>
     </item>
     
     <item>
       <title>Self-Sizing UITableView Cells with SwiftUI</title>
-      <link>https://freshswift.net/post/14-08-20-072303/</link>
+      <link>https://noahgilmore.com/blog/swiftui-self-sizing-cells/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-08-20-072303/</guid>
-      <description></description>
+      <description>SwiftUI works with existing UI frameworks, making it possible to integrate SwiftUI views into UIKit views, and vice versa. In this really interesting post, Noah Gilmore describes his experience of implementing self-sizing UITableView cells which contain an embedded SwiftUI view.</description>
     </item>
     
     <item>
       <title>Menus in SwiftUI</title>
-      <link>https://freshswift.net/post/13-08-20-082706/</link>
+      <link>https://swiftwithmajid.com/2020/08/05/menus-in-swiftui/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/13-08-20-082706/</guid>
-      <description></description>
+      <description>iOS 14 introduces Menu - a new SwiftUI view type used to display popup menus from buttons. In this post, Majid Jabrayilov shows us how to use menus to provide secondary actions or selection options, and describes some of the benefits menus provide over alternative options such as action sheets.</description>
     </item>
     
     <item>
       <title>SwiftUI Kit - A SwiftUI system components and interactions demo app</title>
-      <link>https://freshswift.net/post/12-08-20-073516/</link>
+      <link>https://github.com/jordansinger/SwiftUI-Kit</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-08-20-073516/</guid>
-      <description></description>
+      <description>Jordan Singer has created SwiftUI Kit, an open-source app that demonstrates SwiftUI system components and interactions. The app can be used to see how views appear, and interactions work when using default system components, and the source code is available as a reference.</description>
     </item>
     
     <item>
       <title>Building a Multi-platform App with SwiftUI</title>
-      <link>https://freshswift.net/post/10-08-20-074736/</link>
+      <link>https://heartbeat.fritz.ai/building-a-multi-platform-app-with-swiftui-5336bce94689</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-08-20-074736/</guid>
-      <description></description>
+      <description>The Introduction to SwiftUI session at WWDC 2020 included content that focused on using SwiftUI to build multi-platform apps - i.e apps that work on both iOS and macOS. Building such apps can be done by separately building for each platform from a single codebase, or creating a Mac Catalyst app which runs an app built for iPad on macOS. In this post, Rick Wierenga looks at the former, providing a tutorial that shows us how to use a single codebase to build a HackerNews app for each platform.</description>
     </item>
     
     <item>
       <title>Creating custom .redacted effects</title>
-      <link>https://freshswift.net/post/09-08-20-105418/</link>
+      <link>https://fivestars.blog/code/redacted-custom-effects.html</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-08-20-105418/</guid>
-      <description></description>
+      <description>The latest version of SwiftUI, available in Xcode 12, includes a redacted(reason:) view modifier. This modifier is used to hide the content of SwiftUI views, and while useful, is currently quite limited in the API it provides. In this post, Federico Zanetello explores how we can expand on what is currently available by adding custom redacted effects.</description>
     </item>
     
     <item>
       <title>Dependency Injection via Property Wrappers</title>
-      <link>https://freshswift.net/post/07-08-20-082648/</link>
+      <link>https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-08-20-082648/</guid>
-      <description></description>
+      <description>Property Wrappers in Swift allow us to add a layer of separation between code that manages how a property is stored and the code that defines a property. It&#39;s a powerful feature with a lot of potential use cases. Dependency injection is a software engineering technique used to supply dependencies to an object or value type. In this post, Kilo Loco demonstrates how we can use Swift property wrappers to pass dependencies to a SwiftUI view. It&#39;s a cool idea.</description>
     </item>
     
     <item>
       <title>Using MapKit with SwiftUI</title>
-      <link>https://freshswift.net/post/06-08-20-075648/</link>
+      <link>https://swiftwithmajid.com/2020/07/29/using-mapkit-with-swiftui/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-08-20-075648/</guid>
-      <description></description>
+      <description>Apple continues to encourage the adoption of SwiftUI by creating more SwiftUI integrations for UIKit frameworks. In this post, Majid Jabrayilov describes the functionality available in the new SwiftUI Map type, which can be used to display MapKit maps in our SwiftUI apps. It&#39;s great to see more and more SwiftUI types like this, avoiding the need to mix SwiftUI and UIKit implementations.</description>
     </item>
     
     <item>
       <title>Implementing Grid Layout in SwiftUI</title>
-      <link>https://freshswift.net/post/05-08-20-080217/</link>
+      <link>https://exyte.com/blog/implementing-grid-layout-in-swiftui</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-08-20-080217/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s LazyVGrid and LazyHGrid types, introduced in iOS 14, provide flexible grid layouts. In this post from the team at exyte, Denis Obukhov and Nikita Afonasov look at what a grid layout is, what features it has, and describe how their custom grid implementation differs from Apple&#39;s.</description>
     </item>
     
     <item>
       <title>SwiftUI features in WidgetKit</title>
-      <link>https://freshswift.net/post/04-08-20-090040/</link>
+      <link>https://www.fivestars.blog/code/swiftui-widgetkit.html</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-08-20-090040/</guid>
-      <description></description>
+      <description>Apple&#39;s WidgetKit framework allows us to display relevant content from an app on the iOS Home screen or in Notification Center on macOS. SwiftUI is used to build widgets, and it has gained new features designed specifically for the task. In this post, Federico Zanetello explores some of these new features and includes examples of how they might be used in more general contexts.</description>
     </item>
     
     <item>
       <title>Activity Indicators in SwiftUI</title>
-      <link>https://freshswift.net/post/03-08-20-073015/</link>
+      <link>https://medium.com/better-programming/activity-indicators-in-swiftui-17b66e6c0137</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-08-20-073015/</guid>
-      <description></description>
+      <description>Activity indicators and progress bars are UI components that can be used to inform users that an app is performing some task and to give them some idea of how long they will be waiting. In this post, Sarah provides some examples of such UI components implemented in SwiftUI.</description>
     </item>
     
     <item>
       <title>RedditOS - A SwiftUI Reddit client for macOS Big Sur</title>
-      <link>https://freshswift.net/post/02-08-20-071902/</link>
+      <link>https://github.com/Dimillian/RedditOS</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-08-20-071902/</guid>
-      <description></description>
+      <description>This open-source SwiftUI app created by Thomas Ricouard is a Reddit client for macOS. It&#39;s great to see apps like this being developed as open-source projects, as it provides opportunities for collaboration and learning from others in the Swift community. Note - you need macOS Big Sur to run this app.</description>
     </item>
     
     <item>
       <title>Sidebar navigation in SwiftUI</title>
-      <link>https://freshswift.net/post/02-08-20-105205/</link>
+      <link>https://swiftwithmajid.com/2020/07/21/sidebar-navigation-in-swiftui/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-08-20-105205/</guid>
-      <description></description>
+      <description>SwiftUI&#39;s NavigationView type - used for presenting a stack of views representing a navigation hierarchy - is incredibly powerful, enabling us to build complex layouts that adapt to the platform they are running on. In this post, Majid Jabrayilov shows us how to use a NavigationView to add a third sidebar column to a two-column master-detail navigation layout.</description>
     </item>
     
     <item>
       <title>SwiftUI Hierarchy List</title>
-      <link>https://freshswift.net/post/01-08-20-083143/</link>
+      <link>https://www.fivestars.blog/code/swiftui-hierarchy-list.html</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-08-20-083143/</guid>
-      <description></description>
+      <description>New in iOS 14 is the ability to easily create hierarchical lists using SwiftUI&#39;s List view type. Given a recursive data model that contains optional children of the same type as the parent, a List will display a tree-like structure with expandable rows. In this post, Federico Zanetello shows us how to implement our version of a hierarchical list, creating a custom type that is compatible with iOS 13. I like the approach Federico takes in his posts. Implementing our version of existing types and APIs is a great way of learning more about how the original versions work.</description>
     </item>
     
     <item>
       <title>Learn About SwiftUI Text and Label in iOS 14</title>
-      <link>https://freshswift.net/post/30-07-20-082423/</link>
+      <link>https://medium.com/better-programming/learn-about-swiftui-text-and-label-in-ios-14-bfee41252117</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/30-07-20-082423/</guid>
-      <description></description>
+      <description>In this short post, Anupam Chugh explores the powerful new Text APIs available in the latest version of SwiftUI. Gist with full source code is provided.</description>
     </item>
     
     <item>
       <title>Safer Localization in SwiftUI</title>
-      <link>https://freshswift.net/post/29-07-20-082732/</link>
+      <link>https://dev.to/jeehut/safer-localization-in-swiftui-4gn8</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-07-20-082732/</guid>
-      <description></description>
+      <description>SwiftUI provides support for localization through its LocalisedStringKey struct. In this post, Cihat Gündüz digs into how this struct enables localization and describes how he implemented improvements to the localization process.</description>
     </item>
     
     <item>
       <title>Generating automatic placeholders for SwiftUI views</title>
-      <link>https://freshswift.net/post/28-07-20-074401/</link>
+      <link>https://www.swiftbysundell.com/tips/swiftui-automatic-placeholders/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-07-20-074401/</guid>
-      <description></description>
+      <description>SwiftUI now includes a new modifier, redacted, which can be used to automatically generate placeholders for views. In this post, John Sundell provides an example of using this new modifier, and also shows us how we can use the redactionReasons environment variable to implement custom behaviour.</description>
     </item>
     
     <item>
       <title>Loading Network Data in SwiftUI</title>
-      <link>https://freshswift.net/post/27-07-20-073157/</link>
+      <link>https://blog.timroesner.com/swiftui-network-data-loading</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-07-20-073157/</guid>
-      <description></description>
+      <description>The Combine framework provides a declarative API for processing asynchronous events over time. This makes it ideal for asynchronously loading data from a network. In this post, Tim Roesner shows us how we can use Combine together with SwiftUI to request data and display it in a view.</description>
     </item>
     
     <item>
       <title>Opaque return types in Swift</title>
-      <link>https://freshswift.net/post/25-07-20-074625/</link>
+      <link>https://www.swiftbysundell.com/articles/opaque-return-types-in-swift/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-07-20-074625/</guid>
-      <description></description>
+      <description>Swift&#39;s opaque return types allow us to hide type information for a returned value. While this language feature is likely most familiar from its usage in SwiftUI, it&#39;s a general-purpose feature that can be used in many different contexts. In this post, John Sundell takes a closer look at opaque return types, providing concrete examples of how they can be used.</description>
     </item>
     
     <item>
       <title>Handling deeplinks in iOS 14 with onOpenURL</title>
-      <link>https://freshswift.net/post/24-07-20-082118/</link>
+      <link>https://www.donnywals.com/handling-deeplinks-in-ios-14-with-onopenurl/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-07-20-082118/</guid>
-      <description></description>
+      <description>Handling deeplinks using UIKit is cumbersome, requiring developers to implement logic in their App/Scene delegate which needs to know the full app structure to manipulate its navigation state. Thankfully, handling deeplinks with SwiftUI in iOS 14 is much more powerful and flexible. In this post, Donny Wals provides a complete example of using SwiftUI&#39;s new onOpenURL view modifier, showing us how views can modify their state as needed in response to a deeplink.</description>
     </item>
     
     <item>
       <title>Mastering toolbars in SwiftUI</title>
-      <link>https://freshswift.net/post/23-07-20-072827/</link>
+      <link>https://swiftwithmajid.com/2020/07/15/mastering-toolbars-in-swiftui/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-07-20-072827/</guid>
-      <description></description>
+      <description>SwiftUI gains a new Toolbar API in iOS 14. Using this API, we can add bar button items to our apps which automatically adapt to their environment. In this post, Majid looks at how this new API works and provides an example of its usage.</description>
     </item>
     
     <item>
       <title>Getting started with WidgetKit</title>
-      <link>https://freshswift.net/post/22-07-20-083925/</link>
+      <link>https://wwdcbysundell.com/2020/getting-started-with-widgetkit/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-07-20-083925/</guid>
-      <description></description>
+      <description>Apple introduced WidgetKit at WWDC20, a new framework that enables us to build widgets that can be displayed on users&#39; home screens. These widgets are built exclusively using SwiftUI. In this post, John Sundell takes a first look at WidgetKit, and shows us how to get started by building a simple widget.</description>
     </item>
     
     <item>
       <title>StackOv - An open-source SwiftUI Stack Overflow client for iOS, iPadOS, and MacOS</title>
-      <link>https://freshswift.net/post/22-07-20-073526/</link>
+      <link>https://github.com/surfstudio/StackOv</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-07-20-073526/</guid>
-      <description></description>
+      <description>SwiftUI is still relatively new, and so the number of pure SwiftUI apps (i.e no UIKit) in the App store is probably low. This open-source app - a Stack Overflow client for iOS, iPadOS, and MacOS - is very nearly 100% SwiftUI, with UIKit really only being used for app lifecycle management. This is a great reference if you are working on your own SwiftUI app.</description>
     </item>
     
     <item>
       <title>SwiftUI Property Wrappers</title>
-      <link>https://freshswift.net/post/20-07-20-080103/</link>
+      <link>https://swiftuipropertywrappers.com</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/20-07-20-080103/</guid>
-      <description></description>
+      <description>SwiftUI provides a variety of property wrappers that we can leverage to manage state and data flow in our applications. Deciding which property wrapper to use depends on several factors, such as the type of data being wrapped, how the data is used, and how the SwiftUI view receives the data. This site, created by Donny Wals, is a quick reference when making such a decision. Definitely one to bookmark.</description>
     </item>
     
     <item>
       <title>Mastering grids in SwiftUI</title>
-      <link>https://freshswift.net/post/18-07-20-090524/</link>
+      <link>https://swiftwithmajid.com/2020/07/08/mastering-grids-in-swiftui/</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-07-20-090524/</guid>
-      <description></description>
+      <description>Two new container views - LazyVGrid and LazyHGrid - have been added to SwiftUI in iOS 14. These new container views arrange their child views in a grid that grows either vertically or horizontally, creating items only as needed. In this post, Majid demonstrates how we can create complex and adaptive layouts using these incredibly powerful new types.</description>
     </item>
     
     <item>
       <title>A guide to SwiftUI’s state management system</title>
-      <link>https://freshswift.net/post/17-07-20-075024/</link>
+      <link>https://swiftbysundell.com/articles/swiftui-state-management-guide/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-07-20-075024/</guid>
-      <description></description>
+      <description>SwiftUI includes several property wrappers that allow us to declare exactly how data is observed and mutated by views. In this post from John Sundell, he takes a closer look at SwiftUI&#39;s overall state management system and provides concrete examples of when we might use each of the related property wrappers.</description>
     </item>
     
     <item>
       <title>Building Glyph: A Year With SwiftUI</title>
-      <link>https://freshswift.net/post/17-07-20-161201/</link>
+      <link>https://www.getglyph.app/blog/3-building-glyph-a-year-with-swiftui</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-07-20-161201/</guid>
-      <description></description>
+      <description>With so many posts written about what is possible with SwiftUI, it&#39;s interesting to read about a real-world experience of using it in a production app. In this post, Roshan Choxi shares his experience of building the Glyph iPad app entirely in SwiftUI.</description>
     </item>
     
     <item>
       <title>Custom navigation bar title view in SwiftUI</title>
-      <link>https://freshswift.net/post/16-07-20-075944/</link>
+      <link>https://sarunw.com/posts/custom-navigation-bar-title-view-in-swiftui/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-07-20-075944/</guid>
-      <description></description>
+      <description>SwiftUI in iOS 14 includes a new ToolbarItem type and toolbar view modifier, which can be used together to create a customized navigation bar title. In this short post, Sarun shows us how to create a navigation bar title that displays text, an image, and even a button.</description>
     </item>
     
     <item>
       <title>SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture</title>
-      <link>https://freshswift.net/post/15-07-20-064138/</link>
+      <link>https://www.fivestars.blog/code/section-title-index-swiftui.html</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-07-20-064138/</guid>
-      <description></description>
+      <description>SwiftUI includes a ScrollView type, which is similar in function to its UIKit counterpart. However, until recently, SwiftUI was unable to programmatically scroll to a particular offset in the ScrollView. With iOS 14, this is now possible, and in this post, Federico Zanetello uses this new ability, together with DragGesture, to implement his own version of an index list.</description>
     </item>
     
     <item>
       <title>SwiftUI’s New App Lifecycle and Replacements for AppDelegate and SceneDelegate in iOS 14</title>
-      <link>https://freshswift.net/post/14-07-20-075448/</link>
+      <link>https://medium.com/better-programming/swiftuis-new-app-lifecycle-and-replacements-for-appdelegate-and-scenedelegate-in-ios-14-c9cf4a2367a9</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-07-20-075448/</guid>
-      <description></description>
+      <description>With iOS 14, it is now possible to build entire apps using only SwiftUI, avoiding the need to implement UIKit lifecycle protocols such as UIApplicationDelegate. This is made possible due to the introduction of new SwiftUI features such as the App protocol and SceneBuilder function builder. Here, Anupam Chugh shows us how we can leverage these new SwiftUI features to implement a SwiftUI app lifecycle.</description>
     </item>
     
     <item>
       <title>A first look at matchedGeometryEffect</title>
-      <link>https://freshswift.net/post/12-07-20-110347/</link>
+      <link>https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-07-20-110347/</guid>
-      <description></description>
+      <description>SwiftUI provides great support for animation, allowing us to animate changes to views, or to a view&#39;s state. In the latest version of SwiftUI, included in the iOS 14 beta, we get a new method, matchedGeometryEffect, which defines a group of views with synchronized geometry. Combining this method with SwiftUI&#39;s support for animations allows us to animate a change in the position and size of two or more views in our view hierarchy. In this post, Sarun shows us how it&#39;s done.</description>
     </item>
     
     <item>
       <title>The difference between @StateObject, @EnvironmentObject, and @ObservedObject in SwiftUI</title>
-      <link>https://freshswift.net/post/12-07-20-162514/</link>
+      <link>https://swiftwithmajid.com/2020/07/02/the-difference-between-stateobject-environmentobject-and-observedobject-in-swiftui/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-07-20-162514/</guid>
-      <description></description>
+      <description>SwiftUI implements it&#39;s data flow management types, such as State, Binding, and ObservedObject, as property wrappers. In this post, Majid explains the difference between some of these property wrappers, including the new StateObject property wrapper which is available in iOS 14</description>
     </item>
     
     <item>
       <title>Adding optional @Bindings to SwiftUI views</title>
-      <link>https://freshswift.net/post/11-07-20-083958/</link>
+      <link>https://www.fivestars.blog/code/optional-binding.html</link>
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-07-20-083958/</guid>
-      <description></description>
+      <description>SwiftUI gained a number of new view types at WWDC this year, one of them being DisclosureGroup. DisclosureGroup acts like an expandable cell, showing or hiding it&#39;s content based on it&#39;s disclosure state. One interesting aspect of this view is that it provides a number of initializers, some of which require an isExpanded binding, some of which don&#39;t. In other words, this isExpanded binding is optionally passed in when the view is initialized. In this post, Federico Zanetello shows us how we can add optional bindings to SwiftUI views, by creating his own version of the DisclosureGroup view.</description>
     </item>
     
     <item>
       <title>New property wrappers in SwiftUI</title>
-      <link>https://freshswift.net/post/06-07-20-080136/</link>
+      <link>https://swiftwithmajid.com/2020/06/29/new-property-wrappers-in-swiftui/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-07-20-080136/</guid>
-      <description></description>
+      <description>SwiftUI allows us to declaratively build our user interfaces, while also indicating data dependencies for our views. We indicate these dependencies using data management types, which are implemented in SwiftUI as property wrappers such as State and Binding. With iOS 14, SwiftUI introduces additional property wrappers to help us manage state and data flow, and in this post, Majid shows us how we can use them.</description>
     </item>
     
     <item>
       <title>How SwiftUI can now be used to build entire iOS apps</title>
-      <link>https://freshswift.net/post/05-07-20-110345/</link>
+      <link>https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-07-20-110345/</guid>
-      <description></description>
+      <description>At this year&#39;s WWDC20, SwiftUI received some very impressive updates. One of them is the ability to create an entry point for an app without needing to rely on UIKit/AppKit. What this means is that we can now build an entire app using SwiftUI. In this post, John Sundell shows us how simple it is to build such an app.</description>
     </item>
     
     <item>
       <title>Use PinnedScrollableViews to make sticky headers</title>
-      <link>https://freshswift.net/post/05-07-20-123355/</link>
+      <link>https://yoswift.dev/swiftui/pinnedScrollableViews/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-07-20-123355/</guid>
-      <description></description>
+      <description>In this short post from Yo! Swift, we learn how to use the new SwiftUI PinnedScrollableViews type to implement sticky headers in a scrollable view.</description>
     </item>
     
     <item>
       <title>Add custom SwiftUI view to View Library with LibraryContentProvider</title>
-      <link>https://freshswift.net/post/04-07-20-073001/</link>
+      <link>https://sarunw.com/posts/add-custom-swiftui-view-to-view-library/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-07-20-073001/</guid>
-      <description></description>
+      <description>Xcode&#39;s library allows us to quickly access commonly used SwiftUI system elements such as views and modifiers. New to iOS 14 and Xcode 12 is the ability to add our own custom SwiftUI views to the library. This post from Sarun shows us how to do it.</description>
     </item>
     
     <item>
       <title>Enabling high-performance Metal rendering with drawingGroup()</title>
-      <link>https://freshswift.net/post/03-07-20-065520/</link>
+      <link>https://www.hackingwithswift.com/books/ios-swiftui/enabling-high-performance-metal-rendering-with-drawinggroup</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-07-20-065520/</guid>
-      <description></description>
+      <description>As many iOS devices now render at 120 frames per second, it&#39;s important we consider performance when rendering complex content. In this post from Paul Hudson, we learn how to use the drawingGroup view modifier to improve rendering when using SwiftUI.</description>
     </item>
     
     <item>
       <title>SwiftUI: Two equal width columns</title>
-      <link>https://freshswift.net/post/02-07-20-075233/</link>
+      <link>https://noahgilmore.com/blog/swiftui-two-columns-equal-width/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-07-20-075233/</guid>
-      <description></description>
+      <description>SwiftUI provides built-in view modifiers which we can apply to views to produce a different version of the original view. One such modifier is frame(width:height:alignment:), which when applied to a view positions it within an invisible frame with the specified size. In this post, Noah Gilmore shows us how we can use the frame modifier to create a view consisting of two equal width columns.</description>
     </item>
     
     <item>
       <title>SwiftUI Tips and Tricks</title>
-      <link>https://freshswift.net/post/01-07-20-073948/</link>
+      <link>https://medium.com/better-programming/swiftui-tips-and-tricks-c7840d8eb01b</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-07-20-073948/</guid>
-      <description></description>
+      <description>Anupam Chugh has compiled a list of tips and tricks to help us build our SwiftUI applications. Check them out.</description>
     </item>
     
     <item>
       <title>SwiftUI: Double-Edged Sword</title>
-      <link>https://freshswift.net/post/01-07-20-150059/</link>
+      <link>https://mohsen.dev/2020/06/21/swiftui-double-edged-sword.html</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-07-20-150059/</guid>
-      <description></description>
+      <description>I really like this short post from Mohsen Alijanpour. One of the many benefits of migrating to SwiftUI from the world of UIKit, which assumes we will build using the MVC pattern, is that SwiftUI is architecure-less. That is, SwiftUI doesn&#39;t assume what architectural pattern we will use when building. Here, Mohsen highlights this freedom, while also reminding us that such freedom comes at the cost of more responsibility.</description>
     </item>
     
     <item>
       <title>Using SceneStorage for State Restoration in SwiftUI Apps</title>
-      <link>https://freshswift.net/post/30-06-20-080945/</link>
+      <link>https://lostmoa.com/blog/UsingSceneStorageForStateRestorationInSwiftUIApps/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/30-06-20-080945/</guid>
-      <description></description>
+      <description>iOS 14 introduces a new SwiftUI property wrapper, SceneStorage. In this short post, Natalia Panferova shows us how we can use it to persist tab selection in a tab-based app.</description>
     </item>
     
     <item>
       <title>The magic of Animatable values in SwiftUI</title>
-      <link>https://freshswift.net/post/29-06-20-080212/</link>
+      <link>https://swiftwithmajid.com/2020/06/17/the-magic-of-animatable-values-in-swiftui/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/29-06-20-080212/</guid>
-      <description></description>
+      <description>SwiftUI provides view modifiers which allow us to animate changes to a view&#39;s state. In this post, Majid demonstrates how we can build complex animations using Swift&#39;s VectorArithmetic protocol.</description>
     </item>
     
     <item>
       <title>Integrating SwiftUI &amp; UI Kit</title>
-      <link>https://freshswift.net/post/28-06-20-092302/</link>
+      <link>https://www.youtube.com/watch?v=ssz02HMEoR0&amp;t</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/28-06-20-092302/</guid>
-      <description></description>
+      <description>In this talk from dotSwift 2020, Ishmael Shabazz discusses integrating SwiftUI and UIKit. Ishmael first looks at how we can use UIKit views in a SwiftUI hierarchy, and then switches sides to show us how to add SwiftUI views to a UIKit hierarchy.</description>
     </item>
     
     <item>
       <title>SwiftUI, UIViewRepresentable, and attributed text</title>
-      <link>https://freshswift.net/post/26-06-20-083910/</link>
+      <link>https://blog.hyperdeck.io/posts/2020-6-18-swiftui-uiviewrepresentable-and-attributed-text.html</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/26-06-20-083910/</guid>
-      <description></description>
+      <description>This is an interesting post from Benedikt Terhechte on the difficulty of handling rich text with SwiftUI 1.0. To support Markdown in his Hyperdeck app, Benedikt needed a SwiftUI type which supported rich text via attributed text. However, as there is no native SwiftUI 1.0 type which supports attributed text, Benedikt needed to look for other solutions.</description>
     </item>
     
     <item>
       <title>What&#39;s new in SwiftUI</title>
-      <link>https://freshswift.net/post/25-06-20-085506/</link>
+      <link>https://swiftwithmajid.com/2020/06/23/what-is-new-in-swiftui/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-06-20-085506/</guid>
-      <description></description>
+      <description>It&#39;s WWDC20, and all new SwiftUI features are here! In this post, Majid takes a peek at some of these new features. There are some really cool additions in this iteration of SwiftUI, and I particularly like the new way of defining an app&#39;s entry point using the new App and Scene protocols.</description>
     </item>
     
     <item>
       <title>Building a silly WatchKit App</title>
-      <link>https://freshswift.net/post/24-06-20-084013/</link>
+      <link>https://ericasadun.com/2020/06/05/building-a-silly-watchkit-app/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-06-20-084013/</guid>
-      <description></description>
+      <description>Erica Sadun with a short post describing her efforts to build a simple WatchKit app using SwiftUI. The amount of code required to implement her app was small, about 40 lines, but Erica encountered some problems when trying to deploy her app to hardware for testing.</description>
     </item>
     
     <item>
       <title>TikTok logo-ish effect in SwiftUI</title>
-      <link>https://freshswift.net/post/24-06-20-074253/</link>
+      <link>https://nerdyak.tech/development/2020/06/12/create-tiktok-logo-effect-in-swiftui.html</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/24-06-20-074253/</guid>
-      <description></description>
+      <description>Taking a break from WWDC, this post from Pavel Zak shows us how to create an image with a blurred and blended effect, similar to the TikTok logo. Pavel uses a custom ViewModifier, creating an effect which can be reused on any SwiftUI view.</description>
     </item>
     
     <item>
       <title>What’s new in SwiftUI for iOS 14</title>
-      <link>https://freshswift.net/post/23-06-20-113932/</link>
+      <link>https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-06-20-113932/</guid>
-      <description></description>
+      <description>It&#39;s a big week, with lots of awesome new things to learn and try out. SwiftUI was always going to see big improvements this year, and luckily we have people like Paul Hudson to help us keep up with all the changes. This evolving post from Paul summarises the SwiftUI changes as Paul works through them, and he includes code samples for all. Bookmark and check back in daily.</description>
     </item>
     
     <item>
       <title>The power of @ViewBuilder in SwiftUI</title>
-      <link>https://freshswift.net/post/22-06-20-083455/</link>
+      <link>https://swiftwithmajid.com/2019/12/18/the-power-of-viewbuilder-in-swiftui/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/22-06-20-083455/</guid>
-      <description></description>
+      <description>Swift function builders allow us to create APIs which provide a DSL-like syntax. ViewBuilder is one such function builder, and is used by SwiftUI to create views. In this post, Majid shows us how we can build our own reusable SwiftUI views, using ViewBuilder to separate our presentation logic and content.</description>
     </item>
     
     <item>
       <title>View composition in SwiftUI</title>
-      <link>https://freshswift.net/post/19-06-20-083227/</link>
+      <link>https://swiftwithmajid.com/2019/10/30/view-composition-in-swiftui/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-06-20-083227/</guid>
-      <description></description>
+      <description>Majid looks at view composition in this post, showing us how we can use computed properties, grouping, and custom view modifiers to make our SwiftUI code more reusable and maintainable.</description>
     </item>
     
     <item>
       <title>Why TextView is my SwiftUI canary</title>
-      <link>https://freshswift.net/post/19-06-20-081701/</link>
+      <link>https://appdecentral.com/2020/06/07/why-textview-is-my-swiftui-canary/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/19-06-20-081701/</guid>
-      <description></description>
+      <description>This is a very interesting post from Drew McCormack. Ahead of WWDC20, Drew writes about how SwiftUI&#39;s declarative style currently presents performance challenges when working with large volumes of changing model data. Drew then explains why he will be looking at how SwiftUI handles text as the framework evolves, as it&#39;s a good indication of whether SwiftUI is ready to replace UIKit/AppKit.</description>
     </item>
     
     <item>
       <title>SwiftUI wishlist for WWDC20</title>
-      <link>https://freshswift.net/post/18-06-20/</link>
+      <link>https://swiftwithmajid.com/2020/06/10/swiftui-wishlist-for-wwdc20/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-06-20/</guid>
-      <description></description>
+      <description>With WWDC20 just around the corner, Majid shares his wishlist of SwiftUI features and updates which he hopes Apple will announce next week. I would be surprised if Apple didn&#39;t announce at least a couple of these, particularly a SwiftUI version of CompositionalLayout and additional views such as SearchBar and TextView.</description>
     </item>
     
     <item>
       <title>Infinite List Scroll with SwiftUI and Combine</title>
-      <link>https://freshswift.net/post/17-06-20/</link>
+      <link>https://www.vadimbulavin.com/infinite-list-scroll-swiftui-combine/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/17-06-20/</guid>
-      <description></description>
+      <description>Vadim Bulavin demonstrates how we can implement infinite scroll on iOS using SwiftUI and the Combine framework. It&#39;s a really nice, simple approach, implemented using the MVVM iOS app architecture.</description>
     </item>
     
     <item>
       <title>Function Builders in Swift and SwiftUI</title>
-      <link>https://freshswift.net/post/15-06-20/</link>
+      <link>https://www.vadimbulavin.com/swift-function-builders-swiftui-view-builder/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/15-06-20/</guid>
-      <description></description>
+      <description>Swift 5.1 introduced functions builders, a language feature which enables SwiftUI&#39;s declarative DSL. In this article from Vadim Bulavin, we learn more about what function builders are, how they are handled by the Swift compiler, and how we can implement our own custom builders.</description>
     </item>
     
     <item>
       <title>How to Conditionally Apply View Modifiers in SwiftUI</title>
-      <link>https://freshswift.net/post/12-06-20/</link>
+      <link>https://medium.com/better-programming/conditionally-applying-view-modifiers-in-swiftui-c5541711eb41</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/12-06-20/</guid>
-      <description></description>
+      <description>In this post Frank Jia implements an extension on the SwiftUI View type that allows us to conditionally apply a view modifier. Frank&#39;s usage of the ViewBuilder attribute results in a concise, elegant implementation.</description>
     </item>
     
     <item>
       <title>The Swift 5.1 features that power SwiftUI’s API</title>
-      <link>https://freshswift.net/post/11-06-20/</link>
+      <link>https://swiftbysundell.com/articles/the-swift-51-features-that-power-swiftuis-api/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-06-20/</guid>
-      <description></description>
+      <description>SwiftUI will no doubt feature heavily at WWDC this year and so I thought it would be a good idea to review the Swift 5.1 features which made SwiftUI possible. This post from John Sundell covers opaque return types, omitted returns, function builders, and property wrappers.</description>
     </item>
     
     <item>
       <title>ViewModifiers in SwiftUI</title>
-      <link>https://freshswift.net/post/08-06-20/</link>
+      <link>https://swiftwithmajid.com/2019/08/07/viewmodifiers-in-swiftui/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/08-06-20/</guid>
-      <description></description>
+      <description>ViewModifiers play a central role in SwiftUI, and in this post Majid shows us how we can create our own custom modifiers. I really like the idea of wrapping a network request to fetch an image in a custom ViewModifier. It&#39;s a great example of encapsulation and reuse.</description>
     </item>
     
     <item>
       <title>When Should I Use @State, @Binding, @ObservedObject, @EnvironmentObject, or @Environment?</title>
-      <link>https://freshswift.net/post/07-06-20/</link>
+      <link>https://jaredsinclair.com/2020/05/07/swiftui-cheat-sheet.html</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/07-06-20/</guid>
-      <description></description>
+      <description>Excellent post from Jared Sinclair in which he defines in simple terms when we should use the most common SwiftUI property wrappers. It&#39;s a super useful cheat sheet, and definitely one to bookmark as a reference.</description>
     </item>
     
     <item>
       <title>Using coordinators to manage SwiftUI view controllers</title>
-      <link>https://freshswift.net/post/06-06-20/</link>
+      <link>https://www.hackingwithswift.com/books/ios-swiftui/using-coordinators-to-manage-swiftui-view-controllers</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/06-06-20/</guid>
-      <description></description>
+      <description>This is an excellent post from Paul Hudson on SwiftUI coordinators. Paul takes us step by step through a complete example of using a coordinator to act as a delegate for a UIKit view controller.</description>
     </item>
     
     <item>
       <title>How the SwiftUI DSL Works</title>
-      <link>https://freshswift.net/post/05-06-20/</link>
+      <link>https://harshil.net/blog/swiftui-dsl-function-builders</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/05-06-20/</guid>
-      <description></description>
+      <description>Harshil Shah writes about SwiftUI&#39;s DSL (Domain Specific Language), with a focus on function builders. Although not intended to be publicly used yet, function builders are available in current Swift development toolchains, and are key to really understanding how SwiftUI works.</description>
     </item>
     
     <item>
       <title>Mastering images in SwiftUI</title>
-      <link>https://freshswift.net/post/04-06-20/</link>
+      <link>https://swiftwithmajid.com/2020/05/27/mastering-images-in-swiftui/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-06-20/</guid>
-      <description></description>
+      <description>Majid covers the SwiftUI Image type in this post. He first starts with the basics before moving onto view modifiers relating to resizing and rendering. A good reference if you are working with images in SwiftUI.</description>
     </item>
     
     <item>
       <title>Scroll List to Row in SwiftUI</title>
-      <link>https://freshswift.net/post/03-06-20/</link>
+      <link>https://lostmoa.com/blog/ScrollListToRowInSwiftUI/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-06-20/</guid>
-      <description></description>
+      <description>Continuing the SwiftUI theme, this post by Natalia Panferova shows us how we can implement scroll to row for a SwiftUI List. The approach is based on the fact that currently the List view in SwiftUI is a UITableView under the hood.</description>
     </item>
     
     <item>
       <title>How to use @ObservedObject to manage state from external objects</title>
-      <link>https://freshswift.net/post/02-06-20/</link>
+      <link>https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/02-06-20/</guid>
-      <description></description>
+      <description>At this point, most of us are likely familiar with how observed objects can be used with SwiftUI to manage state. However, a quick refresh is often helpful, and this post from Paul Hudson provides exactly that.</description>
     </item>
     
     <item>
       <title>Getting the most out of Xcode Previews for SwiftUI</title>
-      <link>https://freshswift.net/post/01-06-20/</link>
+      <link>https://swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/01-06-20/</guid>
-      <description></description>
+      <description>John Sundell shows us a number of techniques and abstractions to help us make the most of Xcode 11&#39;s Preview feature. As always, John provides lots of code snippets which we can immediately start using in our own code.</description>
     </item>
     
     <item>
       <title>Combine and SwiftUI views</title>
-      <link>https://freshswift.net/post/31-05-20/</link>
+      <link>https://swiftwithmajid.com/2019/11/27/combine-and-swiftui-views/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/31-05-20/</guid>
-      <description></description>
+      <description>In this post, Majid demonstrates how we can use SwiftUI&#39;s onReceive view modifier to react to values emitted from a Combine publisher. I really like the approach of wrapping the publisher creation and onReceive logic into a custom view modifier to make it reusable.</description>
     </item>
     
     <item>
       <title>Template-view pattern in SwiftUI</title>
-      <link>https://freshswift.net/post/18-05-20/</link>
+      <link>https://swiftwithmajid.com/2020/05/13/template-view-pattern-in-swiftui/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/18-05-20/</guid>
-      <description></description>
+      <description>Continuing the SwiftUI theme, this post from Majid describes a technique which can be used to support dynamic type in stack views. I really like posts like this that demonstrate how a bit of creativity can go a long way to solving common UI issues.</description>
     </item>
     
     <item>
       <title>SwiftUI Navigation in List View: Programmatic Navigation</title>
-      <link>https://freshswift.net/post/16-05-20/</link>
+      <link>https://lostmoa.com/blog/ProgrammaticNavigationInSwiftUIListView/</link>
       <pubDate>Sat, 16 May 2020 16:47:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/16-05-20/</guid>
-      <description></description>
+      <description>It&#39;s been a while, but I&#39;m planning to again focus some of my time on Swift. And with that...this is a nice idea to provide a solution to programmatic navigation in SwiftUI. Code samples included 🥳.</description>
     </item>
     
   </channel>

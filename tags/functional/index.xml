@@ -8,74 +8,66 @@
     <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/functional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro to free functions in Swift</title>
-      <link>https://freshswift.net/post/14-06-20/</link>
+      <link>https://jakubturek.com/intro-to-functional-programming-in-swift/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/14-06-20/</guid>
-      <description></description>
+      <description>This is an excellent post from Jakub Turek on functional programming and free functions in Swift. Jakub guides us through a complete example of using free, generic and composable functions to transform complex data. The approach results in an implementation which is easier to both read and test. Definitely one to code along to in a playground.</description>
     </item>
     
     <item>
       <title>Functional Refactoring in Swift</title>
-      <link>https://freshswift.net/post/-lcsqei8670bo1x-ptya/</link>
+      <link>https://benscheirman.com/2018/02/functional-refactoring-in-swift/</link>
       <pubDate>Sat, 19 May 2018 12:43:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lcsqei8670bo1x-ptya/</guid>
-      <description></description>
+      <description>Ben Scheirman explains what we need to consider when we begin refactoring our code to be more functional. Ben provides an example which demonstrates how we can iterate on our refactoring to find the best version.</description>
     </item>
     
     <item>
       <title>Swift Tip: First Class Functions</title>
-      <link>https://freshswift.net/post/-lci_gcyvk-pu4ykn6ea/</link>
+      <link>https://www.objc.io/blog/2018/05/08/first-class-functions/</link>
       <pubDate>Thu, 17 May 2018 14:50:55 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lci_gcyvk-pu4ykn6ea/</guid>
-      <description></description>
+      <description>This short post from the objc.io team looks at first class functions in Swift. First class functions are a really great functional feature of Swift, allowing us to use functions as function parameters, as property types, or as function return types.</description>
     </item>
     
     <item>
       <title>Functional Refactoring in Swift</title>
-      <link>https://freshswift.net/post/-l7htor9fbjpqp4rniak/</link>
+      <link>https://benscheirman.com/2018/02/functional-refactoring-in-swift/</link>
       <pubDate>Fri, 16 Mar 2018 08:20:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l7htor9fbjpqp4rniak/</guid>
-      <description></description>
+      <description>In this post, Ben Scheirman demonstrates how we can refactor some common imperative code using a functional approach. It’s good to see an example of the zip operation being used, as it’s an operation I have neglected to consider in the past.</description>
     </item>
     
     <item>
       <title>Transforming collections in Swift</title>
-      <link>https://freshswift.net/post/-l5dlfobxoizadjjti8x/</link>
+      <link>https://www.swiftbysundell.com/posts/transforming-collections-in-swift</link>
       <pubDate>Tue, 13 Feb 2018 08:47:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l5dlfobxoizadjjti8x/</guid>
-      <description></description>
+      <description>In this entry of his regular Swift blog series, John Sundell looks at how we can transform collections using standard library APIs. No doubt most of us are familiar with map, flatMap etc., but it’s good to refresh our knowledge. Also, I tend to forget about the zip function, so I was happy to be reminded of it’s usefulness.</description>
     </item>
     
     <item>
       <title>Using Lazy to Delay Computation</title>
-      <link>https://freshswift.net/post/-l5-oz-q11pqsw8p-gw-/</link>
+      <link>https://medium.com/swift-programming/using-lazy-to-delay-computation-8aa4ea236d0a</link>
       <pubDate>Sat, 10 Feb 2018 15:49:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l5-oz-q11pqsw8p-gw-/</guid>
-      <description></description>
+      <description>Short post reminding us that Swift’s lazy modifier can be used for more than just property declarations.</description>
     </item>
     
     <item>
       <title>Why the Func</title>
-      <link>https://freshswift.net/post/-kqb1spnrtrlwgzgivx5/</link>
+      <link>https://academy.realm.io/posts/daniel-steinberg-altconf-2017-why-the-func/</link>
       <pubDate>Thu, 03 Aug 2017 07:40:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kqb1spnrtrlwgzgivx5/</guid>
-      <description></description>
+      <description>Daniel Steinberg with a talk from AltConf 2017 in which he looks at what functional programming means in Swift. He takes a deep dive in to using map, and shows us what we can learn from trying to write our own map functions.</description>
     </item>
     
     <item>
       <title>Higher order functions in Swift</title>
-      <link>https://freshswift.net/post/-kkyegioc80u38l1u9sw/</link>
+      <link>https://craiggrummitt.com/2017/05/08/higher-order-functions-in-swift/</link>
       <pubDate>Thu, 25 May 2017 08:13:20 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kkyegioc80u38l1u9sw/</guid>
-      <description></description>
+      <description>Swift&#39;s functional aspects such as immutability and higher order functions (functions which allow functions/closures as parameters/return values) are awesome. In this post, Craig Grummitt looks at the latter, presenting examples of how we can use Swift&#39;s higher order functions to perform operations on collections.</description>
     </item>
     
   </channel>

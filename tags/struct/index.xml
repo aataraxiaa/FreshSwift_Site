@@ -8,47 +8,42 @@
     <lastBuildDate>Mon, 26 Nov 2018 13:23:52 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/struct/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Tip: Local Struct Definitions</title>
-      <link>https://freshswift.net/post/-lsfbbmiaa8kk-ywqqpq/</link>
+      <link>https://www.objc.io/blog/2018/11/20/local-structs/</link>
       <pubDate>Mon, 26 Nov 2018 13:23:52 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lsfbbmiaa8kk-ywqqpq/</guid>
-      <description></description>
+      <description>This Swift tip from the objc.io team demonstrates the benefits of keeping a struct definition local to a function. Simple but useful.</description>
     </item>
     
     <item>
       <title>Data Classes in Swift</title>
-      <link>https://freshswift.net/post/-laibj4gmh2wewhcxk4h/</link>
+      <link>https://arasthel.com/data-classes-on-swift/</link>
       <pubDate>Tue, 17 Apr 2018 10:42:34 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-laibj4gmh2wewhcxk4h/</guid>
-      <description></description>
+      <description>This is an interesting post from Jorge Martín in which he looks at Kotlin’s data class type, and examines how such a type could be used in Swift to easily copy and mutate state.</description>
     </item>
     
     <item>
       <title>Size, Stride, Alignment</title>
-      <link>https://freshswift.net/post/-l8nze6-fbrrrnxtrth/</link>
+      <link>https://swiftunboxed.com/internals/size-stride-alignment/</link>
       <pubDate>Sat, 24 Mar 2018 15:11:56 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8nze6-fbrrrnxtrth/</guid>
-      <description></description>
+      <description>This is a fantastic look at three important properties of Swift types which relate to memory management- size, stride, and alignment. Greg Heo describes what the properties are, and when we should take them into consideration.</description>
     </item>
     
     <item>
       <title>When Not to Use an Enum</title>
-      <link>https://freshswift.net/post/-l0-wxrpj4qvvwadyo9d/</link>
+      <link>http://matt.diephouse.com/2017/12/when-not-to-use-an-enum/</link>
       <pubDate>Sun, 10 Dec 2017 15:03:32 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l0-wxrpj4qvvwadyo9d/</guid>
-      <description></description>
+      <description>Matt Diephouse shows us when not to use an enum. Matt looks at a recent post from John Sundell, in which John used enums to build an app analytics API. Matt argues that structs would be better suited to build such an API, and explains why.</description>
     </item>
     
     <item>
       <title>Structures vs Classes in Swift</title>
-      <link>https://freshswift.net/post/-kux8lqgt1w_v_0itk9x/</link>
+      <link>http://agostini.tech/2017/09/03/structures-vs-classes-in-swift/</link>
       <pubDate>Tue, 26 Sep 2017 07:45:57 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kux8lqgt1w_v_0itk9x/</guid>
-      <description></description>
+      <description>Dejan Agostini with a post explaining the difference between Swift Classes and Structures. He uses code examples to highlight the differences between the two, and advises on when we should use one over the other. We are probably all very familiar with most of the information in this post, but it’s good to be reminded of how things work.</description>
     </item>
     
   </channel>

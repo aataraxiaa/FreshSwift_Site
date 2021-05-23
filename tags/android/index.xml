@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 25 Jun 2018 16:50:27 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift vs. Kotlin — the differences in memory management</title>
-      <link>https://freshswift.net/post/-lfrqcxrwli4r901ocki/</link>
+      <link>https://blog.indoorway.com/swift-vs-kotlin-the-differences-in-memory-management-860828edf8</link>
       <pubDate>Mon, 25 Jun 2018 16:50:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lfrqcxrwli4r901ocki/</guid>
-      <description></description>
+      <description>In this post Krzysztof Turek compares Swift with Kotlin in the context of iOS and Android development, explaining how each language and platform handles memory management.</description>
     </item>
     
   </channel>

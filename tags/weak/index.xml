@@ -8,47 +8,42 @@
     <lastBuildDate>Fri, 04 May 2018 09:53:03 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/weak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unowned Properties in Swift</title>
-      <link>https://freshswift.net/post/-lbezq_9pnzsjwfmdmhq/</link>
+      <link>https://swiftrocks.com/unowned-properties-in-swift.html</link>
       <pubDate>Fri, 04 May 2018 09:53:03 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lbezq_9pnzsjwfmdmhq/</guid>
-      <description></description>
+      <description>This short post from Bruno Rocha explains why we should consider using the unowned keyword rather than the weak keyword when preventing reference cycles.</description>
     </item>
     
     <item>
       <title>Swift Tip: Capture Lists</title>
-      <link>https://freshswift.net/post/-l9vjzieakwj7bfc_vtw/</link>
+      <link>https://www.objc.io/blog/2018/04/03/caputure-lists/</link>
       <pubDate>Sat, 07 Apr 2018 15:35:59 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9vjzieakwj7bfc_vtw/</guid>
-      <description></description>
+      <description>Weakly capturing self in Swift closures is a common approach to avoiding reference cycles. In this post from the objc.io blog, we learn of an alternative approach to referencing objects on self in closures, while also avoiding reference cycles.</description>
     </item>
     
     <item>
       <title>Do you often forget [weak self]? Here’s a solution</title>
-      <link>https://freshswift.net/post/-l8n3jgctk9zntxmc_qb/</link>
+      <link>https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6</link>
       <pubDate>Sat, 24 Mar 2018 12:52:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8n3jgctk9zntxmc_qb/</guid>
-      <description></description>
+      <description>In this post, Oleg Dreyman shares his approach to dealing with possible retain cycles and memory leaks. As a bonus, Oleg even provides Delegated, a tiny Swift library which encapsulates the approach described in the post.</description>
     </item>
     
     <item>
       <title>Weak Arrays</title>
-      <link>https://freshswift.net/post/-l2lq7m0abvag6lk4_-c/</link>
+      <link>https://www.objc.io/blog/2017/12/28/weak-arrays/</link>
       <pubDate>Mon, 08 Jan 2018 17:36:42 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l2lq7m0abvag6lk4_-c/</guid>
-      <description></description>
+      <description>This short post from Objc.io shows us how to create a Collection type which references it’s elements weakly. As standard Swift collections reference their elements strongly, this might come in useful.</description>
     </item>
     
     <item>
       <title>Friday Q&amp;A: Swift 4 Weak References</title>
-      <link>https://freshswift.net/post/-kvr7q108xyym6hk6ei5/</link>
+      <link>https://www.mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html</link>
       <pubDate>Mon, 02 Oct 2017 08:10:51 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvr7q108xyym6hk6ei5/</guid>
-      <description></description>
+      <description>The latest in Mike Ash’s Friday Q&amp;A series examines Swift 4’s implementation of weak object references. Mike covers everything we need to know - from the old implementation, to what makes up an object in Swift, and finally to side tables and how they are used in the Swift 4 implementation. The new implementation is exciting, and he hopes that it will lead to features such as stored properties in extensions.</description>
     </item>
     
   </channel>

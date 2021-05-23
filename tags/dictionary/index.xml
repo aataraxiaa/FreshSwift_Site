@@ -8,38 +8,34 @@
     <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/dictionary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grouping Array Elements With Dictionary in Swift</title>
-      <link>https://freshswift.net/post/03-07-20-060629/</link>
+      <link>https://swiftsenpai.com/swift/group-array-elements-with-dictionary/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/03-07-20-060629/</guid>
-      <description></description>
+      <description>Swift 5 introduced a new initializer for Dictionary, which allows us to create a dictionary of grouped elements from an input array. Here, Lee Kah Seng demonstrates how we can use this initializer to group array elements based on a custom property of the array element type.</description>
     </item>
     
     <item>
       <title>Key difference between Dictionary and NSDictionary</title>
-      <link>https://freshswift.net/post/-l093rtswe4xak0ism3w/</link>
+      <link>http://lapcatsoftware.com/articles/key-difference.html</link>
       <pubDate>Tue, 12 Dec 2017 09:34:39 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l093rtswe4xak0ism3w/</guid>
-      <description></description>
+      <description>Jeff Johnson points out an interesting difference between Swift Dictionary and NSDictionary. The difference relates to how Swift implements String equality as Unicode canonical equivalence, and as Jeff points out, this could cause problems if you save and load dictionaries from user defaults.</description>
     </item>
     
     <item>
       <title>Dictionary and Set Improvements in Swift 4.0</title>
-      <link>https://freshswift.net/post/-kw4hfaq6ij-cks0epfs/</link>
+      <link>https://swift.org/blog/dictionary-and-set-improvements/</link>
       <pubDate>Tue, 10 Oct 2017 07:56:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kw4hfaq6ij-cks0epfs/</guid>
-      <description></description>
+      <description>Swift 4 added a lot of really awesome Dictionary and Set APIs. Operations like grouping, filtering, and transforming values are easier than ever, and can be performed in a single step. In this post on the official Swift blog, Nate Cook explores these new APIs. It’s also worth noting that most of the changes mentioned are available in Swift 3.2, so even if you have not yet moved to Swift 4, there is something here for you.</description>
     </item>
     
     <item>
       <title>The startling uniquing of Swift 4 dictionaries</title>
-      <link>https://freshswift.net/post/-kndozikh_lykb5lqgbt/</link>
+      <link>http://ericasadun.com/2017/06/19/the-startling-uniquing-of-swift-4-dictionaries/</link>
       <pubDate>Tue, 27 Jun 2017 13:53:22 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kndozikh_lykb5lqgbt/</guid>
-      <description></description>
+      <description>Another great post from Erica Sadun. Here Erica shows us how we can use the new uniquing feature which has been added to the Dictionary type in Swift 4. This feature allows us to create a Dictionary of unique keys, while applying a function to each key&#39;s value each time a duplicate key is added. In one example, Erica uses this to find out which word appears the most in a large String.</description>
     </item>
     
   </channel>

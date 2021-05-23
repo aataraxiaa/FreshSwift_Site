@@ -8,137 +8,122 @@
     <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Swift closures are not Equatable</title>
-      <link>https://freshswift.net/post/09-04-21-142422/</link>
+      <link>https://www.jessesquires.com/blog/2021/04/05/why-swift-closures-are-not-equatable</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-04-21-142422/</guid>
-      <description></description>
+      <description>Closures in Swift are reference types, and as such, we might assume that they are Equatable. However, that is not the case, and in this post, Jesse Squires digs into some old forum posts to help explain why.</description>
     </item>
     
     <item>
       <title>Placeholder types</title>
-      <link>https://freshswift.net/post/04-11-20-082404/</link>
+      <link>https://forums.swift.org/t/placeholder-types/41329</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/04-11-20-082404/</guid>
-      <description></description>
+      <description>Building on a previous Swift evolution thread, Frederick Kellison-Linn pitches a proposal to add what he calls placeholder types to Swift. These placeholder types could be used when we want to explicitly provide some type information but also want the compiler to infer some type information.</description>
     </item>
     
     <item>
       <title>How Swift API Availability Works Internally</title>
-      <link>https://freshswift.net/post/11-10-20-073039/</link>
+      <link>https://swiftrocks.com/how-availability-works-internally-in-swift</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/11-10-20-073039/</guid>
-      <description></description>
+      <description>Swift&#39;s @available attribute allows us to specify the availability of a declaration on different platforms and different versions of Swift. In this post, Bruno Rocha takes a deep dive into how Swift API availability works internally, showing us how the Swift compiler treats availability attributes.</description>
     </item>
     
     <item>
       <title>Re: Making Wrong Code Look Wrong</title>
-      <link>https://freshswift.net/post/27-06-20-083341/</link>
+      <link>https://silverhammermba.github.io/blog/2020/06/17/wrong-code</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/27-06-20-083341/</guid>
-      <description></description>
+      <description>Based on an old blog post by Joel Spolsky, Maxwell Anselm describes how serious software development challenges from the past are basically non-issues in modern languages like Swift. This is a great read, and really highlights the progress that has been made in programming language design.</description>
     </item>
     
     <item>
       <title>Swift Diagnostics: #warning and #error</title>
-      <link>https://freshswift.net/post/-lf7myk_dv-rymdwd6w2/</link>
+      <link>https://swiftunboxed.com/internals/diagnostics-warning-error/</link>
       <pubDate>Sat, 16 Jun 2018 11:32:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lf7myk_dv-rymdwd6w2/</guid>
-      <description></description>
+      <description>This is a really interesting post from Greg Heo, in which he looks at two new compiler diagnostic directives which are available in Swift 4.2. Rather than simple show us how we can use them, Greg instead digs deeper, showing us how they are implemented in C++.</description>
     </item>
     
     <item>
       <title>Forcing Compiler Errors in Swift</title>
-      <link>https://freshswift.net/post/-lanoxkjw5gs_fynob5p/</link>
+      <link>https://ericasadun.com/2018/04/18/forcing-compiler-errors-in-swif</link>
       <pubDate>Mon, 23 Apr 2018 16:46:22 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lanoxkjw5gs_fynob5p/</guid>
-      <description></description>
+      <description>Erica Sadun looks at the state of metadevelopment support  in Swift, showing us compiler directives introduced in Swift 4.2 which allow us to force compiler errors. Although there is still room for improvement in this area, it’s great to see directives being added which provide compile-time feedback.</description>
     </item>
     
     <item>
       <title>Writing Swift: Adventures in Compiler Mods</title>
-      <link>https://freshswift.net/post/-labjgzqjfjsxxfr9jhz/</link>
+      <link>https://ericasadun.com/2018/04/15/writing-swift-adventures-in-compiler-mods/</link>
       <pubDate>Sat, 21 Apr 2018 10:28:33 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-labjgzqjfjsxxfr9jhz/</guid>
-      <description></description>
+      <description>This is a great post from Erica Sadun in which she describes learning how to make changes to the Swift compiler. The lessons she learns are key for anyone who wishes to jump in and contribute to Swift.</description>
     </item>
     
     <item>
       <title>Feature flags in Swift</title>
-      <link>https://freshswift.net/post/-l9550wb2x1qda3cdq1s/</link>
+      <link>https://www.swiftbysundell.com/posts/feature-flags-in-swift</link>
       <pubDate>Mon, 02 Apr 2018 11:22:28 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9550wb2x1qda3cdq1s/</guid>
-      <description></description>
+      <description>John Sundell demonstrates how to implement feature flags in Swift. John looks at three types of flags - compilation flags, static flags, and runtime flags.</description>
     </item>
     
     <item>
       <title>Measuring Swift compile times in Xcode 9</title>
-      <link>https://freshswift.net/post/-kvwhmipwawe4dzmzze6/</link>
+      <link>https://www.jessesquires.com/blog/measuring-compile-times-xcode9/</link>
       <pubDate>Tue, 03 Oct 2017 08:10:31 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kvwhmipwawe4dzmzze6/</guid>
-      <description></description>
+      <description>Xcode Swift compile times are still a source of frustration for developers. The Swift type-checker, although improving with every Swift release, is a bottleneck. In this short post, Jesse Squires shows us how we can use two frontend Swift compiler flags to measure Swift compile times. We can then identify functions and expressions which take a long time to type-check, and update our code with explicitly type annotations. By doing so, we reduce the amount of type inference needed, which should lead to a reduction in compile times.</description>
     </item>
     
     <item>
       <title>Swift Local Refactoring</title>
-      <link>https://freshswift.net/post/-ksgushiun3q2esr6lds/</link>
+      <link>https://swift.org/blog/swift-local-refactoring/</link>
       <pubDate>Tue, 29 Aug 2017 07:36:28 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ksgushiun3q2esr6lds/</guid>
-      <description></description>
+      <description>Great post on the official Swift blog by Xi Ge in which he looks at the new Swift refactoring engine available in Xcode 9. This new engine can perform both local and global transformations of our code, and the logic behind local refactoring actions is implemented entirely  in the Swift compiler and SourceKit, and is open-source. This is great as it means we can contribute refactoring actions. Xi examines the kinds of local refactoring actions available and shows us how we can get started adding our own.</description>
     </item>
     
     <item>
       <title>A story about Swift source compatibility</title>
-      <link>https://freshswift.net/post/-kpsgb8qbiw2psvttyjw/</link>
+      <link>http://www.jessesquires.com/blog/a-story-about-swift-source-compat/</link>
       <pubDate>Tue, 25 Jul 2017 07:42:27 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpsgb8qbiw2psvttyjw/</guid>
-      <description></description>
+      <description>The Swift source compatibility suite is a community owned project which serves to regression test changes to the Swift compiler. Projects added are periodically built against the latest development versions of Swift, helping us to better understand the impact of changes to the language. In this post, Jesse Squires tells the story of one of his own open-source projects, and why adding it to the compatibility suite sooner rather than later would have prevented a regression in the Swift compiler.</description>
     </item>
     
     <item>
       <title>Building Swift Projects In Source Compatibility Mode</title>
-      <link>https://freshswift.net/post/-kldpzhntbdqerj1cnbz/</link>
+      <link>http://dduan.net/2017/05/22/build-in-swift-compatibility-mode/</link>
       <pubDate>Sun, 28 May 2017 11:34:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kldpzhntbdqerj1cnbz/</guid>
-      <description></description>
+      <description>Source compatibility mode is a compilation mode available with Swift 4 which when enabled should compile the vast majority of Swift 3 sources. In this post, Daniel Duan shows us how we can try it out using the current Swift 4 snapshot.</description>
     </item>
     
     <item>
       <title>Swift Source Compatibility Test Suite</title>
-      <link>https://freshswift.net/post/-kj8pdeti40lonwdjpqz/</link>
+      <link>https://swift.org/blog/swift-source-compatibility-test-suite</link>
       <pubDate>Wed, 26 Apr 2017 12:14:50 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8pdeti40lonwdjpqz/</guid>
-      <description></description>
+      <description>This is an awesome, community-driven project released as part of an effort to maintain source compatibility in future Swift releases. Open-source project owners can submit projects which will then be built by Swift&#39;s continuous integration system. The goal is to monitor Swift compiler-related pull request builds, and catch any source compatibility regressions.</description>
     </item>
     
     <item>
       <title>Tail Call Elimination in iOS</title>
-      <link>https://freshswift.net/post/-kj8psh0nmgv7rgussck/</link>
+      <link>https://medium.com/the-traveled-ios-developers-guide/tail-call-elimination-in-ios-7a5f491e4273</link>
       <pubDate>Tue, 25 Apr 2017 10:44:19 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8psh0nmgv7rgussck/</guid>
-      <description></description>
+      <description>Jordan Morgan with an nice explanation of the compiler optimization that is tail call elimination. I was not too familiar with this particular optimization so it was great to see it explained in Swift.</description>
     </item>
     
     <item>
       <title>Reduce Swift build times and get home faster 😃</title>
-      <link>https://freshswift.net/post/-kj8oaxsnjepzxcit94x/</link>
+      <link>https://speakerdeck.com/yuseinishiyama/reduce-build-times-and-get-home-eariler</link>
       <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8oaxsnjepzxcit94x/</guid>
-      <description></description>
+      <description>Yusei Nishiyama presented these slides at the recent Code Mobile UK conference. He provides useful tips on improving Swift&#39;s build times based on measurement, improvement, and avoiding building entirely. Included is an awesome tip on using Playgrounds to prototype as you develop.</description>
     </item>
     
   </channel>

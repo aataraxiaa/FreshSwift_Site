@@ -8,20 +8,18 @@
     <lastBuildDate>Sun, 19 Nov 2017 13:18:43 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/build/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Swift Build Times</title>
-      <link>https://freshswift.net/post/-kzjq_w7oynejzodrhyi/</link>
+      <link>https://github.com/fastred/Optimizing-Swift-Build-Times/blob/master/README.md</link>
       <pubDate>Sun, 19 Nov 2017 13:18:43 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kzjq_w7oynejzodrhyi/</guid>
-      <description></description>
+      <description>Arek Holko with a useful Github repository which aims to gather all possible knowledge which can be used to optimize Swift compile times. This is a nice initiative, and definitely worth bookmarking.</description>
     </item>
     
     <item>
       <title>Reduce Swift build times and get home faster 😃</title>
-      <link>https://freshswift.net/post/-kj8oaxsnjepzxcit94x/</link>
+      <link>https://speakerdeck.com/yuseinishiyama/reduce-build-times-and-get-home-eariler</link>
       <pubDate>Fri, 21 Apr 2017 15:24:16 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kj8oaxsnjepzxcit94x/</guid>
-      <description></description>
+      <description>Yusei Nishiyama presented these slides at the recent Code Mobile UK conference. He provides useful tips on improving Swift&#39;s build times based on measurement, improvement, and avoiding building entirely. Included is an awesome tip on using Playgrounds to prototype as you develop.</description>
     </item>
     
   </channel>

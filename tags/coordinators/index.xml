@@ -8,11 +8,10 @@
     <lastBuildDate>Mon, 15 May 2017 13:41:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/coordinators/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Back Buttons and Coordinators in Swift</title>
-      <link>https://freshswift.net/post/-kkbkndz0pdat0xa4ht-/</link>
+      <link>http://khanlou.com/2017/05/back-buttons-and-coordinators/</link>
       <pubDate>Mon, 15 May 2017 13:41:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kkbkndz0pdat0xa4ht-/</guid>
-      <description></description>
+      <description>Using Coordinators can help us separate our app flow logic, and make UIViewControllers more reusable. In this post, one in a series on Coordinators, Soroush Khanlou writes about techniques for handling &#39;back&#39; navigation within a UINavigationController.</description>
     </item>
     
   </channel>

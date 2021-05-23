@@ -8,20 +8,18 @@
     <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/decodable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decode and Flatten JSON with Dynamic Keys Using Decodable</title>
-      <link>https://freshswift.net/post/10-06-20/</link>
+      <link>https://swiftsenpai.com/swift/decode-dynamic-keys-json/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/10-06-20/</guid>
-      <description></description>
+      <description>Lee Kah Seng demonstrates how we can use Swift&#39;s Decodable protocol to decode and flatten JSON with dynamic keys. This is definitely something that might come in useful, and Lee provides a full working example.</description>
     </item>
     
     <item>
       <title>JSON to Swift with Decoder and Decodable</title>
-      <link>https://freshswift.net/post/-kpilabx5o-ow_zn1xmo/</link>
+      <link>https://swiftunboxed.com/stdlib/json-decoder-decodable/</link>
       <pubDate>Sun, 23 Jul 2017 09:26:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kpilabx5o-ow_zn1xmo/</guid>
-      <description></description>
+      <description>After looking at encoding Swift to JSON in a previous post, Greg Heo turns his attention to decoding JSON to Swift using Swift 4’s Decodable and Decoder protocols. As with the previous article, Greg steps through a complete example. The simplicity of the example, together with the diagrams, really help to explain how the decoding process works.</description>
     </item>
     
   </channel>

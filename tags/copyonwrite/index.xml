@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 07 Jun 2017 11:18:17 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/copyonwrite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Use Copy-On-Write With Swift Value Types</title>
-      <link>https://freshswift.net/post/-km1ggy90s5gf_1bal5w/</link>
+      <link>https://marcosantadev.com/copy-write-swift-value-types/</link>
       <pubDate>Wed, 07 Jun 2017 11:18:17 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-km1ggy90s5gf_1bal5w/</guid>
-      <description></description>
+      <description>Value types are a great feature of Swift, allowing us to more easily reason about the safety of our code. When a value type is passed around our code, it is copied, meaning we can trust that no other part of our code is changing it. However, this comes with one possible drawback. Passing a large value type, such as an Array with thousands of elements, might result in unnecessary copying if the Array is not mutated after it is copied. This is where copy-on-write comes in. As explained in this post by Marco Santarossa, value types which implement copy-on-write are only copied when they need to be, i.e when they are mutated. It&#39;s a nice optimisation and something we can add to our own custom value types when needed.</description>
     </item>
     
   </channel>

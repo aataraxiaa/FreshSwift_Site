@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 11 Jul 2017 07:58:25 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/monad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An aside about flatMap and monads</title>
-      <link>https://freshswift.net/post/-koke-tgpqfz_xmungtm/</link>
+      <link>http://www.cocoawithlove.com/blog/an-aside-about-flatmap-and-monads.html</link>
       <pubDate>Tue, 11 Jul 2017 07:58:25 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-koke-tgpqfz_xmungtm/</guid>
-      <description></description>
+      <description>This is a very interesting article from Matt Gallagher in which he discusses monads in the context of Swift and it’s flatmap functions. If you are not too familiar with the Haskell programming language, and the concept of a monad, this is a great place to start learning.</description>
     </item>
     
   </channel>

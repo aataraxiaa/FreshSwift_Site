@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 03 Jul 2018 16:22:14 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/inline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Forbidden @inline Attribute in Swift</title>
-      <link>https://freshswift.net/post/-lgvwtc1gkt6uukflyqn/</link>
+      <link>https://swiftrocks.com/the-forbidden-inline-attribute-in-swift.html</link>
       <pubDate>Tue, 03 Jul 2018 16:22:14 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lgvwtc1gkt6uukflyqn/</guid>
-      <description></description>
+      <description>Bruno Rocha looks at an obscure Swift attribute - the @inline attribute. This attribute can be used in Swift to specify if we want the compiler to perform function inlining, a common compiler optimization technique. Note that although this attribute is currently available for use, it’s not something which is officially documented, and so usage is generally discouraged.</description>
     </item>
     
   </channel>

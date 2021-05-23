@@ -8,11 +8,10 @@
     <lastBuildDate>Tue, 17 Oct 2017 07:43:26 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/phantomtype/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift: Money with Phantom Types 👻</title>
-      <link>https://freshswift.net/post/-kwdhngtsq1jts2sd9n8/</link>
+      <link>https://www.natashatherobot.com/swift-money-phantom-types/</link>
       <pubDate>Tue, 17 Oct 2017 07:43:26 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kwdhngtsq1jts2sd9n8/</guid>
-      <description></description>
+      <description>A parameterized type that does not actually appear at all in the definition of a generic type is known as a phantom type. Such a type is used simply to enforce compile time type checking, allowing us to encapsulate definitions, and guard against incorrect usage. In this post, Natasha Murashev looks at such phantom types, and demonstrates how they can be used.</description>
     </item>
     
   </channel>

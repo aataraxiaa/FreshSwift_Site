@@ -8,11 +8,10 @@
     <lastBuildDate>Wed, 01 Nov 2017 03:51:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/throws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moving Safety into Types</title>
-      <link>https://freshswift.net/post/-kxph6ckeyf2bxsw06w2/</link>
+      <link>http://www.figure.ink/blog/2017/10/15/moving-safety-into-types</link>
       <pubDate>Wed, 01 Nov 2017 03:51:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kxph6ckeyf2bxsw06w2/</guid>
-      <description></description>
+      <description>Joshua Emmons demonstrates how we can use the Swift type checker to better handle thrown errors. This is a really nice approach to isolation error handling to the point of creation, rather than the point of use.</description>
     </item>
     
   </channel>

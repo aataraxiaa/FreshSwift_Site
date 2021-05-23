@@ -8,20 +8,18 @@
     <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/atomic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Swift Atomics</title>
-      <link>https://freshswift.net/post/09-10-20-071718/</link>
+      <link>https://swift.org/blog/swift-atomics/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/09-10-20-071718/</guid>
-      <description></description>
+      <description>Atomic operations are operations that run completely independently of other processes and will be fully executed without interruption. In this post on the official Swift blog, Karoy Lorentey from the Swift team announces Swift Atomics, a new open-source Swift package that enables low-level atomic Swift operations.</description>
     </item>
     
     <item>
       <title>Atomic Properties in Swift</title>
-      <link>https://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</link>
+      <link>http://www.vadimbulavin.com/atomic-properties/</link>
       <pubDate>Tue, 17 Jul 2018 13:28:30 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lhcqnxsvw8amflpqfjt/</guid>
-      <description></description>
+      <description>Vadim Bulavin demonstrates how we can use locking APIs available in Apple frameworks to implement atomic properties in Swift. Vadim first describes the core concepts relating to concurrency and atomic properties, before providing code examples of Swift atomic properties.</description>
     </item>
     
   </channel>

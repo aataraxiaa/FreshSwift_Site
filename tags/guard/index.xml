@@ -8,11 +8,10 @@
     <lastBuildDate>Sun, 20 May 2018 09:15:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/guard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift guard vs if let cheat sheet</title>
-      <link>https://freshswift.net/post/-lcwpelrersjfjfcyqsn/</link>
+      <link>https://medium.com/@PaulWall43/swift-guard-vs-if-let-cheat-sheet-swift-4-b4bac6fd4175</link>
       <pubDate>Sun, 20 May 2018 09:15:23 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lcwpelrersjfjfcyqsn/</guid>
-      <description></description>
+      <description>This cheat sheet from Paul Wallace helps us make the right choice when choosing between using guard and if let in our Swift code.</description>
     </item>
     
   </channel>

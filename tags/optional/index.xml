@@ -8,155 +8,138 @@
     <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/optional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nil-null-mess in Objective-C and Swift</title>
-      <link>https://freshswift.net/post/25-02-21-163229/</link>
+      <link>https://www.andyibanez.com/posts/nil-null-mess-objective-c-and-swift/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-02-21-163229/</guid>
-      <description></description>
+      <description>In this post, Andy Ibanez looks at the state of nullability in both Objective-C and Swift. Andy explains the different representations of nothingness in each language and points out some pitfalls which we might encounter when working with nullability.</description>
     </item>
     
     <item>
       <title>The Danger of Playing it Safe</title>
-      <link>https://freshswift.net/post/25-09-20-072817/</link>
+      <link>https://appdecentral.com/2020/09/16/the-danger-of-playing-it-safe/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/25-09-20-072817/</guid>
-      <description></description>
+      <description>Should we force unwrap Swift optionals? It&#39;s a question every Swift developers has an opinion about, and in this post, Drew McCormack clearly states his. I fully agree with Drew&#39;s opinion and his reasoning. We should be assertive and force unwrap when logic dictates that an optional can never be nil.</description>
     </item>
     
     <item>
       <title>Force-Unwrapping in Swift is NOT a Bad Thing</title>
-      <link>https://freshswift.net/post/23-08-20-074855/</link>
+      <link>https://wolfmcnally.com/82/force-unwrapping-swift-not-bad-thing/</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/23-08-20-074855/</guid>
-      <description></description>
+      <description>Swift&#39;s Optional type represents either a wrapped value or nil, the absence of a value. When a programmer is certain than an Optional contains a value, the force unwrap operator is used to unconditionally unwrap the value. In this post, Wolf McNally examines force unwrapping in Swift, arguing that force unwraps which lead to crashes are not necessarily a bad thing. This is a really good read, and I very much agree with Wolf: code only as defensively as you have to.</description>
     </item>
     
     <item>
       <title>Reimplementation of Implicitly Unwrapped Optionals</title>
-      <link>https://freshswift.net/post/-lbz_gsib5lfxpegykwo/</link>
+      <link>https://swift.org/blog/iuo/</link>
       <pubDate>Tue, 08 May 2018 11:48:45 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-lbz_gsib5lfxpegykwo/</guid>
-      <description></description>
+      <description>This post on the official Swift blog details a new implementation of implicitly unwrapped optional which is available in the latest Swift snapshot. As always, it’s great to see changes like these - changes which eliminate inconsistencies and introduce clarity - being prioritized as the language evolves.</description>
     </item>
     
     <item>
       <title>Enums And Optionals</title>
-      <link>https://freshswift.net/post/-ladr_7xxotbsscs21ou/</link>
+      <link>http://khanlou.com/2018/04/enums-and-optionals/</link>
       <pubDate>Mon, 16 Apr 2018 12:33:41 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ladr_7xxotbsscs21ou/</guid>
-      <description></description>
+      <description>In this post, Soroush Khanlou explains how adding an extra case to an enum can replace the usage of optional enum values. As Soroush says, simplicity is king, and I agree that it’s worth taking the time to think about whether an extra optional case makes sense.</description>
     </item>
     
     <item>
       <title> Optionals as Collections</title>
-      <link>https://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/</link>
+      <link>http://www.figure.ink/blog/2018/3/29/optionals-as-collections</link>
       <pubDate>Sun, 08 Apr 2018 11:16:07 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l9zy5y6tqgwms6rk3aj/</guid>
-      <description></description>
+      <description>Joshua Emmons returns to a post he wrote on dealing with optionals and failable initializers. Joshua goes back to basics, looking at how flapMap applies to optionals, and comes to realise that when we think of optionals as collections, things make more sense.</description>
     </item>
     
     <item>
       <title>Optional Forward Application</title>
-      <link>https://freshswift.net/post/-l90hdsaemrfzc45ff5p/</link>
+      <link>http://www.figure.ink/blog/2018/3/27/optional-forward-application</link>
       <pubDate>Sun, 01 Apr 2018 12:57:43 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l90hdsaemrfzc45ff5p/</guid>
-      <description></description>
+      <description>This is an interesting post from Joshua Emmons in which he looks at handling optional parameters when using failable initialisers. Joshua initially described an approach using a custom free function, before amending the post to recommend using the flatMap function available in the Swift standard library.</description>
     </item>
     
     <item>
       <title>Swift Evolution - Introducing `Unwrappable`, a biased unwrapping protocol</title>
-      <link>https://freshswift.net/post/-l8yajdjk94dyimjafdf/</link>
+      <link>https://forums.swift.org/t/introducing-unwrappable-a-biased-unwrapping-protocol/11232</link>
       <pubDate>Mon, 26 Mar 2018 16:40:44 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l8yajdjk94dyimjafdf/</guid>
-      <description></description>
+      <description>I really like this Swift evolution proposal from Erica Sadun and Chris Lattner. They propose an Unwrappable protocol, which introduces Optional-like behavior for any biased wrapped  type. The major benefit here is that this would extend Optional syntactic sugar to any associated-type enumeration.</description>
     </item>
     
     <item>
       <title>Useful Optional Extensions</title>
-      <link>https://freshswift.net/post/-l4bxwezbitklaxtl6h5/</link>
+      <link>https://appventure.me/2018/01/10/optional-extensions/</link>
       <pubDate>Mon, 05 Feb 2018 19:57:48 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l4bxwezbitklaxtl6h5/</guid>
-      <description></description>
+      <description>Benedikt Terhechte has done the hard work and sifted through Github repositories and the documentation of other languages to bring us an exhaustive collection of useful Optional extensions. There are some really nice ones included here.</description>
     </item>
     
     <item>
       <title>Swift Non-Nil Values In An Array Of Optionals</title>
-      <link>https://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</link>
+      <link>https://useyourloaf.com/blog/swift-non-nil-values-in-an-array-of-optionals/?utm_campaign=Revue%20newsletter&amp;utm_medium=Newsletter&amp;utm_source=Swiftly%20Curated</link>
       <pubDate>Sun, 14 Jan 2018 11:05:06 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l2ol1w5qyejsnc7kjj4/</guid>
-      <description></description>
+      <description>Good tip from Use Your Loaf on how to work with an array of Optional values. Rather than use flatMap to iterate over the non-nil values, we can use pattern matching.</description>
     </item>
     
     <item>
       <title>Total programming in Swift</title>
-      <link>https://freshswift.net/post/-l-kyckewvnzfhqk6afu/</link>
+      <link>https://medium.com/@andre_videla/total-programming-in-swift-526508c12a74</link>
       <pubDate>Thu, 07 Dec 2017 10:38:56 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l-kyckewvnzfhqk6afu/</guid>
-      <description></description>
+      <description>André Videla describes what a total program is, and examines Swift in this context. André shows us how Swift uses its type system to encourage totality - code that won’t crash or get stuck in an infinite loop.</description>
     </item>
     
     <item>
       <title>The Strange Case Of Mapping Over Optionals</title>
-      <link>https://freshswift.net/post/-kutho80upje_8z2q6dh/</link>
+      <link>https://swiftunboxed.com/lang/optionals-map-flatmap/</link>
       <pubDate>Wed, 20 Sep 2017 07:56:12 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-kutho80upje_8z2q6dh/</guid>
-      <description></description>
+      <description>Greg Heo with a post looking at how map and flatMap work when applied to optionals. Greg first looks at how traditional map and flatMap work when applied to collections, before taking a look at optionals. He provides code snippets of their Optional implementations, and offers guidance on when to use map and flatMap based on our requirements.</description>
     </item>
     
     <item>
       <title>Making the case for Implicitly Unwrapped Optionals!</title>
-      <link>https://freshswift.net/post/-ktue_dw8vdxnbaiqin3/</link>
+      <link>https://medium.com/ios-os-x-development/making-the-case-for-c5a0280dac0a</link>
       <pubDate>Wed, 13 Sep 2017 07:58:10 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ktue_dw8vdxnbaiqin3/</guid>
-      <description></description>
+      <description>Alex Manarpies makes the case for using implicitly unwrapped optionals. He looks at the common practice of declaring IBOutlets as implicitly unwrapped optionals, and describes why he thinks this is the right approach.</description>
     </item>
     
     <item>
       <title>Handling empty optional strings in Swift</title>
-      <link>https://freshswift.net/post/-ktgysknd0qxtwv4jqdp/</link>
+      <link>https://medium.com/ios-os-x-development/handling-empty-optional-strings-in-swift-ba77ef627d74</link>
       <pubDate>Sun, 10 Sep 2017 16:09:47 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ktgysknd0qxtwv4jqdp/</guid>
-      <description></description>
+      <description>When does an Optional String have a value? In most cases, it is when it is both non-nil and non-empty. However, checking that both of these are true for Optional Strings can be cumbersome in Swift. This post from Nathan Chan provides a handy Swift extension to make things a bit easier.</description>
     </item>
     
     <item>
       <title>Working with optional errors in completion handlers</title>
-      <link>https://freshswift.net/post/-knswwpqon46483ocxv9/</link>
+      <link>http://ericasadun.com/2017/06/27/working-with-optional-errors-in-completion-handlers/</link>
       <pubDate>Fri, 30 Jun 2017 12:22:24 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-knswwpqon46483ocxv9/</guid>
-      <description></description>
+      <description>Short post from Erica Sadun who demonstrates a neat way of conditionally binding and casting an optional Error type in a completion closure.</description>
     </item>
     
     <item>
       <title>To Optional or Not to Optional: IBOutlet</title>
-      <link>https://freshswift.net/post/-klwprgdikgd9ccgjbkt/</link>
+      <link>https://blog.curtisherbert.com/to-optional-or-not-to-optional-iboutlet/</link>
       <pubDate>Tue, 06 Jun 2017 07:58:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klwprgdikgd9ccgjbkt/</guid>
-      <description></description>
+      <description>Official Apple documentation recommends that we use implicitly unwrapped optionals (IUOs) when declaring IBOutlets in our Swift code. It&#39;s advice most of us probably follow, but have we ever put much thought in to it? Here, Curtis Herbert explains why he will never use IUOs for his IBOutlets again, but rather will switch to using optionals.</description>
     </item>
     
     <item>
       <title>Tests that don&#39;t crash</title>
-      <link>https://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</link>
+      <link>http://ericasadun.com/2017/05/27/tests-that-dont-crash/</link>
       <pubDate>Tue, 30 May 2017 07:53:46 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-klnl9rapnjsq_z-_9ul/</guid>
-      <description></description>
+      <description>Tim Vermeulen with a short post showing us how to write tests which fail gracefully when they encounter a nil optional. Marking individual tests as throwing is not something I thought of before, and it means tests that previously crashed now simply fail, allowing subsequent tests to be executed. Nice idea.</description>
     </item>
     
   </channel>

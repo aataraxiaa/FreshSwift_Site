@@ -8,11 +8,10 @@
     <lastBuildDate>Fri, 01 Jun 2018 05:10:58 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/anyobject/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Any[Object]</title>
-      <link>https://freshswift.net/post/-ldtknw2n-hvu6b0a2yz/</link>
+      <link>https://blog.krzyzanowskim.com/2018/05/29/any-object/</link>
       <pubDate>Fri, 01 Jun 2018 05:10:58 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ldtknw2n-hvu6b0a2yz/</guid>
-      <description></description>
+      <description>In this post, Marcin Krzyzanowski first informs us that we probably use Swift’s AnyObject type incorrectly. Marcin then demonstrates how, slightly contrary to the Swift documentation, AnyObject can represent value types as well as class types.</description>
     </item>
     
   </channel>

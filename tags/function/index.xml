@@ -8,29 +8,26 @@
     <lastBuildDate>Tue, 04 Sep 2018 15:26:15 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/function/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Early returning functions in Swift</title>
-      <link>https://freshswift.net/post/-ll_behu1dsscvmexskd/</link>
+      <link>https://www.swiftbysundell.com/posts/early-returning-functions-in-swift</link>
       <pubDate>Tue, 04 Sep 2018 15:26:15 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-ll_behu1dsscvmexskd/</guid>
-      <description></description>
+      <description>John Sundell shows us the benefits of returning early from functions, a technique we can use to improve code readability and comprehension.</description>
     </item>
     
     <item>
       <title>Sets &amp; free functions</title>
-      <link>https://freshswift.net/post/-l59uekei2lv_on1wwms/</link>
+      <link>http://editorscut.com/Blog/2018/01/18-SetsFreeFunctions.html</link>
       <pubDate>Mon, 12 Feb 2018 16:46:18 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l59uekei2lv_on1wwms/</guid>
-      <description></description>
+      <description>This post from editor’s cut looks at implementing a Set type as a free function. This is probably something different to how we normally think of types, and it’s an interesting idea.</description>
     </item>
     
     <item>
       <title>First class functions in Swift</title>
-      <link>https://freshswift.net/post/-l45h34klp6jcmou_gno/</link>
+      <link>https://www.swiftbysundell.com/posts/first-class-functions-in-swift?utm_campaign=Revue%20newsletter&amp;utm_medium=Newsletter&amp;utm_source=Swiftly%20Curated</link>
       <pubDate>Tue, 30 Jan 2018 08:56:35 +0000</pubDate>
       
-      <guid>https://freshswift.net/post/-l45h34klp6jcmou_gno/</guid>
-      <description></description>
+      <description>In this entry in his weekly Swift blog series, John Sundell looks at first class functions. John starts with some basic use cases for first class functions, such as passing functions as arguments, before demonstrating more advance use cases.</description>
     </item>
     
   </channel>
