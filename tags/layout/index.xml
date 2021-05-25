@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/layout/</link>
     <description>Recent content in layout on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/layout/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/layout/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manual UIKit Layout</title>
+      <link>https://www.highcaffeinecontent.com/blog/20210513-Manual-UIKit-Layout</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <description>With Interface Builder, Storyboards, and AutoLayout available, it&#39;s likely uncommon that developers these days choose to layout their UIKit views manually. However, as this post from Steve Troughton-Smith demonstrates, sometimes what might seem like the most basic approach is also the most suitable approach.</description>
+    </item>
+    
     <item>
       <title>SwiftUI’s Grid Views</title>
       <link>https://www.objc.io/blog/2020/11/23/grid-layout/</link>
