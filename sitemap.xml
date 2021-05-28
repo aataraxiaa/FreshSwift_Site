@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/tags/existential/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/protocol/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/28-05-21-140743/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/layout/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/25-05-21-162532/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/uikit/</loc>
@@ -272,9 +281,6 @@
     <loc>https://freshswift.net/post/30-11-20-125624/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/tags/protocol/</loc>
-    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/post/26-11-20-064625/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -337,9 +343,6 @@
   </url><url>
     <loc>https://freshswift.net/post/23-10-20-073700/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/existential/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/22-10-20-071420/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>

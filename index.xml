@@ -5,7 +5,15 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock existentials for all protocols</title>
+      <link>https://github.com/apple/swift-evolution/blob/main/proposals/0309-unlock-existential-types-for-all-protocols.md</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift existential types provide value-level abstraction, allowing values of varying concrete types to be used interchangeably as values of the same existential type. In this accepted Swift evolution proposal, the authors outline their objective of alleviating some current limitations which impact the ability to use protocols as existential types.</description>
+    </item>
+    
     <item>
       <title>Manual UIKit Layout</title>
       <link>https://www.highcaffeinecontent.com/blog/20210513-Manual-UIKit-Layout</link>
