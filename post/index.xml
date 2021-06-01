@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Laws of Core Data</title>
+      <link>https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>Core Data is a persistence framework provided by Apple that is used to save or cache data on devices. In this post, the always insightful Dave Delong shares his laws of core data. These are a set of rules on how to use Core Data which Dave thinks should ensure an _almost_ entirely painless experience.</description>
+    </item>
+    
     <item>
       <title>Unlock existentials for all protocols</title>
       <link>https://github.com/apple/swift-evolution/blob/main/proposals/0309-unlock-existential-types-for-all-protocols.md</link>

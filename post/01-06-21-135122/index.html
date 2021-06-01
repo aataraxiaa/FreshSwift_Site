@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>core data - Fresh Swift</title><script type="application/ld+json">
+  <title>The Laws of Core Data - Fresh Swift</title>
+  <meta name="description" content="Core Data is a persistence framework provided by Apple that is used to save or cache data on devices. In this post, the always insightful Dave Delong shares his laws of core data. These are a set of rules on how to use Core Data which Dave thinks should ensure an _almost_ entirely painless experience."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -27,14 +28,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/freshswift.net",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/freshswift.net\/post\/01-06-21-135122\/",
+          "name": "The laws of core data"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "The Laws of Core Data",
+  "description" : "",
+  "inLanguage" : "en",
+  "wordCount":  0 ,
+  "datePublished" : "2021-06-01T00:00:00",
+  "dateModified" : "2021-06-01T00:00:00",
+  "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+  "keywords" : [ "core data" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/01-06-21-135122\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/freshswift.net",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="core data" />
+<meta property="og:title" content="The Laws of Core Data" />
+<meta property="og:description" content="Core Data is a persistence framework provided by Apple that is used to save or cache data on devices. In this post, the always insightful Dave Delong shares his laws of core data. These are a set of rules on how to use Core Data which Dave thinks should ensure an _almost_ entirely painless experience.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/tags/core-data/" />
+<meta property="og:url" content="https://freshswift.net/post/01-06-21-135122/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="core data" />
+  <meta name="twitter:title" content="The Laws of Core Data" />
+  <meta name="twitter:description" content="Core Data is a persistence framework provided by Apple that is used to save or cache data on devices. In this post, the always insightful Dave Delong shares his laws of core data. These are a set of …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -177,44 +228,18 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="post-heading">
               
-                <h1>core data</h1>
-              
-              
-                <hr class="small">
+                <h1>The Laws of Core Data</h1>
               
               
               
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-
-    
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        
-        <div class="posts-list">
-          
-            <article class="post-preview">
-    <a href="https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/">
-        <h2 class="post-title">The Laws of Core Data</h2>
-        
-        <h3 class="post-subtitle">
-            Core Data is a persistence framework provided by Apple that is used to save or cache data on devices. In this post, the always insightful Dave Delong shares his laws of core data. These are a set of rules on how to use Core Data which Dave thinks should ensure an _almost_ entirely painless experience.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
+                
+                  <h2 class="post-subheading">Core Data is a persistence framework provided by Apple that is used to save or cache data on devices. In this post, the always insightful Dave Delong shares his laws of core data. These are a set of rules on how to use Core Data which Dave thinks should ensure an _almost_ entirely painless experience.</h2>
+                
+              
+              
+                <span class="post-meta">
   
   
   <i class="fas fa-calendar"></i>&nbsp;Posted on June 1, 2021
@@ -230,78 +255,55 @@ if (!doNotTrack) {
 </span>
 
 
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/core-data/">core data</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://dimsumthinking.com/Blog/2021/03/04-CoreStore.html">
-        <h2 class="post-title">Core Store</h2>
-        
-        <h3 class="post-subtitle">
-            Core Data is an object graph and persistence framework provided by Apple. Introduced in iOS 3.0, it&#39;s still relevant but is also generally acknowledged as not being particularly Swift friendly. In this post, the excellent Daniel Steinberg makes an early prediction for a Swift replacement of Core Data which he thinks might be unveiled at this year&#39;s WWDC.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on March 8, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/core-data/">core data</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
+              
+            </div>
+          </div>
         </div>
-        
       </div>
     </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://freshswift.net/tags/core-data/">core data</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://freshswift.net/post/28-05-21-140743/" data-toggle="tooltip" data-placement="top" title="Unlock existentials for all protocols">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+      
+
+    </div>
   </div>
+</div>
 
       
 <footer>
@@ -320,7 +322,7 @@ if (!doNotTrack) {
               </li>
           
           <li>
-            <a href="/tags/core-data/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
