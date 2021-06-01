@@ -11,7 +11,7 @@
       <link>https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <description>Core Data is a persistence framework provided by Apple that is used to save or cache data on devices. In this post, the always insightful Dave Delong shares his laws of core data. These are a set of rules on how to use Core Data which Dave thinks should ensure an _almost_ entirely painless experience.</description>
+      <description>Core Data is a persistence framework provided by Apple that is used to save or cache data on devices. In this post, the always insightful Dave Delong shares his laws of core data. These are a set of rules on how to use Core Data which Dave thinks should ensure an almost entirely painless experience.</description>
     </item>
     
     <item>
