@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://freshswift.net/tags/core-data/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/04-06-21-143313/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/navigation/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/core-data/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/01-06-21-135122/</loc>
@@ -111,9 +120,6 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/property-wrapper/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/closure/</loc>
@@ -1804,9 +1810,6 @@
   </url><url>
     <loc>https://freshswift.net/post/-l7tf8vmtytlss1gdwnb/</loc>
     <lastmod>2018-03-13T07:26:14+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/navigation/</loc>
-    <lastmod>2018-03-08T07:22:27+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/-l73ukol701c_2_yq5sd/</loc>
     <lastmod>2018-03-08T07:22:27+00:00</lastmod>

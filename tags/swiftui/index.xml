@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstracting Navigation in SwiftUI</title>
+      <link>https://obscuredpixels.com/abstracting-navigation-in-swiftui</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>Currently, implementing navigation between SwiftUI views usually means adding navigation logic that is tightly coupled to a View&#39;s body implementation. However, there are things we can do to reduce this coupling, and in this post, Omar demonstrates an approach he uses to decouple navigation logic from Views using some abstraction.</description>
+    </item>
+    
     <item>
       <title>Custom Property Wrappers for SwiftUI</title>
       <link>https://davedelong.com/blog/2021/04/02/custom-property-wrappers-for-swiftui/</link>
