@@ -5,17 +5,41 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>navigation</title>
+      <title>appkit</title>
       <link></link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>library</title>
+      <link></link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>
     
     <item>
       <title>swiftui</title>
+      <link></link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>uikit</title>
+      <link></link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>navigation</title>
       <link></link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -48,14 +72,6 @@
     
     <item>
       <title>layout</title>
-      <link></link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>uikit</title>
       <link></link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
@@ -591,14 +607,6 @@
     </item>
     
     <item>
-      <title>appkit</title>
-      <link></link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
       <title>widgetkit</title>
       <link></link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
@@ -986,14 +994,6 @@
       <title>type</title>
       <link></link>
       <pubDate>Thu, 08 Nov 2018 11:07:06 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>library</title>
-      <link></link>
-      <pubDate>Fri, 26 Oct 2018 15:40:34 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>

@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/tags/appkit/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/05-06-21-141405/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/library/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/uikit/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/post/04-06-21-143313/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/tags/navigation/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/core-data/</loc>
@@ -39,9 +51,6 @@
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/25-05-21-162532/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/uikit/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/collection/</loc>
@@ -481,9 +490,6 @@
   </url><url>
     <loc>https://freshswift.net/post/29-09-20-074416/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/appkit/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/28-09-20-094555/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
@@ -1098,9 +1104,6 @@
     <lastmod>2018-10-30T13:56:25+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/-lpl1bqiyirp_puyqgoj/</loc>
-    <lastmod>2018-10-26T15:40:34+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/library/</loc>
     <lastmod>2018-10-26T15:40:34+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/-lpl4swin7k9fifyddcd/</loc>

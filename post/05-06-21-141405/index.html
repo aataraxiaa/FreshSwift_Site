@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Abstracting Navigation in SwiftUI - Fresh Swift</title>
-  <meta name="description" content="Currently, implementing navigation between SwiftUI views usually means adding navigation logic that is tightly coupled to a View&#39;s body implementation. However, there are things we can do to reduce this coupling, and in this post, Omar demonstrates an approach he uses to decouple navigation logic from Views using some abstraction."><script type="application/ld+json">
+  <title>Introspect for SwiftUI - Fresh Swift</title>
+  <meta name="description" content="A lot of SwiftUI View types are implemented on top of existing UIKit or AppKit types. Introspect is a library that allows us to access the underlying type of a SwiftUI view. This can be useful when we want to change some property of our UI which is not yet exposed via SwiftUI."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -43,8 +43,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/freshswift.net\/post\/04-06-21-143313\/",
-          "name": "Abstracting navigation in swift ui"
+          "@id": "https:\/\/freshswift.net\/post\/05-06-21-141405\/",
+          "name": "Introspect for swift ui"
         }
     }]
 }
@@ -55,15 +55,15 @@
   "author": {
     "name" : ""
   },
-  "headline": "Abstracting Navigation in SwiftUI",
+  "headline": "Introspect for SwiftUI",
   "description" : "",
   "inLanguage" : "en",
   "wordCount":  0 ,
-  "datePublished" : "2021-06-04T00:00:00",
-  "dateModified" : "2021-06-04T00:00:00",
+  "datePublished" : "2021-06-05T00:00:00",
+  "dateModified" : "2021-06-05T00:00:00",
   "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
-  "keywords" : [ "swiftui, navigation" ],
-  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/04-06-21-143313\/",
+  "keywords" : [ "library, swiftui, uikit, appkit" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/05-06-21-141405\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/freshswift.net",
@@ -77,15 +77,15 @@
 }
 </script>
 
-<meta property="og:title" content="Abstracting Navigation in SwiftUI" />
-<meta property="og:description" content="Currently, implementing navigation between SwiftUI views usually means adding navigation logic that is tightly coupled to a View&#39;s body implementation. However, there are things we can do to reduce this coupling, and in this post, Omar demonstrates an approach he uses to decouple navigation logic from Views using some abstraction.">
+<meta property="og:title" content="Introspect for SwiftUI" />
+<meta property="og:description" content="A lot of SwiftUI View types are implemented on top of existing UIKit or AppKit types. Introspect is a library that allows us to access the underlying type of a SwiftUI view. This can be useful when we want to change some property of our UI which is not yet exposed via SwiftUI.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/post/04-06-21-143313/" />
+<meta property="og:url" content="https://freshswift.net/post/05-06-21-141405/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="Abstracting Navigation in SwiftUI" />
-  <meta name="twitter:description" content="Currently, implementing navigation between SwiftUI views usually means adding navigation logic that is tightly coupled to a View&#39;s body implementation. However, there are things we can do to reduce …">
+  <meta name="twitter:title" content="Introspect for SwiftUI" />
+  <meta name="twitter:description" content="A lot of SwiftUI View types are implemented on top of existing UIKit or AppKit types. Introspect is a library that allows us to access the underlying type of a SwiftUI view. This can be useful when we …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -230,19 +230,19 @@ if (!doNotTrack) {
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>Abstracting Navigation in SwiftUI</h1>
+                <h1>Introspect for SwiftUI</h1>
               
               
               
                 
-                  <h2 class="post-subheading">Currently, implementing navigation between SwiftUI views usually means adding navigation logic that is tightly coupled to a View&#39;s body implementation. However, there are things we can do to reduce this coupling, and in this post, Omar demonstrates an approach he uses to decouple navigation logic from Views using some abstraction.</h2>
+                  <h2 class="post-subheading">A lot of SwiftUI View types are implemented on top of existing UIKit or AppKit types. Introspect is a library that allows us to access the underlying type of a SwiftUI view. This can be useful when we want to change some property of our UI which is not yet exposed via SwiftUI.</h2>
                 
               
               
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 4, 2021
+  <i class="fas fa-calendar"></i>&nbsp;Posted on June 5, 2021
   
   
   
@@ -274,9 +274,13 @@ if (!doNotTrack) {
         
           <div class="blog-tags">
             
+              <a href="https://freshswift.net/tags/library/">library</a>&nbsp;
+            
               <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
             
-              <a href="https://freshswift.net/tags/navigation/">navigation</a>&nbsp;
+              <a href="https://freshswift.net/tags/uikit/">uikit</a>&nbsp;
+            
+              <a href="https://freshswift.net/tags/appkit/">appkit</a>&nbsp;
             
           </div>
         
@@ -290,13 +294,9 @@ if (!doNotTrack) {
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://freshswift.net/post/01-06-21-135122/" data-toggle="tooltip" data-placement="top" title="The Laws of Core Data">&larr; Previous Post</a>
+              <a href="https://freshswift.net/post/04-06-21-143313/" data-toggle="tooltip" data-placement="top" title="Abstracting Navigation in SwiftUI">&larr; Previous Post</a>
             </li>
           
-          
-            <li class="next">
-              <a href="https://freshswift.net/post/05-06-21-141405/" data-toggle="tooltip" data-placement="top" title="Introspect for SwiftUI">Next Post &rarr;</a>
-            </li>
           
         </ul>
       

@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introspect for SwiftUI</title>
+      <link>https://github.com/siteline/SwiftUI-Introspect</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>A lot of SwiftUI View types are implemented on top of existing UIKit or AppKit types. Introspect is a library that allows us to access the underlying type of a SwiftUI view. This can be useful when we want to change some property of our UI which is not yet exposed via SwiftUI.</description>
+    </item>
+    
     <item>
       <title>Abstracting Navigation in SwiftUI</title>
       <link>https://obscuredpixels.com/abstracting-navigation-in-swiftui</link>
