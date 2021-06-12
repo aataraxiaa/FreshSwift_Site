@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://freshswift.net/tags/appkit/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/</loc>
+    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/12-06-21-205351/</loc>
+    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/appkit/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/05-06-21-141405/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/library/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/uikit/</loc>

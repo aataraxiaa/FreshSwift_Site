@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simpler way to deal with hardcoded ViewModifer values in SwiftUI</title>
+      <link>https://dev.to/vibrazy/simpler-way-to-deal-with-hardcoded-viewmodifers-values-in-swiftui-e6m</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>When working with SwiftUI, it&#39;s likely that at some point we will want to configure a property of our UI based on a conditional value. For example, setting a font color to red when an error occurs. However, as Daniel Tavares explains in this post, this can become cumbersome when we have a lot of UI properties that depend on conditional values. Luckily, Daniel has something which can help, and he shares it with us in this post.</description>
+    </item>
+    
     <item>
       <title>Introspect for SwiftUI</title>
       <link>https://github.com/siteline/SwiftUI-Introspect</link>
