@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>swiftui - Fresh Swift</title><script type="application/ld+json">
+  <title>Avoiding having to recompute values within SwiftUI views - Fresh Swift</title>
+  <meta name="description" content="SwiftUI is a fantastic framework, with its declarative approach removing a lot of the complexity that comes with orchestrating UI updates. However, this benefit also comes with the cost, as developers can&#39;t have complete control over when and how the code in a View body property will be executed. Here, John Sundell explains an issue this can cause, and provides some approaches he uses to mitigate it."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -27,14 +28,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/freshswift.net",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/freshswift.net\/post\/13-06-21-142013\/",
+          "name": "Avoiding having to recompute values within swift ui views"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Avoiding having to recompute values within SwiftUI views",
+  "description" : "",
+  "inLanguage" : "en",
+  "wordCount":  0 ,
+  "datePublished" : "2021-06-13T00:00:00",
+  "dateModified" : "2021-06-13T00:00:00",
+  "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+  "keywords" : [ "swiftui" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/13-06-21-142013\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/freshswift.net",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="swiftui" />
+<meta property="og:title" content="Avoiding having to recompute values within SwiftUI views" />
+<meta property="og:description" content="SwiftUI is a fantastic framework, with its declarative approach removing a lot of the complexity that comes with orchestrating UI updates. However, this benefit also comes with the cost, as developers can&#39;t have complete control over when and how the code in a View body property will be executed. Here, John Sundell explains an issue this can cause, and provides some approaches he uses to mitigate it.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/tags/swiftui/" />
+<meta property="og:url" content="https://freshswift.net/post/13-06-21-142013/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="swiftui" />
+  <meta name="twitter:title" content="Avoiding having to recompute values within SwiftUI views" />
+  <meta name="twitter:description" content="SwiftUI is a fantastic framework, with its declarative approach removing a lot of the complexity that comes with orchestrating UI updates. However, this benefit also comes with the cost, as developers …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -177,14 +228,33 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="post-heading">
               
-                <h1>swiftui</h1>
-              
-              
-                <hr class="small">
+                <h1>Avoiding having to recompute values within SwiftUI views</h1>
               
               
+              
+                
+                  <h2 class="post-subheading">SwiftUI is a fantastic framework, with its declarative approach removing a lot of the complexity that comes with orchestrating UI updates. However, this benefit also comes with the cost, as developers can&#39;t have complete control over when and how the code in a View body property will be executed. Here, John Sundell explains an issue this can cause, and provides some approaches he uses to mitigate it.</h2>
+                
+              
+              
+                <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on June 13, 2021
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
+    
+  
+  
+</span>
+
+
               
             </div>
           </div>
@@ -195,367 +265,45 @@ if (!doNotTrack) {
 
 
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
         
-        <div class="posts-list">
-          
-            <article class="post-preview">
-    <a href="https://swiftwithmajid.com/2020/05/27/mastering-images-in-swiftui/">
-        <h2 class="post-title">Mastering images in SwiftUI</h2>
-        
-        <h3 class="post-subtitle">
-            Majid covers the SwiftUI Image type in this post. He first starts with the basics before moving onto view modifiers relating to resizing and rendering. A good reference if you are working with images in SwiftUI.
-        </h3>
-        
-        
-        
-    </a>
 
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 4, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
         
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://lostmoa.com/blog/ScrollListToRowInSwiftUI/">
-        <h2 class="post-title">Scroll List to Row in SwiftUI</h2>
-        
-        <h3 class="post-subtitle">
-            Continuing the SwiftUI theme, this post by Natalia Panferova shows us how we can implement scroll to row for a SwiftUI List. The approach is based on the fact that currently the List view in SwiftUI is a UITableView under the hood.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 3, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/ios/">ios</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects">
-        <h2 class="post-title">How to use @ObservedObject to manage state from external objects</h2>
-        
-        <h3 class="post-subtitle">
-            At this point, most of us are likely familiar with how observed objects can be used with SwiftUI to manage state. However, a quick refresh is often helpful, and this post from Paul Hudson provides exactly that.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 2, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/property-wrapper/">property wrapper</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/">
-        <h2 class="post-title">Getting the most out of Xcode Previews for SwiftUI</h2>
-        
-        <h3 class="post-subtitle">
-            John Sundell shows us a number of techniques and abstractions to help us make the most of Xcode 11&#39;s Preview feature. As always, John provides lots of code snippets which we can immediately start using in our own code.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 1, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/ios/">ios</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/xcode/">xcode</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://swiftwithmajid.com/2019/11/27/combine-and-swiftui-views/">
-        <h2 class="post-title">Combine and SwiftUI views</h2>
-        
-        <h3 class="post-subtitle">
-            In this post, Majid demonstrates how we can use SwiftUI&#39;s onReceive view modifier to react to values emitted from a Combine publisher. I really like the approach of wrapping the publisher creation and onReceive logic into a custom view modifier to make it reusable.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on May 31, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/ios/">ios</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/combine/">combine</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://swiftwithmajid.com/2020/05/13/template-view-pattern-in-swiftui/">
-        <h2 class="post-title">Template-view pattern in SwiftUI</h2>
-        
-        <h3 class="post-subtitle">
-            Continuing the SwiftUI theme, this post from Majid describes a technique which can be used to support dynamic type in stack views. I really like posts like this that demonstrate how a bit of creativity can go a long way to solving common UI issues.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on May 18, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://lostmoa.com/blog/ProgrammaticNavigationInSwiftUIListView/">
-        <h2 class="post-title">SwiftUI Navigation in List View: Programmatic Navigation</h2>
-        
-        <h3 class="post-subtitle">
-            It&#39;s been a while, but I&#39;m planning to again focus some of my time on Swift. And with that...this is a nice idea to provide a solution to programmatic navigation in SwiftUI. Code samples included 🥳.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on May 16, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-        </div>
-        
-          <ul class="pager main-pager">
+          <div class="blog-tags">
             
-              <li class="previous">
-                <a href="https://freshswift.net/tags/swiftui/page/11/">&larr; Newer Posts</a>
-              </li>
+              <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
             
-            
-          </ul>
+          </div>
         
-      </div>
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://freshswift.net/post/12-06-21-205351/" data-toggle="tooltip" data-placement="top" title="Simpler way to deal with hardcoded ViewModifer values in SwiftUI">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+      
+
     </div>
   </div>
+</div>
 
       
 <footer>
@@ -574,7 +322,7 @@ if (!doNotTrack) {
               </li>
           
           <li>
-            <a href="/tags/swiftui/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>

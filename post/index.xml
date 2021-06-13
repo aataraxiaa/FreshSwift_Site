@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avoiding having to recompute values within SwiftUI views</title>
+      <link>https://swiftbysundell.com/articles/avoiding-swiftui-value-recomputation/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>SwiftUI is a fantastic framework, with its declarative approach removing a lot of the complexity that comes with orchestrating UI updates. However, this benefit also comes with the cost, as developers can&#39;t have complete control over when and how the code in a View body property will be executed. Here, John Sundell explains an issue this can cause, and provides some approaches he uses to mitigate it.</description>
+    </item>
+    
     <item>
       <title>Simpler way to deal with hardcoded ViewModifer values in SwiftUI</title>
       <link>https://dev.to/vibrazy/simpler-way-to-deal-with-hardcoded-viewmodifers-values-in-swiftui-e6m</link>
