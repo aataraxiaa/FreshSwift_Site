@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/core-data/</link>
     <description>Recent content in core data on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/core-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/core-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core Data In Memory Store</title>
+      <link>https://useyourloaf.com/blog/core-data-in-memory-store/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>Core Data uses an on-disk store by default, which can cause some unnecessary work when running tests on store-related logic. In this short post, Keith Harrison shows us how using an in-memory is more efficient for testing, while also speeding up SwiftUI previews.</description>
+    </item>
+    
     <item>
       <title>The Laws of Core Data</title>
       <link>https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/</link>

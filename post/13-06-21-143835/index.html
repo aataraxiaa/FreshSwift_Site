@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Simpler way to deal with hardcoded ViewModifer values in SwiftUI - Fresh Swift</title>
-  <meta name="description" content="When working with SwiftUI, it&#39;s likely that at some point we will want to configure a property of our UI based on a conditional value. For example, setting a font color to red when an error occurs. However, as Daniel Tavares explains in this post, this can become cumbersome when we have a lot of UI properties that depend on conditional values. Luckily, Daniel has something which can help, and he shares it with us in this post."><script type="application/ld+json">
+  <title>Core Data In Memory Store - Fresh Swift</title>
+  <meta name="description" content="Core Data uses an on-disk store by default, which can cause some unnecessary work when running tests on store-related logic. In this short post, Keith Harrison shows us how using an in-memory is more efficient for testing, while also speeding up SwiftUI previews."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -43,8 +43,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/freshswift.net\/post\/12-06-21-205351\/",
-          "name": "Simpler way to deal with hardcoded view modifer values in swift ui"
+          "@id": "https:\/\/freshswift.net\/post\/13-06-21-143835\/",
+          "name": "Core data in memory store"
         }
     }]
 }
@@ -55,15 +55,15 @@
   "author": {
     "name" : ""
   },
-  "headline": "Simpler way to deal with hardcoded ViewModifer values in SwiftUI",
+  "headline": "Core Data In Memory Store",
   "description" : "",
   "inLanguage" : "en",
   "wordCount":  0 ,
-  "datePublished" : "2021-06-12T00:00:00",
-  "dateModified" : "2021-06-12T00:00:00",
+  "datePublished" : "2021-06-13T00:00:00",
+  "dateModified" : "2021-06-13T00:00:00",
   "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
-  "keywords" : [ "swiftui" ],
-  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/12-06-21-205351\/",
+  "keywords" : [ "core data, swiftui" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/13-06-21-143835\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/freshswift.net",
@@ -77,15 +77,15 @@
 }
 </script>
 
-<meta property="og:title" content="Simpler way to deal with hardcoded ViewModifer values in SwiftUI" />
-<meta property="og:description" content="When working with SwiftUI, it&#39;s likely that at some point we will want to configure a property of our UI based on a conditional value. For example, setting a font color to red when an error occurs. However, as Daniel Tavares explains in this post, this can become cumbersome when we have a lot of UI properties that depend on conditional values. Luckily, Daniel has something which can help, and he shares it with us in this post.">
+<meta property="og:title" content="Core Data In Memory Store" />
+<meta property="og:description" content="Core Data uses an on-disk store by default, which can cause some unnecessary work when running tests on store-related logic. In this short post, Keith Harrison shows us how using an in-memory is more efficient for testing, while also speeding up SwiftUI previews.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/post/12-06-21-205351/" />
+<meta property="og:url" content="https://freshswift.net/post/13-06-21-143835/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="Simpler way to deal with hardcoded ViewModifer values in SwiftUI" />
-  <meta name="twitter:description" content="When working with SwiftUI, it&#39;s likely that at some point we will want to configure a property of our UI based on a conditional value. For example, setting a font color to red when an error occurs. …">
+  <meta name="twitter:title" content="Core Data In Memory Store" />
+  <meta name="twitter:description" content="Core Data uses an on-disk store by default, which can cause some unnecessary work when running tests on store-related logic. In this short post, Keith Harrison shows us how using an in-memory is more …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -230,19 +230,19 @@ if (!doNotTrack) {
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>Simpler way to deal with hardcoded ViewModifer values in SwiftUI</h1>
+                <h1>Core Data In Memory Store</h1>
               
               
               
                 
-                  <h2 class="post-subheading">When working with SwiftUI, it&#39;s likely that at some point we will want to configure a property of our UI based on a conditional value. For example, setting a font color to red when an error occurs. However, as Daniel Tavares explains in this post, this can become cumbersome when we have a lot of UI properties that depend on conditional values. Luckily, Daniel has something which can help, and he shares it with us in this post.</h2>
+                  <h2 class="post-subheading">Core Data uses an on-disk store by default, which can cause some unnecessary work when running tests on store-related logic. In this short post, Keith Harrison shows us how using an in-memory is more efficient for testing, while also speeding up SwiftUI previews.</h2>
                 
               
               
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 12, 2021
+  <i class="fas fa-calendar"></i>&nbsp;Posted on June 13, 2021
   
   
   
@@ -274,6 +274,8 @@ if (!doNotTrack) {
         
           <div class="blog-tags">
             
+              <a href="https://freshswift.net/tags/core-data/">core data</a>&nbsp;
+            
               <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
             
           </div>
@@ -288,12 +290,12 @@ if (!doNotTrack) {
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://freshswift.net/post/05-06-21-141405/" data-toggle="tooltip" data-placement="top" title="Introspect for SwiftUI">&larr; Previous Post</a>
+              <a href="https://freshswift.net/post/12-06-21-205351/" data-toggle="tooltip" data-placement="top" title="Simpler way to deal with hardcoded ViewModifer values in SwiftUI">&larr; Previous Post</a>
             </li>
           
           
             <li class="next">
-              <a href="https://freshswift.net/post/13-06-21-143835/" data-toggle="tooltip" data-placement="top" title="Core Data In Memory Store">Next Post &rarr;</a>
+              <a href="https://freshswift.net/post/13-06-21-142013/" data-toggle="tooltip" data-placement="top" title="Avoiding having to recompute values within SwiftUI views">Next Post &rarr;</a>
             </li>
           
         </ul>
