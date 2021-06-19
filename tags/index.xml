@@ -5,17 +5,25 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>core data</title>
+      <title>swiftui</title>
       <link></link>
-      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>
     
     <item>
-      <title>swiftui</title>
+      <title>wwdc21</title>
+      <link></link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>core data</title>
       <link></link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -266,14 +274,6 @@
       <title>string</title>
       <link></link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>wwdc21</title>
-      <link></link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>

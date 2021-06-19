@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is new in SwiftUI after WWDC21</title>
+      <link>https://swiftwithmajid.com/2021/06/08/what-is-new-in-swiftui-after-wwdc21/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>SwiftUI took another substantial and welcomed step forward this year at WWDC. Along with some expected improvements, such as the new refreshable ViewModifier, we also saw some less anticipated additions such as the new TimeLine View type. In this post, Majid Jabrayilov provides his summary of significant SwiftUI additions announced at WWDC21.</description>
+    </item>
+    
     <item>
       <title>Avoiding having to recompute values within SwiftUI views</title>
       <link>https://swiftbysundell.com/articles/avoiding-swiftui-value-recomputation/</link>
