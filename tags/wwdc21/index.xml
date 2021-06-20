@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/wwdc21/</link>
     <description>Recent content in wwdc21 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc21/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc21/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AsyncImage in SwiftUI</title>
+      <link>https://serialcoder.dev/text-tutorials/swiftui/asyncimage-in-swiftui/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>New in iOS 15 is AsyncImage, a new SwiftUI View for fetching and displaying remote images from a URL. Here, Gabriel Theodoropoulos demonstrates how to use this new type, and highlights some of its pros and cons.</description>
+    </item>
+    
     <item>
       <title>What is new in SwiftUI after WWDC21</title>
       <link>https://swiftwithmajid.com/2021/06/08/what-is-new-in-swiftui-after-wwdc21/</link>

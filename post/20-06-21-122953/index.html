@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>wwdc21 - Fresh Swift</title><script type="application/ld+json">
+  <title>AsyncImage in SwiftUI - Fresh Swift</title>
+  <meta name="description" content="New in iOS 15 is AsyncImage, a new SwiftUI View for fetching and displaying remote images from a URL. Here, Gabriel Theodoropoulos demonstrates how to use this new type, and highlights some of its pros and cons."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -27,14 +28,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/freshswift.net",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/freshswift.net\/post\/20-06-21-122953\/",
+          "name": "Async image in swift ui"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "AsyncImage in SwiftUI",
+  "description" : "",
+  "inLanguage" : "en",
+  "wordCount":  0 ,
+  "datePublished" : "2021-06-20T00:00:00",
+  "dateModified" : "2021-06-20T00:00:00",
+  "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+  "keywords" : [ "swiftui, wwdc21" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/20-06-21-122953\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/freshswift.net",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="wwdc21" />
+<meta property="og:title" content="AsyncImage in SwiftUI" />
+<meta property="og:description" content="New in iOS 15 is AsyncImage, a new SwiftUI View for fetching and displaying remote images from a URL. Here, Gabriel Theodoropoulos demonstrates how to use this new type, and highlights some of its pros and cons.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/tags/wwdc21/" />
+<meta property="og:url" content="https://freshswift.net/post/20-06-21-122953/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="wwdc21" />
+  <meta name="twitter:title" content="AsyncImage in SwiftUI" />
+  <meta name="twitter:description" content="New in iOS 15 is AsyncImage, a new SwiftUI View for fetching and displaying remote images from a URL. Here, Gabriel Theodoropoulos demonstrates how to use this new type, and highlights some of its …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -177,44 +228,18 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="post-heading">
               
-                <h1>wwdc21</h1>
-              
-              
-                <hr class="small">
+                <h1>AsyncImage in SwiftUI</h1>
               
               
               
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-
-    
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        
-        <div class="posts-list">
-          
-            <article class="post-preview">
-    <a href="https://serialcoder.dev/text-tutorials/swiftui/asyncimage-in-swiftui/">
-        <h2 class="post-title">AsyncImage in SwiftUI</h2>
-        
-        <h3 class="post-subtitle">
-            New in iOS 15 is AsyncImage, a new SwiftUI View for fetching and displaying remote images from a URL. Here, Gabriel Theodoropoulos demonstrates how to use this new type, and highlights some of its pros and cons.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
+                
+                  <h2 class="post-subheading">New in iOS 15 is AsyncImage, a new SwiftUI View for fetching and displaying remote images from a URL. Here, Gabriel Theodoropoulos demonstrates how to use this new type, and highlights some of its pros and cons.</h2>
+                
+              
+              
+                <span class="post-meta">
   
   
   <i class="fas fa-calendar"></i>&nbsp;Posted on June 20, 2021
@@ -230,129 +255,57 @@ if (!doNotTrack) {
 </span>
 
 
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://swiftwithmajid.com/2021/06/08/what-is-new-in-swiftui-after-wwdc21/">
-        <h2 class="post-title">What is new in SwiftUI after WWDC21</h2>
-        
-        <h3 class="post-subtitle">
-            SwiftUI took another substantial and welcomed step forward this year at WWDC. Along with some expected improvements, such as the new refreshable ViewModifier, we also saw some less anticipated additions such as the new TimeLine View type. In this post, Majid Jabrayilov provides his summary of significant SwiftUI additions announced at WWDC21.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 19, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://dimsumthinking.com/Blog/2021/03/04-CoreStore.html">
-        <h2 class="post-title">Core Store</h2>
-        
-        <h3 class="post-subtitle">
-            Core Data is an object graph and persistence framework provided by Apple. Introduced in iOS 3.0, it&#39;s still relevant but is also generally acknowledged as not being particularly Swift friendly. In this post, the excellent Daniel Steinberg makes an early prediction for a Swift replacement of Core Data which he thinks might be unveiled at this year&#39;s WWDC.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on March 8, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/core-data/">core data</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
+              
+            </div>
+          </div>
         </div>
-        
       </div>
     </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
+            
+              <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://freshswift.net/post/19-06-21-141155/" data-toggle="tooltip" data-placement="top" title="What is new in SwiftUI after WWDC21">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+      
+
+    </div>
   </div>
+</div>
 
       
 <footer>
@@ -371,7 +324,7 @@ if (!doNotTrack) {
               </li>
           
           <li>
-            <a href="/tags/wwdc21/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
