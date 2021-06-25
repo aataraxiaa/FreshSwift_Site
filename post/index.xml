@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structured concurrency</title>
+      <link>https://github.com/apple/swift-evolution/blob/main/proposals/0304-structured-concurrency.md</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>A lot of the sessions at this years&#39; WWDC related to the new concurrency model in Swift. A central part of this model is the concept of structured concurrency, which enables concurrent execution of asynchronous code. The language features are now available in the latest Xcode beta, and this proposal provides lots of background on this major Swift language evolution.</description>
+    </item>
+    
     <item>
       <title>AsyncImage in SwiftUI</title>
       <link>https://serialcoder.dev/text-tutorials/swiftui/asyncimage-in-swiftui/</link>
