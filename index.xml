@@ -5,7 +5,15 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Async/Await and the Future of Combine</title>
+      <link>https://benscheirman.com/2021/06/async-await-and-the-future-of-combine/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description>With the debut of the new Swift Concurrency model at WWWDC this year, it was noticeable how some of its language features appear to be replacements for some of the Combine frameworks features. In this honest post on the topic, Ben Scheirman, who authored an entire course on Combine, gives his take on its future.</description>
+    </item>
+    
     <item>
       <title>Structured concurrency</title>
       <link>https://github.com/apple/swift-evolution/blob/main/proposals/0304-structured-concurrency.md</link>
