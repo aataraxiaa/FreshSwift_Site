@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ios 15 on Fresh Swift</title>
+    <link>https://freshswift.net/tags/ios-15/</link>
+    <description>Recent content in ios 15 on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ios-15/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS 15: Notable UIKit Additions</title>
+      <link>https://www.swiftjectivec.com/ios-15-notable-uikit-additions/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Despite SwiftUI stealing the limelight in recent years, UIKit still has a place in Apple&#39;s heart. With iOS 15, UIKit gains a host of new capabilities and APIs, and in this post, Jordan Morgan provides instructions on how to use some of them. Swift code samples included.</description>
+    </item>
+    
+  </channel>
+</rss>

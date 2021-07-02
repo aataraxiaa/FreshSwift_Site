@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/uikit/</link>
     <description>Recent content in uikit on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/uikit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/uikit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS 15: Notable UIKit Additions</title>
+      <link>https://www.swiftjectivec.com/ios-15-notable-uikit-additions/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Despite SwiftUI stealing the limelight in recent years, UIKit still has a place in Apple&#39;s heart. With iOS 15, UIKit gains a host of new capabilities and APIs, and in this post, Jordan Morgan provides instructions on how to use some of them. Swift code samples included.</description>
+    </item>
+    
     <item>
       <title>Introspect for SwiftUI</title>
       <link>https://github.com/siteline/SwiftUI-Introspect</link>

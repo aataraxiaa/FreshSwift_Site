@@ -5,7 +5,15 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS 15: Notable UIKit Additions</title>
+      <link>https://www.swiftjectivec.com/ios-15-notable-uikit-additions/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Despite SwiftUI stealing the limelight in recent years, UIKit still has a place in Apple&#39;s heart. With iOS 15, UIKit gains a host of new capabilities and APIs, and in this post, Jordan Morgan provides instructions on how to use some of them. Swift code samples included.</description>
+    </item>
+    
     <item>
       <title>Async/Await and the Future of Combine</title>
       <link>https://benscheirman.com/2021/06/async-await-and-the-future-of-combine/</link>
