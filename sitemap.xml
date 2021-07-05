@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swift-5.5/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/05-07-21-151835/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/wwdc21/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/ios-15/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/02-07-21-120245/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/uikit/</loc>
@@ -29,9 +38,6 @@
     <loc>https://freshswift.net/tags/concurrency/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/tags/swift-5.5/</loc>
-    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/tags/evolution/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,9 +48,6 @@
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/wwdc21/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/19-06-21-141155/</loc>

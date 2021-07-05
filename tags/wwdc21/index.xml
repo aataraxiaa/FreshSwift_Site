@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wwdc21 on Fresh Swift</title>
+    <title>WWDC21 on Fresh Swift</title>
     <link>https://freshswift.net/tags/wwdc21/</link>
-    <description>Recent content in wwdc21 on Fresh Swift</description>
+    <description>Recent content in WWDC21 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc21/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc21/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s new in Swift 5.5?</title>
+      <link>https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift 5.5, available in any Xcode 13 beta, includes a huge number of changes to the language. At WWDC this year, a lot of these changes were covered by session videos. However, despite being published before WWDC, this in-depth article from Paul Hudson is still worth a read. Paul walks through most of the language changes introduced in Swift 5.5, with code samples for each. Lot&#39;s to cover here.</description>
+    </item>
+    
     <item>
       <title>AsyncImage in SwiftUI</title>
       <link>https://serialcoder.dev/text-tutorials/swiftui/asyncimage-in-swiftui/</link>
