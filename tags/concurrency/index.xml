@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/concurrency/</link>
     <description>Recent content in concurrency on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding async/await in Swift</title>
+      <link>https://www.andyibanez.com/posts/understanding-async-await-in-swift/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift 5.5&#39;s new async/await feature plays a major role in the language&#39;s new concurrency model. In this post, which is part of a series, Andy Ibanez first offers a refresher on some existing concepts before introducing us to async/await.</description>
+    </item>
+    
     <item>
       <title>Async/Await and the Future of Combine</title>
       <link>https://benscheirman.com/2021/06/async-await-and-the-future-of-combine/</link>
