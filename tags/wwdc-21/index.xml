@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WWDC 21 on Fresh Swift</title>
+    <link>https://freshswift.net/tags/wwdc-21/</link>
+    <description>Recent content in WWDC 21 on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc-21/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Table and Collection View Cells Reload Improvements in iOS 15</title>
+      <link>https://swiftsenpai.com/development/cells-reload-improvements-ios-15/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>iOS 15 includes several new APIs that help to make UICollectionViews and UITableViews more performant. In this post, Lee Kah Seng from Swift Senpai demonstrates how to use these APIs via a fully working sample project.</description>
+    </item>
+    
+  </channel>
+</rss>
