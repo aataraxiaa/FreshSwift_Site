@@ -5,7 +5,23 @@
     <link>https://freshswift.net/tags/wwdc21/</link>
     <description>Recent content in WWDC21 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc21/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/wwdc21/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with async/await in SwiftUI</title>
+      <link>https://peterfriese.dev/swiftui-concurrency-essentials-part1/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift&#39;s new concurrency model continues to be one of the most popular topics amongst the developer community. There have already been many great articles written on the topic, but I still enjoy reading more about it, as it helps cement understanding. In this post, Peter Friese helps us get started with async/await, demonstrating how it interacts with SwiftUI and its latest features.</description>
+    </item>
+    
+    <item>
+      <title>Table and Collection View Cells Reload Improvements in iOS 15</title>
+      <link>https://swiftsenpai.com/development/cells-reload-improvements-ios-15/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>iOS 15 includes several new APIs that help to make UICollectionViews and UITableViews more performant. In this post, Lee Kah Seng from Swift Senpai demonstrates how to use these APIs via a fully working sample project.</description>
+    </item>
+    
     <item>
       <title>What&#39;s new in Swift 5.5?</title>
       <link>https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5</link>

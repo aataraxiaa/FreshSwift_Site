@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>WWDC 21 - Fresh Swift</title><script type="application/ld+json">
+  <title>Getting Started with async/await in SwiftUI - Fresh Swift</title>
+  <meta name="description" content="Swift&#39;s new concurrency model continues to be one of the most popular topics amongst the developer community. There have already been many great articles written on the topic, but I still enjoy reading more about it, as it helps cement understanding. In this post, Peter Friese helps us get started with async/await, demonstrating how it interacts with SwiftUI and its latest features."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -27,14 +28,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/freshswift.net",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/freshswift.net\/post\/12-07-21-144419\/",
+          "name": "Getting started with async await in swift ui"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Getting Started with async\/await in SwiftUI",
+  "description" : "",
+  "inLanguage" : "en",
+  "wordCount":  0 ,
+  "datePublished" : "2021-07-12T00:00:00",
+  "dateModified" : "2021-07-12T00:00:00",
+  "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+  "keywords" : [ "concurrency, swift 5.5, wwdc21" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/12-07-21-144419\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/freshswift.net",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="WWDC 21" />
+<meta property="og:title" content="Getting Started with async/await in SwiftUI" />
+<meta property="og:description" content="Swift&#39;s new concurrency model continues to be one of the most popular topics amongst the developer community. There have already been many great articles written on the topic, but I still enjoy reading more about it, as it helps cement understanding. In this post, Peter Friese helps us get started with async/await, demonstrating how it interacts with SwiftUI and its latest features.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/tags/wwdc-21/" />
+<meta property="og:url" content="https://freshswift.net/post/12-07-21-144419/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="WWDC 21" />
+  <meta name="twitter:title" content="Getting Started with async/await in SwiftUI" />
+  <meta name="twitter:description" content="Swift&#39;s new concurrency model continues to be one of the most popular topics amongst the developer community. There have already been many great articles written on the topic, but I still enjoy …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -177,47 +228,21 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="post-heading">
               
-                <h1>WWDC 21</h1>
-              
-              
-                <hr class="small">
+                <h1>Getting Started with async/await in SwiftUI</h1>
               
               
               
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-
-    
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        
-        <div class="posts-list">
-          
-            <article class="post-preview">
-    <a href="https://swiftsenpai.com/development/cells-reload-improvements-ios-15/">
-        <h2 class="post-title">Table and Collection View Cells Reload Improvements in iOS 15</h2>
-        
-        <h3 class="post-subtitle">
-            iOS 15 includes several new APIs that help to make UICollectionViews and UITableViews more performant. In this post, Lee Kah Seng from Swift Senpai demonstrates how to use these APIs via a fully working sample project.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
+                
+                  <h2 class="post-subheading">Swift&#39;s new concurrency model continues to be one of the most popular topics amongst the developer community. There have already been many great articles written on the topic, but I still enjoy reading more about it, as it helps cement understanding. In this post, Peter Friese helps us get started with async/await, demonstrating how it interacts with SwiftUI and its latest features.</h2>
+                
+              
+              
+                <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 9, 2021
+  <i class="fas fa-calendar"></i>&nbsp;Posted on July 12, 2021
   
   
   
@@ -230,31 +255,59 @@ if (!doNotTrack) {
 </span>
 
 
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/ios/">iOS</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc-21/">WWDC 21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
+              
+            </div>
+          </div>
         </div>
-        
       </div>
     </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://freshswift.net/tags/concurrency/">concurrency</a>&nbsp;
+            
+              <a href="https://freshswift.net/tags/swift-5.5/">swift 5.5</a>&nbsp;
+            
+              <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://freshswift.net/post/09-07-21-120142/" data-toggle="tooltip" data-placement="top" title="Table and Collection View Cells Reload Improvements in iOS 15">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+      
+
+    </div>
   </div>
+</div>
 
       
 <footer>
@@ -273,7 +326,7 @@ if (!doNotTrack) {
               </li>
           
           <li>
-            <a href="/tags/wwdc-21/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
