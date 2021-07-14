@@ -5,7 +5,31 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>animation</title>
+      <link></link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link></link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>WWDC21</title>
+      <link></link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
     <item>
       <title>concurrency</title>
       <link></link>
@@ -16,14 +40,6 @@
     
     <item>
       <title>swift 5.5</title>
-      <link></link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>WWDC21</title>
       <link></link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -66,14 +82,6 @@
       <title>evolution</title>
       <link></link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
-      <link></link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>
@@ -466,14 +474,6 @@
       <title>keypath</title>
       <link></link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>animation</title>
-      <link></link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>

@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>WWDC21 - Fresh Swift</title><script type="application/ld+json">
+  <title>Advanced SwiftUI Animations — Part 4: TimelineView - Fresh Swift</title>
+  <meta name="description" content="Announced at WWDC 21, SwiftUI&#39;s TimelineView is a view that updates according to a provided schedule. In this post, part of a series of posts on advanced SwiftUI animations, Javier explores this new view in detail. Despite it being two years since the last entry in this series, Javier remains excited about SwiftUI animations, and this comes across in this enthusiastic post."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -27,14 +28,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/freshswift.net",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/freshswift.net\/post\/14-07-21-155202\/",
+          "name": "Advanced swift ui animations — part 4 timeline view"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Advanced SwiftUI Animations — Part 4: TimelineView",
+  "description" : "",
+  "inLanguage" : "en",
+  "wordCount":  0 ,
+  "datePublished" : "2021-07-14T00:00:00",
+  "dateModified" : "2021-07-14T00:00:00",
+  "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+  "keywords" : [ "swiftui, animation, wwdc21" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/14-07-21-155202\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/freshswift.net",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="WWDC21" />
+<meta property="og:title" content="Advanced SwiftUI Animations — Part 4: TimelineView" />
+<meta property="og:description" content="Announced at WWDC 21, SwiftUI&#39;s TimelineView is a view that updates according to a provided schedule. In this post, part of a series of posts on advanced SwiftUI animations, Javier explores this new view in detail. Despite it being two years since the last entry in this series, Javier remains excited about SwiftUI animations, and this comes across in this enthusiastic post.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/tags/wwdc21/" />
+<meta property="og:url" content="https://freshswift.net/post/14-07-21-155202/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="WWDC21" />
+  <meta name="twitter:title" content="Advanced SwiftUI Animations — Part 4: TimelineView" />
+  <meta name="twitter:description" content="Announced at WWDC 21, SwiftUI&#39;s TimelineView is a view that updates according to a provided schedule. In this post, part of a series of posts on advanced SwiftUI animations, Javier explores this new …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -177,44 +228,18 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="post-heading">
               
-                <h1>WWDC21</h1>
-              
-              
-                <hr class="small">
+                <h1>Advanced SwiftUI Animations — Part 4: TimelineView</h1>
               
               
               
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-
-    
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        
-        <div class="posts-list">
-          
-            <article class="post-preview">
-    <a href="https://swiftui-lab.com/swiftui-animations-part4">
-        <h2 class="post-title">Advanced SwiftUI Animations — Part 4: TimelineView</h2>
-        
-        <h3 class="post-subtitle">
-            Announced at WWDC 21, SwiftUI&#39;s TimelineView is a view that updates according to a provided schedule. In this post, part of a series of posts on advanced SwiftUI animations, Javier explores this new view in detail. Despite it being two years since the last entry in this series, Javier remains excited about SwiftUI animations, and this comes across in this enthusiastic post.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
+                
+                  <h2 class="post-subheading">Announced at WWDC 21, SwiftUI&#39;s TimelineView is a view that updates according to a provided schedule. In this post, part of a series of posts on advanced SwiftUI animations, Javier explores this new view in detail. Despite it being two years since the last entry in this series, Javier remains excited about SwiftUI animations, and this comes across in this enthusiastic post.</h2>
+                
+              
+              
+                <span class="post-meta">
   
   
   <i class="fas fa-calendar"></i>&nbsp;Posted on July 14, 2021
@@ -230,329 +255,59 @@ if (!doNotTrack) {
 </span>
 
 
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/animation/">animation</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://peterfriese.dev/swiftui-concurrency-essentials-part1/">
-        <h2 class="post-title">Getting Started with async/await in SwiftUI</h2>
-        
-        <h3 class="post-subtitle">
-            Swift&#39;s new concurrency model continues to be one of the most popular topics amongst the developer community. There have already been many great articles written on the topic, but I still enjoy reading more about it, as it helps cement understanding. In this post, Peter Friese helps us get started with async/await, demonstrating how it interacts with SwiftUI and its latest features.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 12, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/concurrency/">concurrency</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/swift-5.5/">swift 5.5</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://swiftsenpai.com/development/cells-reload-improvements-ios-15/">
-        <h2 class="post-title">Table and Collection View Cells Reload Improvements in iOS 15</h2>
-        
-        <h3 class="post-subtitle">
-            iOS 15 includes several new APIs that help to make UICollectionViews and UITableViews more performant. In this post, Lee Kah Seng from Swift Senpai demonstrates how to use these APIs via a fully working sample project.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 9, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/ios/">iOS</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5">
-        <h2 class="post-title">What&#39;s new in Swift 5.5?</h2>
-        
-        <h3 class="post-subtitle">
-            Swift 5.5, available in any Xcode 13 beta, includes a huge number of changes to the language. At WWDC this year, a lot of these changes were covered by session videos. However, despite being published before WWDC, this in-depth article from Paul Hudson is still worth a read. Paul walks through most of the language changes introduced in Swift 5.5, with code samples for each. Lot&#39;s to cover here.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 5, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swift-5.5/">swift 5.5</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc21/">WWDC21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://serialcoder.dev/text-tutorials/swiftui/asyncimage-in-swiftui/">
-        <h2 class="post-title">AsyncImage in SwiftUI</h2>
-        
-        <h3 class="post-subtitle">
-            New in iOS 15 is AsyncImage, a new SwiftUI View for fetching and displaying remote images from a URL. Here, Gabriel Theodoropoulos demonstrates how to use this new type, and highlights some of its pros and cons.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 20, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://swiftwithmajid.com/2021/06/08/what-is-new-in-swiftui-after-wwdc21/">
-        <h2 class="post-title">What is new in SwiftUI after WWDC21</h2>
-        
-        <h3 class="post-subtitle">
-            SwiftUI took another substantial and welcomed step forward this year at WWDC. Along with some expected improvements, such as the new refreshable ViewModifier, we also saw some less anticipated additions such as the new TimeLine View type. In this post, Majid Jabrayilov provides his summary of significant SwiftUI additions announced at WWDC21.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 19, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://dimsumthinking.com/Blog/2021/03/04-CoreStore.html">
-        <h2 class="post-title">Core Store</h2>
-        
-        <h3 class="post-subtitle">
-            Core Data is an object graph and persistence framework provided by Apple. Introduced in iOS 3.0, it&#39;s still relevant but is also generally acknowledged as not being particularly Swift friendly. In this post, the excellent Daniel Steinberg makes an early prediction for a Swift replacement of Core Data which he thinks might be unveiled at this year&#39;s WWDC.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on March 8, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/core-data/">core data</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
+              
+            </div>
+          </div>
         </div>
-        
       </div>
     </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
+            
+              <a href="https://freshswift.net/tags/animation/">animation</a>&nbsp;
+            
+              <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://freshswift.net/post/12-07-21-144419/" data-toggle="tooltip" data-placement="top" title="Getting Started with async/await in SwiftUI">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+      
+
+    </div>
   </div>
+</div>
 
       
 <footer>
@@ -571,7 +326,7 @@ if (!doNotTrack) {
               </li>
           
           <li>
-            <a href="/tags/wwdc21/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>

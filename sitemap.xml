@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://freshswift.net/tags/concurrency/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/14-07-21-155202/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/animation/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/wwdc21/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/concurrency/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/12-07-21-144419/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/tags/swift-5.5/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/wwdc21/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/ios/</loc>
@@ -57,9 +66,6 @@
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/20-06-21-122953/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/19-06-21-141155/</loc>
@@ -409,9 +415,6 @@
   </url><url>
     <loc>https://freshswift.net/post/22-10-20-071420/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/animation/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/21-10-20-074642/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
