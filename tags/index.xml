@@ -5,7 +5,23 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>concurrency</title>
+      <link></link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>swift 5.5</title>
+      <link></link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
     <item>
       <title>animation</title>
       <link></link>
@@ -26,22 +42,6 @@
       <title>WWDC21</title>
       <link></link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>concurrency</title>
-      <link></link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>swift 5.5</title>
-      <link></link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>
