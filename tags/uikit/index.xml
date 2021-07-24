@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/uikit/</link>
     <description>Recent content in uikit on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/uikit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/uikit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Fixing a hard-to-find bug in Dark Mode</title>
+      <link>https://www.jessesquires.com/blog/2021/07/15/fixing-a-hard-to-find-bug-in-dark-mode/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>The worst kind of software bugs are inconsistent: sometimes they occur, sometimes they don&#39;t. In this post, Jesse Squires tracks down such a bug, and explains how he implemented the fix.</description>
+    </item>
+    
     <item>
       <title>iOS 15: Notable UIKit Additions</title>
       <link>https://www.swiftjectivec.com/ios-15-notable-uikit-additions/</link>

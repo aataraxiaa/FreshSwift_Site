@@ -15,6 +15,22 @@
     </item>
     
     <item>
+      <title>Cooperative Task Cancellation</title>
+      <link>https://peterfriese.dev/swiftui-concurrency-essentials-part2/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>This post from Peter Friese from his SwiftUI Concurrency Essentials series focuses on the topic of cooperative task cancellation. Peter provides a SwiftUI example demonstrating why  cancellation is important, and shows us how to use cooperative cancellation in our asynchronous code.</description>
+    </item>
+    
+    <item>
+      <title>How Swift runs an async executable</title>
+      <link>https://oleb.net/2021/async-program-launch-sequence/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>The @main Swift attribute allows us to specify a particular type as the entry point for beginning program execution. Types marked with @main have a single implicit requirement: declaring a static main method. In this post, Ole Begemann provides some insight into how the Swift runtime executes an async program entry point with the help of the Swift compiler.</description>
+    </item>
+    
+    <item>
       <title>The importance of cooperative cancellation</title>
       <link>https://alejandromp.com/blog/the-importance-of-cooperative-cancellation/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>

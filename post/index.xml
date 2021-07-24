@@ -7,11 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title> Fixing a hard-to-find bug in Dark Mode</title>
+      <link>https://www.jessesquires.com/blog/2021/07/15/fixing-a-hard-to-find-bug-in-dark-mode/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>The worst kind of software bugs are inconsistent: sometimes they occur, sometimes they don&#39;t. In this post, Jesse Squires tracks down such a bug, and explains how he implemented the fix.</description>
+    </item>
+    
+    <item>
       <title>Converting closure-based code into async/await in Swift</title>
       <link>https://www.andyibanez.com/posts/converting-closure-based-code-into-async-await-in-swift/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
       <description>Existing Swift APIs often provide asynchronous code execution using callback closures or delegate methods, which allow the caller to define what happens when the asynchronous task has finished. Swift&#39;s new concurrency model enables us to create similar asynchronous APIs using async/await and also provides methods for interfacing async/await with existing callback-based or delegate-based asynchronous APIs. In this post from his Modern Concurrency in Swift series, Andy Ibanez explains what continuations are and shows us how to use them to bridge from closure-based or delegate-based APIs to async/await.</description>
+    </item>
+    
+    <item>
+      <title>Cooperative Task Cancellation</title>
+      <link>https://peterfriese.dev/swiftui-concurrency-essentials-part2/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>This post from Peter Friese from his SwiftUI Concurrency Essentials series focuses on the topic of cooperative task cancellation. Peter provides a SwiftUI example demonstrating why  cancellation is important, and shows us how to use cooperative cancellation in our asynchronous code.</description>
+    </item>
+    
+    <item>
+      <title>How Swift runs an async executable</title>
+      <link>https://oleb.net/2021/async-program-launch-sequence/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>The @main Swift attribute allows us to specify a particular type as the entry point for beginning program execution. Types marked with @main have a single implicit requirement: declaring a static main method. In this post, Ole Begemann provides some insight into how the Swift runtime executes an async program entry point with the help of the Swift compiler.</description>
     </item>
     
     <item>
