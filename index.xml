@@ -5,7 +5,15 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Converting closure-based code into async/await in Swift</title>
+      <link>https://www.andyibanez.com/posts/converting-closure-based-code-into-async-await-in-swift/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Existing Swift APIs often provide asynchronous code execution using callback closures or delegate methods, which allow the caller to define what happens when the asynchronous task has finished. Swift&#39;s new concurrency model enables us to create similar asynchronous APIs using async/await and also provides methods for interfacing async/await with existing callback-based or delegate-based asynchronous APIs. In this post from his Modern Concurrency in Swift series, Andy Ibanez explains what continuations are and shows us how to use them to bridge from closure-based or delegate-based APIs to async/await.</description>
+    </item>
+    
     <item>
       <title>The importance of cooperative cancellation</title>
       <link>https://alejandromp.com/blog/the-importance-of-cooperative-cancellation/</link>
