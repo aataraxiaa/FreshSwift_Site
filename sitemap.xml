@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://freshswift.net/post/24-07-21-123304/</loc>
-    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/tags/concurrency/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/spm/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swift-5.5/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/25-07-21-112941/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/xcode/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/25-07-21-110749/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/24-07-21-123304/</loc>
     <lastmod>2021-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/24-07-21-093059/</loc>
@@ -14,19 +38,7 @@
     <loc>https://freshswift.net/post/24-07-21-123712/</loc>
     <lastmod>2021-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/post/24-07-21-100040/</loc>
-    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swift-5.5/</loc>
-    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/uikit/</loc>
@@ -62,10 +74,10 @@
     <loc>https://freshswift.net/post/05-07-21-151835/</loc>
     <lastmod>2021-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/tags/ios-15/</loc>
+    <loc>https://freshswift.net/post/02-07-21-120245/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/post/02-07-21-120245/</loc>
+    <loc>https://freshswift.net/tags/ios15/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/30-06-21-142807/</loc>
@@ -252,9 +264,6 @@
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/05-03-21-135252/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/spm/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/typealias/</loc>
@@ -779,9 +788,6 @@
     <loc>https://freshswift.net/post/06-08-20-075648/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/tags/xcode12/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/post/05-08-20-080217/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -987,9 +993,6 @@
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/watchkit/</loc>
-    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/xcode/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/23-06-20-113932/</loc>

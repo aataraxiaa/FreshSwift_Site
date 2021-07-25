@@ -5,7 +5,23 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swift actors tutorial - a beginner&#39;s guide to thread safe concurrency</title>
+      <link>https://theswiftdev.com/swift-actors-tutorial-a-beginners-guide-to-thread-safe-concurrency/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift 5.5&#39;s Actor type allows only one task at a time to access its mutable state, making it safe for use by concurrently executing tasks. Here, Tibor Bödecs from The Swift Dev teaches us how to use this new type to protect our applications from unwanted data-races and memory issues.</description>
+    </item>
+    
+    <item>
+      <title>Xcode DocC - Getting Started</title>
+      <link>https://useyourloaf.com/blog/xcode-docc-getting-started/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Available in Xcode 13, the DocC documentation compiler converts Markdown-based text into developer documentation for Swift frameworks and packages and displays it in the Xcode documentation window. In this post, Keith Harrison runs through an example of using DocC to help us get started.</description>
+    </item>
+    
     <item>
       <title> Fixing a hard-to-find bug in Dark Mode</title>
       <link>https://www.jessesquires.com/blog/2021/07/15/fixing-a-hard-to-find-bug-in-dark-mode/</link>

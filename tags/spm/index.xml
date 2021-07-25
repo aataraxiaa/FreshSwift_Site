@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/spm/</link>
     <description>Recent content in spm on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/spm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/spm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xcode DocC - Getting Started</title>
+      <link>https://useyourloaf.com/blog/xcode-docc-getting-started/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Available in Xcode 13, the DocC documentation compiler converts Markdown-based text into developer documentation for Swift frameworks and packages and displays it in the Xcode documentation window. In this post, Keith Harrison runs through an example of using DocC to help us get started.</description>
+    </item>
+    
     <item>
       <title>Distributing closed-source frameworks with SPM</title>
       <link>https://danielsaidi.com/blog/2021/02/15/distributing-closed-source-frameworks-with-spm</link>
