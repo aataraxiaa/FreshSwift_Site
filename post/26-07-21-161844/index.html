@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Swift actors tutorial - a beginner&#39;s guide to thread safe concurrency - Fresh Swift</title>
-  <meta name="description" content="Swift 5.5&#39;s Actor type allows only one task at a time to access its mutable state, making it safe for use by concurrently executing tasks. Here, Tibor Bödecs from The Swift Dev teaches us how to use this new type to protect our applications from unwanted data-races and memory issues."><script type="application/ld+json">
+  <title>Bridge from Combine to AsyncSequence - the plan (p. 1) - Fresh Swift</title>
+  <meta name="description" content="Despite only being released with iOS 13, it seems like Apple&#39;s Combine framework - used for handling asynchronous events - has been overshadowed by the new Swift concurrency model. In this post, Marin Todorov looks at both of these technologies, with the goal of bridging from a Combine Subscriber to an AsyncSequence."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -43,8 +43,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/freshswift.net\/post\/25-07-21-112941\/",
-          "name": "Swift actors tutorial a beginner\u0027s guide to thread safe concurrency"
+          "@id": "https:\/\/freshswift.net\/post\/26-07-21-161844\/",
+          "name": "Bridge from combine to async sequence the plan (p. 1)"
         }
     }]
 }
@@ -55,15 +55,15 @@
   "author": {
     "name" : ""
   },
-  "headline": "Swift actors tutorial - a beginner\u0027s guide to thread safe concurrency",
+  "headline": "Bridge from Combine to AsyncSequence - the plan (p. 1)",
   "description" : "",
   "inLanguage" : "en",
   "wordCount":  0 ,
-  "datePublished" : "2021-07-25T00:00:00",
-  "dateModified" : "2021-07-25T00:00:00",
+  "datePublished" : "2021-07-26T00:00:00",
+  "dateModified" : "2021-07-26T00:00:00",
   "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
-  "keywords" : [ "concurrency, swift 5.5" ],
-  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/25-07-21-112941\/",
+  "keywords" : [ "combine, concurrency" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/26-07-21-161844\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/freshswift.net",
@@ -77,15 +77,15 @@
 }
 </script>
 
-<meta property="og:title" content="Swift actors tutorial - a beginner&#39;s guide to thread safe concurrency" />
-<meta property="og:description" content="Swift 5.5&#39;s Actor type allows only one task at a time to access its mutable state, making it safe for use by concurrently executing tasks. Here, Tibor Bödecs from The Swift Dev teaches us how to use this new type to protect our applications from unwanted data-races and memory issues.">
+<meta property="og:title" content="Bridge from Combine to AsyncSequence - the plan (p. 1)" />
+<meta property="og:description" content="Despite only being released with iOS 13, it seems like Apple&#39;s Combine framework - used for handling asynchronous events - has been overshadowed by the new Swift concurrency model. In this post, Marin Todorov looks at both of these technologies, with the goal of bridging from a Combine Subscriber to an AsyncSequence.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/post/25-07-21-112941/" />
+<meta property="og:url" content="https://freshswift.net/post/26-07-21-161844/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="Swift actors tutorial - a beginner&#39;s guide to thread safe concurrency" />
-  <meta name="twitter:description" content="Swift 5.5&#39;s Actor type allows only one task at a time to access its mutable state, making it safe for use by concurrently executing tasks. Here, Tibor Bödecs from The Swift Dev teaches us how to use …">
+  <meta name="twitter:title" content="Bridge from Combine to AsyncSequence - the plan (p. 1)" />
+  <meta name="twitter:description" content="Despite only being released with iOS 13, it seems like Apple&#39;s Combine framework - used for handling asynchronous events - has been overshadowed by the new Swift concurrency model. In this post, Marin …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -230,19 +230,19 @@ if (!doNotTrack) {
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>Swift actors tutorial - a beginner&#39;s guide to thread safe concurrency</h1>
+                <h1>Bridge from Combine to AsyncSequence - the plan (p. 1)</h1>
               
               
               
                 
-                  <h2 class="post-subheading">Swift 5.5&#39;s Actor type allows only one task at a time to access its mutable state, making it safe for use by concurrently executing tasks. Here, Tibor Bödecs from The Swift Dev teaches us how to use this new type to protect our applications from unwanted data-races and memory issues.</h2>
+                  <h2 class="post-subheading">Despite only being released with iOS 13, it seems like Apple&#39;s Combine framework - used for handling asynchronous events - has been overshadowed by the new Swift concurrency model. In this post, Marin Todorov looks at both of these technologies, with the goal of bridging from a Combine Subscriber to an AsyncSequence.</h2>
                 
               
               
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 25, 2021
+  <i class="fas fa-calendar"></i>&nbsp;Posted on July 26, 2021
   
   
   
@@ -274,9 +274,9 @@ if (!doNotTrack) {
         
           <div class="blog-tags">
             
-              <a href="https://freshswift.net/tags/concurrency/">concurrency</a>&nbsp;
+              <a href="https://freshswift.net/tags/combine/">combine</a>&nbsp;
             
-              <a href="https://freshswift.net/tags/swift-5.5/">swift 5.5</a>&nbsp;
+              <a href="https://freshswift.net/tags/concurrency/">concurrency</a>&nbsp;
             
           </div>
         
@@ -290,13 +290,9 @@ if (!doNotTrack) {
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://freshswift.net/post/25-07-21-110749/" data-toggle="tooltip" data-placement="top" title="Xcode DocC - Getting Started">&larr; Previous Post</a>
+              <a href="https://freshswift.net/post/25-07-21-112941/" data-toggle="tooltip" data-placement="top" title="Swift actors tutorial - a beginner&#39;s guide to thread safe concurrency">&larr; Previous Post</a>
             </li>
           
-          
-            <li class="next">
-              <a href="https://freshswift.net/post/26-07-21-161844/" data-toggle="tooltip" data-placement="top" title="Bridge from Combine to AsyncSequence - the plan (p. 1)">Next Post &rarr;</a>
-            </li>
           
         </ul>
       
