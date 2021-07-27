@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Bridge from Combine to AsyncSequence - the plan (p. 1) - Fresh Swift</title>
-  <meta name="description" content="Despite only being released with iOS 13, it seems like Apple&#39;s Combine framework - used for handling asynchronous events - has been overshadowed by the new Swift concurrency model. In this post, Marin Todorov looks at both of these technologies, with the goal of bridging from a Combine Subscriber to an AsyncSequence."><script type="application/ld+json">
+  <title>5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions - Fresh Swift</title>
+  <meta name="description" content="Higher-order functions accept one or more functions as arguments, return a function, or do both. Swift&#39;s higher-order functions, such as map and reduce, enable us to implement complex algorithms in a simplified manner. In this post, Lee Kah Seng provides five examples of such implementations."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -43,8 +43,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/freshswift.net\/post\/26-07-21-161844\/",
-          "name": "Bridge from combine to async sequence the plan (p. 1)"
+          "@id": "https:\/\/freshswift.net\/post\/27-07-21-113948\/",
+          "name": "5 complex algorithms simplified using swift’s higher order functions"
         }
     }]
 }
@@ -55,15 +55,15 @@
   "author": {
     "name" : ""
   },
-  "headline": "Bridge from Combine to AsyncSequence - the plan (p. 1)",
+  "headline": "5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions",
   "description" : "",
   "inLanguage" : "en",
   "wordCount":  0 ,
-  "datePublished" : "2021-07-26T00:00:00",
-  "dateModified" : "2021-07-26T00:00:00",
+  "datePublished" : "2021-07-27T00:00:00",
+  "dateModified" : "2021-07-27T00:00:00",
   "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
-  "keywords" : [ "combine, concurrency" ],
-  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/26-07-21-161844\/",
+  "keywords" : [ "algorithms" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/27-07-21-113948\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/freshswift.net",
@@ -77,15 +77,15 @@
 }
 </script>
 
-<meta property="og:title" content="Bridge from Combine to AsyncSequence - the plan (p. 1)" />
-<meta property="og:description" content="Despite only being released with iOS 13, it seems like Apple&#39;s Combine framework - used for handling asynchronous events - has been overshadowed by the new Swift concurrency model. In this post, Marin Todorov looks at both of these technologies, with the goal of bridging from a Combine Subscriber to an AsyncSequence.">
+<meta property="og:title" content="5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions" />
+<meta property="og:description" content="Higher-order functions accept one or more functions as arguments, return a function, or do both. Swift&#39;s higher-order functions, such as map and reduce, enable us to implement complex algorithms in a simplified manner. In this post, Lee Kah Seng provides five examples of such implementations.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/post/26-07-21-161844/" />
+<meta property="og:url" content="https://freshswift.net/post/27-07-21-113948/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="Bridge from Combine to AsyncSequence - the plan (p. 1)" />
-  <meta name="twitter:description" content="Despite only being released with iOS 13, it seems like Apple&#39;s Combine framework - used for handling asynchronous events - has been overshadowed by the new Swift concurrency model. In this post, Marin …">
+  <meta name="twitter:title" content="5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions" />
+  <meta name="twitter:description" content="Higher-order functions accept one or more functions as arguments, return a function, or do both. Swift&#39;s higher-order functions, such as map and reduce, enable us to implement complex algorithms in a …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -230,19 +230,19 @@ if (!doNotTrack) {
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>Bridge from Combine to AsyncSequence - the plan (p. 1)</h1>
+                <h1>5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions</h1>
               
               
               
                 
-                  <h2 class="post-subheading">Despite only being released with iOS 13, it seems like Apple&#39;s Combine framework - used for handling asynchronous events - has been overshadowed by the new Swift concurrency model. In this post, Marin Todorov looks at both of these technologies, with the goal of bridging from a Combine Subscriber to an AsyncSequence.</h2>
+                  <h2 class="post-subheading">Higher-order functions accept one or more functions as arguments, return a function, or do both. Swift&#39;s higher-order functions, such as map and reduce, enable us to implement complex algorithms in a simplified manner. In this post, Lee Kah Seng provides five examples of such implementations.</h2>
                 
               
               
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 26, 2021
+  <i class="fas fa-calendar"></i>&nbsp;Posted on July 27, 2021
   
   
   
@@ -274,9 +274,7 @@ if (!doNotTrack) {
         
           <div class="blog-tags">
             
-              <a href="https://freshswift.net/tags/combine/">combine</a>&nbsp;
-            
-              <a href="https://freshswift.net/tags/concurrency/">concurrency</a>&nbsp;
+              <a href="https://freshswift.net/tags/algorithms/">algorithms</a>&nbsp;
             
           </div>
         
@@ -290,13 +288,9 @@ if (!doNotTrack) {
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://freshswift.net/post/25-07-21-112941/" data-toggle="tooltip" data-placement="top" title="Swift actors tutorial - a beginner&#39;s guide to thread safe concurrency">&larr; Previous Post</a>
+              <a href="https://freshswift.net/post/26-07-21-161844/" data-toggle="tooltip" data-placement="top" title="Bridge from Combine to AsyncSequence - the plan (p. 1)">&larr; Previous Post</a>
             </li>
           
-          
-            <li class="next">
-              <a href="https://freshswift.net/post/27-07-21-113948/" data-toggle="tooltip" data-placement="top" title="5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions">Next Post &rarr;</a>
-            </li>
           
         </ul>
       

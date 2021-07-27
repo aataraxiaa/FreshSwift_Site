@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/post/27-07-21-113948/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/algorithms/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/post/26-07-21-161844/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,15 +24,6 @@
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/concurrency/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/spm/</loc>
@@ -2812,9 +2818,6 @@
   </url><url>
     <loc>https://freshswift.net/post/-kj8ruqbbtncdizhrb5-/</loc>
     <lastmod>2017-04-29T13:40:50+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/algorithms/</loc>
-    <lastmod>2017-04-29T13:04:13+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/-kj8rgdnz_lwattlfu7n/</loc>
     <lastmod>2017-04-29T13:04:13+00:00</lastmod>

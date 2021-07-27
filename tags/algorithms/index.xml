@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/algorithms/</link>
     <description>Recent content in algorithms on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Apr 2017 13:04:13 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions</title>
+      <link>https://swiftsenpai.com/swift/5-complex-algorithms-simplified/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Higher-order functions accept one or more functions as arguments, return a function, or do both. Swift&#39;s higher-order functions, such as map and reduce, enable us to implement complex algorithms in a simplified manner. In this post, Lee Kah Seng provides five examples of such implementations.</description>
+    </item>
+    
     <item>
       <title>Swift Algorithms - Sum of First N Natural Numbers</title>
       <link>https://youtu.be/yVkfogw9hgA</link>
