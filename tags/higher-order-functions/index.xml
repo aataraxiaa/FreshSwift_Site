@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>higher order functions on Fresh Swift</title>
+    <title>higher-order functions on Fresh Swift</title>
     <link>https://freshswift.net/tags/higher-order-functions/</link>
-    <description>Recent content in higher order functions on Fresh Swift</description>
+    <description>Recent content in higher-order functions on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/higher-order-functions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/higher-order-functions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions</title>
+      <link>https://swiftsenpai.com/swift/5-complex-algorithms-simplified/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Higher-order functions accept one or more functions as arguments, return a function, or do both. Swift&#39;s higher-order functions, such as map and reduce, enable us to implement complex algorithms in a simplified manner. In this post, Lee Kah Seng provides five examples of such implementations.</description>
+    </item>
+    
     <item>
       <title>Returning to an old hobbyhorse: Migrating higher order function names to comply with API guidelines</title>
       <link>https://forums.swift.org/t/returning-to-an-old-hobbyhorse-migrating-higher-order-function-names-to-comply-with-api-guidelines/37728</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <description>A higher order function is a function which takes a function as an argument, or returns a function. In this post from the Swift forums, Erica Sadun pitches a proposal to rename Swift&#39;s higher order functions, such as map and filter, based on the Swift API design guidelines. It&#39;s something which can be done without causing breaking changes, and I am in favour of the proposal.</description>
+    </item>
+    
+    <item>
+      <title>Higher order functions in Swift</title>
+      <link>https://craiggrummitt.com/2017/05/08/higher-order-functions-in-swift/</link>
+      <pubDate>Thu, 25 May 2017 08:13:20 +0000</pubDate>
+      
+      <description>Swift&#39;s functional aspects such as immutability and higher order functions (functions which allow functions/closures as parameters/return values) are awesome. In this post, Craig Grummitt looks at the latter, presenting examples of how we can use Swift&#39;s higher order functions to perform operations on collections.</description>
     </item>
     
   </channel>
