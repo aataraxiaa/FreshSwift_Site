@@ -5,7 +5,15 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dependency Injection in Swift using latest Swift features</title>
+      <link>https://www.avanderlee.com/swift/dependency-injection/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Dependency injection is a commonly-used technique to enable simplified testing and code reuse. In this post, Antoine Van Der Lee shows us how to avoid using third-party dependency injection libraries, providing his implementation of dependency injection for Swift types using static subscripts, extensions, and property wrappers.</description>
+    </item>
+    
     <item>
       <title>5 Complex Algorithms Simplified Using Swift’s Higher-Order Functions</title>
       <link>https://swiftsenpai.com/swift/5-complex-algorithms-simplified/</link>
