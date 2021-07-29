@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>copyonwrite on Fresh Swift</title>
-    <link>https://freshswift.net/tags/copyonwrite/</link>
-    <description>Recent content in copyonwrite on Fresh Swift</description>
+    <title>copy on write on Fresh Swift</title>
+    <link>https://freshswift.net/tags/copy-on-write/</link>
+    <description>Recent content in copy on write on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Jun 2017 11:18:17 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/copyonwrite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/copy-on-write/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copy-On-Assignment vs. Copy-On-Write in Swift</title>
+      <link>https://aymanmoo.medium.com/copy-on-assignment-vs-copy-on-write-in-swift-c3016b343d06</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Copy-on-write is a resource-management technique used to efficiently copy data, such as a Swift struct. It involves delaying the copy operation of the data until it&#39;s needed, usually when some part of the data is modified. In this post, Ayman Fayez shows us how to implement copy-on-write for a Swift struct which has a reference type as a property.</description>
+    </item>
+    
     <item>
       <title>Use Copy-On-Write With Swift Value Types</title>
       <link>https://marcosantadev.com/copy-write-swift-value-types/</link>

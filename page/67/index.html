@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>copyonwrite - Fresh Swift</title><script type="application/ld+json">
+  <title>Fresh Swift - Fresh Swift</title><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -28,13 +28,13 @@
 }
 </script>
 
-<meta property="og:title" content="copyonwrite" />
+<meta property="og:title" content="Fresh Swift" />
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/tags/copyonwrite/" />
+<meta property="og:url" content="https://freshswift.net/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="copyonwrite" />
+  <meta name="twitter:title" content="Fresh Swift" />
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -177,13 +177,17 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="page-heading">
               
-                <h1>copyonwrite</h1>
+                <h1>Fresh Swift</h1>
               
               
                 <hr class="small">
               
+              
+                
+                  <span class="page-subheading">Curated Swift Articles, Videos, News &amp; More</span>
+                
               
               
             </div>
@@ -195,18 +199,20 @@ if (!doNotTrack) {
 
 
     
-  <div class="container" role="main">
+  <div role="main" class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
+
         <div class="posts-list">
           
+          
             <article class="post-preview">
-    <a href="https://marcosantadev.com/copy-write-swift-value-types/">
-        <h2 class="post-title">Use Copy-On-Write With Swift Value Types</h2>
+    <a href="https://ijoshsmith.com/2017/04/08/reflectable-enums-in-swift-3/">
+        <h2 class="post-title">Reflectable Enums</h2>
         
         <h3 class="post-subtitle">
-            Value types are a great feature of Swift, allowing us to more easily reason about the safety of our code. When a value type is passed around our code, it is copied, meaning we can trust that no other part of our code is changing it. However, this comes with one possible drawback. Passing a large value type, such as an Array with thousands of elements, might result in unnecessary copying if the Array is not mutated after it is copied. This is where copy-on-write comes in. As explained in this post by Marco Santarossa, value types which implement copy-on-write are only copied when they need to be, i.e when they are mutated. It&#39;s a nice optimisation and something we can add to our own custom value types when needed.
+            What does an enum see when it looks in the Mirror? Josh Smiths demonstrates using Swift&#39;s Reflection API when working with enums cases which have associated values of varying types.
         </h3>
         
         
@@ -217,7 +223,7 @@ if (!doNotTrack) {
         <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 7, 2017
+  <i class="fas fa-calendar"></i>&nbsp;Posted on April 17, 2017
   
   
   
@@ -240,9 +246,9 @@ if (!doNotTrack) {
     
     <div class="blog-tags">
         
-        <a href="https://freshswift.net/tags/valuetype/">valuetype</a>&nbsp;
+        <a href="https://freshswift.net/tags/reflection/">reflection</a>&nbsp;
         
-        <a href="https://freshswift.net/tags/copyonwrite/">copyonwrite</a>&nbsp;
+        <a href="https://freshswift.net/tags/enum/">enum</a>&nbsp;
         
     </div>
     
@@ -251,12 +257,30 @@ if (!doNotTrack) {
 
           
         </div>
+
+        
+          <ul class="pager main-pager">
+            
+              <li class="previous">
+                <a href="https://freshswift.net/page/66/">&larr; Newer Posts</a>
+              </li>
+            
+            
+          </ul>
         
       </div>
     </div>
   </div>
 
       
+    <div class="page-meta">
+  
+  
+  
+</div>
+
+
+  
 <footer>
   <div class="container">
     <div class="row">
@@ -273,7 +297,7 @@ if (!doNotTrack) {
               </li>
           
           <li>
-            <a href="/tags/copyonwrite/index.xml" title="RSS">
+            <a href="/index.xml" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>

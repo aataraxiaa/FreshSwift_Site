@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copy-On-Assignment vs. Copy-On-Write in Swift</title>
+      <link>https://aymanmoo.medium.com/copy-on-assignment-vs-copy-on-write-in-swift-c3016b343d06</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Copy-on-write is a resource-management technique used to efficiently copy data, such as a Swift struct. It involves delaying the copy operation of the data until it&#39;s needed, usually when some part of the data is modified. In this post, Ayman Fayez shows us how to implement copy-on-write for a Swift struct which has a reference type as a property.</description>
+    </item>
+    
     <item>
       <title>Dependency Injection in Swift using latest Swift features</title>
       <link>https://www.avanderlee.com/swift/dependency-injection/</link>

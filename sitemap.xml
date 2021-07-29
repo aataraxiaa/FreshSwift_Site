@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/tags/copy-on-write/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/29-07-21-161934/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/memory/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/tags/dependency-injection/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/28-07-21-103559/</loc>
-    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/27-07-21-113948/</loc>
@@ -474,9 +483,6 @@
     <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/initialization/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/memory/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/18-10-20-111833/</loc>
@@ -2632,9 +2638,6 @@
   </url><url>
     <loc>https://freshswift.net/tags/watchos/</loc>
     <lastmod>2017-06-08T11:56:46+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/copyonwrite/</loc>
-    <lastmod>2017-06-07T11:18:17+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/-km1ggy90s5gf_1bal5w/</loc>
     <lastmod>2017-06-07T11:18:17+00:00</lastmod>
