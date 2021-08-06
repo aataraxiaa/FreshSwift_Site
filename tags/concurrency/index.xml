@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/concurrency/</link>
     <description>Recent content in concurrency on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Throwing and asynchronous Swift properties</title>
+      <link>https://www.swiftbysundell.com/articles/throwing-async-properties/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Computed properties that only define a get accessor are read-only. When they also have associated behavior, an effect, they are known as effectful read-only properties. In this post, John Sundell demonstrates how such properties can throw errors and perform asynchronous tasks.</description>
+    </item>
+    
     <item>
       <title>Bridge from Combine to AsyncSequence - the plan (p. 1)</title>
       <link>https://trycombine.com/posts/combine-async-sequence-1/</link>

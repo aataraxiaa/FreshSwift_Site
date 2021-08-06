@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/abi/</link>
     <description>Recent content in ABI on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 Jul 2018 14:43:18 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/abi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/abi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backporting new features with @_alwaysEmitIntoClient</title>
+      <link>https://www.fivestars.blog/articles/alwaysEmitIntoClient/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift attributes provide additional information about a declaration or type. In this post, Federico Zanetello explains how SwiftUI uses the @_alwaysEmitIntoClient attribute to make new features available on older OS versions.</description>
+    </item>
+    
     <item>
       <title>Swift Evolution - Plan for module stability</title>
       <link>https://forums.swift.org/t/plan-for-module-stability/14551</link>

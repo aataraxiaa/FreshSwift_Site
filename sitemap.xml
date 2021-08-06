@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/tags/abi/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/06-08-21-173941/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/concurrency/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swift-5.5/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/30-07-21-154108/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/tags/copy-on-write/</loc>
     <lastmod>2021-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/29-07-21-161934/</loc>
     <lastmod>2021-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/tags/memory/</loc>
-    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/dependency-injection/</loc>
@@ -41,13 +59,7 @@
     <loc>https://freshswift.net/tags/combine/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/tags/concurrency/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/tags/spm/</loc>
-    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swift-5.5/</loc>
     <lastmod>2021-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/25-07-21-112941/</loc>
@@ -81,9 +93,6 @@
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/animation/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/wwdc21/</loc>
@@ -1414,9 +1423,6 @@
   </url><url>
     <loc>https://freshswift.net/tags/matching/</loc>
     <lastmod>2018-08-01T08:01:57+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/abi/</loc>
-    <lastmod>2018-07-28T14:43:18+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/stability/</loc>
     <lastmod>2018-07-28T14:43:18+00:00</lastmod>

@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/swiftui/</link>
     <description>Recent content in swiftui on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backporting new features with @_alwaysEmitIntoClient</title>
+      <link>https://www.fivestars.blog/articles/alwaysEmitIntoClient/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift attributes provide additional information about a declaration or type. In this post, Federico Zanetello explains how SwiftUI uses the @_alwaysEmitIntoClient attribute to make new features available on older OS versions.</description>
+    </item>
+    
     <item>
       <title>Advanced SwiftUI Animations — Part 4: TimelineView</title>
       <link>https://swiftui-lab.com/swiftui-animations-part4</link>

@@ -5,7 +5,23 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backporting new features with @_alwaysEmitIntoClient</title>
+      <link>https://www.fivestars.blog/articles/alwaysEmitIntoClient/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift attributes provide additional information about a declaration or type. In this post, Federico Zanetello explains how SwiftUI uses the @_alwaysEmitIntoClient attribute to make new features available on older OS versions.</description>
+    </item>
+    
+    <item>
+      <title>Throwing and asynchronous Swift properties</title>
+      <link>https://www.swiftbysundell.com/articles/throwing-async-properties/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description>Computed properties that only define a get accessor are read-only. When they also have associated behavior, an effect, they are known as effectful read-only properties. In this post, John Sundell demonstrates how such properties can throw errors and perform asynchronous tasks.</description>
+    </item>
+    
     <item>
       <title>Copy-On-Assignment vs. Copy-On-Write in Swift</title>
       <link>https://aymanmoo.medium.com/copy-on-assignment-vs-copy-on-write-in-swift-c3016b343d06</link>
