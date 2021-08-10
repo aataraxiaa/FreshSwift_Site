@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/sorting/</loc>
+    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/tuples/</loc>
+    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/10-08-21-135006/</loc>
+    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/tags/abi/</loc>
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/06-08-21-173941/</loc>
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://freshswift.net/tags/swiftui/</loc>
-    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/concurrency/</loc>
@@ -906,9 +915,6 @@
     <lastmod>2020-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/18-07-20-133444/</loc>
-    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/tuples/</loc>
     <lastmod>2020-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/17-07-20-075024/</loc>

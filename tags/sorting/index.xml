@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sorting on Fresh Swift</title>
+    <link>https://freshswift.net/tags/sorting/</link>
+    <description>Recent content in sorting on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/sorting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using tuples to Complex Sorting Operations in Swift</title>
+      <link>https://holyswift.app/using-tuples-to-complex-sorting-operations-in-swift</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>The Swift standard library contains several overloads of the &lt; comparison operator used to compare tuples of various sizes. In this post, Leonardo Maia Pugliese demonstrates how to use these overloads to implement complex sorting operations.</description>
+    </item>
+    
+  </channel>
+</rss>

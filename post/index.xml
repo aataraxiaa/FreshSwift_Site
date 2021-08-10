@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using tuples to Complex Sorting Operations in Swift</title>
+      <link>https://holyswift.app/using-tuples-to-complex-sorting-operations-in-swift</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>The Swift standard library contains several overloads of the &lt; comparison operator used to compare tuples of various sizes. In this post, Leonardo Maia Pugliese demonstrates how to use these overloads to implement complex sorting operations.</description>
+    </item>
+    
     <item>
       <title>Backporting new features with @_alwaysEmitIntoClient</title>
       <link>https://www.fivestars.blog/articles/alwaysEmitIntoClient/</link>

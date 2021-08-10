@@ -5,7 +5,23 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sorting</title>
+      <link></link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuples</title>
+      <link></link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
     <item>
       <title>ABI</title>
       <link></link>
@@ -856,14 +872,6 @@
     
     <item>
       <title>podcast</title>
-      <link></link>
-      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>tuples</title>
       <link></link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
