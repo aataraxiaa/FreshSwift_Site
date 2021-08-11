@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>router on Fresh Swift</title>
+    <link>https://freshswift.net/tags/router/</link>
+    <description>Recent content in router on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/router/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SwiftUI - Router Pattern</title>
+      <link>https://davidgarywood.com/writing/swiftui-router-pattern</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>The coordinator pattern is a pattern often used when developing iOS apps using UIKit. It enables developers to separate navigation logic from view logic, resulting in reusable and testable code. In this post, David Gary Wood demonstrates an equivalent pattern implemented with SwiftUI, which he calls the router pattern.</description>
+    </item>
+    
+  </channel>
+</rss>

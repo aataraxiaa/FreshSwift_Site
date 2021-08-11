@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/tags/coordinator/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/pattern/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/tags/sorting/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/router/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/swiftui/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/11-08-21-122249/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/sorting/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/tuples/</loc>
@@ -24,9 +39,6 @@
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/06-08-21-173941/</loc>
-    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/swiftui/</loc>
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/concurrency/</loc>
@@ -2724,9 +2736,6 @@
     <lastmod>2017-05-15T14:12:04+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/-kkbkndz0pdat0xa4ht-/</loc>
-    <lastmod>2017-05-15T13:41:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/coordinators/</loc>
     <lastmod>2017-05-15T13:41:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/-kka3lossjca4s7a3ra-/</loc>
