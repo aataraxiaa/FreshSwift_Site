@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/compiler/</link>
     <description>Recent content in compiler on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StaticString, and how it works internally in Swift</title>
+      <link>https://swiftrocks.com/staticstring-in-swift</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift&#39;s StaticString is a type designed to represent text known at compile time. Instances of this type are immutable, and it provides only low-level access to its contents. In this post, Bruno Rocha examines StaticString, explaining how the Swift compiler differentiates it from regular Swift strings.</description>
+    </item>
+    
     <item>
       <title>Why Swift closures are not Equatable</title>
       <link>https://www.jessesquires.com/blog/2021/04/05/why-swift-closures-are-not-equatable</link>

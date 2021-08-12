@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>SwiftUI - Router Pattern - Fresh Swift</title>
-  <meta name="description" content="The coordinator pattern is a pattern often used when developing iOS apps using UIKit. It enables developers to separate navigation logic from view logic, resulting in reusable and testable code. In this post, David Gary Wood demonstrates an equivalent pattern implemented with SwiftUI, which he calls the router pattern."><script type="application/ld+json">
+  <title>StaticString, and how it works internally in Swift - Fresh Swift</title>
+  <meta name="description" content="Swift&#39;s StaticString is a type designed to represent text known at compile time. Instances of this type are immutable, and it provides only low-level access to its contents. In this post, Bruno Rocha examines StaticString, explaining how the Swift compiler differentiates it from regular Swift strings."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -43,8 +43,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/freshswift.net\/post\/11-08-21-122249\/",
-          "name": "Swift ui router pattern"
+          "@id": "https:\/\/freshswift.net\/post\/12-08-21-110026\/",
+          "name": "Static string, and how it works internally in swift"
         }
     }]
 }
@@ -55,15 +55,15 @@
   "author": {
     "name" : ""
   },
-  "headline": "SwiftUI - Router Pattern",
+  "headline": "StaticString, and how it works internally in Swift",
   "description" : "",
   "inLanguage" : "en",
   "wordCount":  0 ,
-  "datePublished" : "2021-08-11T00:00:00",
-  "dateModified" : "2021-08-11T00:00:00",
+  "datePublished" : "2021-08-12T00:00:00",
+  "dateModified" : "2021-08-12T00:00:00",
   "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
-  "keywords" : [ "swiftui, pattern, coordinator, router" ],
-  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/11-08-21-122249\/",
+  "keywords" : [ "compiler, string" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/12-08-21-110026\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/freshswift.net",
@@ -77,15 +77,15 @@
 }
 </script>
 
-<meta property="og:title" content="SwiftUI - Router Pattern" />
-<meta property="og:description" content="The coordinator pattern is a pattern often used when developing iOS apps using UIKit. It enables developers to separate navigation logic from view logic, resulting in reusable and testable code. In this post, David Gary Wood demonstrates an equivalent pattern implemented with SwiftUI, which he calls the router pattern.">
+<meta property="og:title" content="StaticString, and how it works internally in Swift" />
+<meta property="og:description" content="Swift&#39;s StaticString is a type designed to represent text known at compile time. Instances of this type are immutable, and it provides only low-level access to its contents. In this post, Bruno Rocha examines StaticString, explaining how the Swift compiler differentiates it from regular Swift strings.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/post/11-08-21-122249/" />
+<meta property="og:url" content="https://freshswift.net/post/12-08-21-110026/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="SwiftUI - Router Pattern" />
-  <meta name="twitter:description" content="The coordinator pattern is a pattern often used when developing iOS apps using UIKit. It enables developers to separate navigation logic from view logic, resulting in reusable and testable code. In …">
+  <meta name="twitter:title" content="StaticString, and how it works internally in Swift" />
+  <meta name="twitter:description" content="Swift&#39;s StaticString is a type designed to represent text known at compile time. Instances of this type are immutable, and it provides only low-level access to its contents. In this post, Bruno Rocha …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -230,19 +230,19 @@ if (!doNotTrack) {
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>SwiftUI - Router Pattern</h1>
+                <h1>StaticString, and how it works internally in Swift</h1>
               
               
               
                 
-                  <h2 class="post-subheading">The coordinator pattern is a pattern often used when developing iOS apps using UIKit. It enables developers to separate navigation logic from view logic, resulting in reusable and testable code. In this post, David Gary Wood demonstrates an equivalent pattern implemented with SwiftUI, which he calls the router pattern.</h2>
+                  <h2 class="post-subheading">Swift&#39;s StaticString is a type designed to represent text known at compile time. Instances of this type are immutable, and it provides only low-level access to its contents. In this post, Bruno Rocha examines StaticString, explaining how the Swift compiler differentiates it from regular Swift strings.</h2>
                 
               
               
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on August 11, 2021
+  <i class="fas fa-calendar"></i>&nbsp;Posted on August 12, 2021
   
   
   
@@ -274,13 +274,9 @@ if (!doNotTrack) {
         
           <div class="blog-tags">
             
-              <a href="https://freshswift.net/tags/swiftui/">swiftui</a>&nbsp;
+              <a href="https://freshswift.net/tags/compiler/">compiler</a>&nbsp;
             
-              <a href="https://freshswift.net/tags/pattern/">pattern</a>&nbsp;
-            
-              <a href="https://freshswift.net/tags/coordinator/">coordinator</a>&nbsp;
-            
-              <a href="https://freshswift.net/tags/router/">router</a>&nbsp;
+              <a href="https://freshswift.net/tags/string/">string</a>&nbsp;
             
           </div>
         
@@ -294,13 +290,9 @@ if (!doNotTrack) {
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://freshswift.net/post/10-08-21-135006/" data-toggle="tooltip" data-placement="top" title="Using tuples to Complex Sorting Operations in Swift">&larr; Previous Post</a>
+              <a href="https://freshswift.net/post/11-08-21-122249/" data-toggle="tooltip" data-placement="top" title="SwiftUI - Router Pattern">&larr; Previous Post</a>
             </li>
           
-          
-            <li class="next">
-              <a href="https://freshswift.net/post/12-08-21-110026/" data-toggle="tooltip" data-placement="top" title="StaticString, and how it works internally in Swift">Next Post &rarr;</a>
-            </li>
           
         </ul>
       
