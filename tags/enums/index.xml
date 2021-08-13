@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>enum on Fresh Swift</title>
-    <link>https://freshswift.net/tags/enum/</link>
-    <description>Recent content in enum on Fresh Swift</description>
+    <title>enums on Fresh Swift</title>
+    <link>https://freshswift.net/tags/enums/</link>
+    <description>Recent content in enums on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/enum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/enums/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using ‘@unknown default’ within switch statements</title>
+      <link>https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>In Swift 4.2, enums defined in the standard library are either frozen or non-frozen. A frozen enum is one that will never get a new case. In this post, John Sundell shows us how to handle non-frozen enums in Switch statements.</description>
+    </item>
+    
     <item>
       <title>Codable synthesis for enums with associated values</title>
       <link>https://github.com/apple/swift-evolution/blob/main/proposals/0295-codable-synthesis-for-enums-with-associated-values.md</link>
