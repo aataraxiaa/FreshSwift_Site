@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/collection/</link>
     <description>Recent content in collection on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/collection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Sourcing Identified Collections</title>
+      <link>https://www.pointfree.co/blog/posts/60-open-sourcing-identified-collections</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>Most applications involve working with collections of data in some form, and it&#39;s common to model such data as a standard Array. However, as applications grow more complex, the limitations of Arrays might start to cause problems. Thankfully, this open-source library, created by the Point Free team, can help. It provides a new type called IdentifiedArray for working with collections of identifiable elements in a performant way.</description>
+    </item>
+    
     <item>
       <title>How OrderedSet works</title>
       <link>https://oleb.net/2021/ordered-set/</link>

@@ -5,7 +5,31 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>array</title>
+      <link></link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>collection</title>
+      <link></link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link></link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
     <item>
       <title>enums</title>
       <link></link>
@@ -279,14 +303,6 @@
     </item>
     
     <item>
-      <title>collection</title>
-      <link></link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
       <title>set</title>
       <link></link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
@@ -304,14 +320,6 @@
     
     <item>
       <title>codable</title>
-      <link></link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
       <link></link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
@@ -914,14 +922,6 @@
       <title>state</title>
       <link></link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>array</title>
-      <link></link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>
