@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/open-source/</link>
     <description>Recent content in open-source on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Sourcing: Custom Dump</title>
+      <link>https://www.pointfree.co/blog/posts/62-open-sourcing-custom-dump</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>Debugging relies upon the ability to dump (print, log, etc.) data structures into human-readable strings. Swift provides a built-in tool for this called dump. However, its usability is limited due to the format of the output. To address this, the Point Free team has released this open-source library which provides a set of tools to aid debugging.</description>
+    </item>
+    
     <item>
       <title>Open Sourcing Identified Collections</title>
       <link>https://www.pointfree.co/blog/posts/60-open-sourcing-identified-collections</link>

@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/ios15/</link>
     <description>Recent content in ios15 on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ios15/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/ios15/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My favorite new Swift API from iOS 15</title>
+      <link>https://www.hackingwithswift.com/articles/241/how-to-fetch-remote-data-the-easy-way-with-url-lines</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>In this post, Paul Hudson from Hacking With Swift shares his favorite new Swift API from iOS 15. This new API looks deceptively simple, but internally it&#39;s built on effectful read-only properties and AsyncSequence, both of which are powerful new language features.</description>
+    </item>
+    
     <item>
       <title>iOS 15: Notable UIKit Additions</title>
       <link>https://www.swiftjectivec.com/ios-15-notable-uikit-additions/</link>

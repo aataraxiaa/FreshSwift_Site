@@ -7,11 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Add an option to build the concurrency library for back deployment</title>
       <link>https://github.com/apple/swift/pull/39051</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
-      <description></description>
+      <description>Implemented by Doug Gregor, a member of the Swift team at Apple, this unexpected pull request adds an option to build the new Swift Concurrency libraries for older versions of macOS/iOS. These libraries can then be embedded in targets deployed before macOS 12/iOS 15 to support the new concurrency features. I&#39;m still not sure if this makes the new concurrency features fully available when working with older OS versions, but this is something to watch.</description>
+    </item>
+    
+    <item>
+      <title>My favorite new Swift API from iOS 15</title>
+      <link>https://www.hackingwithswift.com/articles/241/how-to-fetch-remote-data-the-easy-way-with-url-lines</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>In this post, Paul Hudson from Hacking With Swift shares his favorite new Swift API from iOS 15. This new API looks deceptively simple, but internally it&#39;s built on effectful read-only properties and AsyncSequence, both of which are powerful new language features.</description>
     </item>
     
     <item>

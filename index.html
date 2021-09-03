@@ -209,7 +209,11 @@ if (!doNotTrack) {
           
             <article class="post-preview">
     <a href="https://github.com/apple/swift/pull/39051">
-        <h2 class="post-title"></h2>
+        <h2 class="post-title">Add an option to build the concurrency library for back deployment</h2>
+        
+        <h3 class="post-subtitle">
+            Implemented by Doug Gregor, a member of the Swift team at Apple, this unexpected pull request adds an option to build the new Swift Concurrency libraries for older versions of macOS/iOS. These libraries can then be embedded in targets deployed before macOS 12/iOS 15 to support the new concurrency features. I&#39;m still not sure if this makes the new concurrency features fully available when working with older OS versions, but this is something to watch.
+        </h3>
         
         
         
@@ -245,6 +249,104 @@ if (!doNotTrack) {
         <a href="https://freshswift.net/tags/concurrency/">concurrency</a>&nbsp;
         
         <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
+          
+            <article class="post-preview">
+    <a href="https://www.hackingwithswift.com/articles/241/how-to-fetch-remote-data-the-easy-way-with-url-lines">
+        <h2 class="post-title">My favorite new Swift API from iOS 15</h2>
+        
+        <h3 class="post-subtitle">
+            In this post, Paul Hudson from Hacking With Swift shares his favorite new Swift API from iOS 15. This new API looks deceptively simple, but internally it&#39;s built on effectful read-only properties and AsyncSequence, both of which are powerful new language features.
+        </h3>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on September 3, 2021
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
+    
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://freshswift.net/tags/concurrency/">concurrency</a>&nbsp;
+        
+        <a href="https://freshswift.net/tags/ios15/">ios15</a>&nbsp;
+        
+        <a href="https://freshswift.net/tags/wwdc21/">wwdc21</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
+          
+            <article class="post-preview">
+    <a href="https://www.pointfree.co/blog/posts/62-open-sourcing-custom-dump">
+        <h2 class="post-title">Open Sourcing: Custom Dump</h2>
+        
+        <h3 class="post-subtitle">
+            Debugging relies upon the ability to dump (print, log, etc.) data structures into human-readable strings. Swift provides a built-in tool for this called dump. However, its usability is limited due to the format of the output. To address this, the Point Free team has released this open-source library which provides a set of tools to aid debugging.
+        </h3>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on September 3, 2021
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
+    
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://freshswift.net/tags/open-source/">open-source</a>&nbsp;
         
     </div>
     
@@ -594,102 +696,6 @@ if (!doNotTrack) {
         <a href="https://freshswift.net/tags/concurrency/">concurrency</a>&nbsp;
         
         <a href="https://freshswift.net/tags/swift-5-5/">swift-5-5</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://aymanmoo.medium.com/copy-on-assignment-vs-copy-on-write-in-swift-c3016b343d06">
-        <h2 class="post-title">Copy-On-Assignment vs. Copy-On-Write in Swift</h2>
-        
-        <h3 class="post-subtitle">
-            Copy-on-write is a resource-management technique used to efficiently copy data, such as a Swift struct. It involves delaying the copy operation of the data until it&#39;s needed, usually when some part of the data is modified. In this post, Ayman Fayez shows us how to implement copy-on-write for a Swift struct which has a reference type as a property.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 29, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/memory/">memory</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/copy-on-write/">copy on write</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://www.avanderlee.com/swift/dependency-injection/">
-        <h2 class="post-title">Dependency Injection in Swift using latest Swift features</h2>
-        
-        <h3 class="post-subtitle">
-            Dependency injection is a commonly-used technique to enable simplified testing and code reuse. In this post, Antoine Van Der Lee shows us how to avoid using third-party dependency injection libraries, providing his implementation of dependency injection for Swift types using static subscripts, extensions, and property wrappers.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 28, 2021
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/dependency-injection/">dependency injection</a>&nbsp;
         
     </div>
     
