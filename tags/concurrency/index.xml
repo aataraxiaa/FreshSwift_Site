@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/concurrency/</link>
     <description>Recent content in concurrency on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://github.com/apple/swift/pull/39051</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description></description>
+    </item>
+    
     <item>
       <title>Throwing and asynchronous Swift properties</title>
       <link>https://www.swiftbysundell.com/articles/throwing-async-properties/</link>
