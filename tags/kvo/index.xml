@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/kvo/</link>
     <description>Recent content in kvo on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Jul 2017 10:14:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/kvo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/kvo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Different ways to observe properties in Swift</title>
+      <link>https://www.jessesquires.com/blog/2021/08/08/different-ways-to-observe-properties-in-swift/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>Many programming techniques involve observing and reacting to changes in state. In Swift, we use properties to represent the state of our types. In this post, Jesse Squires provides an overview of how we can observe changes to such properties and explains why he decided not to include a mechanism for observing state in his open-source library, Foil.</description>
+    </item>
+    
     <item>
       <title>Struct References</title>
       <link>http://chris.eidhof.nl/post/references/</link>
