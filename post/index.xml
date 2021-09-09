@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Conditional View Modifiers are a Bad Idea</title>
+      <link>https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>When applied to a SwiftUI View, a ViewModifier produces a different version of the original value. To address the need to apply a modifier to a View only when a condition holds true, many developers implement some version of a conditional view modifier. In this post, Chris Eidhof explains why doing so is not a good idea.</description>
+    </item>
+    
     <item>
       <title>Different ways to observe properties in Swift</title>
       <link>https://www.jessesquires.com/blog/2021/08/08/different-ways-to-observe-properties-in-swift/</link>

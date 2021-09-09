@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>swiftui</title>
+      <link></link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
     <item>
       <title>combine</title>
       <link></link>
@@ -136,14 +144,6 @@
     
     <item>
       <title>router</title>
-      <link></link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>swiftui</title>
       <link></link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
