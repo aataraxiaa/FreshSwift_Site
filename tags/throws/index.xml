@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/throws/</link>
     <description>Recent content in throws on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2017 03:51:23 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/throws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/throws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pitching Optional Throws in Swift</title>
+      <link>https://forums.swift.org/t/pitching-optional-throws-in-swift/51650</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift provides support for throwing, catching, and propagating errors at runtime. When a function throws, callers are required to handle any possible errors. This Swift evolution pitch from Michael Verges proposes optional throws, allowing callers of throwing functions to choose whether or not they want to handle possible errors. Very interesting.</description>
+    </item>
+    
     <item>
       <title>Moving Safety into Types</title>
       <link>http://www.figure.ink/blog/2017/10/15/moving-safety-into-types</link>

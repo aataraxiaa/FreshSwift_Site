@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>evolution - Fresh Swift</title><script type="application/ld+json">
+  <title>Pitching Optional Throws in Swift - Fresh Swift</title>
+  <meta name="description" content="Swift provides support for throwing, catching, and propagating errors at runtime. When a function throws, callers are required to handle any possible errors. This Swift evolution pitch from Michael Verges proposes optional throws, allowing callers of throwing functions to choose whether or not they want to handle possible errors. Very interesting."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -27,14 +28,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/freshswift.net",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/freshswift.net\/post\/10-09-21-124156\/",
+          "name": "Pitching optional throws in swift"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Pitching Optional Throws in Swift",
+  "description" : "",
+  "inLanguage" : "en",
+  "wordCount":  0 ,
+  "datePublished" : "2021-09-10T00:00:00",
+  "dateModified" : "2021-09-10T00:00:00",
+  "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+  "keywords" : [ "evolution, throws" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/10-09-21-124156\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/freshswift.net",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="evolution" />
+<meta property="og:title" content="Pitching Optional Throws in Swift" />
+<meta property="og:description" content="Swift provides support for throwing, catching, and propagating errors at runtime. When a function throws, callers are required to handle any possible errors. This Swift evolution pitch from Michael Verges proposes optional throws, allowing callers of throwing functions to choose whether or not they want to handle possible errors. Very interesting.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/tags/evolution/" />
+<meta property="og:url" content="https://freshswift.net/post/10-09-21-124156/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="evolution" />
+  <meta name="twitter:title" content="Pitching Optional Throws in Swift" />
+  <meta name="twitter:description" content="Swift provides support for throwing, catching, and propagating errors at runtime. When a function throws, callers are required to handle any possible errors. This Swift evolution pitch from Michael …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -177,14 +228,33 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="post-heading">
               
-                <h1>evolution</h1>
-              
-              
-                <hr class="small">
+                <h1>Pitching Optional Throws in Swift</h1>
               
               
+              
+                
+                  <h2 class="post-subheading">Swift provides support for throwing, catching, and propagating errors at runtime. When a function throws, callers are required to handle any possible errors. This Swift evolution pitch from Michael Verges proposes optional throws, allowing callers of throwing functions to choose whether or not they want to handle possible errors. Very interesting.</h2>
+                
+              
+              
+                <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on September 10, 2021
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
+    
+  
+  
+</span>
+
+
               
             </div>
           </div>
@@ -195,312 +265,47 @@ if (!doNotTrack) {
 
 
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
         
-        <div class="posts-list">
-          
-            <article class="post-preview">
-    <a href="https://gist.github.com/erica/423e4b1c63b95c4c90338cdff4939a9b">
-        <h2 class="post-title">Introducing the !! operator to the Swift Standard Library</h2>
-        
-        <h3 class="post-subtitle">
-            I really like this draft Swift evolution proposal from Erica Sadun. It proposes an annotated forced unwrapping operator, !!, which attempts to forcefully unwrap an optional. If the forced unwrapping fails, it then documents the failure using the String specified at the callsite. Internally, the operator uses fatalError to document the specified message. I would love to see this make it in to the language.
-        </h3>
-        
-        
-        
-    </a>
 
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 1, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
         
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20170605/004751.html">
-        <h2 class="post-title">Swift phases and mis-timed proposals</h2>
-        
-        <h3 class="post-subtitle">
-            The Swift evolution mailing list has been invaluable in providing a place when the wider Swift community can discuss Swift and it’s evolution proposals. However, ideas which don’t fit in to the scope of the upcoming Swift release can sometimes get lost. Here, as part of a thread discussing this, Ted Kremenek offers his opinion.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 16, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/discussion/">discussion</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://carpeaqua.com/2017/06/02/swifts-evolution/">
-        <h2 class="post-title">Swift’s Evolution</h2>
-        
-        <h3 class="post-subtitle">
-            Interest post from Justin Williams in which he shares his thoughts on the evolution of Swift. Justin takes a rather dim view of how Swift is evolving, but he does raise some valid points. It can be frustrating to adopt a language and then see changes being made to it which we don’t agree with. However, I think in general, the core Swift team and the community do a pretty good job of deciding what should be addressed in each Swift release.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on June 11, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md">
-        <h2 class="post-title">SE-0165: Dictionary &amp; Set Enhancements</h2>
-        
-        <h3 class="post-subtitle">
-            Great to see this Swift proposal accepted, as it comprises  a variety of useful improvements to the standard Dictionary type, as well as corresponding changes to Set. I really like the key-based subscript with default value addition.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on April 30, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://itunes.apple.com/ie/app/evolution-app/id1210898168?mt=8">
-        <h2 class="post-title">Swift Evolution iOS app</h2>
-        
-        <h3 class="post-subtitle">
-            Thiago Holanda has released Evolution, a useful mobile app to follow Swift Evolution on your iOS device. It contains all the features you need to keep up to date like filtering of proposals, and information on the authors and reviewers.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on April 24, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/app/">app</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://github.com/apple/swift-evolution/blob/master/proposals/0169-improve-interaction-between-private-declarations-and-extensions.md">
-        <h2 class="post-title">SE-1069: Improve interactions between private declarations and extensions</h2>
-        
-        <h3 class="post-subtitle">
-            I&#39;m very happy to see this Swift evolution proposal accepted. The private access modifier in Swift 4 will have a slightly wider scope, and become more usable. With this, extensions to a type declared within the same file will have access to private members. It&#39;s a change which further supports the idea that type extensions should be used as  a code-organization tool.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on April 23, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-        </div>
-        
-          <ul class="pager main-pager">
+          <div class="blog-tags">
             
-              <li class="previous">
-                <a href="https://freshswift.net/tags/evolution/page/6/">&larr; Newer Posts</a>
-              </li>
+              <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
             
+              <a href="https://freshswift.net/tags/throws/">throws</a>&nbsp;
             
-          </ul>
+          </div>
         
-      </div>
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://freshswift.net/post/09-09-21-111409/" data-toggle="tooltip" data-placement="top" title="Why Conditional View Modifiers are a Bad Idea">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+      
+
     </div>
   </div>
+</div>
 
       
 <footer>
@@ -519,7 +324,7 @@ if (!doNotTrack) {
               </li>
           
           <li>
-            <a href="/tags/evolution/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>

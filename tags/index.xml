@@ -5,7 +5,23 @@
     <link>https://freshswift.net/tags/</link>
     <description>Recent content in Tags on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>evolution</title>
+      <link></link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
+    <item>
+      <title>throws</title>
+      <link></link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>&lt;no value&gt;</description>
+    </item>
+    
     <item>
       <title>swiftui</title>
       <link></link>
@@ -40,14 +56,6 @@
     
     <item>
       <title>concurrency</title>
-      <link></link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>evolution</title>
       <link></link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -1978,14 +1986,6 @@
       <title>Kitura</title>
       <link></link>
       <pubDate>Fri, 03 Nov 2017 04:02:47 +0000</pubDate>
-      
-      <description>&lt;no value&gt;</description>
-    </item>
-    
-    <item>
-      <title>throws</title>
-      <link></link>
-      <pubDate>Wed, 01 Nov 2017 03:51:23 +0000</pubDate>
       
       <description>&lt;no value&gt;</description>
     </item>
