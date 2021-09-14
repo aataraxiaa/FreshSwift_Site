@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Command Pattern in real-life</title>
+      <link>https://michaelabadi.com/articles/command-pattern-swift/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>The Command design pattern turns a request into a stand-alone object that contains all information about the request. In this short post, Michael Abadi Santoso shows us how he used the command pattern to provide an abstract implementation of analytics tracking in an app.</description>
+    </item>
+    
     <item>
       <title>Pitching Optional Throws in Swift</title>
       <link>https://forums.swift.org/t/pitching-optional-throws-in-swift/51650</link>
