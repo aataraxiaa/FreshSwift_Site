@@ -5,7 +5,15 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The difference between Thread.sleep() and Task.sleep()</title>
+      <link>https://trycombine.com/posts/thread-task-sleep/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description>Swift 5.5 introduces tasks, which represent a unit of work that can be run asynchronously. In this post, Marin Todorov compares Thread.sleep() and Task.sleep(), using this comparison to help explain some of the benefits of Swift&#39;s new concurrency model.</description>
+    </item>
+    
     <item>
       <title>Command Pattern in real-life</title>
       <link>https://michaelabadi.com/articles/command-pattern-swift/</link>
