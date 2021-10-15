@@ -5,7 +5,15 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Value integrity in Swift</title>
+      <link>https://jobandtalent.engineering/value-integrity-in-swift-c5bf2b3f8340</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description>In the context of programming, integrity means making sure that a piece of data follows the correct business rules. In this excellent post, Luis Recuenco analyzes different alternatives to ensuring value integrity in Swift. Luis first examines how Swift&#39;s type system can help ensure integrity, before looking at language features such as property wrappers.</description>
+    </item>
+    
     <item>
       <title>Performance: Actor vs queue vs lock</title>
       <link>https://trycombine.com/posts/performance-actor-queue-lock-benchmark/</link>

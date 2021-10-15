@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>value-integrity on Fresh Swift</title>
+    <link>https://freshswift.net/tags/value-integrity/</link>
+    <description>Recent content in value-integrity on Fresh Swift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/value-integrity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Value integrity in Swift</title>
+      <link>https://jobandtalent.engineering/value-integrity-in-swift-c5bf2b3f8340</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description>In the context of programming, integrity means making sure that a piece of data follows the correct business rules. In this excellent post, Luis Recuenco analyzes different alternatives to ensuring value integrity in Swift. Luis first examines how Swift&#39;s type system can help ensure integrity, before looking at language features such as property wrappers.</description>
+    </item>
+    
+  </channel>
+</rss>
