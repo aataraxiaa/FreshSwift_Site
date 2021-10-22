@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>keypath - Fresh Swift</title><script type="application/ld+json">
+  <title>What is a KeyPath in Swift - Fresh Swift</title>
+  <meta name="description" content="Key-Path expressions in Swift allow us to dynamically access type properties. In this post, Sarun Wongpatcharapakorn describes the various KeyPath types available, explains their usage, and provides examples of their use."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -27,14 +28,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/freshswift.net",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/freshswift.net\/post\/22-10-21-120615\/",
+          "name": "What is a key path in swift"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "What is a KeyPath in Swift",
+  "description" : "",
+  "inLanguage" : "en",
+  "wordCount":  0 ,
+  "datePublished" : "2021-10-22T00:00:00",
+  "dateModified" : "2021-10-22T00:00:00",
+  "image" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+  "keywords" : [ "keypath" ],
+  "mainEntityOfPage" : "https:\/\/freshswift.net\/post\/22-10-21-120615\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/freshswift.net",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/freshswift.net\/img\/Icon-512@2x.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="keypath" />
+<meta property="og:title" content="What is a KeyPath in Swift" />
+<meta property="og:description" content="Key-Path expressions in Swift allow us to dynamically access type properties. In this post, Sarun Wongpatcharapakorn describes the various KeyPath types available, explains their usage, and provides examples of their use.">
 <meta property="og:image" content="https://freshswift.net/img/Icon-512@2x.png" />
-<meta property="og:url" content="https://freshswift.net/tags/keypath/" />
+<meta property="og:url" content="https://freshswift.net/post/22-10-21-120615/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Fresh Swift" />
 
-  <meta name="twitter:title" content="keypath" />
+  <meta name="twitter:title" content="What is a KeyPath in Swift" />
+  <meta name="twitter:description" content="Key-Path expressions in Swift allow us to dynamically access type properties. In this post, Sarun Wongpatcharapakorn describes the various KeyPath types available, explains their usage, and provides …">
   <meta name="twitter:image" content="https://freshswift.net/img/Icon-512@2x.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@fresh_swift" />
@@ -177,44 +228,18 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="post-heading">
               
-                <h1>keypath</h1>
-              
-              
-                <hr class="small">
+                <h1>What is a KeyPath in Swift</h1>
               
               
               
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-
-    
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        
-        <div class="posts-list">
-          
-            <article class="post-preview">
-    <a href="https://sarunw.com/posts/what-is-keypath-in-swift/">
-        <h2 class="post-title">What is a KeyPath in Swift</h2>
-        
-        <h3 class="post-subtitle">
-            Key-Path expressions in Swift allow us to dynamically access type properties. In this post, Sarun Wongpatcharapakorn describes the various KeyPath types available, explains their usage, and provides examples of their use.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
+                
+                  <h2 class="post-subheading">Key-Path expressions in Swift allow us to dynamically access type properties. In this post, Sarun Wongpatcharapakorn describes the various KeyPath types available, explains their usage, and provides examples of their use.</h2>
+                
+              
+              
+                <span class="post-meta">
   
   
   <i class="fas fa-calendar"></i>&nbsp;Posted on October 22, 2021
@@ -230,323 +255,55 @@ if (!doNotTrack) {
 </span>
 
 
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/keypath/">keypath</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://www.47deg.com/blog/keypaths-optics/">
-        <h2 class="post-title">Swift KeyPaths under a different optic</h2>
-        
-        <h3 class="post-subtitle">
-            Bow is a library for typed functional programming in Swift. The optics module in Bow provides several utilities to work with immutable data structures. In this post, Tomás Ruiz López compares Swift KeyPaths to features available in the Bow optics module.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on November 2, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/keypath/">keypath</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://forums.swift.org/t/introduce-anonymouskeypath/38080">
-        <h2 class="post-title">Introduce AnonymousKeyPath</h2>
-        
-        <h3 class="post-subtitle">
-            In this evolution pitch from the Swift forums, Shai Mishali suggests the introduction of a new kind of KeyPath - AnonymousKeyPath. The idea here is that the key path can be used without knowing the Root of the KeyPath, but rather only the Value constrained to it. Although it&#39;s an interesting suggestion, the discussion that follows the pitch indicates that the problem it solves can be solved in other, more effective ways.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 9, 2020
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/evolution/">evolution</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/keypath/">keypath</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://www.swiftbysundell.com/posts/the-power-of-key-paths-in-swift">
-        <h2 class="post-title">The power of key paths in Swift</h2>
-        
-        <h3 class="post-subtitle">
-            In this entry of his regular series on Swift, John Sundell demonstrates the power of Swift key paths, a dynamic feature introduced with Swift 4. I particularly like the section on converting key paths to functions, allowing them to be used in place of completion closures.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on November 4, 2018
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/keypath/">keypath</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/dynamic/">dynamic</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://www.hackingwithswift.com/articles/57/how-swift-keypaths-let-us-write-more-natural-code">
-        <h2 class="post-title">How Swift keypaths let us write more natural code</h2>
-        
-        <h3 class="post-subtitle">
-            Paul Hudson demonstrates how we can use Swift 4’s key-path expressions to write more natural Swift code, without constraining the types we create.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on March 20, 2018
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/keypath/">keypath</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="https://talk.objc.io/episodes/S01E75-auto-layout-with-key-paths">
-        <h2 class="post-title">Auto Layout with Key Paths</h2>
-        
-        <h3 class="post-subtitle">
-            In episode 75 of their Swift Talk series, the guys from objc.io show us how we can clean up our layout code by introducing helper functions based on Swift key paths. This is a really cool usage of key paths, and I can definitely see myself adopting this approach.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on November 13, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/keypath/">keypath</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/autolayout/">autolayout</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="http://chris.eidhof.nl/post/references/">
-        <h2 class="post-title">Struct References</h2>
-        
-        <h3 class="post-subtitle">
-            Great article from Chris Eidhof in which he looks to combine the usage of references types and value types to get the best of both worlds. He uses new Swift 4 features such as keypaths and generic subscripts together with existing Swift features to create types which are mutable and observable, while also having underlying value type data.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on July 22, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/kvo/">KVO</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/keypath/">keypath</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/generics/">generics</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/swift-4/">swift-4</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
+              
+            </div>
+          </div>
         </div>
-        
       </div>
     </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://freshswift.net/tags/keypath/">keypath</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://freshswift.net/post/15-10-21-142314/" data-toggle="tooltip" data-placement="top" title="Value integrity in Swift">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+      
+
+    </div>
   </div>
+</div>
 
       
 <footer>
@@ -565,7 +322,7 @@ if (!doNotTrack) {
               </li>
           
           <li>
-            <a href="/tags/keypath/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>

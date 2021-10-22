@@ -5,7 +5,15 @@
     <link>https://freshswift.net/</link>
     <description>Recent content on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a KeyPath in Swift</title>
+      <link>https://sarunw.com/posts/what-is-keypath-in-swift/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description>Key-Path expressions in Swift allow us to dynamically access type properties. In this post, Sarun Wongpatcharapakorn describes the various KeyPath types available, explains their usage, and provides examples of their use.</description>
+    </item>
+    
     <item>
       <title>Value integrity in Swift</title>
       <link>https://jobandtalent.engineering/value-integrity-in-swift-c5bf2b3f8340</link>
