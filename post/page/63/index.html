@@ -187,7 +187,7 @@ if (!doNotTrack) {
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on October 22, 2021
+  <i class="fas fa-calendar"></i>&nbsp;Posted on October 26, 2021
   
   
   
@@ -215,6 +215,55 @@ if (!doNotTrack) {
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
         <div class="posts-list">
+          
+            <article class="post-preview">
+    <a href="https://marcosantadev.com/copy-write-swift-value-types/">
+        <h2 class="post-title">Use Copy-On-Write With Swift Value Types</h2>
+        
+        <h3 class="post-subtitle">
+            Value types are a great feature of Swift, allowing us to more easily reason about the safety of our code. When a value type is passed around our code, it is copied, meaning we can trust that no other part of our code is changing it. However, this comes with one possible drawback. Passing a large value type, such as an Array with thousands of elements, might result in unnecessary copying if the Array is not mutated after it is copied. This is where copy-on-write comes in. As explained in this post by Marco Santarossa, value types which implement copy-on-write are only copied when they need to be, i.e when they are mutated. It&#39;s a nice optimisation and something we can add to our own custom value types when needed.
+        </h3>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on June 7, 2017
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
+    
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://freshswift.net/tags/valuetype/">valuetype</a>&nbsp;
+        
+        <a href="https://freshswift.net/tags/copy-on-write/">copy on write</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
           
             <article class="post-preview">
     <a href="https://blog.curtisherbert.com/to-optional-or-not-to-optional-iboutlet/">
@@ -642,55 +691,6 @@ if (!doNotTrack) {
         <a href="https://freshswift.net/tags/compiler/">compiler</a>&nbsp;
         
         <a href="https://freshswift.net/tags/swift-4/">swift-4</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-    <a href="http://ericasadun.com/2017/05/23/5-easy-dispatch-tricks/">
-        <h2 class="post-title">Swift Dispatch - 5 Easy Tricks</h2>
-        
-        <h3 class="post-subtitle">
-            Swift Dispatch enables us to easily execute code concurrently on multicore systems. Using DispatchTime, which represents a point in time relative to the default clock time, we can schedule our concurrent tasks to happen at some point in the future. In this post, Erica Sadun looks at Dispatch and shows us five easy ways we can improve our Dispatch experience.
-        </h3>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on May 26, 2017
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://freshswift.net/tags/dispatch/">dispatch</a>&nbsp;
-        
-        <a href="https://freshswift.net/tags/queue/">queue</a>&nbsp;
         
     </div>
     

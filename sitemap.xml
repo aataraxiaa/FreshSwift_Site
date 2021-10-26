@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/tags/asynchronous/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://freshswift.net/tags/keypath/</loc>
-    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <loc>https://freshswift.net/post/26-10-21-121609/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/keypath/</loc>
     <lastmod>2021-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/22-10-21-120615/</loc>
@@ -529,9 +535,6 @@
   </url><url>
     <loc>https://freshswift.net/post/18-11-20-073712/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/asynchronous/</loc>
-    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/16-11-20-083559/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>

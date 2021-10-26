@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download Progress With Awaited Network Tasks</title>
+      <link>https://khanlou.com/2021/10/download-progress-with-awaited-network-tasks/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description>Available in iOS 15, URLSession&#39;s bytes(from:delegate:) method retrieves the contents of a given URL and delivers an asynchronous sequence of bytes. In this post, Soroush Khanlou guides how to best use this flexible new API, demonstrating how it can be used to implement download progress feedback.</description>
+    </item>
+    
     <item>
       <title>What is a KeyPath in Swift</title>
       <link>https://sarunw.com/posts/what-is-keypath-in-swift/</link>
