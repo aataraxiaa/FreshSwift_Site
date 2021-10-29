@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freshswift.net/tags/architecture/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/29-10-21-105322/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/post/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://freshswift.net/tags/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://freshswift.net/tags/asynchronous/</loc>
     <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/26-10-21-121609/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/post/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/</loc>
     <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/tags/keypath/</loc>
@@ -1075,9 +1081,6 @@
   </url><url>
     <loc>https://freshswift.net/post/02-07-20-075233/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://freshswift.net/tags/architecture/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://freshswift.net/post/01-07-20-073948/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>

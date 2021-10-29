@@ -5,7 +5,15 @@
     <link>https://freshswift.net/post/</link>
     <description>Recent content in Posts on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS Architecture at Lyft</title>
+      <link>https://scottberrevoets.com/2021/10/14/ios-architecture-at-lyft/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description>This is a great post from Scott Berrevoets in which he describes the evolution of iOS app architecture at Lyft. Scott first describes the problems with the original app architecture and then details how concepts such as dependency injection and plugins addressed these problems. Swift code samples included.</description>
+    </item>
+    
     <item>
       <title>Download Progress With Awaited Network Tasks</title>
       <link>https://khanlou.com/2021/10/download-progress-with-awaited-network-tasks/</link>

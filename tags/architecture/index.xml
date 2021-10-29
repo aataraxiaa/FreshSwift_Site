@@ -5,7 +5,15 @@
     <link>https://freshswift.net/tags/architecture/</link>
     <description>Recent content in architecture on Fresh Swift</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freshswift.net/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS Architecture at Lyft</title>
+      <link>https://scottberrevoets.com/2021/10/14/ios-architecture-at-lyft/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description>This is a great post from Scott Berrevoets in which he describes the evolution of iOS app architecture at Lyft. Scott first describes the problems with the original app architecture and then details how concepts such as dependency injection and plugins addressed these problems. Swift code samples included.</description>
+    </item>
+    
     <item>
       <title>SwiftUI: Double-Edged Sword</title>
       <link>https://mohsen.dev/2020/06/21/swiftui-double-edged-sword.html</link>
